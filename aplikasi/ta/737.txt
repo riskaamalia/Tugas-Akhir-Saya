@@ -1,0 +1,482 @@
+  
+J. Math. Fund. Sci., Vol. 45, No. 1, 2013, 93-103                     93 
+ 
+Received November 28th, 2012, Revised February 14th, 2013, Accepted for publication March 20th, 2013. 
+Copyright ? 2013 Published by ITB Journal Publisher, ISSN: 2337-5760, DOI: 10.5614/j.math.fund.sci.2013.45.1.8 
+Development of an Inversion Method                                   
+for Low Velocity Medium 
+Afnimar, Andri Dian Nugraha
+ 
+& Ahmad Syahputra 
+Faculty of Mining and Petroleum Engineering, Bandung Institute of Technology, 
+Jalan Ganesa 10, Bandung 40132, Indonesia 
+Email: afnimar.1987@gmail.com 
+ 
+ 
+Abstract. The main problem with the inversion of a low velocity medium is the 
+application of an appropriate ray tracing method after choosing a suitable model 
+parameterization. Block parameterization is not suitable, because it is not 
+capable of representing the velocity model well. A large amount of blocks with a 
+small grid size are needed to express the model well, but in that case, a ray 
+coverage problem will be encountered. A knot-point parameterization model is 
+better suited than a block model, because it can express the velocity model well, 
+while the number of variables is much smaller. Ray calculation using the pseudo-
+bending method is not appropriate for the velocity model because of an 
+instability problem at high velocity gradients. The crucial problem of this 
+method involves the initial ray-path that is optimized in order to obtain the ÅgtrueÅh 
+ray, but does not satisfy the Fermat principle. These problems can be solved by 
+applying the eikonal-solver method, because this can handle high-velocity 
+gradients and does not need an initial ray path. Using a suitable model 
+parameterization and appropriate ray tracing method, the inversion can obtain 
+good results that fit the desired output. Applying a block model and the pseudo-
+bending method will not produce the desired output. 
+Keywords: Eikonal-solver method; Fermat principle; knot-point parameterization; low 
+velocity structure; pseudo-bending method.  
+1 Introduction 
+Many current inversion techniques use seismic wave arrival time data to 
+estimate subsurface structures [1-3]. This is preceded by an effective model 
+parameterization and followed by the selection of an appropriate method of 
+theoretical ray calculation acting as a forward modeling. After that, a system of 
+equations in the form of a matrix can be formed and its inversion can be 
+calculated by various methods. 
+When model Parameterization is performed to describe a subsurface structure, 
+the chosen number of parameters should not be too high, so as to get a kernel 
+matrix that is not too large and doesnÅft contain too many zero-value matrix 
+components. Until now, parameterizations usually are carried using a block 
+model, but a large number of blocks are needed to describe the geological 
+94 Afnimar, Andri Dian Nugraha & Ahmad Syhaputra 
+structure well. Therefore, an alternative method to parameterize the model is 
+needed. In this study, model parameterization will be conducted using a knot 
+point model as well as a block model. So far, the knot point model has been 
+applied by few seismologists [4]. Both methods of parameterization will be 
+applied to the same subsurface structure, selected according to the criteria 
+mentioned above. Miyazawa and Kato [5] noted that using the velocity and 
+slowness at knot points will produce different tomography result, unless a 
+carefully formulated tomographic problem is applied. We will apply slowness 
+parameterization because in the way we will get the linear form of the kernel 
+function.  
+The next step is the selection of a ray tracing method suitable for the selected 
+model parameterization. Application of the pseudo-bending method ([6]) is very 
+popular because of its efficiency. However, this method has the disadvantage 
+that it needs an initial value (initial trajectory). This will lead to inaccuracies in 
+the calculation of the ÅgrealÅh trajectory as well as its traveltime, especially in low 
+velocity zones. In addition, there is an instability problem in the ray calculation 
+in case of high-velocity gradient structures. In this study, we have analyzed the 
+problems of the pseudo-bending method and have found another ray tracing 
+method, which does generate an accurate calculation. This method is called the 
+eikonal-solver method ([7]), where an initial value (initial trajectory) is not 
+required and the problems with high velocity gradients can be overcome. The 
+selection criterion for choosing the appropriate method is that is has to satisfy 
+the Fermat principle, according to which the rays should avoid low-velocity 
+zones. 
+The last step is the formulation of the inversion formula using a gradient 
+inversion method. The inversion method that we have developed can be applied 
+to a highly heterogeneous medium, especially in cases where volcanic seismic 
+low-velocity anomalies exist in weak zones and zones of high fluid content. We 
+have compared the method with the inversion method that is most commonly 
+employed and that uses a block model and pseudo bending method. In this 
+article, the superiority of our method will be demonstrated. 
+This method has not yet been applied to real data because of the unavailability 
+of 2D field data. In the near future, the method will be further developed for 3D 
+cases and applied to data of some volcanoes in Indonesia. 
+Development of an Inversion Method for Low Velocity Medium 95 
+ 
+2 The Method 
+2.1 Model Parameterization 
+Model parameterization or definition of estimated variables, preceding the 
+inversion process is an essential first step, because if this is not done 
+appropriately, the results will not properly describe the subsurface. In other 
+words, the inversion result must satisfy the physical and geological principles. 
+In the case of parameterization for a subsurface structure, previous geological 
+and geophysical studies provide important preliminary data. From these data, 
+we do not necessarily need to create a block model; a 1D model or a boundary 
+layer model may be is enough. However, in the case of something like a 
+volcanic structure, a block model or knot-point model is more suitable, because 
+of its heterogeneity, which makes the layers of the structure difficult to define. 
+In the block model, the constant velocity or slowness is defined for each block, 
+while in the knot-point model, the velocity or slowness is defined at knot point. 
+In this study, slowness at a point ? ?zxs ,  in the knot-point model is defined as a 
+linear interpolation ([2]) from four knot points around that point, which can be 
+formulated as 
+ ? ? ??
+?
+?
+?
+? ?
+?
+?
+?
+?
+1 1
+,,
+i
+in
+k
+km
+mn
+mn
+z
+zz
+x
+xx
+Szxs , (1)  
+where kiS ,  is the slowness at point ? ?ki zx , .  
+2.2 Pseudo-Bending Method 
+This method was developed by Um and Thurber [6], based on the ray path that 
+is represented by a linear interpolation from a number of points. This method 
+requires an initial trajectory. The initial value is optimized to obtain the final 
+trajectory that satisfies the ray equation. This can be done by determining the 
+normal direction of the initial ray trajectories followed by the application of the 
+Fermat principle. 
+Um and Thurber proposed a three-point scheme that is successively renewed 
+satisfying the Fermat principle along the ray. Figure 1 shows three points 
+1?ir
+? , 
+ir
+?  
+and 
+1?ir
+? , as well as the initial-guess point old
+ir
+?
+. The pseudo-bending method will 
+update the initial-guess point to estimate new
+ir
+?
+. This estimation is obtained by 
+considering the perturbation 
+midr
+?
+ 
+which is the midpoint between 
+1?ir
+?
+ 
+and 
+1?ir
+? . 
+The vector n
+?
+ that expresses the bending direction is calculated by the formula 
+96 Afnimar, Andri Dian Nugraha & Ahmad Syhaputra 
+ 
+? ?
+? ? tt
+tt
+mmvv
+mmvv
+n ??
+??
+?
+????
+????
+?
+,
+ (2) 
+where 
+ 
+11
+11
+??
+??
+?
+?
+?
+ii
+ii
+t
+rr
+rr
+m ??
+??
+?
+. (3) 
+The distance R along n
+?
+ is obtained by minimization or application of the 
+Fermat principle on the traveltime equation. 
+ 
+Figure 1 Illustration of the three-point perturbation scheme in the pseudo-
+bending method. 
+2.3 Eikonal-Solver Method 
+Vidale [8,9] proposed a finite difference approximation to the 2D and 3D 
+eikonal equations. Of course, this finite difference scheme is applied to the 
+gridded subsurface structure model. Vidale formulation is not accurate for the 
+case of a heterogeneous structure because it can cause multipathing effects from 
+other waves such as a head wave. Afnimar & Koketsu [7] proposed a scheme to 
+solve this problem by applying the Podvin & Lecomte operator [10], and also 
+provided illumination for the 2D case and propose a new operator for the 3D 
+case with an illumination condition as well. 
+The result of the implementation of the above scheme is a travel time at each 
+grid point. If it is made its contours, it will get the wavefront. The ray can be 
+calculated by tracing it from the station to the source point, considering that the 
+ray direction or the wave propagation direction is always perpendicular to the 
+wavefront.  
+Development of an Inversion Method for Low Velocity Medium 97 
+ 
+2.4 Gradient Inversion Method 
+The function of seismic wave traveltime t  with respect to the defined 
+parameter, in this case the slowness 
+kiS ,  as contained in Eq. (1), is a nonlinear 
+problem because of the heterogeneity of the earth structure. In the gradient 
+inversion method, a nonlinearity problem can be solved by iteration of the 
+linearized form of the traveltime function [1], which starts from an initial 
+model. The linearization form is  
+ 
+??
+? ?
+??
+?
+?K
+k
+I
+i
+ki
+ki
+tS
+S
+t
+1 1
+,
+,
+~ . (4) 
+The traveltime derivative with respect to the slowness at a knot point can be 
+formulated as a chain derivative, which involve Eq. (1) 
+ 
+? ?
+? ?
+z
+zz
+x
+xx
+l
+S
+zxs
+zxs
+t
+S
+t
+ii
+zx
+kiki
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+,
+,,
+,
+,
+, (5) 
+where zxl ,  is a ray length at ? ?zx, . In order to ensure that the solution of matrix 
+Eq. (4) is stable, it is necessary to apply damping 
+ 
+0~ ,kiS?? . (6) 
+The combination of Eqs. (4) and (6) can be written in a more compact form 
+ 
+dSA ?? . (7) 
+which can be solved by applying the LSQR method [11]. The uncertainty of the 
+inversion result is calculated from the square root of the diagonal components of 
+the covariance matrix  
+ ? ?A
+2
+T
+N
+i
+i
+MN
+d
+AC
+?
+?
+?
+, (8) 
+where N is the number of data and M  is number of parameters [12].  
+3 Application to Volcano Structure Model 
+In this study, we have tried to explore the application of the method described in 
+section 2 to, the volcano structure as shown in Figure 2 (left). The shape of this 
+98 Afnimar, Andri Dian Nugraha & Ahmad Syhaputra 
+structure occurs uniquely in the volcano, where there are low-velocity 
+anomalies associated with magma or fluids or weak zones. 
+3.1 Model Parameterization 
+To obtain an accurate inversion result, we must first define a suitable model 
+parameterization. If the model parameterization is made by using a block 
+model, as is mostly the case in tomography, a large number of blocks is needed 
+to describe the geological model well. If the block size is 0.5 km, as shown in 
+Figure 2 (middle), then the number of variables is 400. This parameterization is 
+good enough to describe the model, but because of the large number of 
+variables many blocks will not be crossed by rays, which will result many zero 
+values in the kernel matrix. In other words, ray coverage will not be good. If the 
+block size is enlarged, the number of variables will be reduced but the 
+description of the model will be worse. To solve this problem, we propose to 
+apply knot-point model parameterization, as shown in Figure 2 (right). With at 
+distance between knot-points of 2 km, the number of variables is only 36, 
+whereas the model is described much better, as shown Figure 2 (left). Hence, 
+this parameterization is very effective compared to the block model. Slowness 
+distribution at a certain point is calculated using Eq. (1). 
+ 
+Figure 2 Left: Low velocity model (red). Middle: Parameterizing the model 
+using blocks with a size of 0.5 km. Right: Parameterizing the model using knot 
+points with distance between points of 2 km. 
+3.2 Selection of Ray Tracing Method 
+Parameter determination as described above is followed by the selection of a 
+suitable ray tracing method. Application of the pseudo-bending method on this 
+model will encounter an instability problem, which occurs in the ray calculation 
+marked by the dashed white line in Figure 3 (left). This is caused by the large 
+velocity gradient. Gradient calculation using Eq. (2) is needed for the 
+minimization of the ray trajectory, but because the gradient is large, it will result 
+in no solution. A serious problem is the inaccuracy of this method, because it 
+does not follow the Fermat principle. For example, rays from a source number 
+7, see (Figure 3 left), that should ÅgavoidÅh low-velocity zones and should pass 
+Development of an Inversion Method for Low Velocity Medium 99 
+ 
+the high-velocity zones, where the traveltime will be shorter. Likewise rays 
+from other source points. Another problem with the method is that it requires an 
+initial trajectory. Usually, the initial trajectory is a straight line, as shown in 
+Figure 1. If the velocity structure is not too heterogeneous, the trajectory 
+optimization performed by this method will get the ÅgrealÅh raypath (the one 
+which has the smallest travel time). However, for a very heterogeneous velocity 
+structure, which contains low-velocity anomalies, this is not a good method, 
+because the selection of the initial trajectory close to the actual trajectory is very 
+difficult. As a result, the trajectory obtained will not turn out as expected. 
+ 
+Figure 3 Left: Application of the pseudo-bending method [6]. Right: 
+Application of the eikonal-solver method [7]. 
+To overcome the above problems, in this research, we have applied the eikonal-
+solver method. The result, as shown in Figure 3 (right), shows that all rays can 
+be calculated properly. The high velocity gradient problem can be solved, 
+because the calculation method does not involve the velocity gradient, as is the 
+case in the pseudo-bending method. Ray trajectories obtained with this method 
+can avoid low-velocity zones and pass high-velocity zones. This satisfies the 
+Fermat principle, according to which the travel path must pass through a zone in 
+the minimum traveltime. 
+3.3 Application of Gradient Inversion Method 
+As explained in Section 2.4, the concept of this inversion is the minimization of 
+the theoretical traveltime and the observational traveltime, which is done 
+iteratively starting from initial model to get the optimal final model. In order to 
+test the method developed in this study, we have applied to a synthetic data. The 
+observational traveltime is the traveltime calculated in the model in Figure 2 
+(left). To approach the field conditions, where field data always contain noise, 
+the data were added with Gaussian noise. The initial model applied in the 
+inversion was 1D model that is commonly used in tomography. It was taken 
+from the left or right side of the velocity model in Figure 2, from 2 km/s (on the 
+surface) to 6 km/s (at the basement). 
+100 Afnimar, Andri Dian Nugraha & Ahmad Syhaputra 
+This synthetic model involves nine source points and nine receivers on the 
+surface. Consequently, there are 81 observational data with 36 parameters. 
+Gaussian noise with mean level 2.00.0 ???  is included in the observational 
+data. To avoid instability in the matrix inversion, norm damping 0.5??  was 
+applied. The inversion was performed in eight iterations and the solution was 
+the result whose RMS traveltime difference between two iterations was small 
+enough.  
+The inversion result using the observational data without noise is shown in 
+Figure 4. The selected result is the fourth iteration, where the RMS value was 
+relatively close to the subsequent iteration result. This result could very well be 
+close to the desired model. The uncertainty is smaller than 0.3 km/s. The 
+biggest uncertainties are at the bottom of the model, because of little ray 
+coverage compared to the top of the model. For the data with a noise level of 
+0.1, the inversion result, see (Figure 5 middle), still shows the desired output. 
+The uncertainty, see (Figure 5 right) is still very good for the low-velocity zone, 
+which is about 0.25 km/s. For data with higher noise levels, as in Figure 6, the 
+inversion result is less comprehensive compared to the desired output. 
+ 
+Figure 4 Inversion result with damping 0.5??  
+and Gaussian noise level 
+0.0?? . Left: RMS values of traveltime residual versus iteration. Middle: 
+Inversion result image at the fourth iteration. Right: Uncertainty of inversion 
+results. 
+ 
+Figure 5 Inversion results with damping 0.5??  
+and Gaussian noise level 
+1.0?? . Left: RMS travel time residual versus iteration. Middle: Inversion result 
+image at the third iteration. Right: Uncertainty of inversion result. 
+Development of an Inversion Method for Low Velocity Medium 101 
+ 
+Overall, the inversion result can successfully reconstruct the low-velocity zones. 
+The key of this inversion result is the appropriate model parameterization, 
+followed by a suitable method of ray tracing, so the rays can travel through all 
+areas between four knot points.  
+ 
+Figure 6 Inversion results with damping 0.5??  and Gaussian noise level 
+2.0?? . Left: RMS value of traveltime residual versus iteration. Middle: 
+Inversion result image at the third iteration. Right: Uncertainty of inversion 
+result. 
+For comparison, we have also performed an inversion using the same data, but 
+now applying block-model parameterization and calculating the rays using the 
+pseudo-bending method that is commonly applied in tomography. With model 
+parameterization as shown in Figure 2 (middle), the inversion result shown in 
+Figure 7 (left) does not approach the desired output. This is probably caused by 
+the inappropriate ray calculation, as discussed in section 3.2. Attempting to 
+improve the ray coverage, we enlarged the block size to 1 km and 1.5 km; the 
+inversion results are shown in Figure 7 (middle and right). The low-velocity 
+anomaly in the deep targets could be somewhat resolved, but it doesnÅft describe 
+the subsurface structure well, because the block size is too large. 
+ 
+Figure 7 Inversion results with block model and pseudo-bending, damping 
+0.2??
+ 
+and without noise. Left: Inversion result for block size 0.5 km. Middle: 
+Inversion result for block size 1 km. Right: Inversion result for block size 1.5 
+km. 
+102 Afnimar, Andri Dian Nugraha & Ahmad Syhaputra 
+4 Conclusion 
+In this study, firstly, an appropriate model parameterization for low velocity 
+zones using knot points has been successfully developed. The knot-point model 
+reduces the number of inversion variables, but it can describe the subsurface 
+structure very well. Secondly, the eikonal-solver method can overcome the 
+problems of the pseudo-bending method with, high-velocity gradients and ray 
+trajectories that do not conform to the Fermat principle. Thirdly, considering 
+these two points, the inversion results of the proposed method can reconstruct 
+low-velocity zones well. This is achieved by appropriately describing the 
+structure and calculating the precise ray tracing. On the other hand, application 
+of the inversion method using a block model and the pseudo-bending method 
+doesnÅft produce good inversion results. 
+Acknowledgements 
+This research is supported by the Capacity Improvement Research Program ITB 
+2010. We thank Dr. Shutaro Sekine and the other reviewers for their 
+contribution to improving our manuscript. 
+References 
+[1] Zelt, C.A. & R.B. Smith, Seismic Traveltime Inversion for 2-D Custal 
+Velocity Structure, Geophys. J. Int, 108, pp. 16-34, 1992. 
+[2] Afnimar, Koketsu, K. & Nakagawa, K., Joint Inversion of Refraction and 
+Gravity Data for Three-Dimensional Topography of A Sediment 
+Basement-Interface, Geophys. J. Int., 151, pp. 243-254, 2002. 
+[3] Nugraha, A.D. & Mori, J., Three-Dimensional Velocity Structure in The 
+Bungo Channel and Shikoku Area, Japan, and Its Relationship to Low-
+Frequency Earthquakes, Geophys. Res. Lett, 33, L24307. doi:10.1029/ 
+2006GL028479, 2006.  
+[4] Zhao, D., Hasegawa, A. & Horiuchi, S., Tomographic Imaging of Pand S 
+Wave Velocity Structure Beneath Northeastern Japan, J. Geophys. Res., 
+97, pp. 19909?19928, 1992. 
+[5] Miyazawa, M. & Kato, M., On Interpolation Functions in Traveltime 
+Tomography, Geophys. J. Int., 158, pp.169-178, 2004. 
+[6] Um, J. & Thurber, C.H., A Fast Algorithm for Two-Point Seismic Ray 
+Tracing, Bull. Seism. Soc. Am., 77, pp. 972-986, 1987. 
+[7] Afnimar & Koketsu, K., Finite-Difference Traveltime Calculation for 
+Head Waves Traveling Along an Irregular Interface, Geophys. J. Int, 
+143, pp. 729-734, 2000. 
+[8] Vidale, J., Finite-Difference Calculation of Traveltimes, Bull. Seism. Soc. 
+Am., 78, pp. 2062-2076, 1988. 
+Development of an Inversion Method for Low Velocity Medium 103 
+ 
+[9] Vidale, J., Finite-Difference Calculation of Traveltimes in Three 
+Dimensions, Geophysics, 55, pp. 521-526, 1990.  
+[10] Podvin, P. & Lecomte, I., Finite-Difference Computation of Traveltimes 
+in Very Contrasted Velocity Models: A Massively Parallel Approach and 
+Its Associated Tools, Geophys. J. Int, 105, pp. 271-284, 1991. 
+[11] Paige, C.C. & Saunders, M.A., LSQR: An Algorithm for Sparse Linear 
+Equations and Sparse Least Squares, ACM Trans. Math. Soft., pp. 43-71, 
+195-209, 1982. 
+[12] Grandis, H., Pengantar Pemodelan Inversi Geofisika, Himpunan Ahli 
+Geofisika Indonesia (HAGI), 2009. 
+ 
+ 
+ 

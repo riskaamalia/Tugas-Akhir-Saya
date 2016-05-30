@@ -1,0 +1,836 @@
+  
+ITB J. Sci., Vol. 44 A, No. 3, 2012, 217-229                                  217 
+ 
+Received November 7
+th
+, 2011, Revised April 10
+th
+, 2012, Accepted for publication May 28
+th
+, 2012. 
+Copyright ? 2012 Published by LPPM ITB, ISSN: 1978-3043, DOI: 10.5614/itbj.sci.2012.44.3.2 
+A Note on Prediction with Misspecified Models 
+Khreshna Syuhada 
+Statistics Research Division, Institut Teknologi Bandung  
+Jalan Ganesa 10 Bandung 40132 Indonesia  
+Email: khreshna@math.itb.ac.id 
+ 
+ 
+Abstract. Suppose that a time series model is fitted. It is likely that the fitted 
+model is not the true model. In other words, the model has been misspecified. In 
+this paper, we consider the prediction interval problem in the case of a 
+misspecified first-order autoregressive or AR(1) model. We have calculated the 
+coverage probability of an upper one-step-ahead prediction interval for both 
+properly specified and misspecified models through Monte Carlo simulation. It 
+was found that dealing with prediction interval for misspecified model is 
+complicated: the distribution of a future observation conditional on the last 
+observation and the parameter estimator is not identical to the distribution of this 
+future observation conditional on the last observation alone. 
+Keywords: autoregressive; coverage probability; model misspecification; time series 
+prediction.  
+1 Introduction 
+A very informative way of specifying the accuracy of a time series prediction is 
+to use a prediction interval. To do this, some authors, e.g. [1-5], have computed 
+the prediction interval or limit for the autoregressive (AR) process and the 
+autoregressive conditional heteroscedastic (ARCH) process. For these models, 
+they have assumed that the fitted model is the true model. In other words, the 
+authors have employed properly specified models. 
+In practice, however, time series models are likely to be misspecified. For 
+instance, an AR(1) model is fitted but the true model is an AR(2) or MA(1) 
+model. This paper deals with the prediction interval in the case of a misspecified 
+AR(1) model. In the context of the prediction problem, there have been a few 
+papers, such as [6] and [7], that provide derivations of expressions for mean-
+squared-error of prediction in the case of a misspecified Gaussian AR(p) model. 
+An investigation of the coverage probability, conditional on the last 
+observations, of a prediction interval based on a misspecified Gaussian AR(p) 
+model was presented first by [8]. 
+In the case of a misspecified Gaussian AR(p ) model, the derivation of the 
+asymptotic expansion of the coverage probability, conditional on the last 
+218 Khreshna Syuhada 
+observations, of a prediction interval requires a great deal of care. To make 
+clear the issues involved in this derivation, we consider the simple scenario 
+described in Section 2. Namely, a misspecfied zero-mean Gaussian AR(1) 
+process fitted to a stationary zero-mean Gaussian process. We also consider a 
+one-step-ahead prediction interval with target coverage probability. Similarly to 
+[8], we aim to find the asymptotic expansion for the coverage probability of the 
+prediction interval under consideration, conditional on the last observation. 
+In Section 3, we compute the conditional coverage probabilities for both 
+properly and misspecified first order autoregressive models. This is aimed to 
+examine the effect of misspecification on the coverage probability of the 
+prediction interval. Furthermore, the technical argument for finding the 
+conditional coverage probability of a prediction interval as proposed by de Luna 
+(which differs from the estimative prediction interval) is reviewed in detail in 
+Section 4. A numerical example to illustrate a gap in his argument is given in 
+Section 5. 
+2 Description of the Time Series and Fitted Models 
+Consider a discrete time stationary Gaussian zero-mean process }{ tY . Let 
+)(= kttk YYE ??  denote the autocovariance function of }{ tY  evaluated  at lag 
+k . Suppose that ??
+?
+|<|
+1= jj
+? . We do not require that }{ tY  is an AR(1) 
+process. The available data are nYYY ,,, 21 ? . We will be careful to distinguish 
+between random variables, written in upper case, and their observed values, 
+written in lower case. 
+We consider one-step-ahead prediction using a stationary Gaussian zero-mean 
+AR(1) model. This model may be misspecified. Let 0/= ??? kk . Define ?  to 
+be the value of a  that minimizes 21 )( nn YaYE ?? . Thus 01/= ??? . Define 
+)=|(= 1
+2
+nnn yYYvar ?? . Note that  
+0
+2
+1
+0
+2 =
+?
+?
+?? ?  
+and 
+22
+1 =)( ?? nn YYE ?? . Let k
+?
+?  denote a consistent estimator of k?  such 
+as 
+kjj
+n
+kj
+YYn ??
+? ? 1=
+1
+. Let 01 /=
+???
+???  and note that 
+?
+?  is a consistent 
+ A Note on Prediction with Misspecified Modelon 219 
+ 
+estimator of ? . We use the notation ][ ba?  for the interval ],[ baba ??  
+( 0>b ). 
+3 The Coverage Properties of Misspecified AR(1) Model 
+In this section, we examine the effect of misspecification on the coverage 
+probability of the prediction interval. The true model }{ tY  is a zero-mean 
+Gaussian AR(2) process, satisfying  
+ 1 1 2 2=t t t tY Y Y? ? ?? ?? ?  (1) 
+for all integer t , where t?  are independent and identically )(0,
+2?N  
+distributed. The roots of 
+2
+211 mm ?? ??  are outside the unit circle to ensure 
+stationarity of the process. 
+We consider an upper one-step-ahead prediction interval with conditional mean 
+square prediction error equal to 2V , i.e.  
+ 
+2
+1( ; , ) = (1 ) ,u n nI Y V Y V?
+?? ? ?? ?
+? ? ? ?
+  (2) 
+where the estimators 
+?
+?  and 
+2
+?
+V  are obtained by maximizing the 
+loglikelihood function conditional on 11 = yY , that are  
+1
+1
+=1
+1
+2
+1
+=1
+=
+n
+t t
+t
+n
+t
+t
+Y Y
+Y
+?
+?
+?
+?
+?
+?
+?
+?
+ 
+and  
+2
+1
+2
+1
+=1
+1
+= ( ) .
+1
+n
+t t
+t
+V Y Y
+n
+?
+?
+??
+?
+?
+? ?
+ 
+The coverage probability of ),;(
+2
+??
+VYI nu ? , conditional on nn yY =  is 
+calculated as follows. First, we observe that  
+220 Khreshna Syuhada 
+)=,=|)(1( 11
+1
+1 ??
+?
+? ????? nnnnnn yYyYVYYP
+??
+?
+)=,=|)(1(= 11
+1
+1121 ??
+?
+?? ??????? nnnnnnnn yYyYVYYYP
+??
+????
+)=,=|)(1)((= 11
+1
+1211 ??
+?
+?? ??????? nnnnnnn yYyYVyyP
+??
+????  
+11
+1 2 1 1= ( ) (1 ) | = , =
+n n
+n n n n
+y y V
+E Y y Y y? ? ?
+? ? ?
+??
+? ?
+? ?? ?
+? ?? ?
+? ?? ? ?? ?? ?? ?
+? ?? ?
+? ?? ?
+?
+?
+ (3) 
+and we estimate this conditional expectation by simulation. We use the 
+backward representation:  
+ 1 1 2 2=t t t tY Y Y? ? ?? ?? ?  (4) 
+for all integer t , where t?  are independent and identically )(0,
+2?N  
+distributed. It is noted that t?  and ?,, 21 ?? tt YY  are independent. We begin the 
+simulation run by setting ),(=),( 11 ?? nnnn yyYY  and then use (4) to run the 
+process backwards in time. 
+Table 1 Estimated coverage probabilities, conditional on 
+1( , ) = (0,1)n nY Y ? , of 
+the upper 0.95 one-step-ahead forecasting intervals for true and misspecified 
+models. Standard errors are in brackets. 
+2
+21 ,, ?aa  Model 
+=50n
+ 
+=100n
+ 
+ 1=0.25,=1,= 221 ?aa    True   0.9401 
+(0.00079)  
+ 0.9451 
+(0.00055) 
+  Misspecified   0.9999 
+(0.00001)  
+ 1 (0.000002) 
+ 1=0.4,=0.1,= 221 ??aa    True   0.9327 
+(0.00091)  
+ 0.9423 
+(0.00056) 
+  Misspecified   0.9311 
+(0.0011)  
+ 0.9316 
+(0.0009) 
+1=0.3,=0.3,= 221 ??? aa    True   0.9342 
+(0.00088)  
+ 0.9419 
+(0.00057) 
+  Misspecified   0.9656 
+(0.0010)  
+ 0.9728 
+(0.0007) 
+1=0.5,=0.75,= 221 ?aa ?    True   0.9427 
+(0.00074)  
+ 0.9468 
+(0.00049) 
+  Misspecified   0.9988 
+(0.00006)  
+ 0.9993 
+(0.00002) 
+ A Note on Prediction with Misspecified Modelon 221 
+ 
+Table 1 presents the estimate of conditional coverage probability (3). Standard 
+errors of these estimates are given in brackets. We also provide the estimate of 
+conditional coverage probability of when the predictor is also a zero-mean 
+Gaussian AR(2) model (properly specified model) as in [4]. 
+4 The Conditional Distribution for Misspecified Model 
+de Luna (2000) considers the data generating mechanism }{ tY , as described 
+earlier, and h -step-ahead prediction using a zero-mean Gaussian AR( p ) 
+model. This model may be misspecified. Consider the case that 1=h  and 
+1=p . His ??1  prediction interval for 1?nY  is  
+ 
+2 2 2 2
+1 /2 1 /2= [ ( ) , ( ) ],n n n nJ Y Y z Y Y z? ?? ? ? ?? ?? ? ? ? ? ?
+? ?
+ 
+ where 
+212 =)( nn YwnY
+?? , 21111= )2(= kkkkw ???? ?? ??
+?
+?  and /21 ??z  is the 
+/2)(1 ??  quantile of the (0,1)N  distribution. In practice, 
+2?  and w  are 
+unknown since they depend on an unknown autocovariance function of the 
+process }{ tY . However, de Luna assumes that both 
+2?  and w  are known. 
+de Luna claims that )(1=)=|( 11
+?
+? ??? nOyYJYP nnn ? . His justification for 
+this claim, with intermediate steps added, is the following.  
+ 
+)=|( 1 nnn yYJYP ??  
+ 
+2 2
+1 1 /2= ( [ ( ) ] | = )n n n n nP Y y y z Y y?? ?? ?? ? ? ?
+?
+)( nsexpectatiolconditionafortheoremonsubstitutitheby  
+ 
+),=|),=|])([((= /21
+22
+1 nnnnnnn yYyYzyyYPE
+??
+????? ?? ???  
+by the double expectation theorem. To evaluate this conditional expectation, de 
+Luna proceeds as follows. Define )(?F  and )(?f  to be the cdf and pdf of 1?nY  
+conditional on nn yY = , respectively. He then assumes that  
+ 
+2 2
+1 1 /2( [ ( ) ] | = , )n n n n nP Y y y z Y y?? ?? ?? ? ? ? ?
+? ?
+ 
+is equal to  
+222 Khreshna Syuhada 
+ 
+2 2 2 2
+1 /2 1 /2( ( ) ) ( ( ) ),n n n nF y y z F y y z? ?? ? ? ?? ?? ? ? ? ? ? ?
+? ?
+ (5) 
+since the Taylor expansions are applied to F  and not some other function. 
+Then, by Taylor expansion of F  around /21 ??? ?? zyn ,  
+ ))(( /21
+22
+??? ???? zyyF nn
+?
+ 
+)(= /21 ??? ?? zyF n   
+2 2
+1 /2 1 /2( )( ( ) ( ( ) ) )n n nf y z y y z? ?? ? ? ? ? ?? ?? ? ?? ? ? ? ?
+?
+? 
+ Now, /21=)( /21 ??? ? ?? ?zyF n . Thus  
+ 
+2 2
+1 /2( ( ( ) )| = )n n n nE F y y z Y y?? ? ?? ? ?
+?
+ 
+ is equal to  
+2 2
+1 /2 1 /21 ( )( ( | = ) ( ( ) ) )
+2
+n n n n nf y z y E Y y y z? ?
+?
+? ? ? ? ? ?? ?? ? ? ?? ? ? ? ?
+?
+?
+ 
+Similarly,  
+2 2
+1 /2( ( ( ) )| = )n n n nE F y y z Y y?? ? ?? ? ?
+?
+?
+?
+???????? ?? )))(()=|()((
+2
+= /21
+22
+/21 ?? ??????
+?
+zyyYEyzyf nnnnn  
+If it is assumed that 
+1( | = ) = ( )n nE Y y O n?
+???
+?
+ then 
+1
+1( | = ) =1 ( )n n nP X J Y y O n?
+?
+? ? ? ? . 
+The assumption (5) is crucial. It is true if { }tY  is also an AR(1) process (i.e. if 
+the model is properly specified), but it is not necessarily true if the model is 
+misspecified. Let 
+Åı ?( ; )F ??  denote the cdf of 1nY ?  conditional on =n nY y  and 
+?=??
+?
+. Now  
+ A Note on Prediction with Misspecified Modelon 223 
+ 
+2 2
+1 1 /2( [ ( ) ] | = , )n n n n nP Y y y z Y y?? ?? ?? ? ? ? ?
+? ?
+ 
+Åı 2 2 Åı 2 2
+1 /2 1 /2= ( ( ) ; ) ( ( ) ; ).n n n nF y y z F y y z? ?? ? ? ?? ?? ? ? ? ? ? ? ? ?
+? ? ? ?
+ 
+If }{ tY  is also an AR(1) process then, by the Markov property, )(=)
+?;(Åı ?? FF ?  
+and so (5) is satisfied. If, however, the model is misspecified then )?;(Åı ??F  is 
+not necessarily equal to )(?F . 
+5 Computational Example to Illustrate the Error in the 
+Calculating Conditional Distribution 
+In this section, we provide a numerical example to support the following 
+argument. For a misspecified AR(1) model, the distribution of 1?nY  conditional 
+on nn yY =  is not identical to the distribution of 1?nY  conditional on nn yY =  
+and ??=
+?
+? . In doing so, we seek an estimator 
+?
+? , an observed value ??  
+and a misspecified AR(1) model such that the condition ??=
+?
+? , when added 
+to the condition nn yY = , tells us a great deal more about the value of 1?nY  than 
+the condition nn yY =  alone. 
+Consider the following estimator:  
+ 
+2
+1
+=2
+2 2
+1
+=2 =2
+=
+T
+t t
+t
+T T
+t t
+t t
+Y Y
+Y Y
+?
+?
+? ?
+? ?
+? ??
+?
+? ?
+?
+ (6) 
+and let ),,(=),,( 21 Tn YYyy ??  and ),,(=),,( 111 ?Tn YYxx ?? . Thus, we 
+write the estimator (6) as  
+2
+=1
+2 2
+=1 =1
+=
+n
+i i
+i
+n n
+i j
+i j
+y x
+y x
+? ?
+? ?
+? ??
+?
+? ?
+?
+ 
+224 Khreshna Syuhada 
+which is less than or equal to 1, according to the Cauchy-Schwarz inequality. 
+Equality occurs if ii yax
+*= , i.e. 1
+*= ?tt YaY , where  
+1
+* =1 =2
+2 2
+=1 =2
+= =
+n T
+i i t t
+i t
+n T
+i t
+i t
+y x Y Y
+a
+y Y
+?? ?
+? ?
+ 
+Thus,  
+ 
+*
+1=1 =t tY a Y ?? ?
+?
+ 
+where 1=
+*
+?
+??a . Meanwhile,  
+ 1
+1and = .n n n nY y Y y?? ? ? ?
+?
+ 
+Now, consider a stationary zero-mean Gaussian AR(1) process }{ tY  satisfying  
+ ttt
+YY ?? ??2=  
+where t?  are independent and identically )(0,
+2?N  distributed, ?  is close to 1 
+but satisfies 1<? . We find the autocovariance properties of }{ tY  as follows:  
+ 
+2
+0 2
+=
+1
+?
+?
+??
+ 
+ 
+2
+2 2
+= , = 1,2,
+1
+k
+k k
+? ?
+?
+??
+?  
+whilst 0=l? , for ?1,3,=l . By the properties above, 0=/= 01 ???  for the 
+above process. Thus the distribution of 1?nY  conditional on nn yY =  is 
+)(0, 0?N , i.e.  
+ 
+.
+1
+0,=)(0,)=|(
+2
+2
+01 ??
+?
+?
+??
+?
+?
+?
+?
+?
+?
+? NNyYY nnn ?
+ (7) 
+If we choose 1=2? , 0.95=?  and ny  fairly large,  
+ A Note on Prediction with Misspecified Modelon 225 
+ 
+ 
+2
+1
+= 2 = 6.405, say,
+1 0.95
+ny
+?
+ 
+then  
+.(0,10.256)=))0.95(0,1/(16.405)=|( 21 NNYY nn ?? ?  
+Now, if we condition on ?|<1| ??
+?
+, where 0.01=? , say, and n  is not too 
+large then we expect that, to a good approximation,  
+ 
+,1).(0.95=),()|<1|,=|( 21 nnnnn yNyNyYY ??? ????
+?
+ (8) 
+which is quite different from (7). 
+As for illustration, a simulation is carried out as follows. Initialize the counter: 
+set 0=l . The k th simulation run is   
+? simulate an observation of ),,( 11 ?nYY ?  conditional on nn yY = . 
+? calculate 
+?
+?  
+? if ?|<1| ??
+?
+, then 1= ?ll  and store 1= ?nl yx   
+ 
+After M  simulation runs, suppose that Nl = . The probability density function 
+of 1?nY  conditional on nn yY =  and ?|<1| ??
+?
+ is approximated by  
+ 
+=1
+1
+( ;0.95 )
+N
+l
+l
+f y x
+N
+?  
+where )0.95;( lxyf  denotes the ,1)(0.95 lxN  probability density function 
+evaluated at y . Note that to simulate an observation of ),,( 11 ?nYY ?  
+conditional on nn yY =   
+ 
+226 Khreshna Syuhada 
+ 
+Figure 1 The pdf of 1nY ?  conditional on n nY y?  (top) and the pdf of 1nY ?  
+conditional on n nY y?  and 
+?| 1| ??? ?  (bottom), M = 10.000. 
+we shall know that the vector 
+T
+nYYY ),,(= 1?  follows a multivariate normal 
+distribution with mean vector ?  and the covariance matrix ?  i.e.  
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+n
+n
+Y
+Y
+Y
+1
+1
+?
+ ?    N   
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+011
+1
+01
+110
+,
+0
+0
+0
+???
+?
+??
+???
+?
+???
+??
+?
+?
+n
+n
+  
+Now if we partition the mean vector ?  and the covariance matrix ?  such that  
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+2
+1
+= ?
+?
+?
+  
+with sizes for 1?  and 2?  are 11)( ??n  and 11? , respectively, and  
+ A Note on Prediction with Misspecified Modelon 227 
+ 
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+??
+??
+? 2221
+1211
+=   
+with sizes  
+?
+?
+?
+?
+?
+?
+?
+?
+?
+?
+???
+?????
+111)(1
+11)(1)(1)(
+n
+nnn
+  
+ 
+Figure 2 The pdf of 1nY ?  conditional on n nY y?  (top) and the pdf  of 1nY ?  
+conditional on n nY y?  and 
+?| 1| ??? ?  (bottom), M=50.000. 
+Then the distribution of ),,( 11 ?nYY ?  conditional on nn yY =  is multivariate 
+normal with mean vector 
+?
+?  and covariance matrix 
+?
+?  ([9]), i.e.  
+ 
+),()=|,,( 11
+??
+? ?? ?NyYYY nnn ?  
+where the mean vector and the covariance matrix  
+228 Khreshna Syuhada 
+ 
+)(= 2
+1
+22121 ??? ????
+?
+ny
+?
+ 
+ 21
+1
+221211= ??????
+?
+?
+ 
+Figures 1-3 show the pdf of 1?nY  conditional only on nn yY =  (top figure) and 
+the pdf of 1?nY  conditional on nn yY =  and ?|<1| ??
+?
+ (bottom figure). We 
+carry out 300=n  and 100,00000,10,000,500= andM  simulation runs. 
+6 Discussion 
+The derivation of the asymptotic conditional coverage probability for a 
+misspecified model requires a great deal more care than the derivation of the 
+asymptotic conditional coverage probability for a properly specified model. 
+Results similar to those of de Luna can be derived by defining the random 
+variable 1 1 1 1= ( | , , )n n n n nX E X X X? ? ? ? ?? ?  and noting that 1?n?  and 
+),,( 1??nn XX  are independent random vectors. 
+ 
+Figure 3 The pdf of 1nY ?  conditional on n nY y?  (top) and the pdf of 1nY ?  
+conditional on n nY y?  and 
+?| 1| ??? ?  (bottom), M=100.000. 
+ A Note on Prediction with Misspecified Modelon 229 
+ 
+1 1 1( | , , )n n n nX E X X X? ? ?? ?  and noting that 1n? ?  and 1( , , )n nX X ? ?  are 
+independent  random vectors. 
+Acknowledgement 
+I am grateful to Paul Kabaila for his valuable comments and suggestions to 
+clarify many aspects on this paper. 
+References  
+[1] Barndorff-Nielsen, O.E. & Cox, D.R., Prediction and Asymptotics, 
+Bernoulli, 2, pp. 319-340, 1996. 
+[2] Kabaila, P., The Relevance Property for Prediction Intervals, Journal of 
+Time Series Analysis, 20(6), pp. 655-662, 1999. 
+[3] Kabaila, P. & Syuhada, K., The Relative Efficiency of Prediction 
+Intervals, Communication in Statistics: Theory and Methods, 36(15), pp. 
+2673-2686, 2007. 
+[4] Kabaila, P. & Syuhada, K., Improved Prediction Limits for AR( p ) and 
+ARCH( p ) Processes, Journal of Time Series Analysis, 29, pp. 213-223, 
+2008. 
+[5] Vidoni, P., Improved Prediction Intervals for Stochastic Process Models, 
+Journal of Time Series Analysis, 25, pp. 137-154, 2004.  
+[6] Davies, N. & Newbold, P., Forecasting with Misspecified Models, 
+Applied Statistics, 29, pp. 87-92, 1980. 
+[7] Kunitomo, N. & Yamamoto, T., Properties of Predictors in Misspecified 
+Autoregressive Time Series Models, Journal of the American Statistical 
+Association, 80, pp. 941-950, 1985. 
+[8] de Luna, X., Prediction Intervals Based on Autoregression Forecasts, 
+The Statistician, 49, pp. 87-93, 2000. 
+[9] Graybill, F.A., Theory and Application of The Linear Model, North 
+Scituate, Mass: Duxbury Press, 1976. 
+ 

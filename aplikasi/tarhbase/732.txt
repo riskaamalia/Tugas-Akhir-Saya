@@ -1,0 +1,292 @@
+  
+J. Math. Fund. Sci., Vol. 45, No. 1, 2013, 53-60                            53 
+ 
+Received 22 January 2012, 1st  Revision 5 September 2012,  2nd Revision 8 December 2012, 3rd Revision 5 
+February  2013, Accepted publication 22 February 2013. 
+Copyright ? 2013 Published by ITB Journal Publisher, ISSN: 2337-5760, DOI: 10.5614/j.math.fund.sci.2013.45.1.5 
+SEM-EDX Analysis of Laser Surface Alloying on 
+Aluminum 
+Noriah Bidin
+1
+, Mundzir Abdullah
+1
+, Mohd Syafik Shaharin
+1
+, Yusef Abdul Alwafi
+1
+, 
+Dwi Gustiono Riban
+2 
+& Moh Yasin
+1,3
+  
+ 
+1
+Advanced Photonic Science Institute, Faculty of Science,  
+University Teknologi Malaysia, Skudai 81300, Malaysia  
+2
+Ibnu Sina Institute for Fundamental Science Studies,  
+Universiti Teknologi Malaysia, 81310 UTM Skudai, Johor, Malaysia 
+3
+Department of Physics, Faculty of Science and Technology,  
+Airlangga University, Jalan Mulyorejo, Surabaya 60115, Indonesia 
+E-mail: noriah@utm.my  
+  
+ 
+Abstract. Microstructure and chemical composition changes on the alloyed 
+aluminum surface were investigated using SEM-EDX analysis. A Q-switched 
+Nd:YAg laser was focused to induce breakdown and plasma formation. The high 
+plasma temperature and the shock wave pressure were responsible for speeding 
+up the laser surface alloying process. The rapid heat and cooling process 
+introduced a non-equilibrium condition causing changes in the microstructure as 
+well as the chemical composition of the alloyed aluminum surface. The remelted 
+layer and molten pools were realized after the aluminum received a power 
+density greater than 5 x 10
+8
+ Wcm
+-2
+. The chemical composition change confirms 
+that the convection process had taken place during the alloying process.  
+Keywords: chemical composition; Fe-Cu powder; intermetallics phase; laser alloying; 
+microstructure. 
+1 Introduction 
+Laser is a powerful tool that can be used to improve surface properties such as 
+hardness and wear resistance by modifying the composition and/or 
+microstructure of the surface without affecting the properties of the bulk 
+material. The interaction time between the material and laser beam leads to 
+several processes. These processes are due to different combinations of 
+absorption, heat conduction, melting, powder addition, and rapid solidification 
+[1]. Among the various materials, aluminum is used in industry for various 
+applications due to its low cost, light weight and excellent workability, but it 
+lacks in wear resistance and hardness. Many studies have been carried out to 
+improve the surface properties of aluminum by adding a powder of various 
+materials, such as Fe, Ni, Mo, Cr, Ti, or Cu, Si [2-6]. Laser surface alloying is 
+considered to be the most effective technique for surface modification [7-11]. 
+However, systematic investigation of the microstructure and the change in 
+54 Noriah Bidin, et al. 
+chemical composition has received little attention. Hence, in the present paper 
+we intend to demonstrate the effect of the laser parameters on the microstructure 
+and chemical composition of the modified Al surface. 
+2 Experiment 
+A Q-switched Nd:YAG laser with a fundamental wavelength of 1064 nm, 
+operated in repetitive mode at 1 Hz, was used as the energy source. The laser 
+pulse duration was 10 nanoseconds and the output energy remained constant at 
+93 mJ per pulse. The laser was focused using a convex lens of 30 cm focal 
+length to induce optical breakdown and plasma formation. In order to enlarge 
+the laser spot area, the target was located at a defocused distance, about 20 mm 
+away from the focal point. In this position the power density was estimated to 
+be 1.31 x 10
+8
+ Wcm
+-2
+ per pulse.  A quench rate can be reached in the range of     
+2 - 4 Å~ 10
+7
+ K/s, corresponding to the lifetime of plasma radiation in air within 
+the range of 300-500 ?s. The whole experimental setup used in this study has 
+been described elsewhere [11].   
+A pure aluminum plate was used as the substrate. Iron-copper (Fe-Cu) mixtures 
+with weight/weight ratio 2:1 were used as the alloying elements. The aluminum 
+surface was painted with glue prior to spraying it with the alloying elements. 
+The coated surface was then treated by a series of pulses (1- 4 pulses equivalent 
+to a power density of 1-6 Å~ 10
+8
+ Wcm
+-2
+) from the focused beam of the Q-
+switched Nd:YAG laser.     
+A glow discharge spectrometer (GDS) was employed to evaluate the 
+distribution of the alloyed elements within the skin depth of the surface layer. 
+The microstructure of the alloyed samples was characterized by using an optical 
+scanning electron microscope (SEM). The chemical composition changes of the 
+modified aluminum surface were analyzed using energy dispersive x-ray 
+spectroscopy (EDXS). 
+3 Results and Discussion  
+It is important to note that the plasma temperature (~11,000 K) is much higher 
+than the melting points each of the alloying elements deposited on the 
+aluminum surface. Hence, after laser interaction with the powders that are 
+coated on the aluminum surface, the absorbed energy decomposes the metal 
+grains and dissolves the metals into the aluminum substrate, thus forming the 
+surface alloy. The plasma dynamically expands in the free surface within 300 to 
+500 É s depending on the delivering energy at the focal point. This implies that 
+the higher the laser energy, the longer the lifetime of the plasma formation. 
+However, in reality such microsecond lifetimes of plasma formation are still 
+ SEM-EDX Analysis of Laser Surface Alloying on Aluminum      55 
+ 
+considerably short. The advantage of such a short plasma lifetime is that it 
+introduces a rapid cooling or quenching in the alloying process. Such high 
+speed alloying processes can control the heat dissipation in the bulk of the 
+aluminum base. Furthermore, laser induced plasma is associated with the 
+generation of acoustic shock waves that propagate with the speed of sound in 
+the medium [12]. This allows the acceleration of the heat transfer into the target 
+via convection. Such mechanisms contribute to rapid melting and cooling of all 
+target elements, including the matrix materials. This leads to the formation of an 
+alloyed layer within the skin depth region.  
+This phenomenon can be confirmed by analyzing the alloyed surface with a 
+glow discharge spectroscopy, GDS machine. A typical GDS result of the tested 
+samples is shown in Figure 1. Figure 1(a) indicates the element distribution of 
+the aluminum substrate before coating and untreated by laser radiation. One 
+hundred percent of the surface as well as the bulk contained Al elements apart 
+from a few other elements, like N, Fe2, Cr and C. Figure 1(b) shows the 
+distribution of Fe elements (50%) and copper (almost 30%) on the surface. The 
+graph also indicates the penetration of Fe elements into the aluminum bulk. The 
+Fe elements were defused into the bulk due to the heat transfer via convection 
+of the melt pool of Al. The Fe elements were diffused within a skin depth of 25 
+É m and the Cu elements almost 15 É m in the bulk of Al. The skin depth of the 
+modified surface was also controlled by the quenching rate.   
+ 
+         (a)          (b) 
+Figure 1 GDS analysis on (a) Al matrix, (b) Al coating with Fe-Cu powder. 
+The rapid quenching rate contributed to non-equilibrium conditions in the 
+aluminum base. This led to the formation of new alloy elements and hence 
+56 Noriah Bidin, et al. 
+changed the microstructure of the solidified surface layer as well as the 
+chemical composition of the alloyed surface. The formation of the new alloyed 
+elements was further validated via SEM examination and EDX analysis. The 
+microstructure of the alloyed aluminum before laser treatment was examined 
+with SEM, as shown in Figure 2(a). The Fe and Cu are clearly observable as 
+individual particles on the Al matrix. The spectrum of the chemical composition 
+of the coating material on the Al matrix is shown in Figure 2(b) and detailed 
+weight percentages for each element analyzed with EDX spectroscopy are listed 
+in Table 1. In a circle remarked, the dark grey indicates the Fe elements, 
+whereas the white indicates Cu elements. Table 1 shows that the weight 
+percentage of iron is remarkably high, but zero for copper. Chlorine exists due 
+to the gum material used to adhere the coating material to the Al matrix. 
+     
+     (a)              (b) 
+Figure 2 (a) Microstructure of sample before treatment. (b) Spectrum of EDX 
+analysis before laser treatment. 
+Table 1 EDX analysis on no pulse target. 
+Element Weight % 
+Oxygen 14.807 
+Sodium 0.769 
+Aluminum 5.608 
+Chlorine 0.484 
+Potassium 0.846 
+Calcium 0.474 
+Iron 77.013 
+Copper 0.000 
+ 
+Figure 3 depicts the microstructure of the alloyed surface after exposure by a 
+series of pulses. Initially the sample was exposed to a single pulse (Figure 3(a)). 
+Each pulse delivered a power density of 1.31 Å~10
+8
+ Jcm
+-2
+. This power was 
+enough to melt and re-solidify the alloyed elements. As the power density 
+increased, the remelted layer expanded, as depicted in Figure 3(b), (c) and (d). 
+Significant heavy remelting is shown in Figure 3(c). Almost all the alloyed 
+ SEM-EDX Analysis of Laser Surface Alloying on Aluminum      57 
+ 
+elements were blended together to form new intermetalics phases or new 
+composites. Despite experiencing a metastable phase transition, in the Al matrix 
+also molten pools were created around the heating zone, as marked by the white 
+arrow in Figure 3(d). 
+ 
+         (a)                (b) 
+ 
+(c)              (d) 
+Figure 3 Microstructure of Fe-Cu (2:1) at different pulses: (a) 1 pulse, (b) 2 
+pulses, (c) 3 pulses, (d) 4 pulses. 
+The spectrum of the chemical composition resulting from the EDX analysis is 
+shown in Figure 4, arranged according to the increasing number of pulses. Each 
+of the constituents is the average from the scanning electron image. This 
+analysis corresponds to the conventional process. This means that with a low 
+power density, only a small area was melted and subsequently involved only 
+small chemical composition changes. Apperantly, as more power was delivered 
+to the surface, more heavy elements like Cu and Fe sank into the bulk. 
+Consequently, only a small amount of chemical constituents could be traced. As 
+a result, the Al elements rose up, but the Fe elements sank down and even 
+ellimanted the copper elements, because they sank deeper into the Al bulk. The 
+detailed chemical composition changes with respect to the various exposures are 
+tabulated in Table 2.   
+Undisolve Fe 
+Molten A1 Matrix 
+Remelted alloyed 
+Layer 
+Molten  
+pool 
+58 Noriah Bidin, et al. 
+Table 2 Constituents of alloyed layer via EDX analysis. 
+Element 
+Weight % 
+1 pulse 2 pulses 3 pulses 4 pulses 
+Oxygen 27.469 29.843 21.691 68.655 
+Magnesium 0.937 1.738 - 0.449 
+Aluminum 26.096 5.290 43.228 22.843 
+Chlorine 2.147 4.555 1.844 - 
+Iron 43.241 58.139 32.238 2.5057 
+Copper 0.110 0.435 0.000 0.000 
+ 
+ 
+ 
+ 
+ 
+Figure 4 Spectrum of chemical composition via EDX analysis at various 
+pulses: (a) 1 pulse, (b) 2 pulses, (c) 3 pulses, (d) 4 pulses. 
+a 
+b 
+c 
+d 
+ SEM-EDX Analysis of Laser Surface Alloying on Aluminum      59 
+ 
+4 Conclusion 
+The microstructure of aluminum alloyed with Fe-Cu has been investigated 
+using SEM-EDX analysis. The aluminum was alloyed using the laser induced 
+plasma technique. The plasma temperature was energetic enough to vaporize 
+the skin depth layer resulting in melting and re-solidifying of the aluminum 
+surface after the laser pulse had ceased. The SEM results show that the 
+microstructure drastically changed with the energy density. Most of the exposed 
+elements were melted and formed new composites, while molten pools were 
+created close to the interaction zone after receiving a power density greater than 
+5Å~10
+8
+ Wcm
+-2
+. Meanwhile, the EDX analysis shows that the chemical 
+composition of the modified surface had changed, which confirms that a 
+convection process took place during the alloying process. 
+Acknowledgements  
+This project was supported by the Malaysian Ministry of Higher Education 
+(MOHE) through Research University Grant vote 7126.00H10 and FRGS vote 
+4F001. Thanks are also due to UTM through RMC for financial management 
+and project monitoring.  
+References 
+[1] Vaziri, A. & Shahverdi, H.R., Effect of Beam Interaction Time on Laser 
+Alloying with Pulsed Nd-YAG Laser, Materials Science and Technology 
+25(10), pp. 1234-1237, 2009. 
+[2] Tomida, S. & Nakata, K., Fe-Al Composite Layers on Aluminum Alloy 
+Formed by Laser Surface Alloying with Iron Powder, Surface and 
+Coating Technology, 174, pp. 559-563, 2003.  
+[3] Poire, L. & Blank, E., Laser Cladding of Copper Base Alloys onto Al Si7 
+Mg0.3, Journal De Physique IV, 4, pp. 81-84, 1994.  
+[4] Gaffet, E., Pelletier, J.M. & Bonnet-Jobez, S., Precipitation of Cr-rich 
+Phases in a Ni-50 Al- 2 Cr (at %) Alloy, Acta Metall, 37, pp. 3205-3215, 
+1989.  
+[5] Temizel, G. & Ozenbas, M., Intermetallic Phase Formation at Fe-Al 
+Film Interfaces, Turkish J. Engineering and Environmental Sciences, 31, 
+p. 71, 2007.  
+[6] Su, R. & Lei, Y., Microstructure and Hardness of Laser Clad Sicp-Al 
+Composite Coatings on Al Alloys, Materials Letters., 62, pp. 3272-3275, 
+2008.  
+[7] El-Batahgy, A. & Kutsuna, M., Laser Beam Welding of AA5052, AA5083, 
+and AA6061 Aluminum Alloys, Advances in Materials Science and 
+Engineering, 2009, pp. 1-9, 2009.  
+60 Noriah Bidin, et al. 
+[8] Mabhali, L.A.B., Pityana, S.L. & Sacks, N., Laser Surface Alloying of 
+Aluminum (AA1200) with Ni and SiC Powders, Materials and 
+Manufacturing Processes, 25(12), pp. 1397-1403, 2010.  
+[9] Popoola, A.P.I., Pityana, S.L. & Popoola, O.M., Laser Deposition of (Cu 
++ Mo) Alloying Reinforcements on AA1200 Substrate for Corrosion 
+Improvement, Int. J. Electrochem. Sci., 6, pp. 5038-5051, 2011.  
+[10] Nath, S., Pityana, S. & Majumdar, J.D., Laser Surface Alloying of 
+Aluminium with WC+Co+Nicr for Improved Wear Resistance, Surface & 
+Coatings Technology, 206(15), pp. 3333-3341, 2012.  
+[11] Alwafi, Y.A., Bidin, N. Gustiono D. & Harun S.W., Alloying Aluminum 
+with Fe Using Laser Induced Plasma Technique, Laser Physics, 22(8), 
+pp. 1364-1367, 2012. 
+[12] Manalu, J.L., Kurniawan, K.H. & Lie, T.J., Excitation Mechanism in 
+Laser-Induced Plasma at Atmospheric Air Pressure, PROC. ITB Sains & 
+Tek., 37A(1), pp. 1-12, 2005.  
+ 

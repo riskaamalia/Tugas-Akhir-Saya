@@ -1,0 +1,708 @@
+  
+ITB J. Eng. Sci., Vol. 44, No. 3, 2012, 207-219                             207 
+ 
+Received January 11
+th
+, 2011, Revised February 28
+th
+, 2012, Accepted for publication May 20
+th
+, 2012. 
+Copyright ? 2012 Published by LPPM ITB & PII, ISSN: 1978-3051, DOI: 10.5614/itbj.eng.sci.2012.44.3.1 
+Siloxane based Organic-Inorganic Hybrid Polymers and 
+their Applications for Nanostructured Optical/Photonic 
+Components 
+Rahmat Hidayat
+1
+*, Widiyanta Gomulya
+1
+, Pina Pitriana
+1
+, Ryan Irmansyah
+1
+,  
+Rany Miranti
+1
+, Herman
+1
+, Sahrul Hidayat
+2
+, Fitrilawati
+2
+, Akihiko Fujii
+3 
+& 
+Masanori Ozaki
+3
+ 
+1Physics of Photonics and Magnetism Research Division, Faculty of Mathematics and 
+Natural Sciences, Bandung Institute of Technology, Indonesia 
+2Department of Physics, Faculty of Mathematics and Natural Sciences,  
+Padjadjaran University, Indonesia 
+3Division of Electrical, Electronic and Information Engineering, Faculty of Engineering,  
+Osaka University, Japan 
+E-mail: rahmat@fi.itb.ac.id 
+ 
+ 
+Abstract. We have studied the preparation of organic-inorganic hybrid polymer 
+precursors by sol-gel technique and their utilization for nanostructured optical 
+components for photonic applications. The gel polymer precursors were prepared 
+from siloxane modified by polymerizable acrylate groups, which can be 
+processed further by photopolymerization process. Molecular structure 
+characterizations by means of the FTIR measurements indicate the conversion of 
+C=C bonds into C-C bonds after photopolymerization. This bond conversion 
+produces high cross-linking between the organic and inorganic moieties, 
+resulting in thermally stable and chemically resistant thin polymer layer which 
+provide unique advantages of this material for particular optical/photonic 
+applications. By employing laser interference technique, gratings with 
+periodicity between 400-1000 nm have been successfully fabricated. Application 
+of those sub-micron periodicity of grating structure as active elements in 
+optically pumped polymer laser system and Surface Plasmon Resonance (SPR) 
+based measurement system have been also explored. The experimental results 
+therefore also show the potential applications of this hybrid polymer as a 
+building material for micro/nano-photonics components.  
+Keywords: hybrid polymers; nano-optics; optically pumped polymer laser; pulsed 
+laser interference; sol-gel materials; surface Plasmon resonance. 
+1 Introduction 
+Functional polymers have attracted much attention for various applications in 
+conventional optics, micro/nano-optical components, such as photonic band gap 
+(PBG) structure, and micro-electro-mechanic systems (MEMS) [1-6].Easiness 
+in fabrication process, which commonly does not require high temperature, is 
+one of the main advantages of polymers. Such processing condition allows the 
+208 Rahmat Hidayat, et al. 
+incorporation of various kinds of functional organic dyes. High temperature 
+requirement in glass and ceramic processing prevents the incorporation of 
+functional organic dyes, which will decompose a thigh temperature. Acrylic and 
+epoxy polymers, such as poly(methylmetacrylate) (PMMA) and SU-8, are 
+typical examples of polymers commonly used for those purposes, including 
+modern optic applications, such as fiber optics, optical interconnect 
+components, solid-state dye lasers, and optical amplifiers [1,2,7-9].However, 
+some disadvantages related to optical transparency, thermal stability, chemical 
+resistance and mechanical strength often restrict further development of their 
+applications for functional optical and photonic components. 
+In the last decade, organic-inorganic hybrid polymers, which are also called as 
+Ormosils or ORMOCERs polymers, have been much investigated because of 
+their interesting physical-chemical properties [10-14].These hybrid polymers 
+are commonly made from silicon alkoxides that are modified with 
+polymerizable organic groups, such as acrylic, methacrylic or epoxy, resulting 
+in the formation of inorganic and organic cross-linked network. According to 
+the classification given by Sanchez, these kinds of hybrid polymers are 
+classified as Class II, where the organic and inorganic components are linked 
+together by strong chemical bonds (covalent or ionic bonding) [10,11]. The 
+inorganic network is formed by sol-gel process, which is adapted from the sol-
+gel method commonly appliedfor preparing sol-gel derived inorganic glasses 
+and Class I organic-inorganic hybrid materials since more than three decades 
+ago. The Class I hybrid materials, which are derived from tetraethoxysilane 
+(TEOS) or tetramethoxysilane (TMOS), have been successfully employed for 
+various applications ranging from bulk glasses to optical fibers, thin film 
+coatings, ultra-pure powders and multifunctional materials [15-17].However, it 
+seems that those Class I hybrid materials are not feasible to be applied for 
+building complicated structures, particularly micro/nano-structures.  
+In Class II hybrid polymers, the organic network can be formed by 
+photopolymerization of the polymerizable organic groups, offering the 
+possibility of fabrication methods by photolithography, laser direct writing or 
+other novel fabrication techniques [13,14]. Fabrication of micro and nano-
+structured optical/photonic components using these hybrid polymers have been 
+demonstrated by using those techniques [13,14,18,19]. This paper presents the 
+precursor gel preparation of this class of hybrid polymer from methacrylate-
+ester modified siloxane by sol-gel technique and its application for constructing 
+diffractive optic based components, such as Distributed Feedback (DFB) 
+grating for photopumped lasers and grating based Surface Plasmon Resonance 
+(SPR) coupler. In this work, laser interference technique using high power 
+pulsed UV laser was applied for fabricating those gratings, which is distinctly 
+different from the fabrication methods in previous reports mentioned above 
+ Applications of Organic-Inorganic Hybrid Polymers 209 
+ 
+[18,19]. 
+2 Methodology 
+Precursor gels of hybrid polymers were synthesized from 3-
+(Trimethoxysilyl)propyl methacrylate (TMSPMA)by sol-gel route. Monomer 
+solution was prepared by dissolving TMSPMA monomer in a mixture solution 
+of water and ethanol. For use in the fabrication of DFB grating for 
+photopumped lasing purpose, this monomer solution was added with organic 
+laser dye, either Rhodamine 6G (R6G) or4-dicyanmethylene-2-methyl-6-(p-
+dimethyl-aminostyryl)-4H-pyran (DCM).However, this monomer solution 
+wasused without addition of any organic laser dye for use in the fabrication of 
+SPR grating coupler. Those monomer solutions were then processed by sol-gel 
+method as described elsewhere with some modification in its processing 
+conditions, until gel formed as its final product [20].Thin films of polymer 
+precursor gel were prepared by spin casting technique after addition of a small 
+amount of photoinitiator (Irgacure 819) into the precursor gel solution. Those 
+gel films were subjected to UV photocuring using a Hg lamp or a 
+semiconductor laser (405 nm). Basic molecular structure characterization was 
+carried out by means of FTIR spectroscopy, whereas basic optical 
+characterizations were carried out by UV-Vis spectroscopy and thin film 
+reflectometry. 
+Fabrication ofDFB grating structure with laser interference technique was 
+performed by using Lloyd mirror configuration, as illustrated schematically in 
+Figure1, and the frequency-tripled (THG) output of Nd-YAG laser(355 nm) as 
+the coherent light source. The interfering light beams at the precursor gel film 
+will be absorbed by photoinitiator resulting in photopolymerization rate that 
+varies spatially following the formed interference pattern. Those laser 
+interfering beams both in scribe interference pattern and cure the precursor gel. 
+Therefore, the wavelength of this laser beam can be also referred as curing 
+wavelength, namely ?curing = 355 nm. The laser power was about 200 mW with 
+beam diameter of about 1.2 cm, which is equivalent to laser fluence of about 18 
+mJ/cm
+2
+. The pulse duration was about 10 ns and the number of pulses was 
+about 2-5times. The grating surface structure was investigated by Atomic Force 
+Microscopy (AFM). The grating periodicities were determined from those AFM 
+images.  
+In order to investigate the possibility and characteristics of photopumped lasing 
+in those fabricated DFB gratings, the grating was placed in a photopumped laser 
+configuration optically pumped by a strip-line shaped laser beam from the 
+frequency doubled Nd-YAG laser (?pump = 532 nm).In order to investigate the 
+fabricated grating as a SPR grating coupler, the grating was previously covered 
+210 Rahmat Hidayat, et al. 
+by very thin Ag layer of about 50 nm thickness. This coupler element was then 
+placed and evaluated in a SPR spectroscopy system as described in literatures 
+[21,22]. 
+ 
+Figure 1 Setup of laser interference using Lloyd mirror for grating structure 
+fabrication. É∆i is the incident angle of laser beam. 
+3 Results and Discussion 
+3.1 Molecular Characterizations of Products 
+The whole reaction of sol-gel process involves the hydrolysis of silicon 
+alkoxides and then followed by a cascade of condensation and poly-
+condensation reactions, resulting in the formation of inorganic Si-O-Si network, 
+as indicated in the Scheme 1 [11,14].The photopolymerization reaction occurs 
+through radical polymerization mechanism which involves radical initiation and 
+chain elongations resulting in the formation of cross-linked methacrylate 
+network, as indicated in Scheme 2 [14]. After photopolymerization, according 
+to Scheme 2, there will be a change in molecular structure due to the conversion 
+of carbon-carbon double bond (C=C) into carbon-carbon single bond(C-C) in 
+methacrylic group.  
+Scheme 1. Reactions involved in sol-gel process, where R is methoxy group. 
+ ?SiOR + H2O ? ?SiOH + ROH (1) 
+ ?SiOH + HO-Si? ? ?Si-O-Si? + H2O (2) 
+ ?SiOH + RO-Si? ? ?Si-O-Si? + ROH (3) 
+Scheme 2. Reactions involved in photopolymerization, where I is initiator 
+molecule, r* is radical and RÅå is methacrylic group. 
+ I     +   kT (or h?1) ? 2r* (4) 
+É∆i 
+ 
+precursor gel 
+on glass substrate 
+M
+ir
+ro
+r 
+expanded 
+laser beam 
+ Applications of Organic-Inorganic Hybrid Polymers 211 
+ 
+ r*   +   ?SiRÅå    ? r(?SiRÅå)* (5) 
+ r(?SiRÅå)n* + r(?SiCRÅå)m*  ? 2(r(?SiRÅå)n+m) (6) 
+Figure 2 shows the FTIR spectra of hybrid polymer precursor gel measured 
+before and after photopolymerization. In comparison between the FTIR 
+spectrum of TMSPMA monomer and the precursor gel (before 
+photopolymerization), infrared absorption bands at ? = ?800 cm-1 and 1100 cm-1 
+were significantly suppressed [23].Those absorption bands are related to the 
+suppression of symmetric and asymmetric stretching of Si-O bonds, 
+respectively. The suppression of those bands thus indicates the formation of 
+inorganic network. As evident in Figure2, after photopolymerization, the 
+absorption band at 1635 cm
+-1
+ decreases indicating the reduction of C=C 
+vibration due to the conversion as mentioned above. A broad absorption band in 
+the region of 3500 cm
+-1
+ is assigned to O-H vibration, which may be due to the 
+presence of the remaining water, ethanol and unreacted O-H group inside the 
+precursor gel. Water and ethanol are expected to evaporate or disappear from 
+the film during post-baking process after photopolymerization step, but the 
+unreacted hydroxyl (O-H) groups may be still remain present in the film. This 
+O-H vibration band therefore becomes smaller but still remains in the FTIR 
+spectrum taken after photopolymerization in methacrylic group. 
+ 
+Figure 2 FTIR spectra of precursor gel after photopolymerization (red line, 
+upper side spectrum) and precursor before photopolymerization (black line, 
+lower side spectrum). 
+3.2 Grating Fabrication and Characterizations 
+Grating fabrication was performed in laser interference setup, as described in 
+ 
+FTIR of precursor after UV i radiati n
+Wavenumber(cm
+-1
+)
+01000200030004000
+T
+ra
+ns
+m
+m
+ita
+nc
+e
+0
+20
+40
+60
+80
+100
+120
+140
+Precursor
+After UV
+?C=C 
+?-Si-O-Si- 
+?Si-O 
+ 
+?C=O 
+?O-H 
+ 
+212 Rahmat Hidayat, et al. 
+the methodology section, at certain incident angle (É∆i) of interfering laser beams 
+with respect to the normal of the precursor gel film surface. The dependence of 
+grating periodicity (É©) on incident angle and curing wavelength (the interfering 
+laser beams wavelength)is given by: 
+ 
+? ?2sin
+curing
+i
+?
+?
+? ?   (1) 
+Using that formula, the grating periodicities were estimated to be about 1022, 
+454, 420, 391, and 366 nm for incident angles of 10Åã, 23Åã, 25Åã, 27Åã, and 29Åã, 
+respectively. Figure 3(a) and 3(b) shows the AFM images of a grating structure 
+prepared at the incident angle of interference laser of 10Åã. This grating has 
+periodicity of about 1000 nm, which is close to the estimated value above. 
+As depicted from the AFM images, sinusoidal corrugation structure was formed 
+with the grating depth of about 20-45 nm. The formation mechanism of this 
+corrugated grating structure is still not well understood at this stage, however 
+we suppose the formation may occur through some possible mechanisms as 
+followings. The first possibility may be related with polymerization induced 
+volume shrinkage. At the bright region, high laser intensity produces high 
+degree of photopolymerization which causes volume shrinkage as the precursor 
+gel changing into solid. On the other hand, at the dark region, 
+photopolymerization occurs with relatively low reaction rate so that there is no 
+significant volume shrinkage. As the bright region suffers more volume 
+shrinkage, the bright region would create valley while the dark region will 
+create bump. However, there is also other possible formation mechanism that 
+includes monomer diffusion during the polymerization. As the monomer 
+concentration quickly vanishes at the bright region due to high polymerization 
+rate, this condition leads to the diffusion of monomer from dark region to bright 
+region. The monomers are then attracted and accumulated at the bright region. 
+This mechanism, which is called as photo-induced swelling, results in bump 
+formation at the bright region but valley formation at the dark region [18,19]. 
+It should be also noted that, however, in this work the grating structure was 
+formed by using pulse laser energy of about 20 mJ/pulse, which is equivalent to 
+light power of about 2 MW/cm
+2
+ per pulse. This fabrication condition is 
+significantly different from that found in the fabrication method used in the 
+previous reports [18,19].A light beam with such optical power may theoretically 
+generate optical radiation force in the order of 10
+-3
+ N/cm
+2  
+[24,25]. Regarding to 
+this fact, though it is still speculative at the moment, one may also suggest the 
+mechanism formation due to radiation pressure effect. When the interfering 
+laser beams with high laser impinge on the surface of the precursor gel film, the 
+light momentum will be transferred to the precursor molecules. If the precursor 
+ Applications of Organic-Inorganic Hybrid Polymers 213 
+ 
+(a) (b) 
+gels is considered to be composed of nano-sizeparticulates, [14] this momentum 
+transfer may lead to the displacement of those precursor gel particulates in the 
+same direction with the laser beam propagation direction. However, in the same 
+time, the laser beam also induces cross linking photopolymerization and prevent 
+the precursor to move back. This process creates bump at the dark region and 
+valley at the bright region, producing a corrugation structure mimicking the 
+intensity profile of interfering laser beams. Such process will not happen in SU-
+8 resin because the radiation force is not sufficiently enough to displace these 
+resin molecules which have much larger molecular weight. Further specific 
+experimental works, however, are required to verify which one of those possible 
+mechanisms explained above actually responsible for the grating formation here 
+is.  
+Figure 3 (a) Atomic Force Microscopy (AFM) images of a grating fabricated at 
+incident angle of laser interference beam of 10Åã. (b) The same image sample but 
+taken in smaller scale. 
+3.3 Application as Distributed Feedback Grating and Photo-
+pumped Lasing 
+Fabricated DBF grating evaluated in a photopumped laser configuration, which 
+is optically pumped by the frequency doubled Nd-YAG pulse laser. Figure 4(a) 
+shows the emission spectra measured from hybrid polymer DFB grating 
+containing R6G organic laser dye. At low laser pumping energy, only 
+fluorescence spectrum was observed from the sample. A thigh laser pumping 
+energy, the emission spectral shape then changes indicated by much narrower 
+spectral width with FWHM less than 2 nm, which is in the limit range of the 
+spectrophotometer resolution (~1nm). Figure 4(b) shows that the emission 
+spectral width and peak intensity start to change abruptly at the pumping laser 
+intensity of about 0.1 mJ/pulse, which is the threshold pumping energy. This 
+clearly indicates the generation of lasing actions in this fabricated DFB grating 
+structure. The relationship between lasing wavelength, Bragg wavelength and 
+grating periodicity is given by 
+214 Rahmat Hidayat, et al. 
+ 
+lasing
+2Bragg effn
+m m
+?
+?
+?
+? ?  (2) 
+where m is the Bragg reflection order, and neff is the effective refractive index. 
+As evident in Figure 4(a), lasing was observed at about 580 nm from a grating 
+prepared at incident angle of 27?. The observed lasing wavelength is in 
+agreement with the estimated lasing wavelength calculated using Eq.(2), for m= 
+2, as indicated in Table 1. This fact also indicates that the lasing occurs at the 
+second order (m= 2) of Bragg reflection wavelength. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+It should be noted that the lasing performance, indicated by lasing wavelength 
+and threshold energy, is critically dependent on the geometrical structure of the 
+grating, such as the grating periodicity and corrugation depth. As the grating 
+formation may involve volume shrinkage or photo-induced swelling 
+mechanism, the deviation in geometrical structure may occur at each time of 
+fabrication leading to unpredictable degree of deviation in its performance. It is 
+therefore necessary to study further in separate work how to improve the 
+precursor gel and the fabrication technique in order to minimize geometrical 
+structure deviation. 
+ 
+Figure 4(a) The observation of lasing action in a hybrid polymer grating 
+containingR6G laser dye, which is indicated by the narrowing of its emission 
+spectral width. Fluorescence and Amplified Spontaneous Emission (ASE) 
+spectra are also displayed for comparison. (b) The plots of emission peak 
+intensity and emission spectral width depending on the laser pumping 
+energy. 
+0.00 0.05 0.10 0.15 0.20 0.25
+0
+100k
+200k
+300k
+400k
+500k
+600k
+0
+5
+10
+15
+20
+25
+30
+35
+40
+(b)
+ Max Intensity
+ 
+ 
+E
+m
+is
+s
+io
+n
+ I
+n
+te
+n
+s
+it
+y
+Laser Pumping Energy (mJ/pulse)
+  
+ FWHM
+F
+W
+H
+M
+ (n
+m
+)
+500 520 540 560 580 600 620 640 660 680 700
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0  fluorescence
+ at 0.08 mJ/pulse
+ at 0.11 mJ/pulse
+ at 0.15 mJ/pulse
+ at 0.22 mJ/pulse
+ ASE
+In
+te
+n
+s
+it
+y
+ (
+a
+rb
+. 
+u
+n
+it
+)
+Wavelength (nm)
+(a)
+ Applications of Organic-Inorganic Hybrid Polymers 215 
+ 
+Table 1 The estimated grating periodicities and lasing wavelengths vs. incident 
+angles used in the grating fabrication (calculated with the assumption n = 1.5). 
+Incident 
+Angle 
+Estimated 
+Periodicity (nm) 
+Estimated Lasing Wavelength 
+(at the 2nd order Bragg wavelength)  
+(nm) 
+10 1022 1533 
+23 454 681 
+25 420 630 
+27 391 586 
+ 
+3.4 Application as Coupling Elements for Surface Plasmon 
+Resonance Generation 
+Surface Plasmon Resonance (SPR) is a collective oscillation of electrons at the 
+flat metal surface (at the metal/dielectric interface), which is in resonant 
+condition with the incoming electromagnetic or light wave. The condition for 
+resonance is given by [13,14]: 
+ 1 2
+1 2
+sp oK k
+??
+? ?
+?
+?
+ (3) 
+where Ksp is the propagation constant of the SPR wave, while É√1 and É√2 are the 
+permittivity of metal and dielectric, respectively. In this case, surface wave can 
+be generated by using a prism coupler, which is constructed of a flat metal 
+coated on a prism. In the present work, we fabricated SPR grating couplers that 
+are constructed from a hybrid polymer grating covered by a very thin metal 
+layer (approx. 50 nm) on its top surface. Such SPR grating coupler has 
+attractive much attention for various bio-chemical molecular sensing 
+applications [26-28]. The resonance condition for grating coupled SPR 
+configuration is: 
+ 2
+SP iK K m
+?
+? ?
+?
+ (4) 
+where Ki is the propagation constant of the incoming light along the grating 
+surface, ? is the grating periodicity and m is an integer (= Å}1, Å}2, Åc ) that 
+denotes the diffraction order [26]. 
+216 Rahmat Hidayat, et al. 
+The fabricated grating, from precursor gel without addition of any laser dye 
+substance, was covered by thin film silver layer with about only 50 nm in 
+thickness. The grating periodicity is about 670 nm. Figure 5(a) shows the SPR 
+spectrum measured for water as the dielectric layer, which is in direct contact 
+with the silver layer. The spectrum shows two dips, which is typical SPR 
+spectrum obtained by using grating coupled SPR configuration. This is 
+distinctly different from SPR spectrum measured from SPR system with prism 
+coupled configuration, which normally exhibits only one spectrum dip. In the 
+case of grating coupler SPR element, the Plasmon wave suffers Bragg reflection 
+leading to the formation of standing wave. Such condition creates a forbidden 
+gap and splits the dispersion curve at the cross-section, as commonly observed 
+in photonic crystal theory [29].The SPR spectrum now therefore exhibits two 
+SPR dips. The spectral shape of the dip is much narrower and deeper in 
+comparison to that of measured by using just flat metal as in prism-coupled SPR 
+system. Figure 5(b) the shifting of SPR dip from 691 nm to 695 nm and 702 nm 
+with increasing glucose concentration in water from 0 g/dL to 10 g/dl and 20 
+g/dL, respectively. This concentration change is corresponding to the change of 
+solution refractive index from 1.30 to 1.32 and 1.34, respectively. This result 
+demonstrates that the fabricated grating performs well as a SPR grating coupler, 
+which can be applied in the refractive index measurement applications.  
+ 
+Figure 5 (a) The spectrum of Surface Plasmon Resonance (SPR) measured 
+by using SPR grating coupler prepared in this work from hybrid polymer 
+precursor gel. (b) The shifts of the SPR dip depending on the refractive index 
+of dielectric solution which is in contact with this SPR grating coupler 
+element. 
+400 500 600 700 800
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+1.1
+1.2
+R
+e
+fl
+e
+c
+ta
+n
+c
+e
+ (
+u
+n
+it
+le
+s
+s
+)
+Wavelength (nm)
+600 625 650 675 700 725 750 775 800
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+1.1
+R
+e
+fl
+e
+c
+ta
+n
+c
+e
+ (
+u
+n
+it
+le
+s
+s
+)
+Wavelength (nm)
+ water
+ glucose in water (10 gr/dL)
+ glucose in water (20 gr/dL)
+(a) (b) 
+ 
+ Applications of Organic-Inorganic Hybrid Polymers 217 
+ 
+4 Conclusion 
+Precursor gels of hybrid polymers containing polymerizable methacrylate group 
+have been prepared via sol-gel route. Grating structure has been successfully 
+fabricated on the surface of this hybrid polymer film by laser interference 
+technique utilizing high power UV pulse laser. The resulted gratings have 
+sinusoidal corrugated structure with periodicity in the range 400-1000 nm, 
+which can be selected by adjusting the incident angle. The mechanism 
+formation still cannot clearly verified at this stage, but it may involve an 
+interesting mechanism by considering the time duration required for the grating 
+formation. The applications of those fabricated grating structures for generation 
+of photopumped lasing and SPR wave have been also successfully 
+demonstrated. The present experimental results thus also demonstrate the 
+feasibility of this hybrid polymer as a building material for nanostructured 
+optical/photonic components. 
+Acknowledgments 
+The authors would like thank to JSPS (Japan) and DGHE (Indonesia) for the 
+research support under JSPS/DGHE Joint Research Project 2007-2010 scheme. 
+Part of this work was supported by Program Riset Kelompok Keahlian ITB 
+2010 (contract no. 234/K01.7/PL/2010). 
+References 
+[1] Kuzyk, Mark G., Polymer Fiber Optics: Materials, Physics, and 
+Applications (Optical Science and Engineering; 117), CRC Press, Taylor 
+& Francis Group, New York, 2007. 
+[2] Kuriki, K., Koike, Y. & Okamoto, Y., Plastic Optical Fiber Lasers and 
+Amplifiers Containing Lanthanide Complexes, Chem. Rev., 102, pp. 
+2347-2356, 2002. 
+[3] Edrington, A.C., Urbas, A.M., DeRege, P., Chen, C.X., Swager, T.M., 
+Hadjichristidis, N., Xenidou, M., Fetters, L.J., Joannopoulos, J.D., Fink, 
+Y. & Thomas, E.L., Adv. Mater., 13, Polymer-Based Photonic Crystals, 
+pp. 421-425, 2001. 
+[4] Psaltis, D., Quake, S.R. & Yang, C., Developing Optofluidic Technology 
+Through The Fusion of Microfluidics and Optics, Nature, 442, pp. 381-
+386, 2006.(doi:10.1038/nature05060) 
+[5] Leeds, A.R., Van Keuren, E.R., Durst, M.E., Schneider, T.W., Currie, 
+J.F. & Paranjape, M., Integration of Microfluidic and Microoptical 
+Elements Using A Single-Mask Photolithographic Step,Sensors and 
+Actuators A, 115, pp. 571?580, 2004. 
+[6] Biswas, A., Friend, C.S. & Prasad, P.N., Encyclopedia of Materials: 
+Science and Technology, Elsevier Science Ltd., 2000. 
+218 Rahmat Hidayat, et al. 
+[7] Sorek, Y. & Reisfeld, R., Sol-Gel Glass Wave Guides Prepared at Low 
+Temperature, Appl. Phys. Lett., 63, p. 3256, 1993. 
+[8] Kobayashi, T., Nakatsuka, S., Iwafuji, T., Kuriki, K., Imai, N., 
+Nakamoto, T., Claude, C.D., Sasaki, K., Koike, Y. & Okamoto, Y., 
+Fabrication and Superfluorescence of Rare-Earth Chelate-Doped 
+Graded Index Polymer Optical Fibers,Appl. Phys. Lett. 71,p. 2421, 1997; 
+Slooff, L.H., van Blaaderen, A., Polman, A., Hebbink, G.A., Klink, S.I., 
+van Veggel, F.C.J.M., Reinhoudt, D.N., & Hofstraat, J.W., Rare-earth 
+Doped Polymers for Planar Optical Amplifiers, J. Appl. Phys., 91, p. 
+3955, 2002. 
+[9] Hidayat, R., Sugihara, O.,Tsuchimori, M., Kagami, M., Nishikubo, T. & 
+Kaino, T., Binding of Europium Complex to Polymerizable Macrocyclic 
+Molecules and its Optical Properties, Opt. Mat, 29, p. 1367-1374, 2007. 
+[10] Sanchez, C., Julian, B., Belleville, P. & Popall, M., Applications of 
+Hybrid Organic-Inorganic Nanocomposites, J. Mater. Chem., 15, pp. 
+3559?3592, 2005. 
+[11] Novak, B.M., Hybrid Nanocomposite Materials between Inorganic 
+Glasses and Organic Polymers, Adv. Mater., 5, pp. 422-433, 1993. 
+[12] Schottner, G., Hybrid Sol-Gel-Derived Polymers: Applications of 
+Multifunctional Materials, Chem. Mater., 13, pp. 3422-3435, 2001. 
+[13] Buestrich, R., Kahlenberg, F., Popall, M., Dannberg, P., Muller-Fiedler, 
+R. & Rosch, O., ORMOCER
+?
+s for Optical Interconnect Technology, J. 
+Sol-Gel Sci. Technol.,20, pp. 181?186, 2001. 
+[14] Haas, K. & Wolter, H., Hybrid Inorganic/Organic Polymers with 
+Nanoscale Building Blocks: Precursors, Processing, Properties and 
+Applications, Rev. Adv. Mater. Sci., 5, pp. 47-52, 2003. 
+[15] Wen, J. & Wilkes, G.L., Organic/Inorganic Hybrid Network Materials by 
+The Sol-Gel Approach, Chem. Mater., 8, pp. 1667-1681, 1996. 
+[16] Kirkbir, F., Murata, H., Mayer, D., Chaudhari, S.R., & Sarkar, A., Drying 
+and Sintering of Sol-Gel Derived Large SiO2Monoliths, J. Sol-Gel Sci. 
+Technol.,6,pp. 203-217,1996; Nogues, J.L.R. & Moreshead, W.V., 
+Porous Gel-Silica, A Matrix for Optically-Active Components, J. Non-
+Cryst. Solids., 121, pp. 136-142,1990. 
+[17] Burzynski, R. & Prasad, P.N., Photonics and Nonlinear Optics with Sol-
+Gel Processed Inorganic Glass: Organic Polymer Composite, Klein L.C. 
+(ed.), Kluwer, Boston, Chapter 19. 
+[18] Croutx?-Barghorn, C., Soppera, O. & Chevallier, M., Diffraction 
+Gratings in Hybrid Sol-Gel Films: on The Understanding of The Relief 
+Generation Process, Macromol. Mater. Eng., 288, pp. 219-227, 2003. 
+[19] Blanc, D., P?lissier, S., Jurine, P.Y., Soppera, O., Croutx?-Barghorn, C. 
+& Carr?, C., Photo-Induced Swelling of Hybrid Sol-Gel Thin Films: 
+Application to Surface Micro-Patterning, J. Sol-Gel Sci. Tech., 27, pp. 
+215-220,2003. 
+ Applications of Organic-Inorganic Hybrid Polymers 219 
+ 
+[20] Fan, X., Wua, X., Wanga, M., Qiub, J. & Kawamoto, Y., Luminescence 
+Behaviors of Eu
+3+É¿-Diketonate Complexes in Sol?Gel-Derived Host 
+Materials, Mater. Lett., 58, p. 2217,2004; Fan, X., Lia, W., Wang & F. 
+Wang, M., Luminescence Behavior of the Europium (III) Complexes with 
+Hexafluoracetylacetonate in the ORMOSIL Matrices, Mat. Sci. & Eng. B, 
+100, p. 147, 2003. 
+[21] Homola, J., Surface Plasmon Resonance Based Sensors, Springer: New 
+York, 2006. 
+[22] Maier, S.A., Plasmonics: Fundamentals and Applications, Springer: 
+United Kingdom, 2007. 
+[23] http://www.sigmaaldrich.com/spectra/ftir/FTIR003510.PDF (accessed in 
+Sept. 3
+rd
+, 2010) 
+[24] Loudon, R., Theory of the Radiation Pressure on Dielectric Surfaces, J. 
+Mod. Opt., 49, pp. 821-838, 2002. 
+[25] Mansuripur, M., Radiation Pressure and the Linear Momentum of the 
+Electromagnetic Field, Opt. Expr., 12, p. 5375,2004. 
+[26] Homola, J., Surface Plasmon Resonance Sensors for Detection of 
+Chemical and Biological Species, Chem. Rev., 108, pp. 462-493, 2008; 
+Dostalek, J. & Homola, J., Surface Plasmon Resonance Sensor Based on 
+an Array of Diffraction Gratings for Highly-Parallelized Observation of 
+Biomolecular Interactions, Sens. and Act. B, 129, pp. 303?310, 2008. 
+[27] Roh, S., Chung, T. & Lee, B., Overview of the Characteristics of Micro- 
+and Nano-Structured Surface Plasmon Resonance Sensor, Sensors, 11, 
+pp. 1565-1588, 2011. 
+[28] Yu, F., Tian, S., Yao, D. & Knoll, W., Surface Plasmon Enhanced 
+Diffraction for Label-Free Biosensing, Anal. Chem., 76, pp. 3530-3535, 
+2004. 
+[29] Sakoda, K., Optical Properties of Photonic Crystal, Springer: Berlin, 
+2004. 

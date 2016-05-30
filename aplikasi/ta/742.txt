@@ -1,0 +1,755 @@
+  
+ITB J. Eng. Sci., Vol. 44, No. 3, 2012, 303-318                             303 
+ 
+Received April 7
+th
+, 2011, Revised June 19
+th
+, 2012, Accepted for publication November 1
+st
+, 2012. 
+Copyright ? 2012 Published by LPPM ITB & PII, ISSN: 1978-3051, DOI: 10.5614/itbj.eng.sci.2012.44.3.7 
+Characteristics of Oxidative Storage Stability of Canola 
+Fatty Acid Methyl Ester Stabilised with Antioxidants  
+Tirto Prakoso
+1
+, Parncheewa Udomsap
+2
+, Akiko Tanaka
+3
+, Toshihiro Hirotsu
+3 
+& Shinichi Goto
+3 
+1Department of Chemical Engineering, Bandung Institute of Technology (ITB),  
+Jl. Ganesha 10, Bandung, Jawa Barat 40132, Indonesia 
+2National Metal and Materials Technology Center (MTEC), NSTDA114 Paholyothin 
+Rd.,Klong 1, Klong Luang, Pathumthani 12120, Thailand 
+3NFV Center, National Institute for Advanced Industrial Science and Technology 
+(AIST), 1-2-1 Namiki, Tsukuba, Ibaraki 305-8564, Japan 
+Email: tirto@che.itb.ac.id 
+ 
+ 
+Abstract. The storage effects on the oxidation characteristics of fatty acid 
+methyl ester of canola oil (CME) were investigated in this study.CME stabilised 
+with two antioxidants, i.e.2,6-di-tert-bytyl-p-cresol (BHT) and 6,6-di-tert-butyl-
+2, 2Åf-methylendi-p-cresol (BPH), was stored at 20, 40 and 60ÅãC.The oxidation 
+stability data were measured by the Rancimat test method and it was found that 
+both BHT and BPH addition increased the oxidation resistance of the CME. The 
+results showed that when BPH or BHT was added at a concentration of 100 ppm, 
+the oxidation induction period of the neat CME samples increased from 5.53 h to 
+6.93 hand 6.14h, respectively. Comparing both antioxidants, BPH proved to be 
+more effective in increasing the oxidation resistance when both antioxidants 
+were added at the same concentration. Furthermore, the oxidation induction time 
+decreased linearly with the storage time. It was shown that the oxidation 
+occurred rapidly in the first 8 weeks of storage. Later, a kinetic study was 
+undertaken and first-order kinetics were applied to explain the oxidation 
+characteristics of the CME added with antioxidants. This kinetic study focused 
+on exploiting the activation energy values obtained from the Arrhenius 
+equations. Also, the oxidation effects on other quality parameters, including acid 
+value, peroxide value, kinematic viscosity, and water content, were examined. 
+Keywords: antioxidants concentration; canola fatty acid methyl ester; oxidation 
+stability; temperature effects; time of storage. 
+1 Introduction 
+Recently, biodiesel of methyl ester, one of several alternative diesel fuels, is 
+made from vegetable oil and animal fat through methanol transesterification. 
+Interest has been aroused in their use as they are biodegradable and release a 
+low level of toxic gas emissions into the environment. The mechanism of 
+transesterification reaction consists of three reversible reactions, in which 
+triglyceride is converted into diglyceride, monoglycerides and glycerol 
+304 Tirto Prakoso, et al. 
+sequentially [1]. The composition of the fatty acid structure is determined by the 
+type of feedstock [2], while the optimum reaction conditions depend on the state 
+of the supplied oil, which has been investigated for the effective production of 
+biodiesel fuel. Each type of biodiesel feedstock contains its own fatty acid 
+composition, and this chemical structure influences the properties of methyl 
+ester as a biodiesel fuel, such as oxidation stability, cetane number, iodine 
+value, cold filter plugging point, etc. [2]. The presence of free fatty acids and 
+water always brings negative effects to the biodiesel yield owing to soap 
+formation and the consumption of alkaline catalysts. As a result, the addition of 
+an alkaline catalyst decreases reaction effectiveness and a gives lower yield [3, 
+4]. The conditions for biodiesel production are considered optimal when they 
+have a high yield of alkyl ester, are easy to operate and cost-effective. 
+The combustion properties of biodiesel fuel are similar to those of petroleum 
+diesel fuel. One important quality of good biodiesel fuel is its resistance to 
+oxidation during storage, especially under high-temperature conditions and on 
+air exposure. The relative rates of oxidation of polyunsaturated fatty acids, like 
+linolenate and linoleate methyl esters, are higher than those of monounsaturated 
+fatty acids, like oleate methyl esters [5].The presence of double bonds in fatty 
+acid molecules can result in a high level of reactivity with oxygen when the fuel 
+is exposed to air during storage. Besides the presence of air, other factors that 
+affect the oxidation process of biodiesel include presence of light, heat, traces of 
+metal, peroxide and the surface area between biodiesel and air [6]. Thus storage 
+and handling are also important factors that can affect the oxidation of 
+biodiesel. The oxidation finally results in the formation of carboxylic acids with 
+high molecular weight as well as low molecular weight [7]. These substances 
+will cause an increase in the viscosity of the biodiesel fuel, which can result in 
+fuel line and pump clogging. The peroxides produced during oxidation will also 
+cause an increase in cetane number,which can have a negative effect on the 
+plastic and elastomer partsof an engine, such as swelling and ageing problems. 
+Moreover, the acid forms will cause corrosion on metal components [8]. 
+One approach to increase the oxidation resistance of biodiesel is to treat it with 
+an oxidation inhibitor or antioxidant. Commonly used antioxidants are 
+monohydroxy or polyhydroxy phenol compounds with various ring 
+substitutions. These antioxidant compounds have low activation energy to 
+donate hydrogen in order to interrupt the propagation of the free radical chain. 
+In other words, the compounds can delay the start and/or slow down the 
+chemical reaction rate of oxidation. The resulting antioxidant free radicals do 
+not initiate other free radicals due to the stabilisation by delocalisation of the 
+radical electron and it can also react with lipid free radicals to form stable 
+complex compounds [9].  
+Storage Oxidation Stability of Canola FAME with Antioxidant  305 
+The purpose of this work is to investigate the oxidation characteristics of canola 
+fatty acid methyl ester (CME). Canola is one of two cultivars of rapeseed that 
+produce edible oil. CME was produced on a laboratory scale to be used for the 
+investigation. The reason Canola has been chosen is that it is very popular and 
+easy to obtain as cooking oil in Japan and European countries. As this type of 
+biofuel consists of a high concentration of unsaturated fatty acid, the oxidation 
+stability is predicted to be considerably lower compared to palm oil, so that it is 
+important to enhance its stability by adding antioxidants. Canola oilÅfs main 
+composition is 60% oleic acid, 20% linoleic acid, and 8% linolenic acid. The 
+remaining percentage consists of stearic and palmitic acids.  
+Two phenolic types of antioxidants were used in this work, i.e.2,6-di-tert-butyl-
+4-methylphenol (BHT) and 2,2Åf-methylenebis(6-t-butyl-4-methylphenol) 
+(BPH). Different oxidation states were achieved and as a result the oxidation 
+stability could be controlled. The oxidation stability of the CME stabilised with 
+two types of antioxidants at varying concentrations was examined primarily. 
+Then changes in the oxidation stability index (OSI), expressed by the induction 
+period of the Rancimat test (IP), were monitored during storage. Karavalakis, et 
+al. have investigated the performance of other phenolic antioxidants, such as 
+BHA, on biodiesel blends made from 50% rapeseed oil, 20% sunflower oil and 
+30% used frying oils [10]. They compared the performance of two phenolic 
+antioxidants, which both only had one phenolic group attached to each 
+molecule. However, BHT has one phenolic group phenolic groups attached to 
+each molecule, while BPH has two. Comparing the two antioxidants, BPH is 
+expected to have an antioxidant performance superior to that of BHT or BHA. 
+First-order kinetics were then employed to describe the oxidation process 
+according to the observation of a linear relationship between the logarithmic 
+values of the OSI and particular ranges of storage time in this investigation.  
+The handling provided an explanation for changes in the induction period of the 
+oxidation process. Jiayu Xin, et al. have investigated kinetically the oxidation 
+stability of safflower methyl ester stabilised with propyl gallate at various 
+concentrations and at elevated temperatures [11]. They analysed the oxidation 
+stability data by following the effect of the decrease in antioxidant 
+concentration on the induction period of the Rancimat test to elucidate the 
+oxidation characteristics. Their analysis also employed first-order reaction rate 
+kinetics to illustrate the oxidation of biodiesel fuel. Even though the handling 
+process in our study was different from their case, in which this was based on 
+the chemical reactions because of the decreasing density of the antioxidants, 
+first-order kinetics could also be applied to the storage tests. 
+306 Tirto Prakoso, et al. 
+By comparing the assumed rate constant obtained from storage temperatures of 
+20, 40 and 60ÅãC, the activation energy was calculated from the Arrhenius plots 
+of each CME sample. Thus the oxidation characteristics could be compared to 
+each other. These could be further related to other quality parameters, such as 
+the acid value and peroxide value, which also varied over the storage period of 
+the biodiesel fuel. 
+2 Experiment 
+2.1 Chemical and Materials 
+Methanol, potassium hydroxide (KOH), sulfuric acid and glycerol of reagent 
+grade were purchased from Wako Pure Chemicals Industries, Ltd., Tokyo, 
+Japan. Antioxidants BHT and BPH were reagent grade and purchased from 
+Wako also. Canola oil (Nisshin Oilio, Ltd., Japan), which had been purchased in 
+the market, was used as the source for the CME. 
+2.2 Preparation of CME 
+Transesterification of food grade canola oil was carried out. Firstly, KOH 
+(1.67%w/w of oil) was dissolved in methanol (22.50%w/w of oil) and the 
+mixture was added to vegetable oil. The excess KOH and excess methanol 
+(14% w/w oil) were added to the mixture in order to meet the minimum ester 
+content of 96.5% at the end of the reaction. The mixture was then preheated to 
+60ÅãC under stirring for 1 hour. The separated fatty acid methyl ester layer was 
+washed with water to remove residual acid and methanol, and subsequently the 
+product was dried to remove moisture. The mono-, di- and triglyceride contents 
+of the CME were then analyzed using high-performance liquid chromatography 
+in order to evaluate thecompletion of the reaction. 
+2.3 Storage of CME and Oxidation Stability Test 
+The neat CMEs and those added with BHT and BPH at a concentration of up to 
+600 ppm were put in 300 mL bottles and stored at 20, 40 and 60ÅãC. The 
+oxidation stability tests were carried out every 2 weeks. The peroxide values 
+and acid values were measured every 4 weeks, while kinematic viscosity and 
+water content were measured every 8 weeks. The oxidation stability was 
+evaluated mainly by the induction period tested by a Rancimat apparatus (Type 
+743, Metrohm Schweiz AG, Switzerland) according to the standard test method 
+specified in BS EN 14112.  
+2.4 Chemical Analysis 
+The peroxide value was determined by a potentiometric meter (Titrando 809, 
+Metrohm) and the acid value was determined using a potentiometric automatic 
+titrator (GT-100, Mitsubishi Chemical Analitica Co., Japan) in conjunction with 
+Storage Oxidation Stability of Canola FAME with Antioxidant  307 
+an auto sample changer (GT-07). The kinematic viscosity of the FAMEs was 
+measured at 40ÅãCby a viscosity meter in a water bath (VB-X6, Yoshida Kagaku 
+Kikai Co., Japan), while the water content was measured using an 831 Karl-
+Fischer coulometer (Metrohm). The standards referred to in this research are 
+listed in Table 1. 
+Table 1 Fatty acid methyl esters analytical standards used in this research. 
+Properties Standard of Analysis 
+Oxidation stability  (hours) EN 14112:2003 
+Acid value (mg KOH/g) ASTM D 664-07  
+Peroxide value (meq/kg)  ISO 27107:2008  
+Water content  (mg/kg)  ISO 12937  
+Kinematic viscosity (mm/s) ISO 4104:1996 
+3 Results and Discussion 
+3.1 Chemical Characterisation of CME 
+The chemical properties of the CME are summarised in Table 2. The acid value 
+and kinematic viscosity of the CME were within the range of the standard levels 
+specified in the EN and ASTM standards. The oxidation stability of the CME 
+was 5.53h, which corresponds to that of methyl ester prepared from wasted 
+cooking oil. However, the EN standard requires the oxidation stability to reach a 
+minimum of 6 h, therefore a modification of the CME is essential. 
+ 
+The period of oxidation stability required to meet the EN and ASTM standards 
+is 6h and 3h, respectively. However, the standard of the ERIA (Economic 
+Research Institute for ASEAN and East Asia) group, which considers the use of 
+biodiesel fuel mainly in Southeast Asian countries, requires a stability time of 
+longer than 10h [12]. In order to meet this ERIA requirement, further 
+stabilisation of the CME was necessary. For this purpose antioxidants BHT and 
+BPH were added. The influence of several parameters, i.e. antioxidant addition, 
+storage temperature and storage period, on the characteristics of the oxidation 
+resistance were then examined.Using these experimental results, the kinetic 
+analyses were attempted and the characterisation of the modified CME was 
+made. 
+ 
+Figure 1shows the effects of the addition of antioxidants BHT and BPH on the 
+induction period of canola methyl ester (CME). Both antioxidants were added at 
+a concentration of up to 600 ppm, and the changes in the induction period of the 
+Rancimat test were compared. The influence of these anti oxidants on the 
+increase of the induction period were proved. Furthermore it should be noted 
+that the stability effect was, in general, greater for BPH, in which two atoms of 
+hydrogen in the phenolic hydroxyl form can contribute to the stabilisation. The 
+308 Tirto Prakoso, et al. 
+induction period of CME exceeded 6h, which is the EN 14214 standard value 
+when either BHT or BPH are added at 100 ppm. In addition, the induction 
+period increased with the increase of the added antioxidant concentrations. 
+Table 2 Chemical properties of fatty acid methyl esters. 
+Properties 
+Standard 
+CME WCOME COME JME JISK23
+90 
+EN14214 
+ASTM 
+D6751-08 
+1. Oxidation stability 
+ (h), min 
+- 6 3 5.53 5.22 23.97 9.11 
+2. Acid value 
+ (mgKOH/ g), max 
+0.5 0.50 0.50 0.15 0.15 0.08 0.16 
+3. Water content  
+ (ppm), max 
+500 500 0.05%v/v  423.1 213.7 489.6 
+378.
+8 
+4.  Kinematic 
+viscosity 
+ (mm2/s) 
+3.5-5.0 3.5-5.0 1.90-5.00 4.3 4.4 2.6 4.33 
+5.  Peroxide value 
+ (meq/kg) 
+NA NA NA 11 5.9 0.7 5.6 
+CME: canola methyl ester, WCOME: waste cooking oil methyl ester, COME: coconut oil methyl 
+ester, and JME: jatropha methyl ester. 
+ 
+ 
+Figure 1 Dependence of the oxidation stability index (OSI) of CME on added 
+BHT and BPH concentration. 
+3.2 Storage and Temperature Effects 
+The neat CMEs and those stabilised with antioxidants were stored at 20, 40 and 
+60ÅãC respectively, and the effects of temperature on oxidation stability were 
+examined by the Rancimat test method. The FAMEs were contacted to air 
+Storage Oxidation Stability of Canola FAME with Antioxidant  309 
+during storage, but the samples were kept out of the light by being stored in a 
+dark place. The temperature levels were selected by considering the general 
+practice of storing oils, and accelerated oxidation effects were also expected to 
+happen under the selected conditions.  
+ 
+The oxidation stability is of course dependent primarily on the type of biodiesel 
+fuel. It is also affected by other storage parameters, i.e. antioxidant type, 
+antioxidant concentration and storage temperature. The decay of the oxidation 
+stability is naturally suppressed when the antioxidant concentration becomes 
+higher or the storage temperature is lower. 
+ 
+Figures 2shows typical examples of the dependence of oxidation stability on 
+storage time for the CMEs stabilised with BHT (a) or BPH (b), measured at 
+40ÅãC (c). The induction period decreased more at the first stage, e.g. up to eight 
+weeks, and then the decreasing degree became smaller. A similar behavior was 
+observed in the storage tests for 20and 60ÅãC.Furthermore, figure 2 shows that 
+the temperature influence was more significant, i.e. the decreasing degree 
+became more prominent at 60ÅãC. It was evident from the results that the 
+addition of the antioxidants was effective to increase the induction period and 
+therefore the oxidation stability was improved. However, the decreasing 
+behavior indicated clearly that the deterioration degree was faster at the initial 
+stage of storage, and then the rate decreased gradually. Using these phenomena, 
+kinetic analyses were applied to the change of the induction period of oxidation. 
+0
+2
+4
+6
+8
+10
+12
+14
+0 4 8 12 16 20
+0ppm
+300ppm
+600ppm
+Duration (week)
+0
+2
+4
+6
+8
+10
+12
+14
+0 4 8 12 16 20
+0ppm
+300ppm
+600ppm
+Duration (week)
+(a) (b)
+ 
+Figure 2 Influence of antioxidant BHT (a) and BPH (b) addition on the 
+oxidation stability during a 16-week storage period at 40ÅãC. 
+310 Tirto Prakoso, et al. 
+3.3 Kinetic Analyses of CME Oxidation 
+Taking the decrease of the induction period of oxidation into consideration, 
+kinetic analyses were attempted to examine storage behavior, and its effect on 
+oxidation was investigated from a quantitative viewpoint. The results as shown 
+in Figure 2 were used and kinetic studies were employed to examine the effects 
+of antioxidant addition or temperature during storage. 
+ 
+The logarithmic value of the induction time was obtained and its correlation 
+with the storage time was examined. The result is shown in Figure 3 for the test 
+conducted at 40ÅãC and a linear relation between these two parameters is 
+observed. Similar relationships were also observed at 20 and 60ÅãC. This figure 
+shows that the characteristics of the oxidation stability depended on the CME 
+species, i.e. the slope was steeper for the neat CMEs and the CMEs stabilised 
+with a smaller addition of antioxidants, indicating that the oxidation stability 
+decreased faster.  
+ 
+Taking the decaying linear characteristics into consideration, first-order-like 
+reaction kinetics were employed to elucidate the oxidation stability 
+characteristics of these CME samples, as depicted in Figure 3. 
+0
+0.4
+0.8
+1.2
+1.6
+2
+2.4
+2.8
+0 4 8 12 16 20
+0ppm
+300ppm
+600ppm
+Duration (week)
+0
+0.4
+0.8
+1.2
+1.6
+2
+2.4
+2.8
+0 4 8 12 16 20
+0ppm
+300ppm
+600ppm
+Duration (week)
+(a) (b)  
+Figure 3 Correlation between storage time (weeks) at 40ÅãC and the logarithmic 
+value of OSI (h) measured by Rancimat test for CME samples with and without 
+addition of antioxidants BHT (a) and BPH (b).    
+Eq. (1) can be written from a linear relationship observed in the storage test 
+range. In Eq. (1), k is a rate constant and expresses the speed of the oxidation 
+degree, while t represents a storage time. Integrating this equation leads to Eq. 
+(2).  
+  (1) ? ?
+? ?
+kdt
+T
+Td
+os
+os
+??
+Storage Oxidation Stability of Canola FAME with Antioxidant  311 
+  (2) 
+Here, ÅgAÅh is a constant given by the induction period at the initial stage of 
+storage, and therefore, A=ln(Tos)o. Eq.(2) is then described in Eq. (3). The rate 
+constant k can be obtained from the induction periods for the initial stage, (Tos)o 
+and at the storage time of t, (Tos). Using k, the oxidative degradation levels can 
+be compared to each other. 
+  (3) 
+The data of k are summarised in Figure 4 for the CME stabilised with BHT (a) 
+and BPH (b), respectively. The oxidation characteristics of the CME appear 
+clearly in this figure, i.e. the value of k becomes higher with an increase of the 
+storage temperature, but is lower if BHT or BPH is added. This indicates that 
+the oxidation of the CME increased with the temperature increase, and was 
+decreased effectively by the addition of the antioxidants.The addition of 
+600ppm BHT antioxidant can decrease the oxidation rate up to 47% at a 
+temperature of 40 and 60ÅãC, while at a temperature of 20 ÅãC the decrease of the 
+oxidation rate can reach only 30% more than 0 ppm of BHT addition. The 
+addition of 600 ppm BPH antioxidant can decrease the oxidation rate up to 40% 
+more than the addition of 0 ppm at a temperature of 40and 60ÅãC, while at a 
+temperature of 20ÅãC the decrease of the oxidation rate can reach only 12.5% 
+more than the addition of 0 ppm of BHT. It was shown that BPH performs 
+better than BHT as its suppression of the oxidation rate was 1.23 times that of 
+BHT. 
+0
+0.0 2
+0.0 4
+0.0 6
+0.0 8
+0.1
+0.1 2
+0.1 4
+0 10 0 30 0 60 0
+20C
+40C
+60C
+Conc. of BHT (ppm)
+0
+0.0 2
+0.0 4
+0.0 6
+0.0 8
+0.1
+0.1 2
+0.1 4
+0 30 0 60 0
+20C
+40C
+60C
+Conc. of BPH (ppm)
+(a) (b)
+ 
+Figure 4 Dependence of oxidation rate on antioxidant addition, BHT (a) and 
+BPH (b). 
+? ? AktTn os ????
+? ? ? ?0osos TnktTn ?? ???
+312 Tirto Prakoso, et al. 
+The activation energy (Ea, J/ mol K) can be obtained by employing k from the 
+Arrhenius equation, which describes the temperature dependence of k, as shown 
+in Eq. (4).  
+  (4) 
+ 
+Here, R is a gas constant (8.31 J/ mol K), and B is a constant. Ea can be obtained 
+from the relationship of the ln k value and T
+-1
+.The values of Ea for the oxidation 
+of the CME stabilised with BHT and BPH are summarised in Figure 5.  
+0
+10
+20
+30
+40
+50
+60
+0 300 600
+BHT
+BPH
+Conc of antioxidants (ppm)
+ 
+Figure 5 Activation energy (Ea) of neat CME and of CME added with BHT or 
+BPH at 300 and 600ppm. 
+Ea indicates the quantity of energy necessary for a chemical reaction, and 
+therefore the effectiveness of an antioxidant can be examined by comparing its 
+activation energies, i.e. reactions with a high barrier need a higher activation 
+energy, while reactions with a low activation energy are low in oxidation 
+resistance. With the addition of antioxidants, Ea increased and the oxidation 
+stability of the CME was improved equally. We found that BPH addition at a 
+concentration of 600ppm increased the size of Ea two times more than that of 
+neat CME, and as a result oxidation was suppressed equally. When the 
+effectiveness of BHT and BPH addition were compared, BPH proved to be 
+more effective in increasing the oxidation stability. 
+3.4 Generation of Organic Carboxylic Acids during Storage 
+The oxidation proceeded during the storage of the CME and generated oxidative 
+products. Among these products carboxylic acids with a low molecular weight 
+appeared, such as formic acid, acetic acid and propionic acid. The CME stored 
+for six months at 20, 40 and 60ÅãC was extruded in deionised water and the 
+B
+RT
+E
+k
+a
+???ln
+Storage Oxidation Stability of Canola FAME with Antioxidant  313 
+quantitative analyses of the carboxylic acids was undertaken by liquid 
+chromatography (Shimazdu, Kyoto, Japan). The results are summarised in 
+Figure 6. The generation of carboxylic acid was not practically observed after 
+six months of storage at a temperature of 20ÅãC, but along with the increase in 
+storage temperature, the carboxylic acid generation became remarkable and 
+exceeded the standard values by far (10 ppm for acids total). Thus the 
+temperature effects on the oxidation of neat CME were evident. However, the 
+production of these carboxylic acids could be suppressed remarkably by the 
+addition of antioxidants. 
+0
+10
+20
+30
+40
+50
+60
+70
+20 40 60
+Formic
+Acetic
+Propionic
+Storage temperture  (
+o
+C)
+ 
+Figure 6 Generation of carboxylic acids in neat CMEs and stored for six 
+months at 20, 40 and 60ÅãC. 
+3.5 Oxidation stability vs. Quality Parameter 
+Peroxide and carboxylic acid structures are formed on the biodiesel fuel 
+molecules as a result of oxidation, i.e. a chemical reaction of activated oxygen 
+takes place on C=C bonds to form a peroxide structure, and oxidation finally 
+leads to carboxylic acids formation. It is interesting to know how the generation 
+of these oxidation products relates to the oxidation stability evaluated by the 
+Rancimat method. For this purpose, the peroxide value (POV) and acid value 
+(AV) were measured during the period that the oxidation stability tests of the 
+Rancimat method were repeated. The correlation between these quality 
+parameters and the oxidation stability characteristics was then investigated. In 
+addition, the kinematic viscosity and water content were measured, and 
+subsequently their correlation with the OSI was examined to clarify the effect of 
+oxidation on these parameters. 
+ 
+314 Tirto Prakoso, et al. 
+(a) Peroxide value 
+Figure 7 (a,b) shows the changes in the peroxide value for the CME samples 
+stabilised with BHT (a) and BPH (b) and stored at 40 and 60ÅãC. The peroxide 
+value increased with the increase of the storage time, which was affected by the 
+modification of the CME, i.e. the addition of the antioxidants depressed the 
+formation of peroxide. The POV of the CME added with BPH was relatively 
+small compared to the POV of that added with BHT, and thus BPH was found 
+to be more effective in depressing the peroxide formation. 
+0
+20
+40
+60
+80
+100
+120
+0 4 8 12 16 20
+0ppm
+300ppm
+600ppm
+Duration (week)
+0
+20
+40
+60
+80
+100
+120
+0 4 8 12 16 20
+0ppm
+300ppm
+600ppm
+Duration (week)
+(a) (b)  
+Figure 7 Peroxide value of CME samples added with BHT (a) and BPH (b) 
+during storage at 40ÅãC. 
+The oxidation of the FAME then gave rise to the generation of carbonic acid. 
+The formation of carbonic acid was quantified by a titration method. It should 
+be noted that the generation of carbonic acid may also be caused by hydrolysis 
+of methyl ester bonds during contact with moisture. 
+0
+20
+40
+60
+80
+100
+120
+0 2 4 6 8 10 12 14
+POV
+OSI (h)
+0
+20
+40
+60
+80
+100
+120
+0 2 4 6 8 10 12 14
+POV 40C
+OSI (h)
+0
+20
+40
+60
+80
+100
+120
+0 2 4 6 8 10 12 14
+POV 60C
+OSI (h)
+(a) (b) (c)  
+Figure 8 Correlation between peroxide value (POV) and oxidation stability 
+(OSI) for neat CME and CME stabilised with BHT or BPH during storage at 
+20ÅãC (a), 40ÅãC (b) and 60ÅãC (c). 
+Storage Oxidation Stability of Canola FAME with Antioxidant  315 
+(b) Acid value 
+The acid value was measured and its changes were observed during storage. 
+Figure 9 shows the correlation between the acid value and the storage time at a 
+temperature of 40ÅãC for neat CME and CME stabilised with BHT at a 
+concentration of 300ppm and 600 ppm respectively. As depicted in Figure 9, 
+acid values increased gradually with the increase of the storage time and this 
+change was suppressed when the BHTs were added. Similar behavior was 
+observed in the other samples and under different storage conditions. However, 
+the increase was more prominent when samples were stored at higher 
+temperatures. 
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0 4 8 12 16 20
+0ppm
+300ppm
+600ppm
+Storage time (week)  
+Figure 9 Dependence of acid value on the storage time (at 40ÅãC)for neat CME 
+and CME stabilised with BHT at 300 ppm and 600 ppm. 
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+2 4 6 8 10 12 14
+AV at 20C
+OSI (h)
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0 2 4 6 8 10 12 14
+AV at 40C
+OSI (h)
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0 2 4 6 8 10 12
+AV at 60C
+OSI (h)
+(a) (b) (c)
+ 
+Figure 10 Correlation between acid value(AV) and oxidation stability index 
+(OSI) for neat CME and CME stabilised with BHT or BPH during storage at 
+20ÅãC (a), 40ÅãC (b) and 60ÅãC (c). 
+As described before, the generation of carboxylic acid is mainly caused by the 
+oxidation of FAME molecules. Therefore, the correlation between the acid 
+316 Tirto Prakoso, et al. 
+value and the OSI is considered to summarise the results. Figure 10 shows the 
+correlation between the acid value and the OSI for neat CME and CME 
+stabilised with BHT and BPH stored at 20ÅãC (a), 40ÅãC (b) and 60ÅãC (c), 
+respectively. It is evident that the acid value and the OSI have a significant 
+correlation. As the oxidation degree increases, the OSI is smaller and the acid 
+value is higher. The degree increases with the increase of the storage 
+temperature. 
+(c) Kinematic viscosity and water content 
+The oxidation of ester begins with the build-up of peroxides and carboxylic 
+acid, after which the viscosity starts to increase. During storage, the viscosity of 
+the methyl esters increases by the formation of more polar, oxygen-containing 
+molecules and also by the formation of oxidised polymeric compounds, 
+possibly leading to the formation of gums and sediments that can potentially 
+clog the fuel line. In Figure 11(a), the viscosity data of all samples stored under 
+a storage temperature of 20, 40 and 60ÅãC are plotted. It is illustrated that 
+theviscosity values slightly increase with the decrease in OSI values, even 
+though they still meet all standard values. Similarly, the water content is higher 
+at lower OSI values, as depicted in Figure 11(b). It can be seen that the water 
+contents lightly increases with the decrease in OSI values. In addition, 
+adsorption of water from the atmosphere during storage cannot be ignored.   
+0
+1
+2
+3
+4
+5
+6
+0 2 4 6 8 10 12 14
+OSI (h)
+0
+10 0
+20 0
+30 0
+40 0
+50 0
+60 0
+0 2 4 6 8 10 12 14
+OSI (h)
+ (a)  (b)  
+Figure 11 Correlation between the oxidation stability index (OSI) and the 
+kinematic viscosity (a) and water content (b) for CME stabilised by the mixture 
+of antioxidants BHT and BPH. 
+4 Conclusions 
+The oxidation stability of neat CMEs and CMEs added with antioxidants during 
+storage were investigated using the Rancimat test method. It is suggested that a 
+Storage Oxidation Stability of Canola FAME with Antioxidant  317 
+minimum of 600 ppm of BHT antioxidants or 300 ppm of BPH antioxidants is 
+required to meet the EN14214 biodiesel standards. Effects of antioxidant 
+addition were later compared quantitatively by analysing the value of reaction 
+rate constants obtained from their first-order reaction kinetics. The BPH 
+antioxidant performed better than the BHT antioxidant in this experiment, since 
+the BPH its suppression of the oxidation rate was 1.23 times that of BHT. 
+ 
+In addition, this study observed some changes in other quality parameters 
+during storage, such as an increase in both peroxide value (POV) and acid value 
+(AV). The formation of carboxilic acids such as formic acid, acetic acid and 
+propionic acid caused an increased the AV after the samples were stored for six 
+months under different temperatures. 
+Acknowledgments 
+This research was conducted in Research Center for New Fuels and Vehicle 
+Technology, AIST National Institute of Advanced Industrial Science and 
+Technology, Tsukuba, under the Asia Biomass researcher invitation program 
+funded by NEF (New Energy Foundation), Japan in 2009 and 2010. 
+References 
+[1] Gerpen, J.V., Biodiesel Processing and Production, Fuel Processing 
+Technology, 86, pp. 1097-1107, 2005. 
+[2] Ramos, M.J., Fernandez, C.M., Casas, A., Rodriguez, L.& Perez, A., 
+Influence of Fatty Acid Composition of Raw Materials on Biodiesel 
+Properties, Bioresource Technology, 100, pp. 261-268, 2009. 
+[3] Berchmans, H.J. & Hirata, S., Biodiesel Production from Crude 
+Jatropha Curcas L. Seed Oil with A High Content of Free Fatty 
+Acids, Bioresource Technology, 99, pp. 1716-172, 2008. 
+[4] Ma, F. & Hanna, A.M., Biodiesel Production, Bioresource 
+Technology, 70, pp. 1-15, 1999. 
+[5] Knothe, G., Gerpen, J.V. & Krahl, J., Oxidation Stability, The 
+Biodiesel Handbook, 2005. 
+[6] Knothe, G., Some Aspects of Biodiesel Oxidation Stability, Fuel 
+Processing Technology, 88, pp. 669-677, 2007. 
+[7] Bouaid, A., Martinez, M. & Aracil, J., Long Storage Stability of 
+Biodiesel from Vegetable and Used Frying Oils, Fuel,86, pp. 2596-
+2602, 2007. 
+[8] Yamane, K., Kawasaki, K., Sone, K., Hara, T. & Prakoso, T. 
+Oxidation Stability of Biodiesel and Its Effects on Diesel Combustion 
+and Emission Characteristics, International Journal of Engine 
+Research, 8, pp. 307-319, 2007. 
+318 Tirto Prakoso, et al. 
+[9] Mittelbach, M. & Schober, S., Influence of Antioxidants on The 
+Oxidation Stability of Biodiesel, Journal of American Oil ChemistÅfs 
+Society, 80, pp. 817-823, 2003.  
+[10] Karavalakis, G., Hilari, D., Givalou, L., Karonis, D. & Stourna, S., 
+Storage Ability and Ageing Effect of Biodiesel Blends Treated with 
+Different Antioxidant, Energy, 36, pp. 369-374, 2011.  
+[11] Xin, J., Imahara, H. & Saka S., Kinetics on The Oxidation of 
+Biodiesel Stabilized with Antioxidant, Fuel, 88, pp. 282-286, 2009.  
+[12] Asia-Pacific Economic Cooperation, Establishment of the Guidelines 
+for the Development of Biodiesel Standards in the APEC Region, 
+April 2009.  
+ 
+ 
+ 
+ 

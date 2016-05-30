@@ -1,0 +1,655 @@
+  
+ITB J. Sci., Vol. 44 A, No. 3, 2012, 250-262                                  250 
+ 
+Received December 2
+nd
+, 2011, Revised March 1
+st
+, 2012, 2
+nd
+ Revision May 3
+rd
+, 2012, Accepted for publication 
+October 18
+th
+, 2012. 
+Copyright ? 2012 Published by LPPM ITB, ISSN: 1978-3043, DOI: 10.5614/itbj.sci.2012.44.3.5 
+Phase Transformation of Rice Husk Ash in the Synthesis of 
+ZSM-5 without Organic Template 
+Didik Prasetyoko
+1,2,*
+, Neneng Ayunanda
+1
+, Hamzah Fansuri
+1
+, Djoko Hartanto
+1 
+& 
+Zainab Ramli
+3
+ 
+ 
+1Material Chemistry and Energy Laboratory, Department of Chemistry,  
+Faculty of Mathematics and Sciences, Institut Teknologi Sepuluh Nopember,  
+Kampus ITS Sukolilo, Surabaya, Jawa Timur 60111, Indonesia 
+2 Energy Laboratory, Center of Energy Study, Institut Teknologi Sepuluh Nopember, 
+Kampus ITS Sukolilo, Surabaya, Jawa Timur 60111, Indonesia 
+3 Department of Chemistry, Faculty of Science, Universiti Teknologi Malaysia,  
+Johor Bahru 81310, Malaysia 
+E-mail: didikp@chem.its.ac.id 
+ 
+ 
+Abstract. Phase transformation of rice husk ash in the synthesis of ZSM-5 
+without organic template at various crystallization times has been studied. 
+Zeolite has been synthesized using the hydrothermal method at 175 ÅãC with 
+molar ratio 10Na2O : 100SiO2 : 2Al2O3 : 1800H2O with addition of silicalite-1 as 
+seed. Solids were characterized using X-ray diffraction (XRD), infrared (IR) 
+spectroscopy and scanning electron microscopy (SEM) techniques. Analysis of 
+the results of XRD and IR spectroscopy indicated that ZSM-5 crystalstarted to 
+form at 12 h of crystallization time, reaching high crystallinity after 24 h. With a 
+crystallization time of more than 48 h, the ZSM-5 crystals had completely 
+transformed into more stable quartz phase. Results indicated that phase 
+transformation has occurred, in which an amorphous phase of rice husk ash has 
+been  transformed to ZSM-5 crystal phase during the early crystallization stage 
+and continued to transform to disordered Éø-cristobalite phase and lastly quartz 
+phases. SEM showed that the morphology of the ZSM-5 crystal was of an 
+irregular hexagonal shape with particle size distribution around 3-7 É m. 
+Keywords: crystallization time; phase transformation; rice husk ash; template-free; 
+ZSM-5. 
+1 Introduction 
+Rice is the main agricultural product in Indonesia and other agrarian countries. 
+The milling of rice yield about 72% of rice, 5-8% of bran, and 20-22% of husk 
+[1]. Although rice husk is an abundant by-product of rice milling, it is only used 
+as material for burning bricks or just thrown away. Rice husk contains 20-22% 
+ash and 78-80% volatile organic material (lignin, cellulose, sugar) [2]. 
+Krishnarao, et al. [3] reported various ranges of rice husk ash (RHA), from 13 
+to 29%, depending on the rice variety, climate and geographical location. The 
+ Phase Transformation of Rice Husk Ash 251 
+ 
+most common valuable component of rice husk ash is silica (SiO2), about 90-
+98%, with a small amount of alkali and metal impurities. 
+Silica is widely utilized in the fields of electronics, mechanics, arts, as well as 
+the manufacture of chemical compounds, including the manufacture of zeolite. 
+One zeolite, ZSM-5 (Zeolite Socony Mobile-5), is widely used as 
+heterogeneous catalyst in the petroleum industry and for fine chemicals 
+production. It is usually synthesized using commercial silica in the form of 
+silica gel, silica sol and fumed amorphous silica. However, waste materials with 
+a high silica content such as rice husk ash (RHA) or coal fly ash (CFA), are 
+potential alternative silica sources for zeolite synthesis. 
+Previous studies have shown that rice husk ash in amorphous and crystalline 
+forms can be used as a source of silica for the synthesis of zeolite, either with or 
+without templates [4-6]. Ramli and Bahruji [7] reported the synthesis of ZSM-5 
+using rice husk ash as silica source with tetrapropylammonium (TPA) as an 
+added organic template. Kim, et al. [8] and Cheng, et al. [9] reported the 
+synthesis of nanosize ZSM-5 in the absence of an organic template with a fast 
+crystallization time. The use of an organic template such as TPA in the 
+synthesis of ZSM-5 means higher production costs, liquid waste contamination 
+by the organic template, and possible air pollution from the product of thermal 
+decomposition of the organic template. Therefore, it is preferable to synthesize 
+the zeolite without organic templates [10-14].  
+Budianto [15] has reported the synthesis of ZSM-5 from rice husk ash without 
+organic template, by adding 1% of seed to help the crystallization process. The 
+use of a seed crystal to help crystallization has also been reported by Weitkamp 
+and Puppe [16] in the synthesis of the MFI type of zeolites. According to 
+Vempati, et al. [17], the seed accelerated the crystallization process and 
+improved the structure of the resulting ZSM-5.  
+Although ZSM-5 was successfully synthesized from RHA without organic 
+template, as reported by Budianto [15], no study has been done on the phase 
+transformation of the solid sample during crystallization for a longer period of 
+crystallization time. This work reports a study of the phase transformation of an 
+amorphous gel mixture containing silica of rice husk ash during the synthesis of 
+ZSM-5 without addition of an organic template. 
+2 Experiment  
+2.1 Materials Preparation 
+The rice husk (obtained from Surabaya, East Java) was first washed with 
+distilled water and then dried at 100 
+o
+C for 24 h before burning at 600 
+o
+C for 4 h 
+252 Didik Prasetyoko, et al. 
+in air. The resulted rice husk ash was characterized using XRD technique. 
+Synthesis of ZSM-5 without organic template was done by the addition of a 
+seed crystal. The reaction mixture contained NaOH (99wt%; Merck), sodium 
+aluminate (technical grade, Al as Al2O3 50-56wt%, Na as Na2O 40-45wt%; 
+Sigma Aldrich), rice husk ash (SiO2, 93wt%) and calcined silicalite-1 as seed 
+crystal. The reaction mixture was prepared with molar composition: 10Na2O : 
+100SiO2: 2Al2O3: 1800H2O. Initial silica and alumina mixtures were prepared 
+separately in two teflon beakers, A and B. Beaker A contained a mixture of 
+NaOH, water and rice husk ash, while beaker B contained sodium aluminates 
+and water.  Both beakers were stirred for two h. The reaction mixture in beaker 
+B was added to beaker A, and stirred for 6 h. The resulting gel mixture was 
+aged for 12 h at room temperature before being transferred to a stainless steel 
+autoclave. Then calcined silicalite-1 seed (1wt%), which was previously 
+prepared in our laboratory [18] was added to the mixture. Subsequently, the 
+mixture was heated at 175 
+o
+C with a variation of the crystallization times i.e. 6, 
+12, 24, 48, and 96 h. The autoclave was then cooled to room temperature to stop 
+the crystallization process. The solid was filtered and washed with distilled 
+water until the washing water became neutral. Finally, the solid was dried at 
+110 
+o
+C for 12 h. and characterized with XRD, FT-IR spectroscopy and SEM 
+techniques. 
+2.2 Characterization 
+The phase of the samples was determined by X-ray diffraction (Philips PN-1830 
+X-ray Diffractometer) using Ni-filtered CuKÉø radiation (É… = 1.5406 ?) at 40 kV 
+and 40 mA. The pattern was scanned in the 2É∆ ranges 5-50? at a step size of 
+0.010? and a step time of 1 s. The infrared spectra of the samples were recorded 
+on a Shimadzu FTIR, with scans 20 s using the KBr pellet method, in the 
+wavenumber range of 1400-400 cm
+-1
+. Scanning Electron Microscopy was 
+monitored on a JEOL 6303 LA to determine the surface morphology of the 
+samples. 
+3 Results and Discussion  
+The rice husk sample was burned at 600ÅãC and the as-synthesized solids at 
+different crystallization times were characterized by X-ray diffraction technique 
+in the range of 2É∆ = 5-50Åã, as shown in Figure 1. The XRD pattern of the rice 
+husk ash sample (Figure 1(a)) shows a hump in the region 2É∆ = 15?30o. This 
+indicates that the ash contains amorphous material [19,20].  
+Figures 1(a-e) present the XRD patterns of the synthesized samples at various 
+crystallization times. The XRD pattern of the sample crystallized for 6 h, 
+(Figure 1(b)) also shows a hump at 2É∆ = 15-30?, indicating that the sample still 
+ Phase Transformation of Rice Husk Ash 253 
+ 
+contained amorphous material. This suggests that the sample had not yet been 
+converted to zeolite phase. We have reported earlier that the transformation of 
+rice husk ash involves the dissolution of silica ash in the early stages of 
+crystallization [6]. 
+The XRD pattern of the sample crystallized for 12 h (Figure 1(c)) shows a very 
+small peak at 2É∆ = 22.97? indicating an early formation of ZSM-5 crystal [21]. 
+However, the sample still contained amorphous material as the hump still 
+appeared in the diffractogram of the sample. Meanwhile, the sample crystallized 
+for 24 h (Figure 1(d)) shows full crystal phase with diffraction peaks at 2É∆ 7.88, 
+22.97, 23.23, 23.63, 23.85 and 24.33?. This XRD pattern matches well with the 
+XRD of reference of ZSM-5 [21], indicating that ZSM-5 type zeolite has been 
+formed. The XRD pattern of the sample shows a high intensity of the signal 
+with the absence of a hump, suggesting that only ZSM-5 crystal is present in the 
+sample, with good crystallinity. 
+Figure 1(e-g) show the XRD patterns of the samples that have been crystallized 
+for 48, 72 and 96 h respectively. The XRD of the sample crystallized for 48 h 
+(Figure 1(e)), shows additional peak at 2É∆ = 21.97?. This peak is assigned to the 
+disordered Éø-cristobalite phase [21]. The intensity of the highest peak 
+characteristic for ZSM-5 at 2É∆ = 22.97? of this sample is lower than that of the 
+peak of the sample crystallized for 24 h. This observation suggests that the 
+crystallinity of ZSM-5 has decreased, while some of the ZSM-5 crystal phase 
+has undergone dissolution. The silicate rich solution and the high alkali media 
+of the reaction mixture that was used in this experiment havefacilitated the 
+growth of disordered Éø-cristobalite, a type of silica crystal phase.  
+With a prolonged crystallization time, several phase transformations were 
+observed. The XRD pattern of the sample crystallized for 72 h is shown in 
+Figure 1(f). All peak patterns for ZSM-5 phase have completely disappeared in 
+this sample, with only two peaks at 2É∆ = 20.8 and 26.59?. The peaks match well 
+with the quartz phase [21], which suggests that the ZSM-5 phase has completely 
+transformed to the more stable quartz phase [21]. However, in the sample 
+crystallized for 96 h, a reappearing of the ZSM-5 phase is visible in the XRD in 
+Figure 1(g). The reappearing of a small peak at 2É∆ = 7.9 and 22.97 indicates that 
+some quartz crystal has re-dissolved into the reaction mixture, while the 
+available aluminate species in the reaction mixture have facilitated the 
+reformation of ZSM-5 crystals. After 72 h of crystallization, the peak intensity 
+of I100 at 2É∆ = 26.59? of quartz has decreased from 7111 cps in the sample 
+crystallized for 72 h to 3493 cps in the sample crystallized for 96 h, which 
+indicates the decrease crystallinity of the quartz phase (also shown in Figure 2).  
+ 
+254 Didik Prasetyoko, et al. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 XRD patterns of (a) rice husk ash, and samples at various 
+crystallization times:  (b) 6 h, (c) 12 h, (d) 24 h, (e) 48 h, (f) 72 h, (g) 96 h, (h) 
+ZSM-5 from TEOS-TPABr.  
+(c) 
+(e) 
+(d) 
+(b) 
+(f) 
+(g) 
+In
+te
+n
+si
+ty
+ (
+cp
+s)
+ 
+2 Theta 
+  0       10.00 20.00 30.00      40.00 50.00 
+(a) 
+(h) 
+= ZSM-5 
+= quartz 
+= Éø - cristobalite 
+ Phase Transformation of Rice Husk Ash 255 
+ 
+All the findings indicate that phase transformations have occurred in the 
+solid samples in which crystallization proceeded, from the amorphous phase 
+of the aluminosilicate gel mixture to the ZSM-5 phase, continued to the 
+disordered Éø-cristobalite phase, and to the more stable quartz phase. The 
+transformation of the amorphous aluminosilicates gel to the crystalline 
+phases is presented in Figure 2, showing a plot between the crystallization 
+times versus the total intensity of each phase. On the basis of the XRD 
+results, we can conclude that pure ZSM-5 can be obtained in 24 h 
+crystallization time with the gel ratio used in this study and the help of seed 
+crystals. In the reaction mixture used in this experiment, which was highly 
+alkaline, and with the absence of an organic template as structure-directing 
+agent, the formed ZSM-5 crystal is metastable and prone to re-dissolve and 
+facilitate the formation of a more stable silica crystal such as quartz, with a 
+prolonged crystallization time. Different findings of silica transformation 
+were also reported by Barrer [22] in at different system solution at high 
+temperature, where the transformation of amorphous silica followed the 
+sequence: amorphous Å® Éø-cristobalite Å® keatite Å® quartz.  
+Assuming the ZSM-5 phase in the sample crystallized for 24 h to 100%, the 
+relative crystallinity of the ZSM-5 phase formed in samples at 12, 24, 48, 72 
+and 96 h crystallization time have been calculated, the results are shown in 
+Table 1. The difference in intensity observed in the XRD patterns is due to 
+the difference in crystallinity of the ZSM-5 samples, which can also 
+indicates the amount of ZSM-5 contained in the solid sample. 
+Table 1 XRD peak intensity and crystallinity of the samples with various 
+crystallization times. 
+2É∆ 
+Intensity, cps   
+12 h 24 h 48 h 72  h 96  h 
+7.88 ? 8.75 44.92 483.42 319.50 - 112.07 
+22.51 ? 22.97 89.53 1479.68 932.52 38.26 382.41 
+22.99 ? 23.23 - 1131.99 702.71 - - 
+23.48 ? 23.63 - 557.98 406.83 - - 
+23.83 ? 23.85 - 751.09 488.44 - - 
+24.31 ? 24.46 - 476.28 290.29 - - 
+ZSM-5 
+Crystallinity 
+(%) 
+2.75 100 64.54 0.79 10.13 
+ 
+ 
+256 Didik Prasetyoko, et al. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 Transformation of amorphous silica to ZSM-5, disordered Éø-
+cristobalite and quartz phase.  
+The infrared spectra of the rice husk ash and the samples at various 
+crystallization times were recorded at wavenumber in the range of 1400-400 
+cm
+-1
+ as shown in Figure 3, the wavenumbers of each peak are tabulated in Table 
+2. The infrared spectrum of the rice husk ash in Figure 3(a) shows the 
+characteristics of the asymmetric stretching of the tetrahedral SiO4 peaks at 
+wavenumber 1099 cm
+-1
+, the symmetry stretching of SiO4 at ca. 799 cm
+-1
+ and the 
+bending of Si-O at 467 cm
+-1
+ [23,24]. The third peak of the rice husk ash 
+spectrum, at 467 cm
+-1
+, indicates that the rice husk ash is in the form of 
+amorphous phase [25]. Figure 3(b) and (c) represent the infrared spectra of the 
+solid samples crystallized for 6 and 12 h respectively. The spectra of these 
+samples appear almost the same as the spectrum of the rice husk ash. This 
+indicates that the ZSM-5 crystal has not yet been formed in these samples, 
+which agrees well with the XRD finding. 
+The infrared spectrum of the sample crystallized for 24 h (Figure 3(d)) shows a 
+vibrational peaks pattern in the ZSM-5 framework. Peaks at around 1102, 796 
+and 456 cm
+-1
+ are characteristic for the asymmetric stretching of the tetrahedral 
+TO4 (T=Si,Al) and the T-O bending, respectively. The appearance of a shoulder 
+peak at 1218 cm
+-1
+, which is assigned to the asymmetric stretching of the 
+external framework and at 542 cm
+-1
+, which is assigned to five-membered ring 
+vibration, are characteristic for an MFI zeolite framework, ZSM-5 belongs to 
+this group of zeolite [25, 26]. These two vibrational peaks are sensitive to the 
+0 
+1000 
+2000 
+3000 
+4000 
+5000 
+6000 
+7000 
+8000 
+0 20 40 60 80 100 
+Crystallization times (h) 
+T
+o
+ta
+l 
+in
+te
+n
+si
+ty
+ (
+c
+p
+s)
+ 
+Éø-cristobalite 
+Quartz  
+ZSM-5 
+ Phase Transformation of Rice Husk Ash 257 
+ 
+framework changes while the appearance of five-membered ring vibration at 
+542 cm
+-1 
+confirms the ZSM-5 structure because the ZSM-5 framework structure 
+is made of such 5-membered rings of TO4 tetrahedral building units. The IR 
+spectrum of the sample supports the data from the XRD. The spectrum is also in 
+accordance with the result reported by Flanigen, et al. [23], and also with the 
+spectrum of ZSM-5 synthesized from commercial silica (tetraethylorthosilicate, 
+TEOS) in the presence of an organic template (tetrapropyl ammonium bromide, 
+TPABr) as is shown in Figure 3(h). 
+The sample crystallized for 48 h had a similar infrared pattern (Figure 3(e)) to 
+the infrared spectrum of the sample crystallized for 24 h, which indicates that 
+the sample still maintained the ZSM-5 structure. However the peaks that are 
+sensitive to the structure change in ZSM-5 (ca. 1218 and 542 cm
+-1
+) started to 
+decrease in intensity and disappeared in samples crystallized for longer than 48 
+h (Figure 3(f and g)). This observation agrees well with the XRD results in 
+which there samples consist of quartz as the dominant phase. By looking at the 
+asymmetric stretching peak for the samples crystallized for 24 and 48 h, both of 
+which consist of ZSM-5 phase, the sample crystallized for 24 h is suggested to 
+be more siliceous than the sample crystallized for 48 h because the peak appears 
+at a higher frequency, i.e. at 1102 cm
+-1
+ rather than 1096 cm
+-1
+. This means that 
+the sample crystallized for 24 h contains more silica due to the substitution of 
+aluminium atoms with silicon atoms in the framework. According to Armaroli, 
+et al. [27], the ZSM-5 with high aluminum content shows an asymmetric 
+stretching band at around 1090 cm
+-1
+.  
+Table 2 Stretching and bending vibration of the samples. 
+Samples  
+TO4 stretching 
+T-O bending 
+Asymmetric  Symmetric  
+Rice husk ash - 1099 799 - 467 - 
+6 h - 1089 796 - 468 - 
+12 h - 1088 798 - 468 - 
+24 h 1218 (sh) 1102 796 542 478 456 
+48 h 1218 (sh) 1096 793 546 - 457 
+72 h - 1086 800 581 473 - 
+96 h - 1098 799 - 473 - 
+ZSM-5 from 
+TEOS-TPABr 
+1228 1109 800 550 457 - 
+ 
+  
+258 Didik Prasetyoko, et al. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 Infrared spectra of the samples: (a) rice husk ash (b) 6 h (c) 12 h (d) 
+24 h (e) 48 h (f) 72 h, (g) 96 h and (h) ZSM-5 from TEOS-TPABr. 
+400 600 800 1000 1200 1400 
+(a) 
+(f) 
+(e) 
+(d) 
+(c) 
+(b) 
+468 
+468 
+456 
+1089 
+1088 
+473 
+457 
+1086 
+1098 
+1096 
+1102 
+793 
+796 
+798 
+796 
+800 
+%
+ T
+ 
+1099 
+799 
+467 
+542 
+546 
+581 
+1218(sh) 
+1218(sh) 
+473 
+799 
+(g) 
+(h) 
+1229 
+1109 
+800 
+550 
+457 
+ Phase Transformation of Rice Husk Ash 259 
+ 
+The SEM of the rice husk ash sample crystallized for 24 h, and the ZSM-5 
+synthesized using TEOS and organic template TPABr are shown in Figure 4. 
+The morphology of the rice husk ash appears as aggregates in various size 
+around 50-100 É m with no definite structure, suggesting the presence of 
+amorphous material. Some flaky layers with a needle-like structure can be 
+observed at the aggregate particle (Figure 4(a)). The flaky morphology of the 
+sample of amorphous silica aggregates, as seen in the SEM images, shows a 
+reactive surface that can easily make bonds [19]. The morphology of the sample 
+crystallized for 24 h is shown in Figure 4(b). In general, this sample displays an 
+almost uniform, grubby, hexagonal like crystal, spread evenly with a varying 
+particle size, ranging between 1-5 É m. For comparison, the morphology of the 
+ZSM-5 synthesized using TEOS as silicon source and TPABr is shown in 
+Figure 4(c). It can be observed that the morphology of the crystals consists of 
+layers of agglomerated hexagonal crystal-shapes resulting in a much larger 
+crystal, with an average size of 20 É m as compared to 5 É m for the ZSM-5 
+synthesized from rice husk ash.  
+ 
+ 
+ 
+ 
+ 
+(a)       (b) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (c) 
+Figure 4 SEM of (a) rice husk ash, (b) sample with 24 h crystallization time (c) 
+ZSM-5 from TEOS-TPABr. 
+260 Didik Prasetyoko, et al. 
+4 Conclusion  
+Pure ZSM-5 with a particle size between 3-7 É m can be synthesized from rice 
+husk ash as silica source within 24 h of crystallization time without an organic 
+template and with the addition of silicalite-1 as seed crystal. The ZSM-5 phase 
+started to form after 12 h of hydrothermal crystallization and reached maximum 
+crystallinity and purity at 24 h of crystallization. The ZSM-5 crystal formed is 
+metastable since with a longer crystallization time the ZSM-5 crystal was 
+transformed into the more stable quartz phase. 
+Acknowledgments  
+The authors gratefully acknowledge the financial support from Institut 
+Teknologi Sepuluh Nopember (ITS), Surabaya. 
+References  
+[1] Prasad, C.S., Maiti, K.N. & Venugopal, R., Effect of Rice Husk Ash in 
+Whiteware Compositions, Ceramic International, 27, pp. 629-635, 2001. 
+[2] Yal?in, N., & Sevin?, V., Studies on Silica Obtained from Rice Husk, 
+Ceramic International, 27, pp. 219-224, 2001. 
+[3] Krishnarao, R.V., Subrahmanyam, J. & Kumar, T.J., Studies on The 
+Formation of Black in Rice Husk Silica Ash, Journal of European 
+Ceramic Society, 21, pp. 99-104, 2001. 
+[4] Bajpai, P.K., Rao, M.S. & Gokhale, K.V.G.K., Synthesis of Mordenite 
+Ttype Zeolite Using Silica from Rice Husk Ash, Industrial & Engineering 
+Chemistry Product Research and Development, 20, pp. 721?726, 1981. 
+[5] Wang, H.P., Lin, K.S., Huan, Y.J., Li, M.C. & Tsaur, L.K., Synthesis of 
+Zeolite ZSM-48 from Rice Husk Ash, Journal of Hazardous Materials, 58, 
+pp. 147?152. 1998. 
+[6] Prasetyoko, D., Ramli, Z., Endud, S., Hamdan, H., & Sulikowski, B., 
+Conversion of Rice Husk Ash to Zeolite Beta, Waste Management 26, pp. 
+1173?1179, 2006. 
+[7] Ramli Z. & Bahruji H., Synthesis of ZSM-5 Type Zeolite Using 
+Crystalline Silica of Rice Husk Ash, Malaysian Journal of Chemistry, 5  
+(1), pp. 48-55, 2003. 
+[8] Kim S.D., Noh S.H., Seong K.H. & Kim W.J., Compositional and 
+Kinetic Study on the Rapid Crystallization of ZSM-5 in The Absence of 
+Organic Template, Microporous and Mesoporous Materials, 72, pp. 185-
+192, 2004. 
+[9] Cheng, Y., Wang L.j., Li, J.S., Yang, Y.C. & Sun X.Y., Preparation and 
+Characterization of Nanosized ZSM-5 Zeolite in The Absence of Organic 
+Template, Materials Letters, 59, pp. 3427-3430, 2005. 
+ Phase Transformation of Rice Husk Ash 261 
+ 
+[10] Shiralkar V.P. & Clearfield, A., Synthesis of the Molecular-sieve ZSM-5 
+without the Aid of Templates, Zeolites, 9, pp. 363-370, 1989. 
+[11] Otake, M., MFI Zeolite Crystallization under Controlled Dosage of TPA 
+Template, Zeolites, 14(1), pp. 42-52, 1994. 
+[12] Grose, R.W. & Flaningen, E.M., Novel Zeolite Compositions and 
+Processes for Preparing and Using Same, US Patent 4, pp. 257,885, 
+1981. 
+[13] Ren, N., Broni?, J., Suboti?, B., Lv, X.C., Yang, Z.J. & Tang, Y., 
+Controllable and SDA-free Synthesis of Sub-micrometer Sized Zeolite 
+ZSM-5. Part 1: Influence of Alkalinity on the Structural, Particulate and 
+Chemical Properties of the Products, Microporous and Mesoporous 
+Materials, 139, pp. 197-206, 2011. 
+[14] Huang, X. & Wang, Z., Synthesis of Zeolite ZSM-5 Small Particle 
+Aggregates by a Two-Step Method in the Absence of an Organic 
+Template, Chinese Journal of Catalysis, 32, pp. 1702-1711, 2011.  
+[15] Budianto, S.A., Sintesis Zeolit ZSM-5 dari Abu Sekam Padi Tanpa 
+Templat Organik, Thesis Master, Chemistry-ITS, Surabaya, 2007. 
+[16] Weitkamp, J. & Puppe, L., Catalysis and Zeolites Fundamentals 
+Application, Germany, 1999. 
+[17] Vempati R.K., Borade, R., Hegde, R.S. & Komarneni S., Template Free 
+ZSM-5 From Siliceous Rice Hull Ash With Varying C Contents, 
+Microporous and Mesoporous Materials, pp. 134-140, 2006. 
+[18] Prasetyoko, D., Ramli, Z., Endud, S. & Nur, H., Characterization of 
+Bifunctional Oxidative and Acidic Catalysts Nb2O5/TS-1 for Synthesis of 
+Diols, Materials Chemistry and Physics, 93, pp. 443-449, 2005. 
+[19] Hamdan, H, Mohd Muhid, M.N., Endud, S., Listiorini, E. & Ramli Z., Si 
+MAS NMR, XRD and FESEM Studies of Rice Husk Silica for The 
+Synthesis of Zeolites, Journal of Non Crystalline Solids, 211, pp. 126-
+131, 1997. 
+[20] Della, V.P., K?hn, I. & Hotza, D., Rice Husk Ash an Alternate Source for 
+Active Silica Production, Materials Letters, 57(4), pp. 818-821, 2002. 
+[21] Treacy, M.M.J. & Higgins, J.B., Collection of Simulated XRD Powder 
+Patterns for Zeolites, Structure Commision of the International Zeolite 
+Associacion, Amsterdam, 4th Edition, 2001. 
+[22] Barrer, R.M., Hydrothermal Chemistry of Zeolites, Academic Press, 
+London. 1982. 
+[23] Flanigen E.M., Khatami, H. & Szymanski, Infrared Structural Studies of 
+Zeolite Frameworks, in Adv. Chemistry Series, 101, American Chemical 
+Society, Washington, D.C., pp. 201-228, 1971.   
+[24] Mozgawa, W., Handke, M., Jastrze?bski, W., Vibrational Spectra of 
+Aluminosilicate Structural Clusters, Journal of Molecular Structure, 704, 
+pp. 247-257, 2004. 
+262 Didik Prasetyoko, et al. 
+[25] Shukla, D.B. & Pandya, V.P., Estimation of Crystalline Phase in ZSM-5 
+Zeolites by Infrared Spectroscopy, Journal of Chemical Technology and 
+Biotechnology, 44, pp. 147-154, 1989. 
+[26] Kirschhock, C.E.A., Ravishankar, R., Verspeurt, F., Grobet, P.J., Jacobs, 
+P.A. & Martens, J.A., Identification of Precursor Species in the 
+Formation of MFI Zeolite in the TPAOH?TEOS?H2O System, Journal of 
+Physical Chemistry B, 103, pp. 4965-4971, 1999. 
+[27] Armaroli, T., Simon, L.J., Digne, M., Montanari, T., Bevilacqua, M., 
+Valtchev, V., Patarin, J. & Busca, G., Effects of Crystal Size and Si/Al 
+Ratio on the Surface Properties of H-ZSM-5 Zeolites, Applied Catalysis 
+A: General, 306, pp. 78-84, 2006. 
+ 
+ 

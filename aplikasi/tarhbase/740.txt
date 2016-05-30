@@ -1,0 +1,544 @@
+  
+ITB J. Eng. Sci., Vol. 44, No. 3, 2012, 287-302                             287 
+ 
+Received April 14
+th
+, 2011, 1
+st
+ Revision March 14
+th
+, 2012, 2
+nd
+ Revision April 26
+th
+, 2012, 3
+rd
+ Revision July 17
+th
+, 
+2012, 4
+th
+ Revision September 3
+rd
+, 2012, 5
+th
+ Revision October 22
+nd
+, 2012, Accepted for publication November 
+14
+th
+, 2012. 
+Copyright ? 2012 Published by LPPM ITB & PII, ISSN: 1978-3051, DOI: 10.5614/itbj.eng.sci.2012.44.3.6 
+The Power Consumption Performance of an Orbiting 
+Screw Solid-Solid Mixer 
+Semuel Pati Senda
+1
+, Renanto
+1
+, Achmad Roesyadi
+1
+, Wahono Sumaryono
+2 
+&         
+Yazid Bindar
+3
+ 
+1Department of Chemical Engineering, Sepuluh November Institute of Technology, 
+Kampus ITS Keputih, Sukolilo, Surabaya, Jawa Timur 60111, Indonesia 
+2Deputy of Agroindustry and Biotechnology, Agency for the Assessment and 
+Application of Technology, Jalan M.H. Thamrin No. 8 Jakarta 10340, Indonesia 
+3Research Group on Energy and Chemical Engineering Processing System 
+Faculty of Industrial Technology, Institut Teknologi Bandung, Jalan Ganesa No. 10 
+Bandung, Jawa Barat 40132, Indonesia 
+Email: sps_24@yahoo.co.id 
+ 
+ 
+Abstract. In this work we have investigated mixing in a modified orbiting screw 
+mixer (MOSM) designed for solid-solid mixing. Mixing was carried out using 
+urea powder and natural zeolite powder (UZ) of three varying particle sizes (50-
+60, 60-80 and 80 mesh). Power consumption was calculated from the measured 
+torque of orbit and screw, obtained from computerized records. It was found that 
+the mixing process in the modified orbiting screw mixer with air injection 
+required a lower power consumption for each particle-size group when compared 
+to mixing without air injection. With UZ mixing in MOSM with air injection, the 
+lowest E was obtained for the 60-80 mesh particle-size group (4,297 Joule/kg-1), 
+whereas when mixing without air injection, the value was 10,296 J/kg. The best 
+mixing operation in this experiment was achieved at NFr = 1.18x10
+-3 and in the 
+range of values NRe ? 8.77x10
+7 to 2.63x108. Moreover, in this study, we have 
+developed an equation to estimate the power consumption required for mixing 
+and determined its correlation with dimensionless numbers. 
+Keywords: air injection; modified orbiting screw mixer; power consumption; power 
+number; solid-solid mixing; urea-natural zeolite. 
+1 Introduction 
+Mixing is an important process that is performed before granulation in order to 
+achieve bulk homogeneity. Mixing and agitating vessels are widely used in the 
+chemical, biochemical, food and other industries. Mixing urea and zeolite 
+powder for the manufacture of SRF (Slow Release Fertilizers) aims to reduce 
+the loss of urea due to its high solubility. In addition to increasing the efficiency 
+of urea usage, natural zeolite employed as the matrix can serve as a conditioner. 
+Natural materials, such as zeolite or clay, are attractive for use as a matrix. The 
+development of SRF using clay has previously been explored, as clay is 
+288 Semuel Pati Senda, et.al. 
+abundant in various regions in Indonesia. However, recently zeolite has come 
+up as an alternative matrix. The natural properties of zeolite give it advantages 
+when used as a matrix support, including its good hygroscopic properties, large 
+surface area, high action exchange capacity and capability (CEC) and good 
+adsorption-desorption ability. 
+Power consumption is the most important parameter to use for estimating 
+mixing performance. To estimate the power consumption, a power correlation 
+was developed for an orbiting screw mixer. The correlation of power 
+consumption to particle size variations for the mixing of powdered urea-natural 
+zeolite has not been previously reported. For paddle impellers in spherical and 
+cylindrical agitated vessels, a new correlation of power consumption has been 
+developed [1-2], which is more accurate than NagataÅfs correlation [3]. 
+However, the new correlation cannot calculate the power consumption of other 
+types of stirrers, such as the orbiting screw. Specifically mixing powdered urea-
+natural zeolite with particle size variations no one has reported to date. 
+Orbiting screws are used for mixing cohesive solids, and this type of screw is 
+widely used in vessels ranging in size from portable to large tanks. Currently, 
+there are no correlations for this type of stirrer. Therefore, we have developed a 
+new correlation of power consumption for the orbiting screw. An orbiting screw 
+mixer consists of a vessel in which the screw travels around the wall of the cone 
+as it simultaneously rotates around its own axis, setting up strong circulation 
+currents throughout the powder. A performance characteristic that must be 
+considered in any mixing process is the power requirement, as sufficient power 
+must be provided during the mixing process [4]. The power consumption 
+required for the mixing process is one of the most important factors affecting 
+the cost of the process. Therefore, energy consumption is expected to be as low 
+as possible. The difference in density of the components that will be mixed may 
+increase both the mixing time and power consumption. Denser material will 
+sink through less dense material, leaving less dense particles on top [5]. If 
+denser particles are present in the lower layer at the start of the mixing, the 
+degree of mixing will increase gradually until equilibrium is attained. If denser 
+particles are present in the upper layer, the denser components fall through the 
+lighter components, leading to segregation instead of mixing.  
+In this study, orbital and rotation speeds of the screw were varied in 
+combination with the air flow rate, and their effects on mixing with three 
+particle-size groups were investigated. The decreased power consumption of the 
+mixing process results from the decreased load torque caused by the intrusion of 
+air between the grains, creating a gap that reduces friction loss. Load friction 
+may occur between particles, between particles and the chamber wall, and 
+between particles and the surface of the screw mixer. An air flow rate that is too 
+ The Power Consumption Performance 289 
+ 
+low will not be effective because the air will not penetrate the gap; a flow rate 
+that is too high will also be ineffective because the air flow through the middle 
+of the chamber is not served by the screw mixer. This is due to the dome-shaped 
+profile of the material surface, ensuring that the center makes the smallest 
+obstacles go through the air. Thus, there is a correlation between the size of the 
+particles and the optimum air flow rate, which decreases the power consumption 
+of the mixing. 
+The aim of this work was to examine the influence of rotation and orbital 
+velocity, particle size and velocity of air flow on the power consumption of 
+mixing urea-natural zeolite powder. The results will allow an estimation of the 
+power required to rotate the screw and orbit at a specified speed, and determine 
+the lowest energy-consuming configuration of the screw agitator. The criterion 
+for selection was the mixing energy. The interaction between the power 
+consumption, the mixing time and the geometric parameters of the orbiting 
+screw mixer was also investigated.  
+The performances of the mixing process are quantified by the specific energy E, 
+mechanical power Wm, the electrical power Wl and torque É—m. The involved 
+mixing operational parameters are  mass of solid m, angular velocity É÷r mixing 
+power Pm, mixing time tmx, rotational speed N, electrical voltage V and current 
+I.  Those variables are defined as follows 
+ E = (? xPm x tmx)/m, (1) 
+ Wm = É—m x N (2) 
+ Wl= V x I] (3) 
+ É—m = F x L (4) 
+2 Experiment  
+A schematic diagram of the orbiting screw mixer used in this work was adapted 
+from the typically used powder mixer in the pharmaceutical industry. The size 
+of this mixer was scaled-down to 1:10 with an effective height of 6 m (Figure 
+1). The mixerÅfs wall was made of flexi glass. The conical diameter at the top 
+and the bottom of the mixer was 50-600 mm and 100 mm, respectively. The 
+angle of the screw conveyor from the vertical axis was approximately 18Åã. The 
+mixer used a three-phase motor as the driver, with a speed range of 150-600 
+rpm. The mixer was equipped with a gear reducer and a speed controller.  
+290 Semuel Pati Senda, et.al. 
+ 
+Figure 1 Schematic diagram of the experimental apparatus. 
+To minimize the occurrence of segregation, mixtures weighing 16 kg with a 1:1 
+ratio of urea to zeolite with the same particle sizes were mixed in the vessel. 
+The orbital and rotation speed should be sufficient to ensure homogeneity. From 
+visual observation, the position of the zeolite at the lower part resulted in a 
+better mixing performance compared to positioning it within the upper part. The 
+experiment was conducted for orbital speeds of 5, 10, and 15 rpm and rotation 
+speeds of 30, 50, and 67.5 rpm to achieve effective material movement within 
+the bulk mass. Therefore, these speeds were selected for further tests. Based on 
+previous experiments for batch mixing, the mixings were conducted for 15 
+minutes [4]. The mixing experiments were performed in duplicate throughout 
+the study. 
+Data acquisition in the system was carried out using an instrumentation device 
+and data acquisition program. The data obtained were torque transferred to the 
+computer program by radio transmission. Figure 1 depicts the design layout of 
+the equipment for the mixing experiments and data acquisition. This system has 
+the capability to record data for time intervals in seconds. The data on the test 
+RADIO 
+FREQUENCY 
+TRANSMITTER 
+ 
+STRAIN GAUGE / AMPLIFIER 
+(TORQUE SENSOR ) 
+STRAIN GAUGE / AMPLIFIER 
+( TORQUE SENSOR ) 
+RADIO 
+FREQUENCY 
+TRANSMITTER 
+ 
+RADIO FREQUEN CY 
+TRANSMITTER 
+COMPUTER 
+ The Power Consumption Performance 291 
+ 
+system were collected in real time with the instruments and the data acquisition 
+program. The data recorded were the torque load on the stirring and rotation or 
+the screw axis of the orbit. 
+Sensors were used to measure the strain-gage torque. Load measurements were 
+conducted during the mixing process, so the use of radio transmission was 
+necessary to send the data to the computer. Velocity measurements were 
+performed using a proximity sensor. The data were processed first with a micro-
+controller during data acquisition. Samples were taken manually from a specific 
+point at the top of the mixtures every 24 seconds during the mixing process. 
+After the mixing process ended, samples were also taken from different heights 
+within the conical chamber. 
+3 Results and Discussion 
+Mixing urea-natural zeolite powder using a modified orbiting screw mixer with 
+three particle-size groups (50-60, 60-80 and 80 mesh) with variations in rotation 
+and orbital speeds has been previously conducted and evaluated [6]. It was 
+reported that the lowest energy consumption is obtained at an orbital speed of 5 
+rpm, a rotation speed of 50 rpm, and a particle size of 50-60 mesh. 
+3.1 The Effect of Particle Size on Power Consumption 
+Figures 2, 3 and 4 show that the power consumption for mixing with the three 
+particle sizes, 50-60 mesh, 60-80 mesh and 80 mesh, without air injection was 
+higher than that with air injection. These figures show that the power 
+consumption for the 60-80 mesh particle size tended to decrease, except for the 
+orbital speed of 10 rpm. At this speed, the power consumption tended to 
+increase upon increasing the rotation speed. For the 80 mesh particle size, the 
+power consumption also tended to increase, except for the orbital speed of 15 
+rpm. At a constant orbital speed, a higher rotation speed yields a higher power 
+consumption. Likewise, a higher rotation speed gives a higher power 
+consumption.  
+These figures also demonstrate the effects of air injection on power 
+consumption for the various particle sizes. Figure 2 shows that the energy 
+consumption of mixing without air injection is higher when compared to mixing 
+with air injection for all variations of air flow rate, except for the power 
+fluctuation in the 50-60 mesh particle size at air flow rates of 5 and 10 l/min. 
+ 
+ 
+292 Semuel Pati Senda, et.al. 
+ 
+Figure 2 Power consumption for PS = 50-60 mesh at nr/no = 67.5/5 rpm. 
+Figure 3 shows that the power consumption for mixing the 60-80 mesh particle 
+size tended to decrease at air flow speeds of 10 and 15 l/min, but not at 5 l/min. 
+At this lower speed, power consumption was almost constant over the mixing 
+time. This result may be due to the air flow not being large enough to penetrate 
+the gaps, so the mixture showed constant power consumption over the mixing 
+time. 
+ 
+Figure 3 Power consumption for 60-80 mesh PS at nr/no = 67.5/10 rpm. 
+ The Power Consumption Performance 293 
+ 
+For the 80 mesh particle size, the power consumption also tended to decrease 
+until it reached a value of 150 watts at mixing times above 600 seconds, as 
+shown in Figure 4. The mixing of the 80 mesh particle size with an air flow rate 
+of 5 l/min showed a higher power consumption that is relatively constant until 
+the mixing time reached 700 seconds. The largest decline in power consumption 
+was observed when mixing the powdered urea-natural zeolite of 60-80 mesh at 
+an air flow rate of 10 l/min. This air flow rate was very effective because of the 
+flow through the gap around the screw mixer, reducing the burden of friction 
+during stirring. Power consumption for UZ mixing with the 60-80 mesh particle 
+size was 150 watt at an air flow rate of 10 l/min. 
+At an air flow rate of 15 l/min, the air speed was too high to be able to lift or 
+break through the center of the dome surface of the material. With the opening 
+of a gap in the dome, the majority of the air will flow out, and air in cracks 
+around the screw mixer will be reduced. This reduced amount of air will reduce 
+the effectiveness of the stirring and thus increase the power consumption. An air 
+flow rate of 5 l/min is not effective enough to reduce the friction that occurs in 
+the tank. However, the 60-80 mesh particle size reduced the power consumption 
+when compared with the 50-60 mesh particle size, because the smaller sizes are 
+lighter. The power consumption for mixing the UZ 80 mesh particle size was 
+168 watt at an air flow rate of 10 l/min.  
+ 
+Figure 4 Power consumption for PS = 80 mesh at nr/no = 67.5/5 rpm. 
+The mechanical requirements of the orbiting screw mixer established for 
+operating performance demonstrate that an increased ratio of orbital and 
+294 Semuel Pati Senda, et.al. 
+rotation speed yielded increased power consumption for all particle sizes 
+studied. 
+3.2 Energy Consumption 
+Energy consumption required for the mixing process is one of the most 
+important factors affecting the process costs. Therefore, energy consumption is 
+expected to be as low as possible. Figure 5 describes the specific energy 
+consumption required for mixing the urea-natural zeolite powder at the three 
+different particle size variations (50-60 mesh, 60-80 mesh, and 80 mesh). This 
+figure shows that the specific energy consumption with air injection for particle 
+sizes of 50-60 and 80 mesh was higher than that of the 60-80 mesh particles. 
+Moreover, the specific energy consumption decreased as the air flow rate 
+increased. As previously mentioned, fine particles are more cohesive than 
+coarse particles, leading to a higher force required to break down aggregates 
+formed during the mixing process. Therefore, the mixing time for fine particles 
+is longer than that for coarse particles, and there is a trade-off between power 
+consumption and mixing time. The optimum specific energy consumption is 
+achieved by considering both of these parameters [6].  
+ 
+ 
+Figure 5 Variation in specific energy consumption with air flow rate. 
+Figure 5 also shows that for the three particle-size groups, the 60-80 mesh 
+group has the lowest specific energy consumption given by the combination of 
+an orbital speed of 5 rpm and a rotation speed of 67.5 rpm at an air flow rate of 
+10 l/min. For the particle sizes of 50-60 and 80 mesh, the lowest values were 
+ The Power Consumption Performance 295 
+ 
+obtained by the combinations of an orbital speed of 5 rpm and a rotation speed 
+of 50-60 rpm with an air flow rate of 15 l/min, and an orbital speed of 5 rpm 
+and a rotation speed of 30 rpm with an air flow rate of 10 l/min, respectively. 
+Among all the variations, the lowest specific energy consumptions was obtained 
+by the combination of orbital and rotation speeds of 5 and 67.5 rpm and an air 
+flow rate of 10 l/min with a 60-80 mesh particle size. 
+Figure 6 shows that the optimum specific energy consumption was achieved 
+using MOSM with the introduction of an air flow rate of 10 l/min. The 
+application of air injection at the UZ in MOSM mixing can clearly reduce the 
+specific energy consumption of the screw rotation speed at the air flow rate 
+specified. Increasing the air flow rate causes an increase in the specific energy 
+consumption. This is a good result, proving a hypothesis that has been 
+previously assumed: that the application of air injection into the mixing process 
+of urea-natural zeolite for the manufacture of SRF urea can reduce power 
+consumption, resulting in lower production costs. It is recommended to 
+implement this mixing system for further development at the scale of 
+production. 
+ 
+Figure 6 Specific energy consumption with air flow rate variations at the 
+optimum ratio of nr/no.  
+3.3 Correlations of Power Number 
+To predict the power consumption required in the mixing process for urea-
+natural zeolite of varying particle sizes, we developed a power equation for the 
+orbiting screw mixer used in this experiment. The geometry of the mixer is 
+296 Semuel Pati Senda, et.al. 
+defined in Figure 7. The developed model equations for the mixing 
+performances are summarized in Table 1. 
+ 
+?
+ 
+Figure 7 Schematic diagram of a conical mixer with screw. 
+Table 1 Correlations for Screw mixer performances to Power Number. 
+Rotation Screw Equation Development  
+ (5) 
+ (6) 
+ (7) 
+Orbiting Screw Equation Development  
+ (8) 
+ (9) 
+                                                                                                      (10) 
+ The Power Consumption Performance 297 
+ 
+ (11) 
+Power Number 
+ (12) 
+ (13) 
+; (14) 
+where:  (15) 
+ (16) 
+?  and   (17) 
+Power numbers are used to estimate the power needed to rotate and revolve a 
+screw mixer. To investigate the effects of varying particle sizes on power 
+consumption, the orbiting screw mixer was used for mixing urea and natural 
+zeolite with three particle sizes, 50-60 mesh, 60-80 mesh and 80 mesh. The 
+optimum specific energy consumption in the mixing process of urea-natural 
+zeolite with air injection shown in Figures 5 and 6 can also be proven with and 
+represented in the form of Total Power Numbers (shown in Figure 8); the 
+lowest power number (1.6 x 10
+8
+) was obtained at an air flow rate of 10 l/min for 
+the 60-80 mesh particle-size group. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 8 The effect of air injection rate on the Total Power Number. 
+298 Semuel Pati Senda, et.al. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 9 Total Power Number with respect to the Reynolds Number, NRe. 
+Examining the influence of air injection on the mixing process of UZ, we 
+observed an increase in the Total Power Number with an increased air flow rate, 
+as shown in Figure 8. The effect of the air flow rate is indicated by the high 
+power number for an air flow rate of 5 l/min that decreased sharply when 
+increasing the flow rate to 10 l/min. When flow rates were increased above 
+10 l/min, the Total Power Number remained a fixed value. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 10 Total Power Number with respect to the Froude Number, NFr. 
+ The Power Consumption Performance 299 
+ 
+Variations in the Total Power Number with NRe are shown in Figure 9 for the 
+three different particle-size groups. The Total Tower Number for mixing urea-
+natural zeolite with air injection shows that Npo,t decreased as NRe increased. 
+Figure 10 shows the correlation for the Total Power Number, (Npo,t) and the 
+Froude Number (NFr) which indicates that the optimum operating condition for 
+mixing with the lowest specific energy consumption was achieved in mixing of 
+the 60-80 mesh particle-size group with an air flow rate of 10 l/min. The NFr 
+values obtained ranged between 0.73x10
+-3
+ and 107x10
+-6
+. These results 
+confirmed the results of research conducted by Edward, et al. [7], who reported 
+that mixing solids in an orbiting screw mixer generally operates at NFr<1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 11 Correlations of NFr  with NRe. 
+Figure 11 shows that the ideal mixing process takes place when the 
+NRe<2.19x10
+8
+ and the NFr<1.18x10
+-3
+ for a 60-80 mesh UZ particle size with a 
+combination screw mixer and an air flow rate of 10 l/min. 
+4 Conclusions 
+The results of this study indicate that the methodology of combining an orbiting 
+screw mixer and air injection for the analysis of power consumption is suitable 
+for further process development and scale-up. A particularly good result with 
+respect to power consumption is found for mixing the 60-80 mesh particle-size 
+group with a stirrer combination of a screw mixer and air injection with a 
+rotation speed of 67.5 rpm, orbital speed of 5 rpm and air flow rate of 10 l/min. 
+Mixing with the lowest specific energy consumption shows that the best mixing 
+is achieved in the range of NRe values from 8.77x10
+7 
+to 2.63x10
+8
+. 
+300 Semuel Pati Senda, et.al. 
+The UZ mixing process performed well at NRe< 2.19x10
+8
+ and NFr<1.18x10
+-3
+ for 
+the 60-80 mesh particle-size group with a combination of a screw mixer and air 
+injection at a flow rate of 10 l/min.  
+Nomenclature 
+Din = Diameter of the cone [m] 
+Ds =  Effective diameter of screw [m] 
+D =   Screw diameter 
+E =  Specific energy consumption [Joule/kg] 
+eka =  Kinetic power axial [Watt/kg] 
+eko =  Kinetic power orbital [Watt/kg] 
+F = Force [Newton] 
+g = Gravitation force [m/s
+2
+] 
+H = Height of the cones [m] 
+I = Electric current (Ampere) 
+L = Diameter orbit of screw (screw arm) [m] 
+,,?.-?. = Mass flow rate displaced by the screw [kg/s] 
+n = Screw rotation speed [rad/s] 
+NFr = Froud number, NFr= É÷r
+2
+rp/g, [-] 
+Ns = Rotation speed of screw [rpm] 
+No = Orbital speed of screw [rpm] 
+Npo,s = Power number of screw [rpm] 
+Npo,o = Power number of screw [rpm] 
+Npo,t = Power Number Total [-]  
+NRe = Reynolds number (Éœa.Uek.Din)/É a,[-] 
+m  = Mass of solid [kg] 
+p  = Pitch [m] 
+PS  = Particle Size [mesh] 
+rp  = Radius of particle  
+s  = Screw distance to the wall [m] 
+SRF-U  = Slow Release Fertilizer Urea [-] 
+tmx =  Mixing time [second] 
+Uo = Linear velocity of screw orbiting [m/s]  
+Uek = Flow velocity of the air [m/s]   
+Us = Linear velocity of screw rotation [m/s]  
+UZ = Urea-Natural Zeolite [-] 
+V  = Electrical voltage [Volt] 
+Wko  = Kinetic Power required for screw rotation [Watt] 
+,,?.-??. = Kinetic Power required for screw orbiting [Watt] 
+Wl = Electrical power [Watt] 
+Wm = Mechanical power [Watt] 
+Z =  Height of the cone [m] 
+ The Power Consumption Performance 301 
+ 
+ 
+Greek letters 
+É¿so = Power ratio of rotation and orbital screw [-] 
+Éœa = Density of the air [kg/m
+3
+] 
+,,?.-?. = Average density of particle [kg/m3] 
+? = Screw elevation [degree] 
+É—s = Rotation torque of screw [Nm] 
+É—o = Orbital torque of screw [Nm]  
+É≈ = Mechanical efficiency [%] 
+É≈Es =  Kinetic efficiency rotation of screw [%]  
+É≈Eo =  Kinetic efficiency orbital of screw [%] 
+É≈ms = Efficiency mass transfer solids by screw rotation [%] 
+É≈mo = Efficiency mass transfer efficiency solids by screw orbit [%] 
+É a =  Viscosity of the air [kg/m.s]   
+É÷r = Angular velocity [rad/s] 
+Acknowledgements 
+The authors would like to thank the Department of Chemical Engineering at the 
+Faculty of Industrial Technology of the Institut Teknologi Bandung, which 
+allowed the use of their laboratory for performing the mixing experiments for 
+this work. 
+References 
+[1] Kamei, N., Hiraoka, S., Kato, Y., Tada, Y., Shida, H., Lee, Y.S., 
+Yamaguchi, T. & Koh, S.T., Power Correlation for Paddle Impellers in 
+Spherical and Cylindrical Agitated Vessels, Kagaku Kogaku Ronbunshu, 
+21, pp. 41-48, 1995. 
+[2] Kamei, N., Hiraoka, S., Kato, Y., Tada, Y., Iwata, K., Murai, K., Lee, Y. 
+S., Yamaguchi, T. & Koh, S.T., Effects of Impeller and Baffle 
+Dimensions on Power Consumption under Turbulent Flow in an Agitated 
+Vessel with Paddle Impeller, Kagaku Kogaku Ronbunshu, 22, pp. 249-
+256, 1996. 
+[3] Nagata, S., Yokoyama, T. & Maeda, H., Studies on the Power 
+Requirement of Paddle Agitators in Cylindrical Vessels, Kagaku Kogaku, 
+20, pp. 582-592, 1956. 
+[4] Sastry, H., Cooper, R., Hogg, T.R., Jespen, F., Knoll, B., Parekh, R.K., 
+Rajamani, T. & Sorenson, I., Solid-Solid Operations and Equipment, 
+PerryÅfs Chemical EngineerÅfs Handbook, R.H. Perry & D.W. Green), 
+McGraw-Hill, 1999. 
+[5] Venables, H.J. & Wells, J.I., Powder Mixing, Drug Development and 
+Industrial Pharmacy, 27(7), pp. 599-612, 2001. 
+302 Semuel Pati Senda, et.al. 
+[6] Senda, P.S., Handogo, R., Roesyadi, A. & Sumaryono, W., Mixing Urea 
+and Zeolite for Slow Release Fertilizer Using Orbiting Screw Mixer, 
+IPTEK, The Journal for Technology and Science, 20(4), 2009. 
+[7] Edward, L., Paul, E.L, Atiemo-Obeng, V.A., & Kresta, S.M., Part B: 
+Mixing of Particulate Solids in the Process Industries, Handbook of 
+industrial mixing, Science and practice,  Edward E Paul,  John Wiley & 
+Sons., pp. 924-982, 2004. 

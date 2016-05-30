@@ -1,0 +1,47 @@
+<?php
+
+class hbase_stargate {
+
+    var $host, $port;
+
+
+    function __construct($host='127.0.0.1', $port=8080) {
+        $this->host = $host;
+        $this->port = $port;
+    }
+
+
+
+  /**
+     * @name    Select one row
+     * @example $obj->select('table', 'row', 'column1'));
+     * @return array
+    */
+    public function select($table, $row, $column=null) {
+        $column = !empty($column) ? '/'.$column : '';
+        $obj = $this->write('GET', '/'.$table.'/'.$row.$column);
+
+        if(!is_object($obj)) {
+            return false;
+        }
+
+        $arr = array();
+        foreach($obj->Row[0]->Cell as $k=>$r) {
+            $keyName = preg_replace('#:$#','', base64_decode($obj->Row[0]->Cell[$k]->column));
+            if(!array_key_exists($keyName, $arr)) {
+                $arr[$keyName] = base64_decode($obj->Row[0]->Cell[$k]->{'$'});
+            echo $arr[$keyName]."     ";
+	 }
+        }
+        return $arr;
+    }
+
+
+ }
+
+
+
+$contoh = new  hbase_stargate ();
+$contoh -> select("url", "1","");
+
+?>

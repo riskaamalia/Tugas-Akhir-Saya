@@ -1,0 +1,604 @@
+  
+ITB J. Sci., Vol. 44 A, No. 3, 2012, 263-274                                  263 
+ 
+Received December 4
+th
+, 2011, Revised August 24
+th
+, 2012, Accepted for publication August 29
+th
+, 2012 
+Copyright ? 2012 Published by LPPM ITB, ISSN: 1978-3043, DOI: 10.5614/itbj.sci.2012.44.3.6 
+ 
+Ring-Opening of Oxiranes using Taeniolite-Supported 
+Tris(É¿-Diketonato)Zirconium 
+Yessi Permana
+1
+, Nobuyuki Ichikuni
+2
+ & Shogo Shimazu
+2
+ 
+1Inorganic & Physical Chemistry Research Division, Institut Teknologi Bandung,  
+Jl. Ganesha 10, Bandung, Jawa Barat 40132, Indonesia 
+2Department of Applied Chemistry and Biotechnology, Chiba University,  
+1-33 Yayoi, Inage, Chiba 263-8522, Japan 
+Email: yessi@chem.itb.ac.id 
+ 
+ 
+Abstract. A series of tris(É¿-diketonato)zirconium(IV) complexes was 
+immobilized into a synthetic clay structure of Taeniolite by an ion-exchange 
+method to generate organic/inorganic hybrid compounds. The hybrid compound 
+served as a good catalyst for ring-opening reactions of methyl, ethyl, and 
+dimethyl oxiranes with various alcohols to generate primary alkoxy alcohols in 
+appreciable selectivity. This method describes a technique to immobilize cationic 
+zirconium complexes without losing selectivity. 
+Keywords: É¿-alkoxyalcohols; oxiranes; ring-opening; Taeniolite; tris(É¿-
+diketonato)zirconium. 
+1 Introduction 
+É¿-Alkoxyalcohols are versatile precursors in organic synthesis and 
+pharmaceuticals. The synthetic route for such compounds commonly proceeds 
+via ring-opening of oxiranes (epoxides) [1-24] using traditional Lewis acids 
+such as Cu(BF4)2 [2,21], Sn(OTf)2 [11], BF3 [22], Sc(OTf)3 [24], and traditional 
+solid acids such as amberlyst-15 [10]. Modified Lewis acid complexes based on 
+salen [5,12] and porphyrin [23] ligands have also been reported. Some 
+heterogeneous catalysts such as zeolites [1,18], monmorillonite K-10 [4], silica 
+gel [6], mesoporous aluminosilicate [9,12,14,15,20], CuO/SiO2 [19], and 
+sulphated yttria-zirconia [25] have been reported as catalysts in the ring-opening 
+of oxiranes. An alternative reaction method using a microwave technique has 
+also been examined [13], even though such a method still experiences 
+difficulties in scale-up processes. In continuation of our research on oxirane 
+ring-opening reactions [3,7,8] we report herein a new methodology for oxirane 
+ring-opening using clay-supported Zr(IV) diketonates. The clay selected as a 
+host was lithium Taeniolite, denoted as Li-TN [26]. Lewis acidity at the metal 
+center in the complex was improved by utilization of phenyl and fluoro diketone 
+ligands and was observed from its homogeneous state [7,8]. We have previously 
+discussed an immobilization effect of a zirconium complex into clays [3,8] and 
+observed the enhancement in catalytic activities likely due to a desolvation 
+264 Yessi Permana, et.al. 
+phenomenon of metal complexes in clay layers [27,28]. We have also observed 
+a selectivity enhancement when a zirconium complex was immobilized into 
+Taeniolite and natural Bentonite, which was possibly due to constrained clay 
+layers (the clays were notably swollen poorly in alcohols) [3]. In this work, we 
+found that the trend in the selectivity of the heterogeneous catalysts was, unlike 
+that of the homogeneous catalysts, independent on the functional groups of 
+ligands, and the activity of the heterogeneous catalysts was dependent on the 
+size of the substrate. Nevertheless, the effort to immobilize tris(É¿-
+diketonato)zirconium(IV) into clay is still important, regardless of common 
+requisites of selectivity and activity, as such efforts may provide an alternative 
+method to prepare a robust and easily separable ionic zirconium catalyst for 
+liquid phase reactions.  
+Zr
+O
+O
+O
+O
+O
+O
+R1
+R2
+R2
+R1
+R1
+R2
+?
+1. ZrCl4
+R2
+R1
+O
+O
+2. AgClO4
+ClO4
+?
+a: R1 = R2 = Me
+b: R1 = Me; R2 = Ph
+c: R1 = R2 = Ph
+d: R1 = Ph; R2 = CF3
+1a-d                                               2a-d                                                                                        2a-d/TN
+Li-Taeniolite
+(cation-exchange) Zr
+O
+O
+O
+O
+O
+O
+R1
+R2
+R2
+R1
+R1
+R2
+anionic silicate layers
+ 
+Scheme 1 Immobilization of Zr(IV) É¿-diketonates into Taeniolite layers. 
+2 Experiment 
+2.1 Materials and Reagents   
+Zirconium tetrachloride, É¿-diketone ligands, oxiranes and alcohols were 
+purchased from Wako Pure Chemical Industries, Ltd. and used without prior 
+treatment. The synthetic Lithium Taeniolite (Li[(Mg2Li)(Si4O10)F2]) used in this 
+work was kindly supplied by Topy Industry Co. Ltd., Japan. Complexes of 
+2b?d and 2a/TN catalyst were prepared as in our previous report [3,8].    
+2.2 Preparation of Taeniolite Supported Tris(É¿-Diketonato) 
+Zirconium 
+The 2b?d/TN catalysts were prepared in the following, slightly different 
+manner.  Lithium Taeniolite (cation exchange capacity, C.E.C, of 2.68 mmol 
+Li
++
+/g Taeniolite) of 0.1 g was swollen by deionized water (10 ml). Complexes 
+2b and 2c (50% of Taeniolite C.E.C) were dissolved in methanol (30 ml), and 
+2d (50% of Taeniolite C.E.C) in acetone (30 ml). The solution was added to the 
+Ring-opening of Oxiranes using Tris(É¿-Diketonato)Zr/Taeniolite 265 
+ 
+swollen Taeniolite, followed by stirring at 35 ÅãC for 48 h and sonication for 1.5 
+h. Complex/Taeniolite compounds were characterized using PXRD (Bruker 
+AXS MXP3V; Cu-K?) and FT-IR (JEOL JIR-7000). The amount of loaded 
+complexes was examined by calculating the remained concentration of 
+complexes in the filtrate after ion-exchange using a simple UV-Vis technique 
+(Shimadzu UV-2101PC).  
+2.3 Ring-Opening Reactions of Oxiranes with Alcohols 
+Methyl, ethyl and dimethyl oxiranes (3.55 mmol), respectively, were added into 
+methanol in excess (10 ml), containing 1 mol% of active species of 2a?d/TN 
+catalysts.  In another series of reactions, methyl oxirane (3.55 mmol) was added 
+to methanol, ethanol, n-propanol and i-propanol, respectively, in excess (10 ml), 
+containing 1 mol% of active species of 2a/TN catalyst. Reaction condition was 
+24 h, 60 ÅãC and 1 atm. The products were analyzed by GC (Rt É¿-DEXsa 
+column) and GC-MS (Rt É¿-DEXsm column). 
+3 Results and Discussion 
+3.1 Organic/Inorganic Hybrid Compounds  
+Tris(É¿-diketonato)zirconium(IV) complexes have been immobilized into clay 
+structure by a facile ion exchange method (Scheme 1), affording a series of 
+organic/inorganic hybrid compounds (2a?d/TN). The immobilization of the 
+complexes was confirmed by FT-IR, powder XRD, and UV-Vis analysis. XRD 
+patterns of the compounds (Figure 1) showed a shift of initial d001 reflection to 
+lower angles, demonstrating an expansion of clay layers due to a complex 
+immobilization. Unlike the 2a/TN catalyst, the 2b?d/TN catalysts revealed a 
+relatively weaker shift towards lower angles despite their theoretically bigger 
+molecular size than 2a. Such a poor layer expansion will affect substrate 
+diffusion adversely during a catalytic reaction. However, in contrast to 2a/TN, 
+good crystallinity was observed in the case of immobilized 2b?d (Figure 1). 
+This may indicate a fair distribution of complexes 2b?d in interstitial layers of 
+Taeniolite. 
+The amount of immobilized complexes on Taeniolite was measured by UV-Vis 
+analysis of the filtrate after ion-exchange processes and provided in mmol/g of 
+Taeniolite. Loading amounts and PXRD parameters of Taeniolite layers after 
+immobilization are presented in Table 1.  
+ 
+266 Yessi Permana, et.al. 
+In
+te
+n
+si
+ty
+ /
+ a
+.u
+.
+161412108642
+LiTN
+5
+x
+1
+03
+ c
+p
+s
+2a/TN
+2b/TN
+2c/TN
+2d/TN
+ 
+Figure 1 XRD patterns of initial clay (LiTN) and Zr/TN compounds. 
+Tabel 1 Loading amounts and PXRD parametersa of Taeniolite-supported 
+tris(?-diketonato)zirconium(IV) complexes. 
+ 
+The loading amount data tell us that the complex substituted about 40% of the 
+lithium host cations. Although no experiment intended to vary the feeding 
+amount to see the influence on catalysis, all reactions conducted in this work 
+employed the same amount of Zr complexes, i.e. 1 mol% of exchanged 
+complexes, and thus a difference in activity due to a feeding amount parameter 
+should be eliminated. 
+Sample L.A.
+b
+ (mmol/g) d001 (nm) C.S.
+c
+ (nm) 
+TN - 1.21 0.25 
+2a/TN 1.12 1.53 0.57 
+2b/TN 1.10 1.41 0.45 
+2c/TN 1.02 1.44 0.48 
+2d/TN 1.10 1.42 0.46 
+a Cu-K?. 
+b Loading amount. c Clearance space = d001 ? 0.96 nm (thickness of layer). 
+2? / degree 
+d001 
+d002 
+d001 
+d001 
+d001 
+d001 
+Ring-opening of Oxiranes using Tris(É¿-Diketonato)Zr/Taeniolite 267 
+ 
+ 
+ 
+                
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Scheme 2  Schematic illustration of an ion exchange process between 
+exchangeable lithium cation and tris(acetylacetonato)zirconium guest cation 
+(couter anion was omitted for simplification). Taeniolite structure is given as an 
+idealized 2:1 (Tetrahedral?Octahedral?Tetrahedral) structure. C.S. = clearance 
+space of interlayer. Large black balls are oxygen; large grey balls are fluorine; 
+small black balls are silicon; small white balls are magnesium.  
+The appearance of characteristic bond vibrations of tris(É¿-diketonato)zirconium, 
+i.e. ?C(arom)-H, ?C(sp2)-H, and ?C=O, in IR spectra of Taeniolite supported 
+complexes clearly confirmed the presence of the complexes on the Taeniolite 
+structure (Figure 2). There are two possible causes for the complexesÅf 
+immobilization on clay. First, the complexes were immobilized in their salt 
+forms (cations and anions were being incorporated into clay layers), and second, 
+only cations were immobilized through an ion-exchange process with 
+exchangeable lithium cations. Confirmatory evidence that cationic tris(É¿-
+diketonato)zirconium complexes successfully exchanged lithium host cations 
+was observed from vibration disappearances of Cl?O from counter anions (i.e. 
+perchlorate anion) in the IR spectra, which should appear around 1080?1130 
+cm
+??
+ (stretching vibration) and 620?640 cm?? (bending vibration) in the original 
+zirconium complex (Figure 2) [29].      
+[Zr(acac)3]
+? 
+Li -Taeniolite 
+ d001 
+CS  Li??
+268 Yessi Permana, et.al. 
+ 
+Figure 2 FT-IR spectra of (a) Zr-diketonates prior to immobilization (b) 
+Taeniolite-supported Zr-diketonates. Vibrations were presented at selected 
+wavenumbers for focused discussion (600?1800 and 2800?3200 cm?1). 
+3.2 Ring-Opening of Oxiranes with Alcohols 
+Methyl, ethyl and dimethyl oxiranes were found to undergo smooth ring-
+opening with alcohols, affording primary and secondary alkoxyalcohols when 
+they were catalyzed by Taeniolite-supported Zr ?-diketonates (Table 2). The 
+proposed mechanism of an SN1 mechanism is given in Scheme 3. The complex 
+is predicted to initially provide a vacant space for oxirane-activation by a partial 
+dissociation of coordinated diketone ligands (Scheme 3). A competitive SN2 
+mechanism (due to a weak oxirane-activation) is likely the reason for the 
+formation of secondary alkoxyalcohols. A unique activity behavior of 
+Taeniolite-supported Zr ?-diketonates is given in Table 2. Entries 2?5 of the 
+table describe an improvement trend in activity, while entries 6?9 describe a 
+significant decline trend. Entries 10?13 describe a moderate decline trend. A 
+factor to consider in rationalizing these phenomena is the clearance space 
+Ring-opening of Oxiranes using Tris(É¿-Diketonato)Zr/Taeniolite 269 
+ 
+relative to the molecular size of complexes, as observed from the PXRD 
+patterns of the catalysts (Figure 1).  
+ 
+Zr
+O
+O
+O
+O
+O
+O
+R1
+R2
+R2
+R1
+R1
+R2
+O
+R
+Zr
+O
+O
+O
+O
+O
+O
+R1
+R2
+R2
+R1
+R1
+R2
+O
+Zr
+O
+O
+O
+O
+O
+O
+R1
+R2
+R2
+R1
+R1
+R2
+O
+R
+R'OH O
+R
+R
+Zr
+O
+O
+O
+O
+O
+O
+R1
+R2
+R2
+R1
+R1
+R2
+O
+R
+R'
+O
+H
+Zr
+O
+O
+O
+O
+O
+O
+R1
+R2
+R2
+R1
+R1
+R2
+R OR'
+OH  
+Scheme 3 Proposed mechanism of a ring-opening reaction of oxiranes with 
+alcohols in SN1 fashion to afford primary alkoxyalcohols. Counter anions from 
+Taeniolite layers not shown for simplicity. 
+In entries 2?5, a relatively small size of methyl oxirane provides good 
+accessibility for the substrate to diffuse into clay layers, even though some of 
+the clay-supported zirconium complexes possess a relatively low clearance 
+space. The rate-determining step in such a case is likely the substrate diffusion 
+step.  In entries 6?9, a relatively large size of ethyl oxirane provides poor 
+accessibility for the substrate to diffuse into clay layers, unless the clearance 
+space of the catalyst is considerably high, such as that on 2a/TN, which in fact 
+demonstrates the highest activity in this series. In entries 10?13, we found that a 
+significant decline trend due to the bulkiness of the substrate was not observed. 
+This can be explained by the fact that the intermediate compound resulted from 
+dimethyl oxirane activation is a tertiary carbocation, which is more stable than a 
+secondary carbocation resulted from monoalkyl oxiranes, such as methyl and 
+ethyl oxiranes. Such an intermediate stabilization provides a longer lifetime of 
+the intermediate to react with a nucleophile. Supportive evidence for this 
+suggestion can be found in the higher selectivity of the primary isomers for the 
+ring-opening of dialkyl oxiranes (Table 2, entries 10?13). 
+? 
+270 Yessi Permana, et.al. 
+Table 2  Synthesis of primary methoxyalcohols (3) promoted by Taeniolite-
+supported tris(?-diketonato)zirconium(IV) in comparison with their 
+homogeneous counterparts (given in parentheses). 
+         a Conversion was calculated by GC. b Selectivity was confirmed by GC-MS. 
+We have seen the effect of alcohol nucleophiles on the catalysis of oxirane ring-
+opening using homogeneous Zr(IV) in one of our previous reports [7]. Here we 
+have attempted to investigate the same effect when the reactions were catalyzed 
+by immobilized Zr(IV) complexes. The reactions taken as models were the ring-
+opening reactions of methyl oxirane with methanol, ethanol, n-propanol, and i-
+propanol, which were catalyzed by the 2a/TN catalyst. The catalytic data of 
+these reactions are given in Table 3. The data show that the ring-opening 
+reaction of methyl oxirane was independent of the type of alcohol when 2a/TN 
+was employed in the reaction. This was likely due to a desolvation property 
+inside the Taeniolite layers, which consequently enhanced the Lewis acidity of 
+the complex, as it was poorly solvated [3,27,28]. Such a property is uniquely 
+important because the same reaction with bulky nucleophiles demonstrates a 
+considerably lower activity when catalyzed by the homogeneous counterparts 
+(Table 3, entry 4). 
+ 
+ 
+OR
+R'
+Zr/TN cat.
+60 ÅãC, 24 h
+?? MeOH
+R
+R'
+OH
+OMe
+R
+R'
+OMe
+OH
+?
+3                             4
+ 
+Entry Oxiranes Cat. Conversion
+a
+ / % Selectivity
+b
+ (3)/ % 
+1            LiTN 24  20  
+2   
+O
+Me  
+2a/TN >99 (41) 58 (34) 
+3 2b/TN 100 (93) 56 (46) 
+4 2c/TN 100 (>99) 52 (52) 
+5 2d/TN 100 (100) 39 (52) 
+       
+6 
+O
+Et  
+2a/TN 98 (9) 47 (24) 
+7 2b/TN 60 (99) 47 (45) 
+8 2c/TN 17 (>99) 31 (45) 
+9 2d/TN 18 (>99) 46 (45) 
+       
+10 
+O
+ 
+2a/TN 78 (66) >99 (87) 
+11 2b/TN 91 (93) 100 (>99) 
+12 2c/TN 55 (100) >99 (100) 
+13 2d/TN 69 (>99) 96 (100) 
+Ring-opening of Oxiranes using Tris(É¿-Diketonato)Zr/Taeniolite 271 
+ 
+Table 3 Ring-opening of methyl oxirane with various alcohols using the 
+2a/TN catalyst in comparison with 2a (given in parentheses). 
+ 
+ 
+ 
+ 
+ 
+ 
+4 Conclusion 
+A series of organic/inorganic compounds prepared by immobilization of tris(É¿-
+diketonato)zirconium(IV) complexes into Taeniolite has been synthesized. The 
+compound serves as a good catalyst for the ring-opening reactions of methyl, 
+ethyl, and dimethyl oxiranes with various alcohols to generate primary alkoxy 
+alcohols in appreciable selectivity.  While bulky nucleophiles proceed in a very 
+low activity of oxirane ring-opening in a homogeneous state, such nucleophiles 
+show a significantly higher activity when the zirconium active species is 
+immobilized into Taeniolite.   
+Acknowledgements 
+YP acknowledges Riset KK ITB, IMHERE-ITB and Hibah Kerma LN 
+DIKTI for partial support of the work.   
+References 
+[1] Takeuchi, H., Kitajima, K., Yamamoto, Y. & Mizuno, K., The Use of 
+Proton-Exchanged X-Type Zeolite in Catalysing Ring-Opening Reactions 
+of 2-Substituted Epoxides with Nucleophiles and Its Effect on 
+Regioselectivity, J. Chem. Soc., Perk. T. 2, 2, pp. 199-203, 1993.  
+[2] Barluenga, J., V?zquez-Villa, H., Ballesteros, A. & Gonz?lez, J.M., 
+Copper(II) Tetrafluoroborate Catalyzed Ring-Opening Reaction of 
+Epoxides with Alcohols at Room Temperature, Org. Lett., 4, pp. 2817-
+2819, 2002. 
+[3] Permana, Y., Shimazu, S., Ichikuni, N. & Uematsu, T., Selective 
+Synthesis of Primary Methoxypropanol Using Clay Supported Tris(2,4-
+ROH
+2a/TN
+5
+O
+OH
+OR
+OR
+OH
+?
+ 
+Entry Alcohol Conversion
+a
+ / % Selectivity
+b
+ (5) / % 
+1 MeOH >99 (41) 58 (34)  
+2 EtOH >99 (80) 42 (17)  
+3 n-PrOH 97 (15) 52 (24)  
+4 i-PrOH 98 (6) 43 (30)  
+a Conversion was calculated by GC. b Selectivity was confirmed by GC-MS.  
+Reaction conditions were 60 ?C, 1 atm, 24 h.   
+272 Yessi Permana, et.al. 
+pentanedionato)zirconium(IV), J. Mol. Catal. A-Chem., 221, pp. 141-144, 
+2004. 
+[4] Chakraborti, A.K., Kondaska, A. & Rudrawar, S., Scope and Limitations 
+of Montmorillonite K 10 Catalysed Opening of Epoxide Rings by Amines, 
+Tetrahedron, 60, pp. 9085-9091, 2004. 
+[5] Dioos, B.M.L., Geurts, W.A. & Jacobs, P.A., Coordination of 
+CrIII(Salen) on Functionalised Silica for Asymmetric Ring-Opening 
+Reactions of Epoxides, Catal. Lett., 97, pp. 125-129, 2004. 
+[6] Chakraborti, A.K., Rudrawar, S. & Kondaskar, A., An Efficient Synthesis 
+of 2-Amino Alcohols by Silica Gel Catalysed Opening of Epoxide Rings 
+by Amines, Org. Biomol. Chem., 2, pp. 1277-1280, 2004. 
+[7] Permana, Y., Shimazu, S., Ichikuni, N. & Uematsu, T., Studies on Tris(É†-
+Diketonato)Zirconium(IV); Syntheses, Characterization and Cata-lytic 
+Activity for Ring-Opening of Oxirane, Catal. Commun., 6, pp. 426-430 
+2005. 
+[8] Shimazu, S., Hong Zou, Hara, T. & Ichikuni, N.,  Regioselective  Ring  
+Opening  Reactions  of  Oxiranes  with  Acrylic  Acid  by Clay Supported  
+Zirconium  É¿-Diketonate Catalysts,  J. Ion Exchange. A., 18, pp. 584-589, 
+2007. 
+[9] Robinson, M.W.C., Buckle, R., Mabbett, I., Grant, G.M. & Graham, A.E., 
+Mesoporous Aluminosilicate Promoted Alcoholysis of Epoxides, 
+Tetrahedron Lett., 48, pp. 4723-4725, 2007. 
+[10] Liu, Y.-H., Liu, Q.-S. & Zhang, Z.-H., Amberlyst-15 As A New and 
+Reusable Catalyst for Regioselective Ring-Opening Reactions of 
+Epoxides to É†-Alkoxy Alcohols, J. Mol. Catal. A-Chem., 296, pp. 42-46, 
+2008. 
+[11] Mancilla, G., Femen?a-R?os, M., Mac?as-S?nchez, A.J. & Collado, I.G., 
+Sn(OTf)2 Catalysed Regioselective Styrene Oxide Ring-Opening with 
+Aromatic Amines, Tetrahedron, 64, pp. 11732-11737, 2008. 
+[12] Guo, X.-F., Kim, Y.-S. & Kim, G.-J., Chiral (Salen) Cobalt Complexes 
+Encapsulated in Mesoporous MFI as an Enantioselective Catalyst for 
+Asymmetric Ring-Opening of Terminal Epoxides, Top. Catal., 52, pp. 
+153-160, 2008. 
+[13] Torborg, C., Hughes, D.D., Buckle, R., Robinson, M.W.C., Bagley, M.C., 
+Graham, A.E., Rapid RingÅ]Opening Reactions of Epoxides using 
+Microwave Irradiation, Synthetic Commun., 38, pp. 205-211, 2008. 
+[14] Robinson, M.W.C., Davies, A.M., Mabbett, I., Apperley D.C., Taylor, 
+S.H., Graham, A.E., Synthesis and Catalytic Activity of Nanoporous 
+Aluminosilicate Materials, J. Mol. Catal. A-Chem., 314, pp. 10-14, 2009. 
+[15] Robinson, M.W.C., Davies, A.M., Richard, B., Mabbett, I., Taylor, S.H., 
+Graham, A.E., Epoxide Ring-Opening and Meinwald Rearrangement 
+Reactions of Epoxides Catalyzed by Mesoporous Aluminosilicates, Org. 
+Biomol. Chem., 7, pp. 2559-2564, 2009. 
+Ring-opening of Oxiranes using Tris(É¿-Diketonato)Zr/Taeniolite 273 
+ 
+[16] Li, Y., Hao, H.-D. & Wu, Y., Facile Ring-Opening of Oxiranes by H2O2 
+Catalyzed by Phosphomolybdic Acid, Org. Lett., 11, pp. 2691-2694, 2009. 
+[17] Jafarpour, M., Rezaeifard, A. & Aliabadi, M., An Environmentally 
+Benign Catalytic Method for Efficient and Selective Nucleophilic Ring 
+Opening of Oxiranes by Zirconium Tetrakis(dodecyl Sulfate), Helv. Chim. 
+Acta, 93, pp. 405-413, 2010. 
+[18] Selvin, R., Selva Roselin, L., Praveen Kumar, K. & Arul, S., 
+Nanocrystalline Zeolite Beta: An Efficient Catalyst for The Regioselective 
+Alcoholysis of Epichlorohydrin, Sci. Adv. Mater., 2, pp. 190-194, 2010. 
+[19] Zaccheria, F., Santoro, F., Psaro, R. & Ravasio, N., Cuo/Sio2: A Simple 
+And Efficient Solid Acid Catalyst For Epoxide Ring Opening, Green 
+Chem., 13, pp. 545-548, 2011. 
+[20] Das, S. & Asefa, T., Epoxide Ring-Opening Reactions with Mesoporous 
+Silica-Supported Fe(III) Catalysts,  ACS Catal., 1, pp. 502-510, 2011. 
+[21] Capes, A.S., Crossman, A.T., Webster, L.A., Ferguson, M. A.J. & Gilbert, 
+I.H., Investigation of Copper(II) Tetrafluoroborate Catalysed Epoxide 
+Opening, Tetrahedron Lett., 52, pp. 7091-7094, 2011. 
+[22] Izquierdo, J., Rodri?guez, S. & Gonza?lez, F.V., Regioselective Ring 
+Opening and Isomerization Reactions of 3,4-Epoxyesters Catalyzed by 
+Boron Trifluoride,  Org. Lett., 13, pp. 3856-3859, 2011. 
+[23] Venkatasubbaiah, K., Zhu, X., Kays, E., Hardcastle, K.I. & Jones, C.W., 
+Co(III)-Porphyrin-Mediated Highly Regioselective Ring-Opening of 
+Terminal Epoxides with Alcohols and Phenols, ACS Catal., 1, pp. 489-
+492, 2011. 
+[24] Hu, X., Gao, B., Chu, Y., Li, W., Liu, X., Lin, L. & Feng, X., 
+Enantioselective Synthesis of É¿-Pyrazole-Substituted Alcohols through an 
+Asymmetric Ring-Opening Reaction of Meso-Epoxides. Chem.?Eur. J., 18, 
+pp. 3473-3477, 2012. 
+[25] Kahandal, S.S., Kale, S.R., Disale, S.T. & Jayaram, R.V., Sulphated 
+Yttria?Zirconia as A Regioselective Catalyst System for The Alcoholysis 
+of Epoxides, Catal. Sci. Technol., 2, pp. 1493-1499, 2012. 
+[26] Newman, A.C.D., Chemistry of Clay and Clay Minerals, Harlow, 
+Longman, pp. 81-83, 1987. 
+[27] Suzuki, N., Yamamoto, D., Anaguchi, N., Tsuchiya, H., Aoki, K. & 
+Kanzaki, Y., The Ion-Exchange Property of Some Layered Inorganic 
+Materials with Potassium Ion, Rubidium Ion and Cesium Ion, and 
+Selective Cesium Ion-Exchange of Synthetic Mica, Bull. Chem. Soc. Jpn, 
+73, pp.  2599-2603, 2000. 
+[28] Suzuki, N., Itoh, M., Igarashi, M. & Kanzaki, Y., Solid NMR Study of the 
+Ion-Exchange Properties on ?-Titanium Phosphate with Alkali Metal Ions, 
+J. Ion Exchange, 14, pp. 169-172, 2003. 
+274 Yessi Permana, et.al. 
+[29] Pejov, L. & Petru?evski, V.M., Fourier Transform Infrared Study of 
+Perchlorate (
+35
+ClO4
+?
+ and 
+37
+ClO4
+?
+) Anions Isomorphously Isolated in 
+Potassium Permanganate Matrix. Vibrational Anharmonicity and 
+Pseudo-Symmetry Effects, J. Phys. Chem. Solids, 63, pp. 1873-1881, 
+2002. 

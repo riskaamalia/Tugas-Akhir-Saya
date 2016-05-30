@@ -1,0 +1,935 @@
+ 252 
+ 
+ITB J. Eng. Sci., Vol. 44, No. 3, 2012, 252-269 
+ 
+ 
+Received November 21
+st
+, 2011, Revised September 26
+th
+, 2012, Accepted for publication October 17
+th
+, 2012. 
+Copyright ? 2012 Published by LPPM ITB & PII, ISSN: 1978-3051, DOI: 10.5614/itbj.eng.sci.2012.44.3.4 
+Experimental Study of Confined Low-, Medium- and 
+High-Strength Concrete Subjected to Concentric 
+Compression 
+Antonius
+1
+ & Iswandi Imran
+2
+ 
+1Department of Civil Engineering, Universitas Islam Sultan Agung, Jl. Raya Kaligawe 
+Km. 4, Semarang 50112, Indonesia  
+2Structural Engineering Research Group, Civil Engineering Department, 
+ Institut Teknologi Bandung, Jl. Ganesa No.10, Bandung 40132, Indonesia 
+Email: antoni67a@yahoo.com 
+ 
+ 
+Abstract. An experimental study of 23 low-, medium- and high-strength 
+concrete columns is presented in this paper. Square-confined concrete columns 
+without longitudinal reinforcement were designed, and tested under concentric 
+axial compression. The columns were made of concrete with a compressive 
+strength ranging between 30 MPa and 70 MPa. The test parameters in the study 
+are concrete compressive strengths and confining steel properties, i.e. spacing, 
+volumetric ratios and configurations. The effects of these parameters on the 
+strength and ductility of square-confined concrete were evaluated. Of the 
+specimens tested in this study, the columns made with higher-strength concrete 
+produced less strength enhancement and ductility than those with lower-strength 
+concrete. The steel configurations were found to have an important role in 
+governing the strength and ductility of the confined high-strength concrete. 
+Moreover, several models of strength enhancement for confined concrete 
+available in the literature turned out to be quite accurate in predicting the 
+experimental results. 
+Keywords: confinement; ductility; high-strength concrete; strength. 
+1 Introduction 
+1.1 Background 
+High-strength concrete (HSC) is gaining popularity in the last decade. This 
+material has been used in many types of constructions, such as high-rise 
+buildings, bridges, marine structures, offshore platforms etc. One of the 
+advantageous characteristics of high-strength concrete is the high strength-to-
+weight ratio. This enables the use of reinforced concrete columns with smaller 
+cross-sectional dimensions for high-rise buildings. 
+The development of concrete technology and practice has led to a changing 
+perception of the definition of high-strength concrete [1-3]. CEB-FIP [4] and 
+ Confined Low, Medium and High-Strength Concrete 253 
+ 
+Nishiyama [5] define HSC as a concrete having a minimum 28-day compressive 
+strength of 60 MPa. In North America, HSC is usually considered to be a 
+concrete with a 28-day compressive strength of at least 41 MPa. In this paper, 
+concrete with a strength up to 41 MPa is defined as low-strength concrete, 
+concrete with a strength from 41 to 55 MPa as medium-strength concrete, and 
+concrete with a strength above 55 MPa as high-strength concrete. 
+Although high-strength concrete offers many advantages in terms of 
+performance, and also costs, its brittle behavior remains a major drawback in 
+the case of seismic applications. Because of their brittleness, high-strength 
+concrete columns commonly exhibit premature cover spalling under high 
+compression [6]. 
+Many researchers have reported the lack of ductility and deformation capacity 
+of HSC columns [7-10]. The ductility of reinforced concrete columns depends 
+on the confinement provided by confining steel. Therefore, concrete 
+confinement is a critical issue for HSC columns in seismic regions [5,10]. 
+Current design provisions in the Indonesian National Standard for reinforced-
+concrete design of buildings (SNI-03-2847-2002) [11], which is similar to ACI 
+318 [12], are not applicable to the design of HSC columns. Strength and 
+ductility aspects of HSC columns are one area where design provisions are still 
+limited.  
+Early research on confined concrete, leading to the formulation of empirical 
+stress-strain relationships, was generally carried out on small- and large-scale, 
+concentrically loaded specimens. Many research reports on confined concrete 
+(fÅfc?38 MPa) are available in the literature [13-15]. The same can be said about 
+confined high-strength concrete [7,9,10,16-19]. However, very limited test data 
+are available from experimental investigations covering low-, medium- and 
+high-strength concrete column specimens. The common approach in the 
+literature is to study cases with different concrete strength classifications 
+separately. Many design variables have been considered in each of these 
+researches. The amount of confining steel receives the most attention in many 
+researches. Other test parameters considered include the compressive strength 
+of concrete, the yield strength of rebar, the distribution of longitudinal steel, tie 
+spacing, and cross-section dimensions. It is the purpose of the research 
+presented in this paper to complement the available confined concrete database 
+with the compressive strength of confined concrete ranging from low to high. 
+The results of this study will provide much needed general design information 
+for normal- and high-strength concrete columns. 
+254 Antonius & Iswandi Imran 
+1.2 Research Significance 
+Research on confined concrete, especially with a wide range of compressive 
+strengths (i.e. covering normal- and high-strength concrete), still needs to be 
+conducted. The design equations in the present concrete code are only 
+applicable for normal-strength concrete columns (fÅfc?55 MPa) [11,12]. 
+Research focusing on confined concrete columns with a compressive strength 
+ranging from normal to high will provide a significant contribution to the 
+understanding of the general behavior of confined concrete. 
+2 Experimental Programs 
+2.1 Materials and Ranges of Concrete Strengths 
+Three different mixes were used to attain the cylindrical strength targets of low-
+, medium- and high-strength concrete, denoted as L, M and H (see Table 2). For 
+this research, the sand and coarse aggregate used were taken from a local 
+quarry. The size of the coarse aggregate was in the range between 8 and 14 mm. 
+A superplasticizer (SP) from the brand named Sikament NN was used to 
+improve the workability of the high-strength concrete mixes. In addition, for the 
+high-strength mixes fifteen percent by weight of the Portland cement was 
+replaced with Fly Ash. 
+The confining steel used was plain rebar with a diameter of 5.5 mm and a yield 
+strength of 398 MPa. The yield strength was determined by tension tests of 
+three sample bars (Figure 1). 
+Table 1 summarizes the dimensions, number of test specimens, concrete 
+strengths and volumetric ratios of confining steel used in several experimental 
+studies conducted on square-confined concrete columns under concentric 
+loadings, from 1990 to 2007. Most of the studies shown in Table 1 were 
+conducted either with low-, medium- or high-strength concrete columns. Only 
+one study was conducted with a wider range of concrete strengths, i.e. from 
+low- to high-strength concrete [16]. 
+ 
+ 
+ 
+ 
+ Confined Low, Medium and High-Strength Concrete 255 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 Stress-strain relationship of confining steel used in this test program. 
+In this study, the range of concrete strengths used for the test specimens varied 
+from 30 to 70 MPa. This range was selected to complement the database of 
+columns tested under concentric loading as shown in Table 1. 
+Table 1 Columns with a square section tested under concentric loading (1990-
+2007). 
+Researchers 
+Amount of 
+specimens 
+Dimensions 
+(mm) 
+fÅfc 
+(MPa) 
+Éœs (%) fy (MPa) 
+Nagashima et al., 1992, [18] 26 225x225 61-120 1.6-4 823-1414 
+Cusson & Paultre, 1994, [17] 30 235x235 52-123 1.4-5 392-770 
+Sun, et al., 1994, [19] 14 200x200 52-55 1.7-4.5 889-1046 
+Saatcioglu &Razvi, 1998, [10] 24 250x250 60-124 0.9-4.6 400-1000 
+Li, et al., 2000, [16] 27 240x240 41-97 0.8-5.0 445-1318 
+Ming Chung, et al., 2006, [13] 17 200x200 17-34 0.2-2.3 - 
+Husem & Pul, 2007, [20] 36 150x150 ~ 64 0.5-3.1 - 
+2.2 Specimen Details and Instrumentation 
+For this research, 23 confined and unconfined concrete columns (dimensions 
+100 x 100 x 500 mm) were designed. Figure 2 shows the columnsÅf cross-
+sections and instrumentation. The specimens were designed without 
+longitudinal reinforcement or concrete cover in order to study purely the 
+behavior of the confining steel. For the purpose of the test, the total height of 
+each column was divided into 3 regions, comprising of two 150 mm regions at 
+each end of the column, and a 200 mm region in the middle. The specimens 
+were categorized into four configurations as shown in Table 2 (i.e. 
+configurations A, B, C and D), representing different arrangements of confining 
+ 
+256 Antonius & Iswandi Imran 
+steel. FLA-5 type strain gauges were used to monitor the strains in the confining 
+steel, and displacement transducers (LVDT) were used to measure axial 
+deformations in the tested columns.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 Instrumentation of specimens. 
+Axial deformations were measured within each of the 3 regions along the 
+column height. The overall head movement of the test machine was also 
+measured. All instrumentations were connected to a computer-based data 
+acquisition system. Figure 3 shows the reinforcement cages. 
+2.3 Test Procedure   
+All columns were tested under concentric compression produced by a Dartec 
+Universal Testing Machine (UTM) with a capacity of 1200 kN. The tests were 
+done under displacement control. The test setup is shown in Figure 4. The load 
+was given in regular increments, and sets of deformation readings were taken at 
+every load stage.  
+ 
+ 
+ 
+ 
+ 
+Configurations: 
+A 
+B 
+C 
+D 
+(a) 
+(b) 
+ 
+ Confined Low, Medium and High-Strength Concrete 257 
+ 
+ 
+Figure 3 Typical reinforcement cages for confined concrete. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4 Test set-up. 
+2.4 Strength and Ductility Computation 
+Strength enhancement due to confinement is expressed as the ratio of confined 
+to unconfined concrete strength in the member (i.e. K=fÅfcc/fÅfco). The confined 
+concrete area was measured from center to center of the steel perimeter. The 
+history of experimentally measured axial strain of confined concrete can be 
+ 
+ 
+258 Antonius & Iswandi Imran 
+obtained from the average axial shortening readings from LVDT divided by the 
+vertical length of the test region. 
+For this research, the energy method was used to measure ductility. With this 
+method the ductility is calculated based on the area under concrete stress (fcc) 
+versus the axial strain (É√) curve (see Figure 5). The ductility indices are denoted 
+as É E, that is the area OACDE divided by the area OAB, where B corresponds 
+to the yield strain É√y, and E corresponds to the point of first fracture of the 
+confining steel. The 0.85fÅfcc rule is used to define the yield strain. 
+ 
+Figure 5 Ductility measurement. 
+3 Experimental Results and Discussion 
+The results of the experimental work on the test specimens are provided in 
+Table 2 and Figure 6 shows examples of failure in the test specimens.  
+Figure 7 shows the measured stress-strain results of the tested columns. The 
+ascending branches of measured stress-strain relationships in all test columns 
+are almost linear. In addition, the descending branches of the columns with a 
+higher-strength concrete are steeper than those with a lower-strength concrete. 
+The unconfined concrete columns, i.e. SCL, SCM and SCH, failed in a sudden 
+and explosive manner at peak load. The measured compressive strength of 
+unconfined concrete for low-, medium- and high-strength concrete were 
+respectively 0.86, 0.85 and 0.82 of the compressive strength of the concrete 
+cylinder.  
+ 
+ 
+fÅfcc 
+0.85fÅfcc 
+O 
+A 
+B 
+C 
+D 
+E 
+first fracture of  
+confining steel 
+É√ 
+É√y 
+fcc 
+ Confined Low, Medium and High-Strength Concrete 259 
+ 
+Table 2 Detail of confining steel and test results. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6 Failure of specimens: (a) tie spacing 50 mm, (b) tie spacing 100 mm. 
+Specimen 
+fÅfc 
+(MPa) 
+Confining steel 
+Pmax. 
+ (kN) 
+fÅfcc  
+(MPa) 
+K É E 
+Conf. ?-spacing ?s (%) 
+At peak 
+response 
+SCL 34 - - - - - - - - 
+SCM 45 - - - - - - - - 
+SCH 67 - - - - - - - - 
+AL5 34  5.5 ?   50 2.01 Yield 301.84 33.80 1.16 5.7 
+AM5 
+45 
+5.5 ?   50 2.01 Yield 381.77 42.75 1.12 5.7 
+AM10 5.5 ? 100 1.005 Yield 341.22 38.21 1 2.8 
+AH5 
+67 
+5.5 ?   50 2.01 Yield 533.23 59.71 1.10 3.7 
+AH10 5.5 ? 100 1.005 Yield 489.47 54.81 1 1.8 
+BL5 34  5.5 ?   50 3.43 Yield 300.86 33.69 1.37 10.7 
+BM5 
+45 
+5.5 ?   50 3.43 Yield 453.39 50.77 1.33 7.3 
+BM10 5.5 ? 100 1.72 Yield 341.14 38.20 1 2.3 
+BH5 
+67 
+5.5 ?   50 3.43 No yield 631.64 70.73 1.29 7.5 
+BH10 5.5 ? 100 1.72 Yield 499.92 55.98 1.02 1.8 
+CL5 34  5.5 ?   50 3.02 Yield 329.26 36.87 1.27 9.5 
+CM5 
+45 
+5.5 ?   50 3.02 Yield 375.25 42.02 1.24 6.6 
+CM10 5.5 ? 100 1.51 Yield 341.40 38.23 1 2.6 
+CH5 
+67 
+5.5 ?   50 3.02 Yield 606.63 67.93 1.10 11.3 
+CH10 5.5 - 100 1.51 Yield 496.97 55.65 1.02 2.1 
+DL5 34  5.5 ?   50 3.63 Yield 390.88 43.77 1.50 7.4 
+DM5 
+45 
+5.5 ?   50 3.63 No yield 444.01 49.72 1.30 3.6 
+DM10 5.5 ? 100 1.82 Yield 341.05 38.19 1 2.8 
+DH5 
+67 
+5.5 ?   50 3.63 No Yield 558.41 62.53 1.16 4 
+DH10 5.5 ? 100 1.82 Yield 509.02 57.00 1.04 2.1 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+  
+(b) (a) 
+260 Antonius & Iswandi Imran 
+Experimental studies of high-strength concrete columns conducted by many 
+researchers indicate that confining steel does not yield at peak response 
+[1,10,21]. Similar behavior can also be seen in the specimens made of medium- 
+and high-strength concrete tested in this study, especially those with a high 
+volumetric ratio of confining steel (i.e. specimens BH5, DM5 and DH5).  
+3.1 Effect of Compressive Strength 
+Concrete strength is one of the primary variables investigated extensively in this 
+test. Columns with the same amount and arrangement of reinforcement but with 
+distinctly different concrete strengths were tested to study the effects of this 
+parameter. 
+Figure 7 shows the comparison of four columns with different concrete 
+strengths. The results indicate a consistent decrease in strength enhancement 
+and ductility as the concrete strength increases. However, when the volumetric 
+ratio of confining steel is moderate, as in the case of column CH5, the column 
+shows ductile behavior and the effect of the concrete strength becomes 
+insignificant. 
+The relationship between the concrete strength and the strength enhancement of 
+confined concrete (K) with different configuration variables can be seen in 
+Figure 8. All of the specimens show a decrease of strength enhancement as the 
+concrete strength increases. It can also be seen that the specimen with 
+configuration D has the highest K value for low-strength concrete (fÅfc=34 MPa). 
+The specimen with configuration B has the highest K value for medium- and 
+high-strength concrete.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 7 Curves of confined concrete with different concrete strengths. 
+ 
+ Confined Low, Medium and High-Strength Concrete 261 
+ 
+Figure 8 also shows that when the volumetric ratio of confining steel is very 
+high, as in the case of specimens with configuration D, the K value decreases 
+quickly when used with medium- and high-strength concrete.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 8 Influence of strength enhancement of confined concrete on concrete 
+strength. 
+3.2 Effect of Tie Spacing  
+Experimental and theoretical evidence has shown that tie spacing plays a 
+significant role in the mechanism of confined concrete [1,10,15]. The behavior 
+of confined concrete with different tie spacings is shown in Figure 9. The 
+columns have a different volumetric ratio of confining steel. The effectiveness 
+of the confining steel diminishes quickly when the tie spacing increases. 
+Specimens with a wide tie spacing may not develop any confinement. The 
+medium- and high-strength concrete specimens tested in this study did not 
+develop any confinement when the tie spacing was equal to the cross-section 
+(see Figure 9 for specimens AM10, AH10, BM10, BH10, CM10, CH10, DM10 
+and DH10). 
+3.3 Effect of Volumetric Ratio and Steel Configuration 
+In general, both the strength and ductility of confined concrete increase as the 
+volumetric ratio increases. An increase in the volumetric ratio of confining steel 
+can also be expressed in terms of the confining configuration. This parameter 
+affects the distribution of the confinement pressure and hence of its efficiency.  
+ 
+1
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+Concrete compressive strength (MPa)
+K
+=
+f'c
+c/
+f'c
+o
+C
+A
+B
+D
+A B DC
+34 45 67
+ 
+262 Antonius & Iswandi Imran 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 9 Curves of confined concrete with different tie spacings: (a) steel 
+configurations A and B; (b) steel configurations C and D. 
+The significance of the volumetric ratio of confining steel is illustrated in Figure 
+10. The test data indicate that both the strength and the ductility of medium- and 
+high-strength concrete increase as the volumetric ratio increases. Specimens 
+with a low volumetric ratio (specimens with configuration A) exhibit brittle 
+behavior, showing a high rate of strength decay immediately after peak 
+response. 
+ 
+ 
+(a) 
+ 
+(b) 
+ Confined Low, Medium and High-Strength Concrete 263 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 10 Curves of confined concrete with various of volumetric ratio 
+configurations 
+ 
+It is clear from Table 2 and Figure 10 that steel configuration B for confined 
+low- and medium-strength concrete shows better ductility compared to the other 
+configurations. Note that the specimens with configuration B have the highest 
+volumetric ratio. Similar behavior was observed in confined high-strength 
+concrete. The lateral pressure of the confining steel in specimen CH5 
+(Éœs=3.02%) is more effective for improving the ductility of the confined 
+concrete than in the specimens with a higher volumetric ratio (BH5, Éœs=3.43% 
+and DH5, Éœs=3.63%). The confining steel of specimen CH5 yields at peak 
+response, so that the maximum lateral pressure can be mobilized. However, in 
+specimens BH5 and DH5 the confining steel does not yield at peak response. 
+These results confirm that the configuration of confining steel has significant 
+effects on the ductility of confined high-strength concrete. 
+3.4 Efficiency of Confinement 
+The confining-steel requirements in SNI-03-2847-2002 [11] and ACI 318 [12] 
+are based on an arbitrary performance criterion that requires columns to 
+maintain their concentric capacities beyond the spalling of the concrete cover. 
+Therefore, the requirements for rectilinear reinforcement are obtained through 
+an arbitrary extension of the requirements for circular spirals [5]. Hence, the 
+configuration and the resulting efficiency of the confining steel are not 
+recognized as design parameters.   
+The experimental results discussed above indicate that the test variables have a 
+significant influence on confinement efficiency. Saatcioglu & Razvi [14] 
+introduced the efficiency of confining steel through coefficient k2:  
+  
+264 Antonius & Iswandi Imran 
+ 0.115.0
+1
+2 ???
+?
+?
+??
+?
+?
+?
+?
+?
+?
+?
+?
+?
+s
+b
+s
+b
+k cc  (1) 
+The variation of experimentally obtained strength enhancement values with the 
+ratio k2Éœsfy/fÅfc is displayed in Figure 11. This figure indicates that the strength 
+enhancement increases approximately linearly with a ratio of k2Éœsfy/fÅfc. A 
+similar phenomenon is occured in the investigation carried out by Saatcioglu 
+and Razvi [10].  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 11 Relationship between strength enhancement and k2Éœsfy/fÅfc ratio. 
+3.5 Comparison of Strength Enhancement of the Confined 
+Concrete Equations 
+The strength enhancement of confined concrete (K) as discussed above plays an 
+important role in governing the minimum requirements for confining steel in 
+reinforced concrete columns. Figure 12 shows a comparison between the 
+strength enhancement values of confined concrete (K) from this study and from 
+equations proposed by Ansari & Li [22], CEB-FIP [23], Imran & 
+Pantazopoulou [24], Muguruma, et al. [9] and Legeron & Paultre [3]. Strength 
+enhancement equations for confined concrete are shown in Table 3, including a 
+comparison of results between equations and experimental results, denoted by 
+the Coefficient of Variation (COV) value.  
+The comparison shows that the COV value for the Ansari & Li equation is 
+23.3% and for the CEB-FIP equation is greater than 10%. Other equations 
+ 
+ Confined Low, Medium and High-Strength Concrete 265 
+ 
+provide a good prediction of the K value with a COV of less than 10% (see 
+Table 3).  
+Table 3 K equations and COV value in relation to this experiment. 
+Researcher Equations Comments COV  
+Muguruma, et al., 
+1993 [9] 
+2
+'
+1 49.
+'
+cc
+c
+f
+K f
+f
+? ? ?  
+2 0.313. 1
+'
+yw
+w
+c so
+f s
+f
+f d
+?
+? ?
+? ?? ?
+? ?
+ 
+Equation 
+derived from a 
+test of confined 
+concrete 
+columns with 
+square sections 
+(20<fÅfc< 160 
+Mpa 
+3% 
+Ansari & Li, 1998 
+[22] 
+0.703
+3' 1 2.45.
+' '
+cc
+c c
+f
+K
+f f
+?? ?
+? ? ? ? ?
+? ?
+ 
+The proposed 
+equation 
+utilizes active 
+confinement 
+tests and was 
+derived using 
+the Ottosen 
+criteria. 
+23.3% 
+Imran & 
+Pantazoupoulou, 
+2001 [24] 
+2
+2
+'
+0.021
+' '
+1.043 10.571
+'
+cc
+c c
+c
+f f
+K
+f f
+f
+f
+? ?
+? ? ? ?? ?
+? ?
+?
+ 
+Equation based 
+on active 
+confinement 
+tests and Hsieh-
+Ting-Chen 
+criteria. 
+9.7% 
+Legeron & Paultre, 
+2003 [3] 
+? ?
+0.7'
+1 2.4 '
+'
+cc
+e
+c
+f
+K I
+f
+? ? ?  
+Proposed model 
+based on 
+experimental 
+tests of normal- 
+and high-
+strength 
+concrete square 
+columns. 
+7.9% 
+CEB-FIP, 2010 [23] 
+2
+'
+1 5
+' '
+cc
+c c
+f
+K
+f f
+?
+? ? ?  ; 
+É–2?0.05fÅfc 
+2
+'
+1.125 2.5
+' '
+cc
+c c
+f
+K
+f f
+?
+? ? ? ; 
+É–2>0.05fÅfc 
+Proposed 
+equation based 
+on experimental 
+research of 
+normal-strength 
+concrete square 
+and circular 
+columns 
+10.9% 
+ 
+266 Antonius & Iswandi Imran 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 12 K values of models versus experimental values. 
+4 Conclusion 
+The behavior of confining steel at peak response of confined high-strength 
+concrete indicates that yield is not always reached, although the yield strength 
+of the confining steel used, i.e. 398 MPa, is still within the value recommended 
+by the concrete code (i.e. <400 MPa). This fact is critical for the confinement 
+modeling, especially to predict the amount of lateral stress developed in the 
+confining steel. It is clear from the experimental results that the descending 
+branch of confined low-, medium- and high-strength concrete varied 
+significantly, depending on the design parameters (concrete strength, volumetric 
+ratio and tie spacing of confining steel). The configuration of confining steel 
+also has a significant influence on the ductility behavior of low- to high-strength 
+confined concrete. This behavior has not been considered in the code 
+philosophy of maintaining axial load capacity of a section after cover spalling. 
+Strength enhancement and ductility of confined concrete tend to decrease as the 
+concrete strength increases which means that strength and ductility diminish in 
+confined high-strength concrete. The effectiveness of the confining steel 
+diminishes quickly as the tie spacing increases. Specimens with a tie spacing 
+similar to the core dimension cannot develop confinement, so that the behavior 
+produced is similar to that of unconfined concrete. 
+0
+20
+40
+60
+80
+100
+0 20 40 60 80 100
+f'cc  (MPa); experiments
+f'c
+c 
+(M
+P
+a)
+; 
+an
+al
+y
+ti
+ca
+l
+Muguruma et al
+Imran & Pantazopoulou
+Legeron & Paultre
+Ansari & Li
+CEB-FIP
+ 
+ Confined Low, Medium and High-Strength Concrete 267 
+ 
+The tensile force developed in confining steel for high-strength concrete is 
+indirectly proportional to the amount of confining reinforcement, such as the 
+volumetric ratio. The volume expansion of high-strength concrete is smaller 
+than that of low-strength concrete. This phenomenon delays the yielding of the 
+confining steel to the post-peak response of the confined column. This 
+influences the effectiveness of reinforcement in confining the concrete core. 
+Several equations proposed for estimating the strength enhancement of confined 
+concrete (K) exhibit good agreement with the experimental results, namely the 
+Muguruma et al. model, the Imran & Pantazoupoulou model and the Legeron & 
+Paultre model. This indicates that the models can be utilized to predict the K 
+value of confined low-, medium- and high-strength concrete columns with 
+square sections, as long as the effectively confined concrete core area is 
+considered properly. 
+Acknowledgments 
+The experimental program presented in this paper was prepared and tested in 
+the Laboratory of Structural Mechanics, Inter University Center, Institut 
+Teknologi Bandung, and funded by the Directorate General of Higher 
+Education, Ministry of National Education, Republic of Indonesia through the 
+Competitive Research Program, Contract No. 047/P4T/DPPM/PHB 
+XII/III/2004. The support received for this research is gratefully acknowledged. 
+References 
+[1] Antonius, Behaviour of High-Strength Concrete Columns Subjected to 
+Concentric and Eccentric Axial Loads, Dissertation, Institut Teknologi 
+Bandung, 2001 (in Indonesian). 
+[2] Ishakov, I. & Ribakov, Y., A Design Method for Two-Layers Beams 
+Consisting of Normal and Fibered High Strength Concrete, Materials & 
+Design, 28(5), pp. 1672-1677, 2007. 
+[3] Legeron, F. & Paultre, P., Uniaxial Confinement Model for Normal and 
+High-Strength Concrete Columns, Journal of Struct. Eng. ASCE, 129(2), 
+pp. 241-252, 2003. 
+[4] CEB-FIP, Constitutive Modeling of High Strength/High Performance 
+Concrete, State of the Art Report, January 2008. 
+[5] Nishiyama, M., Mechanical Properties of Concrete and Reinforcement?
+State-of-the-art Report on HSC and HSS in Japan; Journal of Advanced 
+Concrete Technology, 7(2), pp. 157-182, June 2009. 
+[6] Bae, S. & Bayrak, O., Early Cover Spalling in High-Strength Concrete 
+Columns, Journal of Struct. Eng. ASCE, 129(3), pp. 314-323, 2003. 
+268 Antonius & Iswandi Imran 
+[7] Antonius, Imran, I. & Setiyawan, P., The Effect of Lateral Reinforcement 
+Configurations to the Behaviour of Strength and Ductility of Normal and 
+High-Strength Concrete Columns, Proc. of National Sem. on Exp. Lab. 
+Comp. and Applications in Civil Eng., Indonesian Islamic University, 28 
+May 2005 (in Indonesian). 
+[8] Mostafaei, H., Vecchio, F.J. & Kabeyasawa, Deformation Capacity of 
+Reinforced Concrete Columns, ACI Structural Journal, 106(2), pp. 187-
+195, 2009. 
+[9] Muguruma, H., Nishiyama, M. & Watanabe, F., Stress-strain Curve 
+Model for Concrete with a Wide-Range of Compressive Strength, Proc. of 
+High-Strength Concrete Conf., Norway, pp. 314-321, 1993. 
+[10] Saatcioglu, M. & Razvi S.R., High Strength Concrete Columns with 
+Square Sections under Concentric Compression, Journal of Struct. Eng., 
+ASCE, 124(12), pp.1438-1447, December 1998. 
+[11] Indonesian National Standard, Methods of Calculation of Reinforced 
+Concrete for Building, SNI-03-2847-2002, 2002 (in Indonesian). 
+[12] ACI Committee 318, Building Code Requirements for Structural 
+Concrete (ACI-318-05) and Commentary (318R-05), American Concrete 
+Institute, Farmington Hills, MI, 2005. 
+[13] Ming Chung, W.Y., Shu Lam, E.S. & Lung Wong, Y., Confinement 
+Action of Reinforced Concrete Columns with Non-Seismic Detailing, 4
+th
+ 
+Int. Conf. on Earthquake Eng. Taiwan, 12-13 Oct. 2006, pp.1-9. 
+[14] Saatcioglu, M. & Razvi, S.R., Strength and Ductility of Confined 
+Concrete, Journal of Struct. Eng. ASCE, 118(6), pp.1590-1607, June 
+1992. 
+[15] Sheikh, S.A. & Uzumeri, S.M., Strength and Ductility of Tied Concrete 
+Columns, Journal of Struct. Division, ASCE, V.106, No.ST5, May 1980, 
+pp. 1079-1101. 
+[16] Li, B., Park, R. & Tanaka, H., Constitutive Behavior of High-Strength 
+Concrete under Dynamic Loads, ACI Structural Journal, 97(4), July-
+August, pp.619-629, 2000. 
+[17] Cusson, D. & Paultre P., Experimental Study of High-Strength Concrete 
+Columns Confined by Rectangular Ties, Proc. of High-Strength Concrete 
+Conf., Lillehamer, Norway, pp.136-145, 1994.  
+[18] Nagashima, T., Sugano, S., Dimura, H. & Ichidawa, A., Monotonic Axial 
+Compression Test on Ultra-High-Strength Concrete Tied Columns; Proc. 
+Of 10
+th
+ World Conf. on Earthquake Eng., Madrid, 5, pp.2983-2988, 1992. 
+[19] Sun, Y.P., Sakino, K., Watanabe, K. & Tian, F.S., Effect of Configuration 
+of Transverse Hoops on The Stress-Strain Behavior of Concrete, 
+Transactions of The Japan Concrete Ins., 16, pp. 49-56, 1994. 
+[20] Husem, M. & Pul, S., Investigation of Stress-Strain Models for Confined 
+High Strength Concrete, Sadhana, 32, Part 3, pp.243-252, 2007. 
+ Confined Low, Medium and High-Strength Concrete 269 
+ 
+[21] Antonius, Setiyawan,  P., Karlinasari, R. & Soedarsono, Influence of 
+Lateral Reinforcement Confinement to the Behavior of Strength and 
+Deformation on Concrete Column Structures with Square Sections, 
+Research Report of Competitive Grant XII/1 Higher Education, 2004 (in 
+Indonesian). 
+[22] Ansari, F. & Q. Li, High-Strength Concrete Subjected to Triaxial 
+Compression, ACI Materials Journal, 95(6), Nov.-Dec. 1998, pp. 747-
+755, 1998. 
+[23] CEB-FIP, Model Code 2010, First Complete Draft, 2, April 2010, pp. 22-
+25, 2010. 
+[24] Imran, I. & Pantazopoulou, S.J., Plasticity Model for Concrete under 
+Triaxial Compression, Journal of Eng. Mechanics ASCE, 127(3), pp. 
+281-290, 2001. 
+ 
+Notations 
+Ac = core area measured from center to center of confining steel 
+Ag = gross area of concrete column 
+bc = core dimension measured center to center of confining steel 
+? = diameter of reinforcement 
+f2 = lateral stress of confining steel 
+fÅfc = compressive strength of standard cylinder test at 28 days 
+fcc = stress of confined concrete 
+fÅfcc = peak stress of confined concrete 
+fÅfco = peak stress of unconfined concrete 
+fy = yield stress of confining steel   
+É√y = strain corresponding to the 0.85 peak stress of confined concrete 
+Ie = confining stress index (Legeron & Paultre model) 
+K = strength enhancement of confined concrete 
+ = fÅfcc/fÅfco 
+É E = ductility energy of confined concrete 
+Pmax = maximum compressive load resisted by column 
+Éœs & Éœw = volumetric ratio of confining steel 
+s = spacing of confining steel measured center to center of the steel 
+s1 = spacing of longitudinal reinforcement 
+É–2  = lateral stress of confined concrete (CEB-FIP model) 
+ 

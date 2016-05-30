@@ -1,0 +1,349 @@
+  
+ITB J. ICT, Vol. 6, No. 2, 2012, 171-182               171 
+ 
+Received June 23
+rd
+, 2012, Revised September 26
+th
+, 2012, Accepted for publication September 27
+th
+, 2012. 
+Copyright ? 2012 Published by LPPM ITB, ISSN: 1978-3086, DOI: 10.5614/itbj.ict.2012.6.2.5 
+Development of a Two-Channel Simultaneous 
+Photoplethysmography Recording System 
+Kim Soon Chong
+1
+, Kok Beng Gan
+2
+ & Mohd. Ali Mohd. Alauddin
+1,2
+ 
+1Department of Electrical, Electronic & Systems Engineering, Faculty of Engineering & 
+Built Environment, University Kebangsaan Malaysia, 43600 UKM Bangi, Malaysia.  
+2Institute of Space Science, Universiti Kebangsaan Malaysia,  
+43600 UKM Bangi, Malaysia 
+Email: gankokbeng@ukm.my 
+ 
+ 
+Abstract. Multi-site photoplethysmograph (PPG) recording enables researchers 
+to study the vascular and hemodynamic properties of human subjects. Currently, 
+there is no commercial system available in the market to perform either one-
+channel or multi-channel PPG recording. PPG is an optoelectronic technique that 
+measures changes in blood volume associated with cardiac contraction. The 
+measurements can be obtained from fingertips, ear lobes and toes due to their 
+low absorption and high degree of vasculature. The main objective of this project 
+is to develop a two-channel simultaneous PPG recording system to acquire PPG 
+signals from two different physiological sites using a Nellcor equivalent PPG 
+probe. MATLAB software was used during the development phase to ensure 
+rapid prototyping. The experiment results show that there was no inter-channel 
+delay in the developed two-channel PPG system. Our preliminary results show 
+that the delays between the left and the right arm were from 4 to 12 ms in three 
+healthy random subjects. The system is portable, powered by universal serial bus 
+(USB) and allows the user to do the PPG data acquisition in a clinical setting. 
+Keywords: cardiovascular risk; multi-site; non-invasive; photoplethysmograph; pulse 
+wave transit time; simultaneous acquisition.  
+1 Introduction 
+In recent years, the study of the cardiovascular system [1-4] of individuals from 
+an early age has been given an increasing social importance. It has been 
+demonstrated that most heart and vessel diseases are initiated either genetically 
+or induced by lifestyle. Furthermore, ageing is a natural process in humans, 
+which currently is heavily modified by environmental influences [1]. Therefore, 
+the vascular age of an individual may differ from his or her chronological age. 
+Ageing has been defined as a gradual loss of organ functions, especially in the 
+cardiovascular system, where the major effect of ageing is a decrease of vessel 
+compliance in the arterial system. According to the World Health Organization 
+(WHO), cardiovascular diseases (CVD) were one of the top killer diseases in 
+Malaysia during the year 2009 [5]. The main cause of CVD is atherosclerosis 
+172 Kim Soon Chong, et al. 
+where fat or plaque is accumulating on the artery walls of blood vessels [6]. The 
+accumulation of fat or plaque will cause the formation of lesions that eventually 
+grow and thicken to narrow the arteries, which slows blood flow [7], and finally 
+the blood vessels will lose their rigidity and elasticity. 
+PPG is an optoelectronic method for measuring and recording changes in the 
+volume of body parts such as fingers and ear lobes caused by changes in the 
+volume of the arterial oxygenated blood associated with cardiac contraction [8]. 
+When light travels through biological tissue (earlobe, toe or finger), it is 
+absorbed by different substances [9]. Primary absorbers are skin pigmentation, 
+bones and arterial and venous blood. Arterial ageing and arterial disease 
+influence the characteristics of the PPG pulse [10]. The simplest PPG probe 
+consists of a light emitting diode (LED) and a photo-detector. The LED 
+transmits light with an intensity that is proportional to the LED drive current. 
+The photo-detector is usually a silicon photodiode that produces a current 
+proportional to the incident light on it. Improved technology in photodiodes and 
+LEDs allow the LED and photodiode to be small enough to fit in small fingertip 
+probes. The probes can be of the transmission or the reflection type. 
+The PPG signal can be affected by various physiological factors, so analysis of 
+the PPG signal can provide sufficient information about the individualÅfs health 
+condition and more specifically about cardiovascular performance [11]. The 
+higher-frequency components (0.5 Hz?30 Hz) in PPG pulses from the left and 
+the right side of normal subjects are highly correlated [12]. The results of this 
+research show that pulse timing, amplitude and shape of the higher-frequency 
+components of the PPG waveforms are similar at the right and the left side of 
+the body in three different sites (fingers, toes and earlobes) since their 
+anatomical structure is similar. Therefore, any difference in vessel properties 
+can affect the time and shape of the rising edge (anacrotic phase) and falling 
+edge (catacrotic phase) of the PPG signal, which can indicate pathological 
+changes [12,13]. A time delay between PPG signals from the left and the right 
+arm is evidence of an increase in vascular resistance. A delay between pulses 
+from right and left toes in healthy individuals and patients with some occlusion 
+in the leg has also been reported [3,13,14]. This delay was found to be 20 to 80 
+ms for patients with arterial stenosis in one leg [14]. This group also had an 
+increased pulse wave transit time (PWTT) due to higher vascular resistance. 
+The PWTT is the time for a pulse to travel between two artery sites. The speed 
+at which the arterial pressure wave travels is directly proportional to the blood 
+pressure. An acute rise in blood pressure causes the vascular tone to increase 
+and the arterial wall to become stiffer, and shortens the PWTT. 
+The main problem with multi-site PPG is the data acquisition process. This 
+instrument has always been custom-made, application specific and developed 
+ Simultaneous Photoplethysmography Recording System 173 
+ 
+by the researchers [3,12,15,16]. Normally, rapid prototyping tools and a data 
+acquisition system such as Virtual Instrumentation (National Instruments Corp.) 
+are used to fabricate a multichannel PPG system [12,16]. This laboratory 
+prototype is suitable for research purposes but not for commercialization or 
+clinical trials. Furthermore, no such commercial devices are available in the 
+market and if they exist it is only as an option for the device. Until now, the 
+acquisition of two-channel PPG signals has been done using two independent 
+PPG systems, a synchronization system and a personal computer [15]. This 
+introduces an uncontrollable artificial delay because the data acquisition is 
+started manually. A possible solution is to use a Barker sequence code to 
+synchronize the recorded PPG signals using offline signal processing [15]. The 
+synchronization of multi-channel PPG signals (Figure 1) may eliminate the 
+unwanted delay in the PWTT but the apparatus of the recording signal is still 
+complex and its mobility is limited [15]. 
+ 
+Figure 1 Apparatus for two-channel PPG recording using two independent 
+systems. 
+In this research, a two-channel simultaneous PPG system was designed and 
+developed to acquire PPG signals simultaneously from two physiological sites. 
+The system simplifies the PPG data acquisition process by using a 16-bit two-
+channel analog-to-digital converter (ADC). It digitizes and samples the PPG 
+signals simultaneously from two different physiological sites, namely, the index 
+finger of the left and of the right hand. Both signals will then be transferred to a 
+personal computer via USB for further analysis using MATLAB (The 
+MathWorks, Inc.). 
+174 Kim Soon Chong, et al. 
+2 Material and Methods 
+2.1 Analog Design 
+A basic block diagram of the two-channel PPG system is shown in Figure 2. It 
+consists of an analog and a digital design. In the analog design, the PPG signals 
+are obtained by using two PPG probes (DS-100A, Covidien). The infrared LED 
+(910 nm) is driven by a LED driver (LT1932, Linear Technology Inc.) at 100 
+mA. The main function of the LED driver is to maintain the intensity of the 
+infrared LED in the probes so that the intensity is not affected by the power 
+supply. The light is transmitted through the finger and detected by the 
+photodiode located at the opposite side of the LED. A trans-impedance 
+amplifier (OP474) is used to convert the detected current into voltage.  
+ 
+Figure 2 Basic block diagram of the two-channel PPG system. 
+ 
+Figure 3 Bode diagram of the second-order Sallen Key Filter. 
+ Simultaneous Photoplethysmography Recording System 175 
+ 
+The unwanted high frequency noise in the PPG signal is eliminated using a 
+second-order Sallen Key lowpass filter with a cutoff frequency of 10 Hz at -3 
+dB. The cutoff frequency of 10 Hz was chosen considering the frequency 
+content of the PPG signal (0.6-30 Hz) and because it is far removed from the 50 
+Hz power line noise, even at the transition band (Figure 3). The presence of the 
+50 Hz power line noise does affect data visualization during data acquisition. 
+2.2 Digital Design 
+In the digital design, the analog PPG signal is converted into digital format 
+using a 16-bits dual channel ADS8361 ADC. One of the applications of this 
+instrument is to detect changes in vascular stiffness. The physiological delay 
+between two physiological sites in healthy subjects is normally below 20 ms 
+[11]. The PPG signals from the left and the right index finger are sampled at 2 
+kHz so that the physiological delay can be observed. The sampling process is 
+performed using simultaneous ADC sampling to avoid any artificial delay due 
+to the sampling process.  
+The digitized PPG signal is sent to a 8-bits microcontroller (PIC18F2550) and 
+communicates with a computer via USB. The role of the microcontroller is to 
+control the ADC sampling process and get the data from the ADC. 
+Subsequently, the digitized data are processed and sent to a computer using 
+USB communication. The firmware was developed using C language and 
+compiled using PICC (CCS-C, Inc). The USB driver was installed in the 
+operating system to establish the communication between the microcontroller 
+and the computer. 
+2.3 Data Acquisition Software 
+The graphical user interface (GUI) and signal processing of the system was 
+developed using MATLAB R2012b (The MathWorks, Inc.). This GUI was used 
+to display the acquired PPG signals and save them in a text file for pre-
+processing at a later stage. The PPG signals were plotted in real-time for 
+viewing and signal quality control.  
+A digital signal processing algorithm was developed to pre-process the PPG 
+signals (Figure 3). This algorithm consists of channel separation, detrending, 
+band-pass filter, scale-to-one and finally determination of the physiological 
+delay using the cross-correlation method.  
+The serial data transfer protocol was used to transfer the digital data from the 
+ADC to the microcontroller. Therefore, a channel separation algorithm is 
+needed to separate the acquired signals into two-channel PPG signals. 
+176 Kim Soon Chong, et al. 
+Subsequently, the linear trend of the PPG signals is removed by detrending the 
+input signal, i.e. the mean value is subtracted from the data.  
+The signal is further processed to remove the effect of the respiratory rhythm 
+and higher frequency disturbance by applying a band-pass filter at a frequency 
+range of 0.6?15 Hz. This is an effective spectrum for PPG signals used for 
+physiological signal modeling. The band-pass filter is a custom-designed digital 
+filter using the Fast Fourier Transform method. The unwanted frequency band 
+is masked with zeroes before performing the Inverse Fast Fourier Transform to 
+reconstruct the time-domain PPG signals. The pre-processed signal then 
+undergoes a scale-to-one process where the signal is normalized to unity (range 
+0 to 1). The cross-correlation function of MATLAB is used to determine the 
+time delay between the PPG signals acquired from the left and the right arm in 
+5-second blocks. The estimated delay is given by the negative of the lag for 
+which the normalized cross-correlation has the largest absolute value. 
+ 
+Figure 4 Pre-processing block diagram to find the delay between two-channel 
+PPG signals. 
+3 Results and Discussions 
+3.1 Two-Channel PPG Recording System 
+The schematic of the two-channel PPG recording systems is shown in Figure 4. 
+This was turned into a double-layer printed circuit board (PCB). In this system, 
+the PCB board was partitioned into an analog and a digital section to avoid 
+interference of analog and digital signals. The digital logic ground currents 
+remain in the digital section and will not interfere with the analog currents. 
+Besides that, the location of the passive components could also affect the noise 
+level. For example, the decoupling capacitor should be placed as near as 
+ Simultaneous Photoplethysmography Recording System 177 
+ 
+possible to the integrated circuit (IC) to effectively reduce the noise in the 
+circuit. Figure 5 shows the final prototype of the two-channel PPG system. This 
+system comprises of two probes and a data acquisition module. Its power source 
+is the USB port and it communicates with the computer using high speed (12 
+Mbps) USB communication. 
+ 
+ 
+Figure 5 The schematic of the two-channel PPG. 
+ 
+ 
+Figure 6 Two-channel PPG system. 
+178 Kim Soon Chong, et al. 
+The frequency response of the second-order low-pass filter is shown in Figure 
+6. Note that the response in the passband was flat with no ripple. The power 
+roll-off approaches 36 dB per decade in the limit of high frequency. This filter 
+design effectively attenuated the power line noise at 50 Hz.   
+ 
+ 
+Figure 7 Second-order Sallen Key lowpass filter frequency response. 
+3.2 Graphical User Interface (GUI) 
+When the user starts the program, a message box is prompted to remind the user 
+to attach the PPG devices before starting the data acquisition. A real-time plot 
+of the two-channel PPG signal is shown in Figure. 7. Figure 8 shows the 
+acquired two-channel PPG signal. Channel 1 is shown in Figure 8 (top) and 
+channel 2 is shown in Figure 8 (bottom). Since the PWTT calculation is beyond 
+the scope of this discussion, its results will not be presented here. 
+ 
+Figure 8 Real-time plot of the two-channel PPG system 
+ Simultaneous Photoplethysmography Recording System 179 
+ 
+ 
+Figure 9 Channel 1 (top) and channel 2 (bottom) of the PPG signal 
+3.3 Two-Channel Simultaneous PPG Recording Test 
+To test the two-channel simultaneous PPG recording system, a sine wave with a 
+1 Hz frequency and a 1 Vpk-pk was generated using a function generator. It was 
+connected to two ADC inputs and sampled at 2000 kHz (Figure 9). In this 
+experiment, the test frequency was 1 Hz because this is close to the human heart 
+rate frequency. Note that the noise arising from the ADC switching effect was 
+not visualized after pre-processing. However, the peaks arising from the ADC 
+switching are undesired and will affect the accuracy of the results if the problem 
+remains unsolved. The delay estimation using the cross-correlation technique 
+showed that there was no inter-channel delay between the test signals. The 
+result showed that both channels were simultaneously recorded with the ADC. 
+ 
+Figure 10 Sine wave (1 Hz) acquired using the two-channel PPG system at a 
+2000 Hz sampling rate. 
+180 Kim Soon Chong, et al. 
+During the data acquisition session, the subjects were asked to abstain from 
+consuming food, alcohol and caffeine for at least 4-6 hours prior to the 
+experiment to avoid the vasodilation effect from these substances. Upon arrival, 
+the subjects were asked to rest for 10 minutes to ensure a stable pulse during the 
+data recording session. Figure 10 shows the two-channel PPG signal acquired 
+from the left and the right index finger of a healthy subject using the developed 
+PPG system. The preliminary results show that the delay between the left and 
+the right arm ranged from 4 to 12 ms in three healthy random subjects. 
+However, the analysis of the PWTT for cardiovascular risk assessment needs 
+more clinical data and medical records for validation. 
+Besides that, power management is an important issue because the maximum 
+power that can be sourced from the USB is 500mW. This can only be achieved 
+if there is no sharing of the same USB port. Another observation was that the 
+acquired PPG signals were noisy. This was due to the switching effect of the 
+ADC. The ADS8361 is a successive approximation (SAR) ADC architecture. 
+The switching effect can be eliminated by either replacing it with a delta sigma 
+ADC architecture or adding an analog front-end circuit to the system. 
+ 
+Figure 11 Simultaneous two-channel PPG signal recording from left and right 
+index fingers. 
+4 Conclusions 
+ In this project, a two-channel simultaneous PPG recording system was 
+successfully designed and developed. It is portable, powered by USB port and 
+allows users to do data acquisition in a clinical environment. The cross-
+correlation technique was used to estimate the delay between both channels. 
+The sine wave experiment showed that there is no inter-channel delay in the 
+system. Our preliminary results showed that the delay between the left and the 
+ Simultaneous Photoplethysmography Recording System 181 
+ 
+right arm was from 4 to 12 ms in three healthy random subjects. However, 
+medical data are required to validate these results and more data need to be 
+acquired to establish the method for cardiovascular risk assessment. 
+One of the problems observed during the development of the system was the 
+noise problem resulting from the ADC switching effect. As for future work, the 
+system can be improved by using a proper ADC or an analog front-end circuit 
+to avoid this switching effect. The GUI can be improved by adding extra 
+functions such as the determination of the CVD risk. Furthermore, a graphical 
+LCD display can be added to show the CVD risk to the users. This device can 
+be further developed into a cardiovascular risk assessment system for 
+community health screening. 
+Acknowledgments 
+The authors would like to thank Universiti Kebangsaan Malaysia for sponsoring 
+this work under Research University Grant UKM-GUP-2011-352 & GGPM-
+2011-074. 
+References  
+[1] Zahedi, E., Chellappan, K., Mohd Alauddin, M.A. & Singh, H, Analysis 
+of the Effect of Ageing on Rising Edge Characteristics of the Photople-
+thysmogram using a Modified Windkessel Model, Cardiovascular 
+Engineering, 7, pp. 172-181, 2009. 
+[2] Allen, J., Overbeck, K., Stansby, G. & Murray, A, Photoplethysmography 
+Assessments in Cardiovascular Disease, Measurement Control, 39, pp. 
+80-83, 2006. 
+[3] Allen, J., Oates, C.P., Lees, T.A. & Murray, A., Photoplethysmography 
+Detection of Lower Limb Peripheral Arterial Occlusive Disease: A 
+Comparison of Pulse Timing, Amplitude and Shape Characteristics, 
+Physiological Measurement, 26, pp. 811-821, 2005. 
+[4] Allen, J. & Murray, A., Age-Related Changes in Peripheral Pulse Shape 
+Characteristics at Various Body Sites, Physiological Measurement, 24, 
+pp. 297-307, 2003. 
+[5] World Health Organization, Cause of death in Malaysia, Geneva: WHO, 
+2009. 
+[6] Laurent, S., Boutouyrie, P., Asmar, R., Gautier, I., Laloux, B., Guize, L. 
+Ducimetiere, P. & Benetos, A., Aortic Stiffness is An Independent 
+Predictor of All-Cause and Cardiovascular Mortality in Hypertensive 
+Patients, Hypertension, 37, pp.1236-1241, 2011. 
+[7] Oliver, J.J. & Webb, D.J., Noninvasive Assessment of Arterial Stiffness 
+and Risk of Atherosclerotic Events, Arterioscler Thromb Vasc. Biol., 23, 
+pp. 554-566, 2003. 
+182 Kim Soon Chong, et al. 
+[8] Bronzino, J.D, The Biomedical Engineering Handbook, 1, Florida: CRC 
+Press LLC, 2000. 
+[9] Bhattacharya, P.P., Kanjilal & Muralidhar, V., Analysis and 
+Characterization of Photoplethysmographic Signal, IEEE Transsaction of 
+Biomedical Engineering, 48, pp. 5-11, 2001. 
+[10] Allen, J. & Murray, A., Variability of Photoplethysmography Peripheral 
+Pulse Measurements At The Ears, Thumbs and Toes, IEEE Proceeding 
+Science and Technology, 147(6), pp. 403-407, 2000. 
+[11] Allen, J., Photoplethysmography and Its Application in Clinical 
+Physiological Measurement, Physiological Measurement, 28, R1, 2007. 
+[12] Allen, J. & Murray, A., Similarity in Bilateral Photoplethysmographic 
+Peripheral Pulse Wave Characteristics At The Ears Thumbs and Toes, 
+Physiological Measurement, 21, pp. 369-377, 2000. 
+[13] Spigulis, J., Erts, R., & Ozols, M., Optical Multi-Channel Monitoring of 
+Skin Blood Pulsations for Cardiovascular Assessment, SPIE Proc 
+Advanced Biomedical and Clinical Diagnostic Systems, 5318, p.133-139, 
+2004. 
+[14] Erts, R., Spigulis, J., Kukulis, I., & Ozols, M., Bilateral Photople-
+thysmography Studies of The Leg Arterial Stenosis, Physiological 
+Measurement, 26, pp. 865-874, 2005. 
+[15] Zahedi, E. & Mohd. Ali, M.A., Dual-Channel Photoplethysmography 
+Synchronization Using A Barker Sequence, Conference Procedings IEEE 
+Engineering in Medicine and Biology Society, 2, pp. 1952-1955, 2005. 
+[16] Spigulis, J., Venckus, G. & Ozols, M., Optical Sensing for Early 
+Cardiovascular Diagnostic, Proceedings SPIE, 3911, pp. 27-31, 2000. 
+ 

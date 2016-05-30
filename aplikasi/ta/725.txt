@@ -1,0 +1,788 @@
+  
+J. Math. Fund. Sci., Vol. 45, No. 1, 2013, 1-16                               1 
+ 
+Received September 14th, 2011, 1st Revision February 21st, 2012, 2nd Revision May 16th, 2012, 3rd Revision 
+September 27th, 2012, Accepted for publication November 5th, 2012. 
+Copyright ? 2013 Published by ITB Journal Publisher, ISSN: 2337-5760, DOI: 10.5614/j.math.fund.sci.2013.45.1.1 
+Auslander Reiten Quiver of Nakayama Algebra type 
+Dynkin Graph An 
+Faisal, Irawati & Intan Muchtadi-Alamsyah 
+ Algebra Research Group 
+Faculty of Mathematics and Natural Sciences, Institut Teknologi Bandung, 
+Jalan Ganesha 10 Bandung 40132, Indonesia 
+Email: ntan@math.itb.ac.id 
+ 
+ 
+Abstract. In this paper we will determine Auslander Reiten quiver of Nakayama 
+algebra with quiver type Dynkin graph An for all natural number n ? 2. The AR-
+quiver is a visualization of module category of finite dimensional algebras. From 
+the AR-quiver of an algebra A we may know all the isomorphism classes of 
+indecomposable modules in mod A and the homomorphism between them. Once 
+we get the general shape of the AR-quiver of this algebra, we will use it to 
+compute a tilting module of this algebra. 
+Keywords: AR-quiver; Nakayama algebra; quiver; Dynkin type A. 
+1 Introduction 
+Representation theory of finite dimensional algebras provides a way to describe 
+an algebra and a module over an algebra using directed graph or quiver. Not 
+only for the algebra and module, the module category of an algebra can also be 
+represented by quiver. The way to do this is by using the theory of almost split 
+sequences and irreducible morphisms. These were introduced by Auslander 
+[1,2] and Auslander and Reiten [3]. Quiver representation of this module 
+category called Auslander-Reiten quiver or simply AR-quiver. In this paper we 
+will determine the AR-quiver of Nakayama algebra with quiver of type An for 
+any natural number n ? 2.  The method for this construction has been explained 
+in [3]. In this paper we provide an explicit technique which uses almost split 
+sequences of Nakayama algebra given in [4], [3], and also uses the relationship 
+between Nakayama algebra of type An-1 with type An to give the construction by 
+induction. 
+Tilting theory is one of essential tools in the representation theory of algebra. 
+Tilting theory firstly appeared in the study of reflection functors ([5-7]). Tilting 
+theory is a method for constructing a new algebra B from original algebra A 
+such that the module categories are “close” to each other. The method is to 
+construct an A-module T, called a tilting module and set a new algebra B = End 
+TA. In this paper, as an application of the main theorem, we will construct a 
+2 Faisal, Irawati & Intan Muchtadi-Alamsyah 
+tilting module of Nakayama algebra with quiver type Dynkin graph An for all 
+natural number n ? 2.  
+2 Auslander Reiten Quiver 
+Throughout this paper, algebras are basic and connected finite dimensional 
+algebras over a fixed algebraically closed field K. For an algebra A, we denote 
+by mod A the category of finitely generated right A-modules. An algebra A is 
+said to be representation finite if the number of the isomorphism classes of 
+indecomposable right A-module is finite. A K-algebra A is called representation-
+infinite if A is not representation-finite. An A-homomorphism module is a 
+section (or a retraction) whenever it admits a left inverse (or a right inverse, 
+respectively). 
+To construct the AR-quiver of an algebra we need some tools. These tools are 
+the notion of almost split sequences and irreducible morphisms. Before we 
+introduce this theory we give some definitions and theorems from [4] and [2]. 
+Definition 1. Let L, M  be modules in mod A. An A-module homomorphism  
+f : L → M is called left minimal almost split if  
+(a)  every h?End M such that hf = f  is an automorphism,  
+(b) f  is not section,  
+(c) for every A-homomorphism u: L → U that is not section there exists         
+u’: L → U such that u’f = u. 
+A right minimal almost split homomorphism is defined dually. 
+Definition 2. A homomorphism f : X → Y in mod A is said to be irreducible if  
+(a)  f  is neither a section  nor  a retraction and  
+(b)  if f=f1f2, either f1 is a retraction or f2 is a section.  
+We may think an irreducible morphism as a component of a right (left) minimal 
+almost split by the following theorem.  
+Theorem 1. (a) Let f :L → M be left minimal almost split in mod A. Then f  is 
+irreducible. Moreover, a homomorphism f':L→M'of A-modules is irreducible if 
+and only if M' ≠ 0 and there exists a direct sum decomposition M? M'?M'' and 
+a homomorphism f'': L→M'' such that 
+'
+''
+f
+f
+? ?
+? ?? ?
+: L → M'?M'' is left minimal 
+almost split. (b) Let g: M → N be right minimal almost split. Then g is 
+irreducible. Moreover, a homomorphism g': M'→ N of A-modules is irreducible 
+ AR-Quiver of Nakayama Algebra type Dynkin Graph An 3 
+ 
+if and only if M'≠0 and there exists decomposition M ? M'?M'' and a 
+homomorphism g'': M''→ N such that [g'g'']: M'?M''→ N is right minimal 
+almost split. 
+Proof. See [2, section IV.1]. 
+Theorem 2. (a) Let S be a simple projective noninjective module in mod A. If   
+f: S → M, then M is projective. (b) Let S be a simple injective nonprojective 
+module in mod A. If g: M → S is irreducible, then M is injective.  
+Proof. See [2, section IV.3]. 
+Let X and Y  be modules in mod A, define rad A(X, Y) = {h?Hom(X, Y) :1X - gh 
+is invertible for any g?Hom(Y, X)}.  
+We define rad 2
+A
+(X, Y) to consist of all A-module homomorphism of the form gf, 
+where f ?radA(X, Z) and g?radA(Z, Y).  
+Definition 3. A short exact sequence in mod A 
+ 0 → ?
+?
+→ ?
+?
+→ ? → 0 (1) 
+is called an almost split sequence if f  is left minimal almost split.  
+We have several equivalent characterization of almost split sequences.  
+Theorem 3. Let  0 → ?
+?
+→ ?
+?
+→ ? → 0 be a short exact sequence in mod A. The 
+following assertions are equivalent:  
+(a)  The given sequence is almost split.  
+(b)  f is left minimal almost split.  
+(c)  g is right minimal almost split  
+(d)  L and N are indecomposable, and f and g are irreducible.  
+ 
+Proof. See [2, section IV.1].                                                                                                                                                                                                                                        
+The following propositions are used to get the right (left) minimal almost split 
+ending (or starting) at an indecomposable projective (or injective, respectively) 
+module.  
+Proposition 1.  (a) Let P be an indecomposable projective module in mod A. 
+An A-module homomorphism g: M → P is right minimal almost split if and 
+only if g is a monomorphism with image equal to rad P. (b) Let I be an 
+4 Faisal, Irawati & Intan Muchtadi-Alamsyah 
+indecomposable injective module in mod A. An A-module homomorphism f :I 
+→ M is left minimal almost split if and only if f is an epimorphism with kernel 
+equal to soc I.  
+Proof. See [2, section IV.3]. 
+Let M and N be indecomposable modules in mod A, then radA(M, N) is the K-
+vector space of all noninvertible homomorphism from M to N. Denote Irr(M, N) 
+= radA(M,N) / rad
+2
+A
+(M, N), that is the quotient of the K-vector spaces radA(M, N) 
+and rad
+2
+A
+(M, N).  
+Definition 4. Let A be a basic and connected finite dimensional K-algebra. The 
+Auslander Reiten-quiver Γ(mod A) of mod A is defined as follows:  
+(a)  The points of Γ(mod A) are the isomorphism classes [X] of indecomposable 
+modules X in mod A.  
+(b)  Let [M], [N] be the points in Γ(mod A) corresponding to the 
+indecomposable modules M, N in mod A. The arrows [M] → [N] are in 
+bijective correspondence with the vectors of a basis of the K-vector space 
+Irr (M, N).  
+ 
+One of properties of the AR-quiver of representation finite algebra is given by 
+the following proposition.  
+Proposition 2. Let A be a representation-finite algebra. Then Γ(mod A) has no 
+multiple arrows. 
+Proof. See [2, section IV.4]. 
+Now we recall a module which can be thought of as being close to the Morita 
+progenerator. 
+ 
+Definition 5. A module T in mod A is called a tilting module if the following 
+three conditions are satisfied: 
+(T1) the projective dimension of T is at most one, 
+(T2)  Ext
+1
+A (T,T) = 0, 
+(T3)  there exists a short exact sequence 0 → AA→ T'A → T''A → 0 with  T', T''
+?add T. 
+Note that any Morita progenerator is a tilting module and any projective A-
+module always satisfy both (T1) and (T2). It is easy to see that every tilting 
+module is faithful.   
+ AR-Quiver of Nakayama Algebra type Dynkin Graph An 5 
+ 
+3 The Construction of Nakayama algebra type Dynkin Graph 
+An 
+Now we will describe the AR-quiver of a Nakayama algebra A with a quiver of 
+type An. An algebra A is called Nakayama algebra if it is both right serial and 
+left serial. For a basic and connected algebra there are only two types of 
+Nakayama algebra.  
+Theorem 4. A basic and connected algebra A is a Nakayama algebra if and only 
+if its quiver representation QA is one of the following two quivers:  
+(a)  
+(b)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(with n ? 1 points). 
+ 
+Proof. See [2, section V.3]. 
+The first Nakayama algebra will be called the Nakayama algebra type Dynkin 
+graph An. The following theorem and corollary are some properties of 
+Nakayama algebras. 
+Theorem 5. Let A be a basic and connected Nakayama algebra, and let M be an 
+indecomposable A-module. There exists an indecomposable projective A-
+module P and an integer t with 1 ? t ???(P) where ??(P) is the Loewy length of 
+P, such that M? P/radtP. In particular, A is representation finite.  
+Proof. See [2, section V.3]. 
+Corollary 1. A basic and connected algebra A is a Nakayama algebra if and 
+only if every indecomposable A-module is uniserial.  
+6 Faisal, Irawati & Intan Muchtadi-Alamsyah 
+Proof. See [2, section V.3].                                                                                         
+Before constructing the AR-quiver, we will need the following result. Let Q be 
+the quiver  
+ 
+and Q' be the quiver  
+ 
+ 
+Write Q0={1,2,...,n}, Q'={1,2,..., n+1}, Q1={αi: i + 1 → i | i?Q0\{n}} and 
+Q'1=Q1? {αn: n + 1 → n}. Set A = KQ and A’ = KQ’. 
+Lemma 1. Let ? = (?? , ??)?∈?0 ,?∈?1  be a module in mod A. Define ? =
+(?′? , ?′?)?∈?′0 ,?∈?′1where M'j= Mj if j?Q0, M'n+1 = 0, φ'α=φα if ? ∈ ?1 and 
+0 = ???
+′ :??+1
+′ → ??
+′ . The A-module M is indecomposable if and only if the 
+A’-module M’ is indecomposable.  
+Proof. (⇒) Assume that M is indecomposable. Suppose that M' is 
+decomposable, then ?′ = ?′ ? ? ′ =  ?′? ? ?
+′
+? ,  
+?′ ? 0
+0 ?′ ?
+  
+?∈?′0 ,?∈?′1
+. If  
+?′ =  ?′? , ?
+′
+? ?∈?′ 0 ,?∈?′ 1
+ and ?′ =  ? ′? , ?
+′
+? ?∈?′ 0 ,?∈?′ 1
+ then U'n+1=0=V'n+1. 
+Set ? =  ?? , ?? ?∈?0 ,?∈?1   and ? =  ?? , ?? ?∈?0 ,?∈?1where Ui=U'i, Vi=V'i and 
+?? = ?′? , τα = τ'α. By definition, we have M = K? L. This contradiction shows 
+that M' is indecomposable.  
+(?) Assume that M' is indecomposable. Suppose that M is decomposable.We 
+have ? = ? ? ? =  ?? ? ?? ,  
+?? 0
+0 ??
+  
+?∈?0 ,?∈?1
+ with U and V are nonzero 
+submodules of M. By definition, M' = U'? V' where ?′ =  ?′? , ?′? ?∈?′0 ,?∈?′1
+  
+and ?′ =  ?′? , ?′? ?∈?′0 ,?∈?′1
+ with Uj=U'j, Vj=V'j if j?Q0, U'n+1 = 0 = V'n+1 and 
+?′? = ?? , τ'α= τα if α?Q1, ?′?? = 0, ?′?? = 0. This contradict that M' is 
+indecomposable.    
+Lemma 2. Let M and M' be the modules in Lemma 1. The A-module M is 
+simple if and only if the A'-module M' is simple. 
+ AR-Quiver of Nakayama Algebra type Dynkin Graph An 7 
+ 
+Proof.  Note that any simple both A-module and A'-module are 1-dimensional. 
+It follows from the total dimension of K-vector space in linear representation of 
+M and M', we have dimK(M) =1 if and only if dimK(M') =1.          
+Both Lemma 1 and Lemma 2 above say that there exists an inclusion between 
+the collection of isomorphism classes of indecomposable (or simple) A-module 
+and the collection of isomorphism classes of indecomposable (or simple) A'-
+module.  
+Lemma 3. Let ? = (?? , ??)?∈?0 ,?∈?1 , ? = (?? , ??)?∈?0 ,?∈?1  be modules in  
+mod A and let M', N' be modules defined in the same way like in Lemma 1. Let 
+? =  ?? ?∈?0 : ? →  ? and ?′ =  ?
+′
+? ?∈?′ 0
+: ?′ →  ?′ where f 'j = fj if j?Q0 
+and f 'n+1 = 0: M'n+1 → N'n+1. If f is an irreducible morphism then so is f '.  
+Proof. It is clear that ?′ =  ? ′ ? ?∈?′ 0
+ is a morphism: indeed ??
+′???
+′ = ???
+′ ??+1
+′   
+for every k?Q0. We claim that f has no both right inverse and left inverse. 
+Suppose that f ' has a right inverse ?′ =  ?? ?∈?0′ . It means that ??
+′?? = 1??
+′  for 
+every i?{1, 2,…,n + 1}. Consequently, if i?Q0 then ???? = ??
+′?? = 1??
+′ = 1?? . 
+Define ? =  ?? ?∈?0 , then g is a morphism in mod A, moreover fg= 1N, contrary 
+to our assumption. So f has no right inverse. In a similar way, we conclude that f 
+has no left inverse also, claim proved.  
+Now, let f '=h' g' and assume that h' is not a retraction. If h'= (h1, h2,…,hn, hn+1) 
+and g'= ( g1, g2,…,gn, gn+1) then hn+1 = 0 and gn+1=0. We get f = hg where h= (h1, 
+h2,…, hn) and g’ = ( g1, g2,…,gn). Because h' is not a retraction, then h is not a 
+retraction. This means that g is a section because f is irreducible. Hence, g' is a 
+section. This proves that f  is irreducible. 
+Now let 2 ?  ? ∈ ? and A be a Nakayama algebra of type An. To start to build 
+the AR-quiver of A we first list all isomorphism classes of indecomposable 
+projective A-module, indecomposable injective and simple. Each of modules 
+will be considered as linear representation and the vertices were replaced by the 
+dimension of its vector space. All indecomposable projective modules of A are:   
+? 1 = 100 … 00     
+?
+ 
+P(2) = 110 …00 
+P(3) = 111 …00 
+? 
+8 Faisal, Irawati & Intan Muchtadi-Alamsyah 
+? ? = 11 … 1   
+?
+0 … 00 
+? 
+P(n - 1) = 111 …10 
+P(n) = 111 … 11 
+All indecomposable injective modules of A are:  
+? 1 = 111 … 11     
+?
+ 
+I(2) = 011 …11 
+I(3) = 001 …11 
+? 
+? ? = 00 … 0   
+??1
+1 … 11 
+? 
+I(n - 1) = 000 …011 
+I(n)=000 …01 
+and all simple modules are:  
+? 1 = 100 … 00     
+?
+ 
+S(2) = 010 …00 
+S(3)=001 …00 
+? 
+? ? = 000 … 0 1 
+????  ????????  
+0 … 00 
+? 
+S(n ? 1) = 000 …10 
+S(n) = 000 …01 
+ 
+We have P(1) = S(1), P(n) = I(1), I(n) = S(n). Further, ? ? =
+?(?)
+?(??1)
+  for every 
+k?{1,2,..., n} with P(0) = 0. It easy to check that rad P(k) = P(k-1) for every k
+?{1,2,..., n}. In other words radtP(n) = P(n - t), with t ? n. By Proposition 1, 
+the inclusion  ij: P(j - 1) = rad P(j) → P(j) is a right minimal almost split for 
+every j?{2,3,...,n} and the canonical homomorphism ?? : ? ? →  ? ? + 1 =
+?(?)
+soc  ?(?)
+ is a left minimal almost split for every k?{1, 2,…, n - 1}.  
+Lemma 4.  (a) The sequence 0 →  ? (1)
+?
+→  ? (2)  
+?
+→ ?(2)  →  0 is almost split, 
+where i is the inclusion and p is the canonical homomorphism with kernel equal 
+ AR-Quiver of Nakayama Algebra type Dynkin Graph An 9 
+ 
+to P(1).(b) The sequence 0 →  ?(? ?  1)  
+?′
+→ ?(? ?  1)  
+?′
+→ ?(?)  →  0 is almost 
+split, where i' is the inclusion and p' is the canonical homomorphism with kernel 
+equal to S(n - 1).  
+Proof. (a) It is clear that the sequence in (a) is exact. Because P(2) = rad P(1), 
+then i : P(1) → P(2) is a right minimal almost split (by Proposition 1(a)). We 
+know that P(1) is indecomposable, using Theorem 1(b), the inclusion i is the 
+only irreducible morphism ending with P(2). Let h :P(1) → M be a left minimal 
+almost split. Because P(1) is a simple projective noninjective module in mod A, 
+then by Theorem 2, M is a projective module. Without loss of generality, by 
+Proposition 2 we may assume that ? =
+?
+?
+? = 1
+? (?) with the P(j) indecomposa-
+ble projective and pairwise nonisomorphic. This means that hj:P(1) → P(j) is 
+irreducible and consequently j = 1 and M = P(j). We have a right minimal 
+almost split g: rad P(j) → P(j). This means that P(1) is a direct summand of rad 
+P(j). But rad P(j) = P(j-1) is indecomposable, it follows that M = P(2). Thus, h 
+= i:P(1) → P(2) is a left minimal almost split. By Theorem 3(b), the given 
+sequence is almost split, we have proved part (a). 
+(b) It is clear that the sequence in (b) is exact. We know that the canonical 
+homomorphism s: I(n-1) → S(n) = I(n) is left minimal almost split. Since S(n) is 
+indecomposable, using Theorem 1(a), the inclusion i’ is the only irreducible 
+morphism starting with I( n - 1). Let f: M → I(n) be right minimal almost split. 
+Since S(n) = I(n) is a simple injective nonprojective, by Theorem 2, M is 
+injective. Without loss of generality, by Proposition 2 we may assume that 
+? =
+?
+?
+? = 1
+? (?) with the I(j) indecomposable injective and pairwise 
+nonisomorphic. Thus, fj: I(j) → I(n) is irreducible and implies t ? n - 1. We have 
+a left minimal almost split ?(?)  →  ?(? +  1)  =
+?(? )
+soc  ?(? )
+  This means that I(n) is 
+direct summand of I(j+1). Since I(j+1) is indecomposable, then M = I(n). 
+Hence, f = p: I(n-1) → I(n) is a right minimal almost split. It follows from 
+Theorem 3(c) this sequence is almost split.  
+Lemma 5. Let 2 ?  ? ∈ ? and A=KQ where Q is a quiver of Dynkin type An. 
+Then for every j?{1,2,…,n-1}, the sequence 0 →  ? ? 
+?
+→ ?? ,?+1
+?
+→  ?(? +
+1)  →  0 is almost split where ?? ,?+1 =  00 . . . 0 11 
+? ,?+1
+ 0 . . . 00.   
+10 Faisal, Irawati & Intan Muchtadi-Alamsyah 
+Proof. We proceed by induction on n. Let n = 2, 3, it follows from Lemma 4 
+that this sequence is almost split. Now assume that n > 4, if j = 1 and j = n-1 
+then the proof follows from Lemma 4. If j?{2,…,n - 2}, it is clear the sequence 
+0 →  ? ? 
+?
+→ ?? ,?+1
+?
+→  ?(? + 1)  →  0 is exact. By hypothesis the sequence 
+0 →  ? ? 
+?
+→ ?? ,?+1
+?
+→  ?(? + 1) →  0 in mod B = KQ' with Q' is quiver type An-1 
+is almost split. In other words, i and p are irreducible morphism in mod B. Now 
+consider the exact sequence 0 →  ?′ ? 
+?′
+→ ? ′? ,?+1
+?′
+→  ?′(? + 1)  →  0  in mod A. 
+By Lemma 3, i' and p' are irreducible morphisms in mod A. It follows from 
+Theorem 3 (d) that the sequence 0 →  ?′ ? 
+?′
+→ ? ′? ,?+1
+?′
+→  ?′(? + 1)  →  0 is 
+almost split, the lemma is proved.  
+Proposition 3. Let P be a nonsimple indecomposable projective-injective 
+module, S = soc P and R = rad P. Then the sequence 
+ 0 →  ?
+ 
+?
+?
+ 
+ 
+?
+?
+? ?
+ ?? ? 
+      ?/? → 0 (2)                 
+is almost split, where i, j are the inclusion and p, q the projections. 
+Proof. See [2, section IV.3]. 
+Corollary 2. The sequence  
+ 0 →  ?(? ? 1)
+ 
+?
+?
+ 
+ 
+? ??1 
+? 1 
+? ?(?)
+ ?? ? 
+      ?(?)/?(1) → 0 (3) 
+is almost split in mod A. 
+ 
+Proof. Apply Proposition 3.   
+ 
+Lemma 6. The sequence 
+ 0 →  
+?(??1)
+?(?)
+ 
+?
+?
+ 
+ 
+? ??1 
+? ?+1 
+?  
+? ? 
+? ? 
+ ?? ? 
+      ?(?)/?(? + 1) → 0 (4) 
+is almost split in mod A, where k?{1,2,..., n - 3}. 
+Proof. It is clear that the above sequence is exact. Because  
+?(??1)
+?(?)
+,
+? ??1 
+? ?+1 
+,
+? ? 
+? ? 
+, 
+P(n)/P(k+1) are indecomposable and pairwise nonisomorphic, this sequence is 
+not split. Using Theorem 3, it suffices to show that the homomorphism g = [-jp] 
+is right almost split. Clearly g is not a retraction. Let V be an indecomposable A-
+module, ? =
+?(?)
+?(?+1)
+ and v : V → M is not an isomorphism. We have two cases. 
+ AR-Quiver of Nakayama Algebra type Dynkin Graph An 11 
+ 
+If v is not surjective, then Im(v) is contained in the unique maximal submodule 
+(because M is uniserial) rad M of M. We compute rad M by its linear 
+representation, then we have rad ? =
+?(??1)
+?(?+1)
+ . Hence, we get a homomorphism 
+ 
+??
+0
+ : ? →
+?(??1)
+?(?+1)
+?
+?(?)
+?(?)
+ that satisfies ?  
+??
+0
+ =  ?. If v is surjective, then 
+?
+Ker  ?
+? ? =
+?(?)
+?(?+1)
+. Since 
+?
+Ker  ?
+ is uniserial and v is not an isomorphism, Ker v 
+= rad
+s
+V with s ? 1 and and dimK(V) >n - (k + 1). Since V is indecomposable, by 
+Theorem 5 we get ? ? ? =
+?(?)
+ra d??(?)
+=
+?(?)
+?(???)
+ with 1 ? m ? n and  1 ? r ? m, 
+thus r= dimK(V) >n - (k + 1). We have rad
+s? = rads  
+?(?)
+?(???)
+ =
+ra d??(?)
+?(???)
+=
+?(???)
+?(???)
+. Consequently, 
+?
+Ker  ?
+=
+?(?)/?(???)
+?(???)/?(???)
+. Using its linear representation we 
+get m =n: indeed  
+?
+Ker  ?
+ is indecomposable injective. Hence, ? =
+?(?)
+?(???)
+ with n - 
+r<k + 1. Thus, there exists an epimorphism ? ′ : ? →
+?(?)
+?(?)
+ such that v = pv’. 
+Define a homomorphism  
+0
+?′
+ : ? →
+?(??1)
+?(?+1)
+?
+?(?)
+?(?)
+, then ?.  
+0
+?′
+ = ?. Assume 
+now that  f: N → M is not a retraction and let N =  
+?
+?
+? = 1
+?(?), then for every k, 
+?? ? ?. As we have seen before there exists ?? ? ?? →
+?(??1)
+?(?+1)
+?
+?(?)
+?(?)
+ such that 
+g[h1h2 … ht]=[f1f2 … ft]  where fi: Ni → M is a component of f. We conclude that 
+g is right almost split and thus the given sequence is almost split.    
+In the process of proving the main result we need one fact about the AR-quiver 
+with connected components.  
+Theorem 6. Assume that A is a basic and connected finite dimensional K-
+algebra. If Γ(mod A) admits a connected component C whose modules are of 
+bounded length, then C is finite and C=Γ(mod A). In particular, A is 
+representation finite. 
+Proof.  See [2, section IV.5]. 
+Now we give the main results in this paper  
+Theorem 7. Let Q be a quiver of type An with ? ∈  ? and n ? 2. Let A = KQ, 
+then Γ(mod A) is the quiver  
+12 Faisal, Irawati & Intan Muchtadi-Alamsyah 
+ 
+ 
+Proof. We proceed by induction on n. For n=2, 3 it is easy to check that its AR-
+quiver satisfy the given picture. Before we continue our induction process, we 
+need the following useful fact: every subquiver of Γ(mod A) of the form 
+smallest diamond with 4 arrows, its vertices form an almost split sequence. 
+Precisely, if we take a subquiver of Γ(mod A) of the form 
+ 
+with f: M → X, g: M → Y, k: X→ N,  l: Y → N are irreducible morphism then 
+the sequence   
+ 0 →  ?
+?= 
+?
+?
+ 
+    ? ? ?
+?= ?? ? 
+       ? → 0 (5) 
+is almost split. It can be checked that f, l are projection and g, k are inclusion. 
+Note that this fact holds for n = 2, 3. Now assume that the statement is true for 
+n-1 and denote A'=KQ' with Q' quiver of Nakayama algebra type An-1. It follows 
+that its AR-quiver is 
+ AR-Quiver of Nakayama Algebra type Dynkin Graph An 13 
+ 
+ 
+and for every smallest diamond form an almost split sequence as we say before. 
+By Lemma 1 we get some isomorphism classes of indecomposable A-module 
+such that the number of its is the same as the number of vertices of Γ(mod A’). 
+By the induction hypothesis and Lemma 3, we get a subquiver of Γ(mod A): 
+ 
+We claim that for every subquiver of the form smallest diamond in this quiver 
+form an almost split sequence. We have the sequence 
+ 0 →  ?
+?= 
+?
+?
+ 
+    ? ? ?
+?= ?? ? 
+       ? → 0       (6) 
+by taking the smallest diamond subquiver Γ(mod A'). Let M', N', X', Y' be A-
+modules defined as same as modules in Lemma 1. Thus, we have an exact 
+sequence  
+14 Faisal, Irawati & Intan Muchtadi-Alamsyah 
+ 0 →  ?′
+?′ = 
+? ′
+?′
+ 
+     ?′ ? ?′
+? ′ = ?? ′ ? ′  
+         ?′ → 0 (7) 
+where f', l' are projection and g', k' are inclusion. Because s, t are irreducible 
+morphisms, then by Lemma 3 we have that s', t' are irreducible morphisms in 
+mod A. It follows from Theorem 3 the latter exact sequence is almost split, and 
+our claim proved. By Corollary 2, Lemma 5 and Lemma 6 we get a connected 
+component of Γ(mod A) :  
+ 
+ 
+It follows from Theorem 5 the connected component is same as with the Γ(mod 
+A). This completes the proof. 
+Corollary 3. Let A be a Nakayama algebra with quiver type An. The number of 
+the isomorphism classes of indecomposable A-module is  
+1
+2
+?(? + 1). 
+Proof. We proceed by induction on n. For n=2, 3 we can directly compute from 
+its quiver and we get both the number of the isomorphism classes of 
+indecomposable modules are 3 and 6 respectively. Now assume that for quiver 
+type An-1 the number of the isomorphism classes of indecomposable modules is 
+1
+2
+(? ? 1)?. We have seen that in the proof of our main theorem, Γ(mod A) has 
+a subquiver which isomorphic to AR-quiver of Nakayama algebra type An-1. 
+Further, all indecomposable modules in this subquiver are noninjective. This 
+means, the number of the isomorphism classes indecomposable noninjective of 
+A-module is 
+1
+2
+(? ? 1)?. But, we know that A has n isomorphism classes of 
+indecomposable injective A-modules. Hence, the number of the isomorphism 
+classes of indecomposable A-modules is 
+1
+2
+ ? ? 1 ? + ? =  
+1
+2
+ ? ? 1 + 1 ? =
+ AR-Quiver of Nakayama Algebra type Dynkin Graph An 15 
+ 
+1
+2
+?(? + 1).               
+ 
+AR-quiver has an important role in studying the category of modules. It stores 
+the information of indecomposable modules, homomorfisms between indecom-
+posable modules and almost split sequences. Now by using AR-quiver 
+constructed above we may give a tilting module of algebra A=KQ with Q is 
+quiver of type An. Let T=I(1)? P(1)? I(3)? I(4)?…? I(n), we claim that T is 
+a tilting module. Because A is hereditary we have gl. dim A = 1. So projective 
+dimension of T is at most 1. Since T is not projective the projective dimension is 
+equal 1. Let M = I(3)?  ... ? I(n). Because I(1) ?P(1) is projective, whereas 
+I(1)? I(3)?  ... ? I(n) is injective, we have 
+Ext
+1
+A
+(T, T)?  Ext 1
+A
+(M, P(1))? DHomA(P(1), τ(M)) 
+      ?  DHomA(P(1), τ(I(3))? ...?  τ(I(n))) 
+                      ? ?HomA  P 1 ,
+P n ? 1 
+P 1 
+? …?
+P n ? 1 
+P n ? 2 
+  
+       ? ?HomA  P 1 ,
+P n?1 
+P 1 
+ ? …? ?HomA  P 1 ,
+P n?1 
+P n?2 
+ = 0.  (8) 
+Note that, we have τ I j  =
+? ??1 
+??2
+, by looking its AR-quiver. Indeed, in [1] 
+we know that for any indecomposable nonprojective A-module M, there exists 
+an almost split sequence 0 → τ(M) → E → M → 0. This almost split sequence 
+appears in AR-quiver in the form of a smallest diamond. To show T satisfy (T3) 
+it suffices to prove that for any indecomposable projective A-module P, there 
+exists a short exact sequence 
+ 0 → PA → T'A → T''A → 0. (9) 
+with T', T''?add T. Because P(1), P(n)= I(1)?add T we have short exact 
+sequences 
+ 0→P(1) → P(1)? P(n) → P(n) → 0,     (10) 
+ 0→P(n) → P(1)? P(n) → P(1) → 0. (11) 
+with P(1)?P(n) ?add T. On the other hand, for every i with 2 ? i ? n - 1 there 
+exists a short exact sequence 
+ 0 → ? ? 
+??
+→ ?(?)
+??
+→ ?(? + 1) → 0, (12) 
+where fi is the inclusion and gi is the projection for all i. We conclude that T is a 
+tilting module of A. By the above reason we get the following result. 
+16 Faisal, Irawati & Intan Muchtadi-Alamsyah 
+Proposition 4. Let A be the KQ algebra with Q is quiver of type An. Then 
+T=I(1)?P(1)? I(3)? I(4)?…? I(n) is a tilting module. 
+4 Conclusion 
+Our main result is a generalization of AR-quiver of the first kind Nakayama 
+algebra. This AR-quiver have a nice structure and the isomorphism classes of its 
+indecomposable module is easy to understand. In this AR-quiver the position of 
+all simple modules is on the top of the AR-quiver. On the left side we have all 
+indecomposable projective and on the right side we have all indecomposable 
+injective. Since A is a Nakayama algebra, all indecomposable module which not 
+injective is only a quotient of indecomposable projective module. The AR-
+quiver of any finite representation algebra has a role in finding all 
+homomorphisms between indecomposable modules. By using this information, 
+we get a tilting module of Nakayama algebra of type Dynkin graph An. We have 
+that, if T = I(1)?P(1)? I(3)? I(4)?…? I(n) then T is a tilting module. 
+Acknowledgement 
+This research is supported by Hibah Riset dan Inovasi KK 2011 based on Surat 
+Perjanjian no. 214 I.1.C01/PL/2011. 
+References  
+[1] Auslander, M., Representation Theory of Artin Algebras II, Comm. 
+Algebra, 1, pp. 269-310, 1974.  
+[2] Auslander, M., Representation Theory of Artin Algebras III, Comm. 
+Algebra, 3, pp. 269-310, 1975.  
+[3] Auslander, M., Reiten, I. & Smalo, S.O., Representation Theory of Artin 
+Algebras, Cambridge University Press, 1995. 
+[4] Assem, I., Simson, D. & Skowronski, A., Elements of the Representation 
+Theory of Associative Algebras, Cambridge University Press, 2006. 
+[5] Auslander, M., Platzeck, M.I. & Reiten, I., Coxeter Functors without 
+Diagrams, Trans. Amer. Math. Soc., 250, pp. 1-46, 1979. 
+[6] Bernstein, I.N., Gelfand, I.M. & Ponomarev, V.A., Coxeter Functors and 
+Gabriel’s Theorem, Uspiehi Mat. Nauk, 28, pp. 19-33, 1973 (in Russian), 
+English translation in Russian Math. Surveys, 28, pp. 17-32, 1973. 
+[7] Hugel, L.A., Happel, D. & Krause, H., Handbook of Tilting Theory, 
+Cambridge University Press, 2008. 
+ 
+ 
+ 
+ 

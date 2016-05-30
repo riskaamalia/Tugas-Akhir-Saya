@@ -1,0 +1,1018 @@
+  
+ITB J. ICT, Vol. 6, No. 2, 2012, 103-111      103 
+ 
+Received July 26
+th
+, 2010, Revised May 13
+th
+, 2011, 2
+nd
+ Revision August 29
+th
+, 2011, 3
+rd
+ Revision May 28
+th
+, 
+2012, Accepted for publication June 22
+nd
+, 2012. 
+Copyright ? 2012 Published by LPPM ITB, ISSN: 1978-3086, DOI: 10.5614/itbj.ict.2012.6.2.1 
+An Alternative Design Topology for Metropolitan Area 
+Networks  
+Antonius Suhartomo 
+Study Program of Elelectrical Engineering, Faculty of Engineering,  
+President Univeristy Kota Jababeka, Bekasi 17550, Indonesia 
+Email: asuharto77@yahoo.com  
+ 
+ 
+Abstract. One of the key issues in designing a network topology is vulnerability.  
+The vulnerability parameter measures the resistance of a network to disruption of 
+operation after the failure of certain stations or communication links. One 
+counter-measure to address the vulnerability of a network is edge connectivity. 
+In this paper, a more selective concept of edge connectivity is introduced, called 
+component order edge connectivity for MAN topology design. This parameter 
+equals the smallest number of edges that must be removed in order to ensure that 
+the order of each component of the resulting sub-network or sub-graph is less 
+than k.  
+Keywords: edge connectivity; k-component edge connectivity; k-component edge-
+failure set; k-component edge-failure state; minimum degree. 
+1 Introduction 
+A metropolitan area network (MAN) is a computer network that usually covers 
+a city or a large campus, which has a geographic scope that falls between a wide 
+area network (WAN) and a local area network (LAN). A MAN usually 
+interconnects a number of nodes representing LANs that are interconnected 
+using high-capacity backbone technology such as fiber optics, and provides up-
+link services to WANs and the Internet. 
+Some implementation technologies used for this purpose are the asynchronous 
+transfer mode (ATM), the fiber distributed data interface (FDDI), and the 
+switched multimegabit data service (SMDS). In most areas, these technologies 
+are in the process of being displaced by ethernet-based connections (e.g., Metro 
+Ethernet). MAN links between LANs have been built without cables using 
+microwave, radio, or infrared laser links. Most companies rent or lease circuits 
+from common carriers due to the fact that laying long stretches of cable can be 
+expensive. 
+Distributed-queue dual-bus (DQDB) is the metropolitan area network standard 
+for data communication that is specified in the IEEE 802.6 standard. Using 
+104 Antonius Suhartomo 
+DQDB, networks can be up to 30 km long and operate at speeds up to 155 
+Mbit/s.  
+Point-to-point networking that supports MAN connections can be built based on 
+network configurations such as a ÅgbusÅh network, a ÅgstarÅh network, a ÅgringÅh 
+network, or a ÅgmeshÅh network. With the widespread dependence upon such 
+networks, it becomes important to look for topologies that yield a high level of 
+reliability and a low level of vulnerability to disruption. In this paper, the 
+network configurations ÅgwheelÅh and ÅgfanÅh will be discussed.  
+It is desirable to consider quantitative counter-measures to address a networkÅfs 
+vulnerability when designing a MAN. In order to obtain such measures we 
+model the network by a graph in which the station terminals are represented by 
+the nodes of the graph and the links by the edges. In what follows, we assume G 
+= (V, E), a simple graph where V is the non-empty set of nodes, and E is the set 
+of edges. We use the notation ||)( VGn ?  for the order of the graph G and 
+||)( EGe ?  for the size of the graph G. Unless specifically stated otherwise, we 
+follow the standard graph theory notation found in [1].  
+Definition 1. The edge-connectivity of G, denoted by )(G? or simply ? , is 
+defined to be ? ?( )  min : ,  is an edge failure set .G F F E F? ? ?  [2] 
+One drawback of the traditional edge-failure model is that the graph G ? F is an 
+edge-failure state if it is disconnected and no consideration is given to whether 
+or not there exists a ÅglargeÅh component that in itself may be viable.  
+It is reasonable to consider a model in which it is not necessary that the 
+surviving edges form a connected sub-network as long as they form a sub-
+network with a component of some predetermined order. Therefore, we 
+introduce a new edge-failure model, the k-component order edge-failure model. 
+In this model, when a set of edges F fails we refer to F as a k-component edge-
+failure set and the surviving sub-network G ? F as a k-component edge-failure 
+state if G ? F contains no component of order at least k, where k is a 
+predetermined threshold value.    
+Definition 2. Let nk ??2  be a predetermined threshold value. The k-
+component order edge-connectivity or component order edge connectivity 
+of G, denoted by )()( Gkc?  or simply 
+)(k
+c? , is defined to be 
+? ?set failure edgecomponent - is ,|:|min)()( kFEFFGkc ??? , i.e., all 
+components of G ? F have order 1?? k  [3,4].  
+ Alternative Design Topology for Metropolitan Area Network 105 
+ 
+ 
+Definition 3. A set of edges F of graph G is 
+)(k
+c? -edge set if and only if it is a k-
+component order edge-failure set and 
+( )k
+cF ??  [3-5].  
+From this short explanation, we offer the option of networks or graphs in 
+designing a MAN network topology with vulnerability issues by computing 
+)()( Gkc?  for a specific type of graphs. 
+2 Preliminary Results  
+The following networks suggest which MAN topology is the best option 
+regarding its degree of vulnerability. The first type of graph we consider is the 
+cycle, nC . The formula for )(
+)(
+n
+k
+c C?  can be derived in a similar manner to that 
+of )()( n
+k
+c P? [3]. When one edge of the cycle is removed, it becomes a path with 
+n nodes, nP . Thus 1)()(
+)()( ?? n
+k
+cn
+k
+c PC ?? , and since 
+1
+1
+1 1
+n n
+k k
+?? ? ? ?
+? ?? ? ? ?? ?? ? ? ?
+ we 
+get the following result [6]. 
+Theorem 1. Given ?
+?
+?
+?
+?
+?
+?
+???
+1
+)(,2 )(
+k
+n
+Cnk n
+k
+c?  [6,4].  
+The second type of network that has been considered is the complete graph on n 
+nodes, .nK Let ? ?nKEF ?  be a ?
+)(k
+c? edge set. We can compute |F| by 
+calculating the maximum number of edges that can remain in the k-component 
+edge-failure state .FKn ?  It is easy to see that any edge in F must have its 
+endpoints in two different components of ;FKn ?  therefore each component 
+of FKn ?  must itself be complete.  
+Lemma 2. Given nk ??2 , let ? ? rk
+k
+n
+n ???
+?
+?
+?
+?
+?
+?
+? 1
+1
+ where 10 ??? kr  [3-
+5].  
+From this it immediately follows that a maximum-size k-component edge-
+failure state of nK  consists of ?
+?
+?
+?
+?
+?
+?1k
+n
+ complete components each of order k -1 
+106 Antonius Suhartomo 
+and possibly one additional component of order less than k ? 1. Thus we have 
+the following: 
+Theorem 3: Given ??
+?
+?
+??
+?
+?
+???
+?
+?
+??
+?
+? ?
+?
+?
+?
+?
+?
+?
+?
+???
+?
+?
+??
+?
+?
+???
+22
+1
+12
+)(,2 )(
+rk
+k
+nn
+Knk n
+k
+c? , where 
+20 ,)1(
+1
+??????
+?
+?
+?
+?
+?
+?
+? krrk
+k
+n
+n  [1,4,5]. 
+3 Main Results Model of Network Topology 
+The preliminary results suggest the network topologies wheel and fan. Since we 
+do not have a formula or an algorithm that computes )()( Gkc? of an arbitrary 
+graph G representing the network, therefore we want to find bounds (both lower 
+and upper) that may be applied to establish the range of possible values of 
+)()( Gkc? . Before we introduce a set of bounds we need to establish some 
+notation and terminology. 
+First we consider the value of )()( Hkc? , where H is a sub-network of G but H is 
+not spanning or connected. If H is a graph on m nodes, and m k? , then every 
+component of H has order 1?? k , so it follows that 0)()( ?Hkc? . If H is 
+disconnected and pHHH ,,, 21 ?  are the components of H, then 
+?
+?
+?
+p
+i
+i
+k
+c
+k
+c HH
+1
+)()( )()( ?? . 
+Definition 4.  If  EF ?  is a set of edges, G[F] denotes the sub-network of G 
+with node set V and edge set F, i.e. G[F] = G ? (E ? F) [4].  
+Definition 5. If U, VW ?  with },[,0 WUWU ??  denotes the set of all 
+edges with one endpoint in U and the other endpoint in W [4]. 
+The next theorem is the basis of our lower bound. 
+Theorem 4. If 21 EE ?  is a partition of E, then 
+? ? ? ? )(][][ )(2
+)(
+1
+)( GEGEG kc
+k
+c
+k
+c ??? ??  [4]. 
+Proof. Let D E?  be a )(kc? -edge set and let .2,1, ??? iDED ii  Since 
+DEDE ii ??? , each component of ii DEG ?][  is contained in a 
+component of G?D and therefore is of order 1?? k . It follows that 
+ Alternative Design Topology for Metropolitan Area Network 107 
+ 
+? ? ||][)( ii
+k
+c DEG ?? . Therefore ? ? ? ? ||||||][][ 212
+)(
+1
+)( DDDEGEG kc
+k
+c ??????   
+)()( Gkc?? . 
+       ? 
+Thus we obtain the following lower bound:  
+? ? ? ? )(][][ )(2
+)(
+1
+)( GEGEG kc
+k
+c
+k
+c ??? ?? , where 21 EE ?  is a partition of E. 
+In particular if u is a node of full degree, then 
+)()()1( )()( GuGkn kc
+k
+c ?? ????? . 
+Now let VU ? be a set of nodes with |U| = k ? 1. We construct a k-component 
+edge-failure set as follows: delete all edges that connect U to the rest of the 
+graph, and then delete edges from UV ?  until all components have order < k 
+? 1. Thus we obtain the following upper bound:  
+? ?UVUVUG kckc ???? )()( ],[)( ?? , where VU ?  with |U| = k ? 1. 
+We will apply these bounds to compute )()( Gkc? , when G is either nW , the 
+wheel of order n, or nF , the fan of order n. 
+Definition 6. The wheel of order n, nW , is the network or graph formed by 
+connecting a single vertex to all the vertices of a 1?nC  [4].  
+ 
+Figure 1 A wheel graph, 
+nW . 
+108 Antonius Suhartomo 
+Definition 7. The fan of order n, nF , is the graph formed by connecting a single 
+vertex to all the vertices of a 1?nP  [4].  
+                         
+Figure 2 A fan graph, 
+nF . 
+Since the application of the bounds to nW  and nF  are done similarly, we will 
+only demonstrate them for nW  and state the corresponding result for nF . 
+Let G = nW  and let u be the full degree node. Then 1??? nCuG  and the lower 
+bound implies 
+?
+?
+?
+?
+?
+?
+?
+?
+????????? ?
+1
+1
+)1()()1()()( 1
+)()()(
+k
+n
+knCknGW n
+k
+c
+k
+cn
+k
+c ??? .      (1) 
+Now if },,,{ 21 ?? kuuuU ?  },,{ 11 ???? nk uuUV ? , then ],[ UVU ?  =(n-
+1) ? (k-2) + 2 = n ? k + 3 and 1???? knPUV . Thus the upper bound implies  
+ ?
+?
+?
+?
+?
+?
+?
+?
+???????? ??
+1
+)3()()3()( 1
+)()(
+k
+kn
+knPknW kn
+k
+cn
+k
+c ??         (2) 
+Inequalities (1) and (2) together yield the following bounds on )()( n
+k
+c W? :  
+ ?
+?
+?
+?
+?
+?
+?
+?
+??????
+?
+?
+?
+?
+?
+?
+?
+???
+1
+)3()(
+1
+1
+)1( )(
+k
+kn
+knW
+k
+n
+kn n
+k
+c?        (3) 
+We will find the formula for )()( n
+k
+c W?  by comparing the lower and upper 
+bounds.  
+?
+?
+?
+?
+?
+?
+?
+?
+?????
+?
+?
+?
+?
+?
+?
+?
+???
+1
+)3(
+1
+1
+)1(
+k
+kn
+kn
+k
+n
+kn . Subtracting (n ? k + 1) from 
+each side gives 
+ Alternative Design Topology for Metropolitan Area Network 109 
+ 
+ ?
+?
+?
+?
+?
+?
+?
+?
+???
+?
+?
+?
+?
+?
+?
+?
+1
+2
+1
+1
+k
+kn
+k
+n
+       (4) 
+Applying the division algorithm we write rkkn ???? )1(? , where 
+20 ??? kr , thus ?
+?
+?
+?
+?
+?
+?
+?
+?
+1k
+kn
+? . Hence n ? 1 = (n ? k) + (k ? 1) 
+.)1)(1()1()1( rkrkk ????????? ??  If 1?r , i.e., (k ? 1) does not 
+divide (n ? 1), then 2
+1
+2
+1
+1
+??
+?
+?
+?
+?
+?
+?
+?
+????
+?
+?
+?
+?
+?
+?
+?
+k
+kn
+k
+n
+? . If r = 0, i.e., (k ? 1) divides 
+(n ? 1), then 1
+1
+1
+1
+1
+??
+?
+?
+?
+?
+?
+?
+?
+????
+?
+?
+?
+?
+?
+?
+?
+k
+kn
+k
+n
+? .  
+Theorem 5. Let nWG ?  be a wheel on n-nodes then [4], 
+( )
+1
+( 1) , if ( 1) does not divide ( 1)        (5a)
+1
+( )
+1
+( 2) , if ( 1) divides ( 1)                     (5b)
+1
+k
+c n
+n
+n k k n
+k
+W
+n
+n k k n
+k
+?
+? ?? ?
+? ? ? ? ?? ? ??? ? ?
+? ?
+?? ?? ? ? ? ? ?? ?? ?? ??
+                
+Proof. By using bound (3),  
+ ?
+?
+?
+?
+?
+?
+?
+?
+??????
+?
+?
+?
+?
+?
+?
+?
+???
+1
+)3()(
+1
+1
+)1( )(
+k
+kn
+knW
+k
+n
+kn n
+k
+c?  
+If (k ? 1) does not divide (n ? 1) then  
+?
+?
+?
+?
+?
+?
+?
+?
+??????
+?
+?
+?
+?
+?
+?
+?
+?????
+?
+?
+?
+?
+?
+?
+?
+???
+1
+)3(2
+1
+)1(
+1
+1
+)1(
+k
+kn
+kn
+k
+kn
+kn
+k
+n
+kn  
+Thus, if (k ? 1) does not divide (n ? 1), ?
+?
+?
+?
+?
+?
+?
+?
+????
+1
+1
+)1()()(
+k
+n
+knWn
+k
+c?  and 
+(1) holds.  
+If (k ? 1) divides (n ? 1) then  
+?
+?
+?
+?
+?
+?
+?
+?
+??????
+?
+?
+?
+?
+?
+?
+?
+?????
+?
+?
+?
+?
+?
+?
+?
+???
+1
+)2(1
+1
+)1(
+1
+1
+)1(
+k
+kn
+kn
+k
+kn
+kn
+k
+n
+kn  
+thus 
+110 Antonius Suhartomo 
+ ?
+?
+?
+?
+?
+?
+?
+?
+??????
+?
+?
+?
+?
+?
+?
+?
+???
+1
+)2()(
+1
+1
+)1( )(
+k
+kn
+knW
+k
+n
+kn n
+k
+c? . 
+Claim. If (k ?1) divides (n ? 1) then if we remove at most 
+?
+?
+?
+?
+?
+?
+?
+?
+???
+1
+1
+)1(
+k
+n
+kn  
+edges from nW  we do not get a k-component edge-failure state. Let 
+???
+?
+?
+?
+?
+?
+?
+?
+1
+1
+k
+n
+, if we remove ?  edges from the 1?nC  we get ?  components and 
+in order to have a k-component edge-failure state each has at most 1?k  nodes. 
+Since (k ? 1) divides (n ? 1) each must have exactly k ? 1 nodes. Thus we need 
+to isolate the full degree node u from the 1?nC , which means we must delete 
+(n?1) additional edges. Hence we must remove at least 1??  edges from the 
+1?nC . Since 1
+1
+1
+1 ??
+?
+?
+?
+?
+?
+?
+?
+??
+k
+n
+?  can remove at most (n ? k) edges from the full 
+degree node which leaves at least k ? 1 edges remaining from u to the 1?nC  and 
+thus there is a component of order at least k. 
+Thus if (k ? 1) divides (n ? 1) then ?
+?
+?
+?
+?
+?
+?
+?
+????
+1
+1
+)2()()(
+k
+n
+knWn
+k
+c?  and (2) 
+holds. 
+As previously stated the formula for )()( n
+k
+c F?  can be derived in a similar 
+manner as that for )()( n
+k
+c W? , so the following result is stated without proof. 
+Theorem 6. Given nk ??2 , then [4], 
+?
+?
+?
+??
+?
+?
+???
+?
+?
+?
+?
+?
+?
+?
+???
+???
+?
+?
+?
+?
+?
+?
+?
+???
+?
+            )1( divides )1( if,
+1
+2
+)2(
+)1( dividenot  does )1( if,
+1
+2
+)1(
+)()(
+nk
+k
+n
+kn
+nk
+k
+n
+kn
+Fn
+k
+c?  
+4 Conclusion 
+The primary results discussed in [3] suggest investigation of new network 
+models that make it possible to design aMAN network topology with the best 
+solution for vulnerability issues.  
+ Alternative Design Topology for Metropolitan Area Network 111 
+ 
+When comparing network configurations with the same number of stations or 
+nodes that need to be installed, a complete network is the best topology, but this 
+makes it impossible to design a real MAN network. The cycle network is the 
+simplest one in terms of installation, but it yields the worst results in terms of 
+network vulnerability. We can see the comparison results in Table 1 below, 
+which is based on the assumption that a MAN network is established with 10 
+stations or nodes, while k = 4, 5 and 6, respectively.  
+Table 1 Results of vulnerability comparison between different network 
+configurations (cycle, complete, wheel and fan) with the same number of nodes. 
+Type Formula k = 4 k = 5 k = 6 
+)( 10
+)( Ckc?  
+?
+?
+?
+?
+?
+?
+?
+?
+1
+)()(
+k
+n
+Cn
+k
+c?
+ 4 3 2 
+)( 10
+)( Kkc?
+ 
+??
+?
+?
+??
+?
+?
+???
+?
+?
+??
+?
+? ?
+?
+?
+?
+?
+?
+?
+?
+???
+?
+?
+??
+?
+?
+?
+22
+1
+12
+)()(
+rk
+k
+nn
+Kn
+k
+c?
+ 36 34 25 
+)( 10
+)( Wkc?  
+?
+?
+?
+??
+?
+?
+???
+?
+?
+?
+?
+?
+?
+?
+???
+???
+?
+?
+?
+?
+?
+?
+?
+???
+?
+            )1( divides )1( if,
+1
+1
+)2(
+ )1( dividenot  does )1( if,
+1
+1
+)1(
+)()(
+nk
+k
+n
+kn
+nk
+k
+n
+kn
+Wn
+k
+c?
+ 
+11 9 7 
+)( 10
+)( Fkc?  
+?
+?
+?
+??
+?
+?
+???
+?
+?
+?
+?
+?
+?
+?
+???
+???
+?
+?
+?
+?
+?
+?
+?
+???
+?
+            )1( divides )1( if,
+1
+2
+)2(
+)1( dividenot  does )1( if,
+1
+2
+)1(
+)()(
+nk
+k
+n
+kn
+nk
+k
+n
+kn
+Fn
+k
+c?
+ 
+10 8 7 
+References 
+[1] Harary, F., Graph Theory, Addison Wesley, Reading, MA, 1969. 
+[2] Boesch, F., Gross, D., Suffel, C., Saccoman, John T., Kazmierczak, L. 
+William, Suhartomo, A., A Generalization of A Theorem of Chartrand, 
+Networks, 2009, DOI 10.1002/net.   
+[3] Boesch, F., Gross, D., Kazmierczak, L., Suhartomo, A. & Suffel, C., 
+Component Order Edge Connectivity ? An Introduction, Congressus 
+Numerantium, 178, pp. 7-14, 2006. 
+[4] Suhartomo, A., Component Order Edge Connectivity: A Vulnerability 
+Parameter for Communication Networks, Doctoral Thesis, Stevens 
+Institute of Technology, Hoboken NJ, May 2007. 
+[5] Suhartomo, A., A Measure of Vulnerability for Communication 
+Networks: Component Order Edge Connectivity, Proceeding of CITEE, 
+UGM, ISBN: 2085-6350, pp. 28-31, 2009. 
+[6] Boesch, F., Gross, D., Kazmierczak, L. William, Suhartomo, A., Suffel, 
+C., Bounds Component Order Edge Connectivity, Congressus 
+Numerantium, 185, pp. 159-171, 2007. 

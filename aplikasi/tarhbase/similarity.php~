@@ -1,0 +1,47 @@
+<?php
+include "quick_sort.php";
+function similarity($id_url,$status){
+	$index_nilai = 0;
+	$index_nilai2 = 0;
+		if($status == 0){
+			include "teshbase.php";
+			$obj_query = new teshbase ();
+			for ($i=0;$i< 1114;$i++) {		//looping sejumlah id row key di lsa_pdf
+				$id_url_1[$i] = $obj_query -> select("lsa_halaman_pdf","id".$i,"lsa_halaman_pdf_info:ID_URL_1");
+				if ($id_url_1[$i] == $id_url) {						
+					$id_url_2[$index_nilai] = $obj_query -> select("lsa_halaman_pdf","id".$i,"lsa_halaman_pdf_info:ID_URL_2");
+					$value[$index_nilai] = $obj_query -> select("lsa_halaman_pdf","id".$i,"lsa_halaman_pdf_info:VALUE");		
+					$index_nilai++;			
+				}
+			}
+		}
+		else if($status == 1){
+			include "teshbase.php";
+			$obj_query = new teshbase ();
+			for ($i=0;$i< 1114;$i++) {		//looping sejumlah id row key di lsa_pdf			
+				$id_url_1[$i] = $obj_query -> select("lsa_halaman_web","id".$i,"lsa_halaman_web_info:ID_URL_1");
+				if ($id_url_1[$i] == $id_url) {		
+					$id_url_2[$index_nilai2] = $obj_query -> select("lsa_halaman_web","id".$i,"lsa_halaman_web_info:ID_URL_2");
+					$value[$index_nilai2] = $obj_query -> select("lsa_halaman_web","id".$i,"lsa_halaman_web_info:VALUE");		
+					$index_nilai2++;		
+				}
+			}		
+		}
+			if($id_url_2[$i-1] != $id_url){
+				$similar[0][$i-1] = $id_url_2[$i-1];
+				$similar[1][$i-1] = $value[$i-1];
+			}
+
+	$sort_similar = quick_sort($similar[1]);
+	for($a = 0; $a < 10; $a++){
+		for($b = 0; $b < sizeof($similar[0]); $b++){
+			if($sort_similar[$a] == $similar[1][$b] && $sort_similar[$a] >= 0.5){
+				$result[$a] = $similar[0][$b];
+				$similar[1][$b] = NULL;
+				break;
+			}
+		}
+	}
+	return $result;
+}
+?>

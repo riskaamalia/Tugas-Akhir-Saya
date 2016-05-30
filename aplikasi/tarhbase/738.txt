@@ -1,0 +1,1549 @@
+  
+J. Math. Fund. Sci., Vol. 45, No. 1, 2013, 39-52                            39 
+ 
+Received December 20th, 2012, Revised February 21st, 2013, Accepted for publication February 22nd, 2013. 
+Copyright ? 2013 Published by ITB Journal Publisher, ISSN: 2337-5760, DOI: 10.5614/j.math.fund.sci.2013.45.1.4 
+Behavior for Time Invariant Finite Dimensional  
+Discrete Linear Systems 
+Sisilia Sylviani, Hanni Garminia & Pudji Astuti 
+Algebra Research Group, Faculty of Mathematics and Natural Sciences 
+Institut Teknologi Bandung, Jalan Ganesa 10, Bandung 40132, Indonesia 
+Email: pudji@math.itb.ac.id 
+ 
+ 
+Abstract. The behavior of a dynamical system, in WillemsÅfs point of view, is 
+the set of all trajectories of the system. Fuhrmann defines a behavior as a linear, 
+shift invariant, and complete subspace of 
+1 1
+[[ ]]
+m
+z z
+? ?? , the vector space 
+consisting of power series in 
+1
+z
+?
+ with coefficients in signal space =
+m? ? . In 
+this paper we show that the behavior of a finite dimensional, time invariant 
+discrete linear system in WillemsÅfs setting is also a behavior according to 
+FuhrmannÅfs. 
+Keywords: behavior; complete; linear system; shift invariant; trajectories. 
+1 Introduction 
+Behavioral theory is a mathematical idea to study dynamical systems through 
+the set of trajectories of the systems. The basic concept of the behavioral 
+framework deals with a mathematical model of a system for what a model ought 
+to be [1], highlighting some physical properties and practical questions of the 
+system. Willems [1,2] defines a dynamical system as a triple, = ( , , )? ? ? B , 
+where ?? ?  is the time axis, ?  is called the signal space, 
+??  is the set of 
+all transformations from ?  to ? , and ? ??B  is called behavior. The 
+elements of B  are called the trajectories of the system. This definition is very 
+general and can be loosely described.  
+In general, the behavior of a linear system, in WillemsÅfs point of view [2] 
+represents the set of all the trajectories of the system. Meanwhile, Fuhrmann [3] 
+adopts WillemsÅfs [2] concept of a behavior for a discrete linear system by 
+restricting ?  to the set of natural numbers, denoted by ?? , and ?  to 
+m? , the 
+m  dimensional vector space over a field ? . However, Fuhrmann does not 
+define the behavior of a time invariant discrete linear system as the set of all the 
+system trajectories. Fuhrmann defines a behavior as a linear, shift invariant, and 
+complete subspace of the set 
+1 1
+[[ ]]
+m
+z z
+? ?? . The set 1 1[[ ]]mz z? ??  is a vector 
+40 Sisilia Sylviani, et al. 
+space consisting of power series in 
+1
+z
+?
+ with coefficients in signal space 
+=
+m? ? . These fenomena lead us to some questions: are both behaviors, 
+according Willems [2] and Fuhrmann [3], equivalent? What is the relationship 
+between these two concepts of behavior? This paper addresses part of these 
+questions. Particularly, we show that for the case of a finite dimensional, time 
+invariant, linear discrete system, behavior according to Willems is also behavior 
+according to Fuhrmann. 
+2 Preliminaries 
+From now on, let ?  be an arbitrary field and m?  be the space of all m -tuples 
+with components in ? . Notation 1(( ))z??  stands for the set of all formal series 
+of the form 
+=
+i
+ii n
+f
+f z
+??
+?  where if ??  and fn ?? , that is, it can be written as  
+ 
+1
+=
+(( )) = | , .
+i
+i i f
+i n
+f
+z f z f n
+??
+?
+? ?
+? ?? ?
+? ?
+? ?? ?
+?? ? ?
+ 
+If 
+=
+( ) =
+i
+ii n
+f
+f z f z
+??
+?  and =( ) =
+i
+ii n
+g
+g z g z
+??
+? are both elements in 
+1
+(( ))z
+?? , then 
+the operations of addition and multiplication are defined by  
+ 
+? ?= ,
+( )( ) = ( ) ,
+i
+i i
+i maks n n
+f g
+f g z f g z
+??
+? ??
+ 
+and  
+ 
+=
+( )( ) = ,
+k
+k
+k n n
+f g
+fg z h z
+??
+?
+?
+ 
+where 
+=
+=
+k i k ii
+h f g
+??
+???? . Note that kh  is well-defined, since it contains only a 
+finite number of non-zero terms. The set 
+1
+(( ))z
+??  forms a field and is called the 
+field of truncated Laurent series [4]. 
+The set of all polynomials of the form 
+=0
+n if
+ii
+f z?  where if ??  and fn  is a non-
+negative integer, is denoted by [ ]z? . It can also be witten as  
+ Behavior for Time Invariant Finite Dimensional Discrete LS 41 
+ 
+ 
+=0
+[ ] = | , {0} .
+n
+f
+i
+i i f
+i
+z f z f n? ? ?
+? ?? ?
+? ?
+? ?? ?
+?? ? ?  
+The set [ ]z?  can be expressed as a subset of 1(( ))z??  as follows:  
+ 
+0
+=
+[ ] = | , .
+i
+i i f
+i nf
+z f z f n
+?
+? ? ?
+? ?
+? ?
+? ?
+?? ? ? ?  
+The set [ ]z? , coupled with the standard component-wise addition and 
+multiplication, forms an Euclidean domain [4]. 
+The set of all formal series having indeterminate 
+1
+z
+?
+ and coefficients in the field 
+? , is denoted by 1[[ ]]z?? . This set can be expressed as follows:  
+ 
+1
+=0
+[[ ]] = | , = 0, 1, 2, .
+i
+i i
+i
+z f z f i
+??
+?
+? ? ?
+? ?
+? ?
+? ?
+? ?? ?
+ 
+Similar to the above polynomial ring, the set 
+1
+[[ ]]z
+?? , coupled with standard 
+addition and multiplication, forms an Euclidean Domain.  
+The field of truncated Laurent series can be decomposed by the polynomial 
+domain part and formal series domain part as follows [4]: 
+ 
+1 1 1
+(( )) = [ ] [[ ]]z z z z
+? ? ?
+?? ? ?
+ 
+where  
+ 
+1 1
+= 1
+[[ ]] = | , = 1, 2, .
+i
+i i
+i
+z z f z f i
+??
+? ? ?
+?
+? ? ?
+? ?
+? ?
+? ?
+? ?? ?
+ 
+It is clear that the above definitions and notations, which are defined in terms of 
+elements in the field ? , can be directly generalized in terms of elements in the 
+vector space 
+m?  and obtain the corresponding sets 1(( ))m z?? , [ ]m z? , and 
+1
+[[ ]]
+m
+z
+?? . All of these sets can be formed as vector spaces over the field ?  and 
+satisfy the following decomposition equation  
+ 
+1 1 1
+(( )) = [ ] [[ ]].
+m m m
+z z z z
+? ? ?
+?? ? ?  (1) 
+Further, the set [ ]
+m
+z?  can also be identified by [ ]mz? , the set of m -tuples of 
+elements in [ ]z?  
+42 Sisilia Sylviani, et al. 
+ 
+1
+2
+( )
+( )
+( ( )) = .
+( )
+i
+m
+p z
+p z
+p z
+p z
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+?
+ 
+Hence, the set [ ]
+m
+z?  can be considered as a module over the ring [ ]z? . Similar 
+identifications also work for 
+1
+[[ ]]
+m
+z
+??  and 1(( ))m z?? .  
+The set [ ]
+m n
+z
+??  is defined as follows:  
+ 
+[ ] = {( ( )) | [ ],1 ,1 }.
+m n
+ij ij
+z a z a z i m j n
+?
+? ? ? ? ?? ?
+ 
+Similar to the vector case, elements in [ ]
+m n
+z
+??  can be identified as elements in 
+the set [ ]
+m n
+z
+?? , that is  
+ 
+=0
+[ ] = | , {0} .
+n
+f
+m n i m n
+i i f
+i
+z f z f n
+? ?
+? ? ?
+? ?? ?
+? ?
+? ?? ?
+?? ? ?
+ 
+The set [ ]
+m n
+z
+??  is a module over the ring [ ]z? . 
+We close this section by introducing the term shift invariant subspace which 
+will be one property of a behavior. First, following the decomposition (1), we 
+have the projection operator on the space of formal series 
+1 1
+[[ ]]
+m
+z z
+? ??  along 
+the polynomial space [ ]
+m
+z? :  
+ 
+1 1 1
+1
+= =
+: (( )) [[ ]]
+.
+m m
+n
+f
+i i
+i i
+i i
+z z z
+f z f z
+? ? ? ?
+?
+?
+?? ??
+?
+? ??
+? ?
+ 
+The shift operator ?  is, then, defined by  
+ 
+1 1 1 1
+=1 =1
+: [[ ]] [[ ]]
+( ),
+m m
+i i
+i i
+i i
+z z z z
+h z z h z
+?
+?
+? ? ? ?
+? ?
+? ?
+?
+?
+? ??
+? ?
+ (2) 
+ Behavior for Time Invariant Finite Dimensional Discrete LS 43 
+ 
+Definition 1. Let ?  be the shift operator defined in (2), and B  be a subspace 
+of 
+1 1
+[[ ]]
+m
+z z
+? ?? . The subspace B  is called shift invariant if ( )? ?B B . 
+Note that having defined the two notions above, we can introduce an action 
+from the domain [ ]z?  to the space 1 1[[ ]]mz z? ??  which makes it become [ ]z? -
+module. Particularly, the space 
+1 1
+[[ ]]
+m
+z z
+? ??  is an [ ]z? -module with operation 
+of multiplication defined as follows: 
+ =z h zh?
+?
+?  
+for all [ ]z z??  and 1 1[[ ]]mh z z? ?? ? . 
+3 Behavior 
+This section contains the main issue of this paper, that is the relevancy between 
+the two ways of defining a behavior. The first subsection discusses the behavior 
+by WillemsÅfs and FuhrmannÅfs point of view. The definition of the dynamic 
+system will be discussed at the beginning of this section.  
+3.1 WillemsÅfs Version of a Behavior 
+This paper concentrates on finite dimensional, time invariant, discrete linear 
+systems. Willems [2] defines a dynamic system as a triple, = ( , , )? ? ? B , 
+where ?? ?  as time axis, ?  is called signal space, ??  is the set of all 
+transformations from ?  to ? , and ? ??B  is called the behavior. The 
+behavior of a linear system with discrete time is defined by Willems [2] as the 
+set of all trajectories of the dynamical system. 
+Consider a finite dimensional, time invariant, discrete linear system that 
+satisfies the following difference equation:  
+ 1
+= ,
+k k k
+x Ax Bu
+?
+?  (3) 
+ where 
+n
+k
+x ?? , m
+k
+u ?? , = 0,1,k ?, for some A , an n n?  matrix and B , an 
+n m?  matrix with entries in the field ? . Let 
+0
+n
+x ??  and a sequence of inputs 
+0 1
+, ,u u ?  be given, we obtain the corresponding state sequence 
+1 2
+, ,x x ?  which 
+satisfies Eq. (3). Let represent the state sequence in the form of a formal series  
+44 Sisilia Sylviani, et al. 
+ 
+1 1 2
+1 2
+=1
+( ) = = .
+i
+i
+i
+x z x z x z x z
+?
+? ? ? ?
+? ? ??  
+Then, the behavior in WillemsÅfs [2] context can be identified by  
+ 
+0
+=1
+= { | satisfy (3), for some and , = 0,1, 2, }.
+i n m
+i i i
+i
+x z x x u i
+?
+?
+? ?? ?B ? ?
+ 
+Before discussing the definition of a behavior in FuhrmannÅfs point of view, we 
+will first discuss the definition of a complete subspace of 
+1 1
+[[ ]]
+m
+z z
+? ?? .  
+For each n
+?
+?? , let 
+n
+P  be the projection on 
+1 1
+[[ ]]
+m
+z z
+? ??  defined as  
+ 
+1 1 1 1
+=1 =1
+: [[ ]] [[ ]]
+.
+m m
+n
+n
+i i
+i i
+i i
+P z z z z
+h z h z
+? ? ? ?
+?
+? ?
+?
+? ??
+? ?
+ (4) 
+We say that a subset 
+1 1
+[[ ]]
+m
+z z
+? ?
+? ?B  is complete if the following statement is 
+satisfied: 
+if for any 
+1 1
+=1
+= [[ ]]
+i m
+ii
+w w z z z
+? ? ? ?
+?? ? , ( ) ( )N NP w P? B  for all N , then w?B . 
+3.2 FuhrmannÅfs Version of a Behavior 
+In the previous subsection we already discussed WillemsÅfs [2] definition of a 
+dynamical system as triple, = ( , , )? ? ? B , where ?? ?  is the times axis, 
+?  is called a signal space, ??  is the set of all transformations from ? to? , 
+and ?
+??B  is called the behavior. Fuhrmann adopted this concept for discrete 
+linear systems by restricting the time set ?  with the set of all natural numbers, 
+denoted by 
+?
+? , and restricting ?  with m? , the colomn vector space over the 
+field ? . However, Fuhrmann defines a behavior as a linear, shift invariant, and 
+complete subspace of 
+1 1
+[[ ]]
+m
+z z
+? ?? [3]. 
+Even though Willems and Fuhrmann have a different point of view in defining a 
+behavior, there is a linkage between both definitions of a behavior. That linkage 
+is described in Theorem 3. 
+ 
+ Behavior for Time Invariant Finite Dimensional Discrete LS 45 
+ 
+Theorem 3. Let B be the behavior according to Willems for time invariant, 
+discrete linear system satisfying difference Eq. (3), that is,  
+ 
+0
+=1
+= | satisfy (3), for some and , = 0,1, 2, .
+i n m
+i i i
+i
+x z x x u i
+?
+?
+? ?
+? ?
+? ?
+? ?
+? ?B ? ?  
+Then the set B  is a shift invariant and complete subspace of 
+1 1
+[[ ]]
+m
+z z
+? ?? . In 
+other words,B  is a behavior in FuhrmannÅfs [3] point of view. 
+ 
+Proof. Let  
+ 
+0
+=1
+= | satisfy (3), for  some and , = 0,1, 2,
+i n m
+i i i
+i
+x z x x u i
+?
+?
+? ?
+? ?
+? ?
+? ?
+? ?B ? ?  
+be a behavior for time invariant, discrete linear system. First of all, we will 
+show that B  is a subspace of 
+1 1
+[[ ]]
+m
+z z
+? ?? . That is, it should be pointed out that 
+B  is a nonempty subset of 
+1 1
+[[ ]]
+m
+z z
+? ??  that is closed under operation of 
+addition and scalar multiplication.  
+1. We will show that B  is non-empty, and that is so because  
+ 
+1 2
+0 = 0. 0. 0. .
+n
+z z z
+? ? ?
+? ? ? ? ?? ?
+B
+B
+ 
+2. It is clear by definition that B  is a subset of 
+1 1
+[[ ]].
+m
+z z
+? ??  
+3. We will show that B  is closed under addition. Let 
+1 1
+( ), ( )x z y z
+? ?
+?B , 
+where 
+1 1
+=1
+( ) =
+ii
+x z x z
+?? ??  and 1 1=1( ) =  iiy z y z
+?? ?? , ,i ix y  satisfying (3), for 
+some 
+0 0
+,
+n
+x y ?? , and , m
+i i
+u v ?? , = 0,1,i ?. We obtain  
+ 
+1 1 1 1 1
+=1 =1 =1
+( ) ( ) = = ( ) .
+i i i i
+i i i
+x z y z x z y z x y z
+? ? ?
+? ? ? ? ?
+? ? ?? ? ?  
+ By assumption, 
+i
+x  and 
+i
+y  satisfy (3), that is  
+ 
+1 1 1 1
+= and = .
+i i i i i i
+x Ax Bu y Ay Bv
+? ? ? ?
+? ?  
+46 Sisilia Sylviani, et al. 
+Hence, 
+1 1 1 1
+= ( ) ( )
+i i i i i i
+x y A x y B u v
+? ? ? ?
+? ? ? ?  for some 
+0 0
+n
+x y? ?? , and 
+m
+i i
+u v? ?? . Consequently, 1 1( ) ( )x z y z? ?? ?B . Thus, it is proved that B  
+is closed under addition.  
+4. We shall show that B  is closed under scalar multiplication. Let ? ??  and 
+1
+( )x z
+?
+?B , where 1 1
+=1
+( ) =
+ii
+x z x z
+?? ?? , ix  satisfy (3), for some 0
+n
+x ?? , and 
+m
+i
+u ?? , where = 0,1,2,i ? . We have  
+ 
+1 1 1
+=1 =1
+. ( ) = ( ) = ( ) .
+i i
+i i
+x z x z x z? ? ?
+? ?
+? ? ?? ?  
+By assumption, 
+i
+x  satisfy (3), that is 
+1 1
+=
+i i i
+x Ax Bu
+? ?
+? . Consequently  
+ 
+1 1
+= ( ) ( )
+i i i
+x A x B u? ? ?
+? ?
+?  
+for some 
+0
+n
+x? ?? , and m
+i
+u? ?? . So, 1( )x z? ? ?B .  
+Therefore, since B  is a subset of 
+1 1
+[[ ]]
+m
+z z
+? ??  that is non-empty and closed 
+under addition and scalar multiplication, we can conclude that B  is a subspace. 
+ 
+Now, we shall show that B  is shift invariant. In other words, we have to show 
+that ( )? ?B B , where ?  is the shift operator defined according to (2). Let 
+( )g ?? B . There exists  
+ 
+1
+=1
+( ) =
+i
+i
+i
+x z x z
+?
+? ?
+?? B  
+where 
+i
+x  satisfy (3), for some 
+0
+n
+x ?? , and m
+i
+u ?? , so 
+1 1
+= ( ( )) = ( )g x z zx z? ?? ?
+?
+. We have 
+1
+( )zx z? ?
+?
+ 
+=1
+= ( )
+i
+i
+i
+z x z?
+?
+?
+? ?  
+ 
+1 1
+=1
+= ( ( ) )
+i
+i i
+i
+z Ax Bu z?
+?
+?
+? ? ?
+??  
+ Behavior for Time Invariant Finite Dimensional Discrete LS 47 
+ 
+ 1
+1 1
+=1
+= ( )
+i
+i i
+i
+Ax Bu z?
+?
+? ?
+? ? ?
+??  
+ 1
+1 1
+=2
+= ( ) .
+i
+i i
+i
+Ax Bu z
+?
+? ?
+? ?
+??  
+Thus 
+1
+( )zx z? ?
+?
+?B  implies ( )? ?B B . Hence B  is shift invariant. 
+Finally, we will show that B  is complete. From (3) we have: 
+1
+x  ? ? 00 0
+0
+= =
+x
+Ax Bu A B
+u
+?
+? ?
+? ?
+? ?
+ 
+2
+x  ? ?
+0
+2 2
+1 1 0 0 1 0
+1
+= = =
+x
+Ax Bu A x ABu Bu A AB B u
+u
+? ? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+ 
+ ?  
+kx  
+1
+1
+1 1 0
+=0
+= =
+k
+k k i
+k k i
+i
+Ax Bu A x A Bu
+?
+? ?
+? ?
+? ??  
+ ? ?
+0
+0
+11 2
+2
+1
+= .
+k k k
+k
+x
+u
+u
+A A B A B AB B
+u
+u
+? ?
+?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+?
+?
+ 
+Let 
+1 1
+=1
+= [[ ]]
+i m
+ii
+f f z z z
+? ? ? ?
+?? ?  and for any {1,2, }n? ?  we have  
+ 
+=1
+( ) = ( ).
+n
+i
+n i n
+i
+P f f z P
+?
+?? B  
+We obtain f ?B  if we can show that there exists 
+0
+m
+y ??  and for all 
+{1,2, }n? ? , we can determine 
+1
+p
+n
+v
+?
+??  such that 
+48 Sisilia Sylviani, et al. 
+ ? ?
+0
+0
+11 2
+2
+1
+=
+i i i
+i
+i
+y
+v
+v
+f A A B A B AB B
+v
+v
+? ?
+?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+?
+?
+,  for =1,2, ,i n? . 
+This last expected fact will be shown using mathematical induction on the 
+natural numbers n . For = 1n , we have 
+1
+1 1 1
+= ( ) ( )f z P f P
+?
+? B . That means there 
+exists 
+1
+w ?B  such that 
+1 1
+1 1
+= ( )f z P w
+?
+. Write 
+1 1
+=1
+=
+i
+ii
+w w z
+? ?
+?? B . This means 
+that there exists 
+1
+0
+m
+x ??  and 1 1
+0 1
+, ,
+p
+u u ?? ?  such that 
+ ? ?
+1
+0
+1
+0
+1
+1 1 2 1
+1
+2
+1
+1
+=
+i i i
+i
+i
+x
+u
+u
+w A A B A B AB B
+u
+u
+? ?
+?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?? ?
+? ?
+?
+?
+, for all = 1,2,i ? 
+Particularly ? ?
+1
+1 0
+1 1 1
+0
+= =
+x
+f w A B
+u
+? ?
+? ?
+? ?
+. Write 
+1
+0 0
+=y x , 
+1
+0 0
+=v u . Therefore, there 
+exists 
+1
+0 0
+=
+m
+y x ??  and for = 1n  there exists 1
+0 0
+=
+p
+v u ??  such that  
+ ? ?
+1
+1 0
+1 1 1
+0
+= = .
+x
+f w A B
+u
+? ?
+? ?
+? ?
+ 
+Thus, the expected fact is true for =1n . 
+Assume that the expected fact is true for 1 n k? ? . That is, we assume we 
+already obtained  
+ 
+0 1 2 1
+and , , ,
+m p
+k
+y F v v v
+?
+? ?? ?  
+such that  
+ Behavior for Time Invariant Finite Dimensional Discrete LS 49 
+ 
+ ? ?
+0
+0
+1
+11 2
+1
+2
+1
+=
+i i i
+i
+i
+y
+v
+v
+f A A B A B AB B
+v
+v
+? ?
+?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+?
+?
+ (5) 
+for =1,2, , .i k?  
+We will determine 
+k
+v  such that the expected fact holds for = 1n k ? . Consider 
+that  
+ 
+1
+1 1
+=1
+= ( ) ( ).
+k
+i
+i k k
+i
+f z P f P
+?
+?
+? ?
+?? B  
+Suppose 
+1k
+w
+?
+?B  such that 
+1 1
+1 1=1
+= ( ) = ( )
+k i k
+i k ki
+f z P f P w
+? ? ?
+? ?? . Let  
+ 
+1 1 1
+0 0 1
+, , ,
+k m k k p
+x u u
+? ? ?
+? ??? ?  
+such that 
+1 1
+=1
+=
+k k j
+jj
+w w z
+?? ? ??  where 
+ ? ?
+1
+0
+1
+0
+1
+11 1 2
+1
+2
+1
+1
+=
+k
+k
+k
+k j j j
+j k
+k
+j
+x
+u
+u
+w A A B A B AB B
+u
+u
+?
+?
+?
+? ? ?
+?
+?
+?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+?
+?
+ 
+for all = 1,2,j ?. Thus, we have  
+ 
+1 1 1 1
+1 1 2 2 1 1
+= ; = ; ; = ; = .
+k k k k
+k k k k
+f w f w f w f w
+? ? ? ?
+? ?
+?  
+That is, for any =1,2, ,i k?  we have 
+50 Sisilia Sylviani, et al. 
+if  ? ?
+0
+0
+11 2
+2
+1
+i i i
+i
+y
+v
+v
+A A B A B AB B
+v
+v
+? ?
+?
+?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+?
+?
+ 
+ ? ?
+1
+0
+1
+0
+1
+1 2 1
+1
+2
+1
+1
+= .
+k
+k
+k
+i i i
+k
+k
+i
+x
+u
+u
+A A B A B AB B
+u
+u
+?
+?
+?
+? ?
+?
+?
+?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?? ?
+? ?
+?
+?
+ 
+ 
+Particularly 
+kf  ? ?
+0
+0
+11 2
+2
+1
+k k k
+k
+y
+v
+v
+A A B A B AB B
+v
+v
+? ?
+?
+?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+?
+?
+ 
+ ? ?
+1
+0
+1
+0
+1
+1 2 1
+1
+2
+1
+1
+= .
+k
+k
+k
+k k k
+k
+k
+k
+x
+u
+u
+A A B A B AB B
+u
+u
+?
+?
+?
+? ?
+?
+?
+?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?? ?
+? ?
+?
+?
+ 
+ 
+ 
+ Behavior for Time Invariant Finite Dimensional Discrete LS 51 
+ 
+Meanwhile we have  
+? ?
+1
+0
+1
+0
+1
+1 1 1
+1 1
+2
+1
+= .
+k
+k
+k
+k k k
+k k
+k
+k
+x
+u
+u
+f A A B A B AB B
+u
+u
+?
+?
+?
+? ?
+? ?
+?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?? ?
+? ?
+?
+?
+ 
+ 1.k
+k k
+Af Bu
+?
+? ?  
+Hence, substituting the Eq. (5), we obtain  
+? ?
+1
+0
+1
+0
+1
+1 2 11
+1 1
+2
+1
+1
+= .
+k
+k
+k
+k k k k
+k kk
+k
+k
+y
+v
+v
+f A A A B A B AB B Bu
+v
+v
+?
+?
+?
+? ? ?
+? ?
+?
+?
+?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?? ?
+? ?
+?
+?
+ 
+So, by defining 
+1
+=
+k
+k k
+v u
+?
+, we have 
+? ?
+0
+0
+1 1
+1 1
+=
+k k k
+k
+k
+y
+v
+f A A B A B AB B v
+v
+? ?
+?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+? ?
+?
+?
+ 
+That is, we obtain 
+1
+=
+k
+k k
+v u
+?
+ such that the expected fact holds for = 1n k ? . 
+Consequently, f ?B . Thus B  is complete. 
+As a conclusion, we have proved that B  is a shift invariant and complete 
+subspace of 
+1 1
+[[ ]]
+m
+z z
+? ?? . In other words, B  is a behavior in FuhrmannÅfs point 
+of view. 
+52 Sisilia Sylviani, et al. 
+4 Conclusion 
+Willems [1,2] defined a dynamical system as triple, = ( , , )? ? ? B , where 
+?? ?  is the time axis, ?  is signal space, and ? ??B  is the behavior and 
+??  is the set of all transformations from ?  to ? . The behavior of a linear 
+system, based on WillemsÅfs [2] point of view, is defined as the set of all 
+trajectories of the dynamical system. Meanwhile, Fuhrmann [3] defined the 
+behavior of a discrete time, linear systems as a shift invariant and complete 
+subspace of the corresponding formal series module 
+1 1
+[[ ]]
+m
+z z
+? ?? . In this article 
+we have shown that the behavior of a system in WillemsÅfs point of view [2], for 
+the case of a finite dimensional, time invariant, discrete linear system, is also 
+behavior according to Fuhrmann [3]. The converse of this result is expected to 
+be true and is still an open question under investigation.  
+Acknowledgments 
+This work is supported by Program Riset dan Inovasi KK ITB 2012 according 
+to Surat Perjanjian Pelaksanaan Riset No.: 425/I.1.C01/PL/2012 signed on  
+February 1
+st
+, 2012. The authors would like to thank to the reviewers for their 
+valuable comments and suggestions. 
+References 
+[1] Willems, J.C., The Behavioral Approach to Open and Interconnected 
+Systems, IEEE Control Systems Magazine, 27(6), pp. 46-99, 2007. 
+[2] Willems, J.C., From Time Series to Linear Systems. Part I: Finite-
+Dimensional Linear Time Invariant Systems, Automatica, 22(5), pp. 561-
+580, 1986. 
+[3] Fuhrmann, P.A., A Study of Behavior, Linear Algebra and Its 
+Applications, 351-352, pp. 303-380, 2002. 
+[4] Fuhrmann, P.A., Linear Systems and Operators in Hilbert Space, 
+McGraw-Hill, New York, 19813. 
+ 
+ 
+ 

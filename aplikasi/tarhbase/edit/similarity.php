@@ -1,0 +1,55 @@
+<?php
+include "quick_sort.php";
+include "connect_db1.php";
+include "teshbase.php";
+function similarity($id_url,$status){
+
+$obj_query = new  hbase_stargate ();
+	for ($i=1;$i< 1158;$i++) {		//looping sejumlah id row key di lsa_pdf
+		if($status == 0){
+			//$query = mysql_query("select id_url_2,value from lsa_pdf where id_url_1 = '$id_url'");	/*ini edit*/
+			$id_url_1[$i-1] = $obj_query -> select("lsa_halaman_pdf","id".$i,"lsa_halaman_pdf_info:ID_URL_1");
+			if ($id_url_1[$i-1] == $id_url) {		
+				$id_url_2[$i-1] = $obj_query -> select("lsa_halaman_pdf","id".$i,"lsa_halaman_pdf_info:ID_URL_2");
+				$value[$i-1] = $obj_query -> select("lsa_halaman_pdf","id".$i,"lsa_halaman_pdf_info:VALUE");		
+			}
+			else {
+				$id_url_2[$i-1] = "b";	//jika isi b berarti bukan yang where bla bla bla
+				$value[$i-1] = "b";		
+			}
+		}
+		else if($status == 1){
+			//$query = mysql_query("select id_url_2,value from lsa_halaman_web where id_url_1 = '$id_url'");	/*ini edit*/
+			$id_url_1[$i-1] = $obj_query -> select("lsa_halaman_web","id".$i,"lsa_halaman_web_info:ID_URL_1");
+			if ($id_url_1[$i-1] == $id_url) {		
+				$id_url_2[$i-1] = $obj_query -> select("lsa_halaman_web","id".$i,"lsa_halaman_web_info:ID_URL_2");
+				$value[$i-1] = $obj_query -> select("lsa_halaman_web","id".$i,"lsa_halaman_web_info:VALUE");		
+			}
+			else {
+				$id_url_2[$i-1] = "b";
+				$value[$i-1] = "b";		
+			}		
+		}
+		//$counter = 0;
+		//while($row = mysql_fetch_array($query)){
+			if($id_url_2[$i-1] != $id_url){
+				$similar[0][$i-1] = $id_url_2[$i-1];
+				$similar[1][$i-1] = $value[$i-1];
+				//$counter++;
+			}
+		//}
+	}
+
+	$sort_similar = quick_sort($similar[1]);
+	for($a = 0; $a < 10; $a++){
+		for($b = 0; $b < sizeof($similar[0]); $b++){
+			if($sort_similar[$a] == $similar[1][$b] && $sort_similar[$a] >= 0.5){
+				$result[$a] = $similar[0][$b];
+				$similar[1][$b] = NULL;
+				break;
+			}
+		}
+	}
+	return $result;
+}
+?>

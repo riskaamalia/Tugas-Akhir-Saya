@@ -1,0 +1,254 @@
+  
+J. Math. Fund. Sci., Vol. 45, No. 1, 2013, 29-38                           29 
+ 
+Received July 25th, 2012, Revised December 17th, 2012, Accepted for publication February 6th, 2013. 
+Copyright ? 2013 Published by ITB Journal Publisher, ISSN: 2337-5760, DOI: 10.5614/j.math.fund.sci.2013.45.1.3 
+Determining Velocity and Q-factor Structure using 
+Crosshole Tomography 
+Fatkhan
+1, 
+Andri Dian Nugraha
+2 
+& Ahmad Syahputra
+3 
+1
+Applied Geophysical Research Group, Faculty of Mining and Petroleum Engineering, 
+Bandung Institute of Technology, Jalan Ganesa 10, Bandung 40132, Indonesia 
+2
+Global Geophysical Research Group, Faculty of Mining and Petroleum Engineering, 
+Bandung Institute of Technology, Jalan Ganesa 10 Bandung 40132, Indonesia 
+3
+Geophysical Engineering, Faculty of Mining and Petroleum Engineering, Bandung 
+Institute of Technology, Jalan Ganesa 10, Bandung 40132, Indonesia 
+Email: fatkhan@gf.itb.ac.id 
+ 
+ 
+Abstract. In this study, we have conducted a crosshole tomography survey to 
+obtain seismic data from two boreholes on the ITB campus. The first borehole 
+was 39 meters deep while the second was 19 meters deep. The aim of the study 
+was to determine the subsurface velocity and Q-factor for the region between the 
+two boreholes for geotechnical purposes. Sources of seismic waves were 
+produced by an impulse generator and sparker and were recorded by 12 channels 
+of borehole hydrophones. In the tomography inversion, the pseudo-bending ray 
+tracing method was employed to calculate travel times. The initial velocity 
+model was a 1-D model with 1x1 m
+2
+ block dimensions. The non-linear inversion 
+problem was solved by delay-time tomography with the LSQR method. Also, a 
+checkerboard resolution test (CRT) was conducted to evaluate the resolution of 
+the tomography inversion. Using the velocity structure results, a LSQR Q-
+tomography inversion was carried out using spectral curve fitting to obtain the 
+attenuation structure (t* values). The resulting tomogram shows that there are 3 
+layers, with an unconsolidated layer (down to 8 meters), a consolidated layer 
+(from 8 meters deep to 20 meters), and bedrock (more than 20 meters). From the 
+results, the ground water level is estimated at a depth of 14 meters. 
+Keywords: crosshole tomography; Q-factor; ray tracing; subsurface velocity; travel 
+time tomography.  
+1 Introduction 
+Crosshole tomography is a method to image the subsurface structure between 
+two boreholes. The method is often employed for geotechnics and mineral 
+exploration. In this study, crosshole tomography was used to image the depth of 
+bedrock and ground water level.   
+The physical properties obtained from this method are seismic wave velocity 
+and attenuation factor. Both physical properties can be used to determine depth 
+of bedrock and ground water level.    
+30 Fatkhan, et al. 
+This study was conducted on the main campus of Institut Teknologi Bandung 
+(ITB), Indonesia. Two boreholes were used,  LB1 and LB2, which were 19.8 
+meters apart (see Figure 1).  
+ 
+Figure 1 Location of two boreholes, LB1 and LB2. 
+2 Methodology 
+2.1 Ray Tracing 
+Ray tracing is a method to reconstruct rays from a source to a receiver. The 
+algorithm used is the pseudo-bending method in which the algorithm is 
+employed to minimize the travel time. This obeys Fermatfs principle, which 
+states that the wave propagates with minimum travel time (see Figure 2).   
+ 
+Figure 2 Test results of pseudo-bending ray tracing. Rays converge in the high-
+velocity anomaly and diverge in the low-velocity anomaly. 
+Velocity and Q-factor Structure using Crosshole Tomography 31 
+ 
+2.2 Travel Time Tomography 
+The travel time for direct wave T from a source i to a receiver j can be 
+expressed using ray tracing as follows:  
+ ??? =  ? ? ,? ??,
+????????
+??????
+ (1) 
+where: ?(? ,?) is the slowness (reciprocal of velocity), which is a function of 
+position ds is the length of ray element.  
+Travel time  ??? , can be written as follows:  
+??? = ?? + ??? , (2) 
+In this study, starting time ??  was 0 since we used active sources with known 
+origin times. As a result, the arrival time was similar to the travel time. Ray path 
+and slowness are parameters in the tomography inversion. However, both 
+parameters are unknown.  
+The solution for a tomography inversion is a non-linear problem. The delay-
+time method can be used to solve iteratively the linearized approximation [1].  
+The norm and gradient are also utilized to obtain a block solution without a ray 
+and smoothing model. The flow chart of the delay-time method can be seen in 
+Figure 3. 
+ 
+Figure 3 Flow chart of delay-time tomography. 
+32 Fatkhan, et al. 
+The tomographic matrix equation can be written as follows: 
+  
+?
+??
+??
+ ?? =   
+??
+0
+0
+ , (3) 
+ ?? = ???? ? ????? , (4) 
+where A is the length of the ray in each block,  ƒ¿I is norm damping and, ƒÁG is 
+gradient damping. ƒ¢m is the  slowness perturbation and ƒ¢t  is the delay time.      
+ ??+1 = ?? +  ??  (5) 
+Iterations stop when RMS becomes small and convergent. 
+2.3 Attenuation Tomography 
+The attenuation value of a medium is the inverse of the quality factor (Q), that is 
+the ability of a medium to pass elastic wave energy [2]. The t* value is the 
+attenuation parameter. In this study, t* was estimated from the equation, 
+ ?? =
+?
+?
+, (6) 
+where t is travel time and Q is the quality factor. 
+High dynamic range analysis of spectral waveforms was employed to calculate 
+the t* value. An approximation by Eberhart-Phillips and Chadwick [3] was used 
+to determine the velocity spectrum and t* inversion. Assuming an f
+2
+ source 
+model [4], velocity spectral amplitudes from source i to station j can be 
+expressed as follows:   
+ ???  ? = 2???0
+??
+2
+(??
+2+?2 )
+exp ??????
+?  , (7) 
+ 
+where t*ij is the attenuation along the path. The three unknown parameters are 
+corner frequency (fc), low frequency spectral level (ƒ¶0), and attenuation 
+operator (t*), which can be calculated using spectral-fitting. 
+t* is the travel time divided by the quality factor and can be written as the 
+integration along the ray path from a source to a station, i.e. [5], [6], and [7].  
+ ?? =  
+1
+?(? ,? )?(? ,? )?????? ?
+??, (8) 
+ 
+Velocity and Q-factor Structure using Crosshole Tomography 33 
+ 
+where velocity V is obtained from the delay-time tomography inversion. Figure 
+4 shows a flow chart of the tomographic attenuation.  
+ 
+ 
+ 
+Figure 4 Flow chart of tomographic attenuation. 
+3 Data Acquisition and Processing  
+3.1 Equipment 
+In this study a sparker was used as the source of seismic P-waves generated by 
+an impulse generator (IPG 1005). Seismic waves were recorded by a string of 
+hydrophones, type-III with 12 channels. A sample rate of 50 ƒÊs was used with a 
+record length of 51.2 ms and 200 ƒÊs with a length of 204.8 ms. 
+3.2 Borehole Scheme 
+The distance between the two boreholes was 19.80 meters. The depth of the first 
+borehole (LB1) was more than 39 meters, while the second borehole (LB2) was 
+19 meters deep. LB1 was used for the sources and LB2 was used for the 
+receivers. The sources were exploded from depths of 17 to 39 meters at 1 meter 
+intervals. The receivers were located at depths of 1 meter to 19 meters with 1 
+meter intervals (see Figure 5).  
+34 Fatkhan, et al. 
+ 
+Figure 5 Borehole scheme. There are 23 source positions and 19 receiver 
+positions. Model parameterization uses a grid with size of 1x1 m
+2
+. 
+3.3 Data Preparation 
+Field records were arranged according to common sources. Figure 6 shows the 
+common source data after noise correction.    
+ 
+Figure 6 Common Source 28-1 filtered with tube wave. The tube wave 
+propagates along a fluid-filled well. Therefore it was affected by responses of 
+geophones as  noises. Later on, we filtered the waveform data to reduce the 
+influence of noise. 
+Velocity and Q-factor Structure using Crosshole Tomography 35 
+ 
+3.4 Picking First Break 
+For picking the first break of the P-waves, the  Akaike Information Criterion 
+(AIC) method was used. Subsequently, the results were organized into catalog 
+data (see Figure 7). 
+ 
+Figure 7  Waveform and picking of first break (top) and AIC (bottom). The 
+AIC method, which is based on the variance data, can distinguish the arrival time 
+clearly. 
+4 Results 
+4.1 Model Parameterization 
+Model parameterization used homogeneous blocks with a size of 1x1 m
+2
+ with 
+20 blocks horizontally and 39 blocks vertically.  
+36 Fatkhan, et al. 
+4.2 Initial Velocity 
+The initial velocity was obtained from a 1-D tomography with the gradient 
+velocity as a function of depth that can be expressed as follows:   
+ ?(?) =  ?0 + ??  (9) 
+where V(z) is the velocity at depth z, V0 is the first layer velocity, and k is the 
+velocity factor gradient.  
+In the study, V0 =  500 m/s and the velocity gradient k = 50.6 m/s. Results from 
+the 1-D tomography are shown in Figure 8, which was used as the initial model.  
+ 
+Figure 8 Initial 1-D velocity model used for 2-D tomographic inversion. 
+4.3 Checkerboard Resolution Test 
+The Checkerboard Resolution Test (CRT) is forward modelling employed to 
+test the reliability of an inversion method. The results of this test show that there 
+was good resolution when a cell was passed by many ray paths (see Figure 9).   
+  
+Velocity and Q-factor Structure using Crosshole Tomography 37 
+ 
+ 
+Figure 9 (a) Inversion results of checkerboard resolution test. (b) Inversion 
+results for the velocity. (c) Inversion results for Q-tomography. Both the velocity 
+and Q  inversions show that there is an unconsolidated layer (down to 8 meters), 
+a consolidated layer (from 8 meters down to 20 meters), and bedrock ( > 20 
+meters).  
+ 
+ 
+Figure 10  Result of spectral fitting using a grid search for common source 29-
+1. Corner frequency (fc) of the  source was estimated to be 462 Hz. 
+38 Fatkhan, et al. 
+5 Conclusions 
+The tomographic inversion results for both the velocity and attenuation show 
+that there are three rock layers: an unconsolidated layer (down to depth of 8 
+meters), a consolidated layer (from 8 to 20 meters in depth), and bedrock ( > 20 
+meters in depth).  
+It is estimated that the water table is at a depth of 14 meters. 
+The results of the Q tomographic inversion can be used to identify a water 
+saturated zone that corresponds to a low-quality factor.  
+References 
+[1] Nugraha, A.D., Mori, J. & Ohmi, S., Thermal Struture of the Subduction 
+Zone in Western Japan Derived from Seismic Attenuation Data, 
+Geophysical Research Letter, 37, L06310, 2010. doi: 10.1029/ 
+2009GL041522. 
+[2] Suantika, G., Puspasari, T.J. & Widiyantoro, S., Pencitraan Tomografi 
+Atenuasi Seismik Tiga-Dimensi Gunung Guntur menggunakan Metode 
+Rasio Spektra, J. Meteorologi dan Geofisika, 9, pp. 65-77, 2008. 
+[3] Eberhart-Phillepis, D. & Chadwick, M., Three-Dimensional Attenuation 
+Model of The Shallow Hikurangi Subduction Zone in the Raukumara 
+Peninsula, New Zealand, J. Geophys. Res., 107(B2), 2033, 2002. doi: 
+10.1092/2000JB000046. 
+[4] Brune, J.N., Tectonic Stress and Spectra of Seismic Shear Waves from 
+Earthquakes, J. Geophys. Res., 75, pp. 4997-5009, 1970. 
+[5] Cromier, V.F., The Effect of Attenuation on Seismic Body Waves, Bull. 
+Seismol. Soc. Am., 72, pp. 169-200, 1982. 
+[6] Rietbrock, A., P Wave Attenuation Structure in The Fault Area of The 
+1995 Kobe Earthquake, J. Geophys. Res., 106, pp. 4141-4154, 2001. 
+[7] Hauksson, E. & Shearer, P.M., Attenuation Models (Qp and Qs) in Three 
+Dimensions of The Southern California Crust: Inferred Fluid Saturation 
+at Seismogenic Depths, J. Geophys. Res., 111, B05302, 2006. doi: 
+10.1092/2005JB003947. 
+ 

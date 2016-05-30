@@ -1,0 +1,953 @@
+ 220 
+ 
+ITB J. Eng. Sci., Vol. 44, No. 3, 2012, 220-237 
+ 
+ 
+Received November 22
+nd
+, 2011, Revised July 24
+th
+, 2011, Accepted for publication August 24
+th
+, 2012. 
+Copyright ? 2012 Published by LPPM ITB & PII, ISSN: 1978-3051, DOI: 10.5614/itbj.eng.sci.2012.44.3.2 
+Confinement of Reinforced-Concrete Columns with Non-
+Code Compliant Confining Reinforcement plus 
+Supplemental Pen-Binder 
+Anang Kristianto
+1
+, Iswandi Imran
+2
+, Made Suarjana
+2 
+& Ivindra Pane
+2
+ 
+1Department of Civil Engineering, Maranatha Christian University,  
+Jalan Suria Sumantri 65, Bandung 40164, Indonesia 
+2Department of Civil Engineering, Bandung Institute of Technology,  
+Jalan Ganesha 10, Bandung 40132, Indonesia 
+Email: anang.kristianto@gmail.com 
+ 
+ 
+Abstract. One of the important requirements for earthquake resistant building 
+related to confinement is the use of seismic hooks in the hoop or confining 
+reinforcement of reinforced-concrete column elements. However, installation of 
+a confining reinforcement with a 135-degree hook is not easy. Therefore, in 
+practice, many construction workers apply a confining reinforcement with a 90-
+degreehook (non-code compliant). Based on research and records of recent 
+earthquakes in Indonesia, the use of a non-code compliant confining 
+reinforcement for concrete columns produces structures with poor seismic 
+performance. This paper presents a study that introduces an additional element 
+that is expected to improve the effectiveness of concrete columns confined with 
+a non-code compliant confining reinforcement. The additional element, named a 
+pen-binder, is used to keep the non-code compliant confining reinforcement in 
+place. The effectiveness of this element under pure axial concentric loading was 
+investigatedcomprehensively.The specimens tested in this study were 18 
+concrete columns,with a cross-section of 170 mm x 170 mm and a height of 480 
+mm. The main test variables were the material type of the pen-binder, the angle 
+of the hook, and the confining reinforcement configuration.The test results 
+indicate that adding pen-binders can effectively improve the strength and 
+ductility of the column specimens confined with a non-code compliant confining 
+reinforcement.  
+Keywords: column; confinement; hook; non-compliance; pen-binder. 
+1 Introduction 
+Some parts of Indonesia are located in regions with high seismic risk. In such 
+regions it is compulsory to build structures that consistently meet the stringent 
+requirements of earthquake resistant building construction. Consistent 
+implementation of earthquake resistant design results in a structure that can 
+survive a strong earthquake.   
+ Confinement of Reinforced Concrete Column 221 
+ 
+One of the seismic provisions of the SNI 03-2847-02 code [1] requires that the 
+reinforced-concrete columns of a structure are confined using a hoop 
+reinforcement with a seismic hook (135Åã). Installation of this kind of confining 
+reinforcement is very tedious, especially in the case of large-dimension columns 
+commonly used for high-rise buildings, flyovers and bridges. Therefore, at 
+construction sites the installation of this kind of confining reinforcement is 
+sometimes simplified by using a confining reinforcement with a 90-degreehook 
+or with a double C configuration. Some reports about earthquake induced 
+structural damage in Indonesia show examples of building collapse caused by 
+inappropriate installation of confining reinforcements in reinforced-concrete 
+columns [2-4]. Furthermore, many research studies on reinforced-concrete 
+columns using confining reinforcements with a 90-degreehook show that the 
+opening of the hook initiates failure, leading to buckling of the outer 
+longitudinal reinforcing bars, and results in poor seismic performance of the 
+structure (Sheikh [5], Saatcioglu [6], Wehbe [7]).  
+For this reason, the use of confining reinforcements with a 90-degreehook or 
+with a double C configuration is basically not recommended for reinforced-
+concrete columns. Nevertheless, this non-code compliant confining reinforce-
+ment is widely applied in the field because of the ease of its placement. The 
+research reported in this paper introduces a simple device called a Ågpen-binderÅh 
+that can be attached to non-code compliant confining reinforcements at 
+construction sites. This Ågpen-binderÅh is expected to improve the structural 
+performance of non-code compliant confining reinforcements to be at least 
+equal to that of compliant confining reinforcements. 
+2 Confinement Reinforcement 
+Transverse reinforcement specified in design codes for reinforced concrete 
+beams and columns has three main functions. These are: (1) to prevent buckling 
+of longitudinal reinforcing bars; (2) to provide shear resistance; (3) to confine 
+the concrete core. 
+Confinement of reinforced concrete columns is intended to prevent the spall 
+cover of a tied column from failing immediately because the strength of the core 
+is enhanced by triaxial stresses resulting from the confining effect of the 
+transverse or hoop reinforcement. As a result, the column can undergo large 
+deformations, eventually reaching a second maximum load when the 
+reinforcement yields. The provision of transverse or confining reinforcement in 
+the current SNI/ACI code is based on the work of Richart [8], and is developed 
+so that the compressive strength of the confined core of a column after cover 
+spalling is equal to the compressive strength of the gross section of the column 
+before cover spalling. 
+222 Anang Kristianto, et al. 
+? 1350 6db ? 75 mm 
+Detail A Detail C 
+6db ? 75 mm 
+Detail B 
+90
+0 
+Based on this concept, the total cross-sectional area of a rectangular confining 
+reinforcement, Ash, should not be less than that required by Eq. (1): 
+ ??? = 0.09???
+?? Åå
+???
+?  0.3???  
+??
+???
+? 1 
+?? Åå
+???
+ 1  
+where s is center-to-center spacing, hc the cross-sectional dimension of the 
+column core measured center to center from the outer legs of the confining 
+reinforcement, fyh the specified yield strength of the confining reinforcement, Ag 
+the gross area of the concrete section, and Ach the cross-sectional area of the 
+concrete core measured out to out of the confining reinforcement.  
+The effectiveness of the confining reinforcement primarily depends on the 
+volume of the concrete that is confined and the resulting distribution of the 
+confining pressure [9]. In a column element, the ductility of the column cross-
+section under flexure is strongly influenced by the level of axial load. The 
+higher the axial load the greater the reduction in the level of ductility produced 
+(Sheikh and Yeh [5], Paultre and Legeron [10]). 
+In order to function properly, the confining reinforcement should be tied with 
+hooks that provide lateral support to the longitudinal reinforcement. The hooks 
+should be anchored into the concrete core in order to satisfy the seismic hoop 
+requirements. The Indonesian concrete code defines the seismic hook as a hook 
+on a hoop (Detail A), crosstie (Detail B) or stirrup (Detail C), having a bend of 
+no less than 135degrees at its ends (see Figure 1).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 Seimic hook detailing. 
+The use of a confining reinforcement with a 90-degreehook is not recommended 
+in the Indonesian concrete code, because this kind of confining reinforcement 
+may result in poor seismic performance of the reinforced concrete columns. 
+Previous researchers have shown that the failure of rectangular columns 
+ Confinement of Reinforced Concrete Column 223 
+ 
+confined with a 90-degree hook reinforcement under cyclic load was initiated 
+by the opening of the hook in the plastic hinge region. This was followed by 
+buckling of the outer longitudinal rebar [7]. Lukkunaprasit and Sittipunt [11] 
+have introduced a supplementary tie or hook-clips to prevent premature opening 
+of a confining reinforcement with 90-degree hooks. They found that the clips 
+can effectively hold the 90-degree hook ties after the loss of the concrete cover. 
+However, according to Lukkunaprasit and Sittipunt, the use of these hook-clips 
+can only be recommended for reinforced-concretecolumns in intermediate 
+moment resisting frames. 
+3 Confinement Model 
+The influence of the tie arrangement on square columns was modeled for the 
+first time by Sheikh and Uzumeri [12] using the Ågeffectively confined core areaÅh 
+concept. Subsequently, this model was modified by Sheikh and Yeh [5] in order 
+to incorporate the effects of eccentric loading. Later, a theoretical model was 
+proposed by Mander [13], with a wider scope than the previously proposed 
+models. His model also utilized the effectively confined core area concept. The 
+maximum transverse pressure from the confining reinforcement can only be 
+exerted effectively on that part of the concrete core where the confining stress 
+has fully developed due to the arching action. The arching action is assumed to 
+follow second-degree parabolas with an initial tangent slope of 45 degrees. 
+Arching occurs vertically between layers of transverse reinforcement, and 
+horizontally between tied longitudinal bars (Figure 2).  
+ 
+ 
+ 
+ 
+ 
+Figure 2 Effectively confined core for rectangular hoop reinforcement. 
+Midway between the levels of the confining reinforcement, the area of 
+effectively confined concrete core (Ae) is the smallest.  
+ 
+Effectively 
+confined core 
+bc 
+dc wi 
+Ineffectively 
+ confined core 
+ 
+x 
+y A 
+s s' 
+bc- sÅf/2 
+cover 
+224 Anang Kristianto, et al. 
+The effectively confined concrete core area at hoop level is found by subtracting 
+the area of the parabolas containing the ineffectively confined concrete. 
+Incorporating the influence of the ineffective area in the elevation, the 
+effectively confined concrete core area midway between the confining 
+reinforcement levels [13] is 
+ ?? =  ???? ?  
+ ? ? 
+2
+6
+?
+?=1
+  1 ?
+?Åå
+2??
+  1 ?
+?Åå
+2??
+                                     (2) 
+In order to allow for the fact that the effective confined core area is basically 
+smaller than the core area, the effective lateral confining pressure acting 
+uniformly at the core area can be considered as  
+ ??
+Åå = ????                                                                                                            (3) 
+where fl is the lateral pressure mobilized by the confining reinforcement, 
+assuming that the entire core area is effectively confined and keis the 
+confinement effectiveness coefficient, i.e.: 
+ ?? =
+??
+???
+=
+ 1? 
+ ? ? 
+2
+6
+?
+?=1
+  1?
+?Åå
+2??
+  1?
+?Åå
+2??
+ 
+ 1????  
+                                                  (4) 
+Éœcc is the ratio of the area of longitudinal reinforcement to the area of the core 
+section. The lateral confining stresses fl is calculated as: 
+ ?? =
+??
+?.??
+???                                                                                                   (5) 
+where As is the total area of confining reinforcement, and fyh the yield strength of 
+the confining reinforcement. For sections with equal confining pressure in two 
+directions, the strength of the concrete is given by the following equation 
+(Mander, [13]): 
+ ???
+Åå = ???
+Åå  ?1.254 + 2.254 1 +
+7.94??
+Åå
+???
+Åå ? 2
+??
+Åå
+???
+Åå                                        (6) 
+where  fÅfcc and f
+ÅfÅf
+co are the confined and unconfined strength of the concrete. 
+Subsequently, another model was proposed by Saatcioglu and Razvi [6], 
+relating strength and deformability to lateral confining pressure. Their model is 
+based on the computation of equivalent uniform confining pressure resulting 
+from different confining reinforcement configurations. Passive confining 
+pressure exerted by a square hoop depends on the restraining force developed in 
+ Confinement of Reinforced Concrete Column 225 
+ 
+the confining reinforcement. The confining reinforcement can develop high 
+restraining forces at the corners or hook ends, and a low restraining action in 
+other locations. Figure 3 illustrates the build-up of passive confinement pressure 
+in a square column. If crossties or internal confining reinforcements are used to 
+support the intermediate longitudinal bars, additional points of high lateral 
+restraint are generated. 
+ 
+ 
+ 
+ 
+ 
+Figure 3 Lateral pressure in a square column [6]. 
+The constitutive formulations of the Saatcioglu and Razvi [6] model can be 
+described as follows: 
+ ???
+Åå = ???
+Åå + ?1???                                                                                              (7) 
+ ??? = ?2??                                                                                                           (8) 
+ ?? =
+ ????? ??? ?
+???
+                                                                                              (9) 
+ ?1 = 6.7(??? )
+?0.17                                                                                         (10) 
+ ?2 = 0.26 
+??
+?
+??
+??
+1
+??
+ ? 1.0                                                                           (11) 
+The equivalent uniform pressure fle is derived from the average pressure fl. The 
+average pressure is the summation of transverse forces Asfyh (area and yield 
+strength of transverse reinforcement) divided by the area bound by the core 
+dimensions, measured center to center of the perimeter hoop (bc) and center to 
+center of the tie spacing (s). Coefficient k1 is obtained from a regression analysis 
+of test data. Richart, et al. [8] reported that Eq. (7) with a constant value of 4.1 
+for k1 produces a good correlation with spirally reinforced test cylinders. Their 
+recommendations formed the basis for the confining reinforcement 
+requirements of the ACI building code. For rectangular confining 
+Average 
+Actual 
+k2fl 
+fl 
+sl 
+Equivalent 
+bc 
+226 Anang Kristianto, et al. 
+reinforcements the average pressure cannot reflect the true effect of the actual 
+confinement pressure. In this case an equivalent uniform pressure is needed if 
+Eq. (7) is to be used. The equivalent uniform pressure fle used in Eq. (7) is often 
+smaller than the average uniform pressure fl, because of the non-uniformity of 
+the lateral pressure. The reduction in pressure is reflected through coefficient k2, 
+which is a function of the tie spacing and the spacing of the laterally supported 
+longitudinal reinforcement sl. 
+4 Experimental Program 
+4.1 Test Specimens 
+In this study 18 column specimens were tested, 170 mm x 170 mm in cross-
+section and 480 mm in height. Figure 4a illustrates the test specimens and the 
+pen-binder geometry. The test series reported here was designed to investigate 
+three parameters influencing the behavior of the columns: the type of pen-
+binder material used, the angle of the applied hook, and the confining 
+reinforcement configuration. Two types of materials were used in this case, i.e.: 
+steel and ABS (acrylonitrile butadiene styrene) plastic. The use of a plastic 
+material for the pen-binder is to avoid corrosion of the material due to the 
+inadequacy of the concrete to cover the pen-binder. The different confining 
+reinforcement configurations used for the test are illustrated in Figure 5. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4 (a) Test specimen and pen-binder geometry; (b) strain gauge 
+placement. 
+Configuration A is a concrete column without reinforcement; configuration B is 
+a column with a code-compliant confining reinforcement; C and D have anon-
+Long. 
+reinf.   
+D10 
+900 hook Strain Gauge 
+ pen-binder 
+Trans. reinf. É≥7 
+120  mm 
+170 mm 
+(a) 
+(b) 
+50 mm 
+ 
+Steel pen-binder 
+ 
+Plastic pen-binder 
+ 
+É≥7-35 
+480 mm 
+É≥7-30 
+É≥7-30 
+Confining Plate 
+ Confinement of Reinforced Concrete Column 227 
+ 
+code compliant confining reinforcement, without and with a pen-binder in a 90-
+degree hook zone respectively; E and F are the same with a double C confining 
+reinforcement with pen-binders, installed on two sides and on all sides of the 
+confining reinforcement respectively. Double C configurations of confining 
+reinforcements are commonly used for large-size columns.  
+ 
+ 
+ 
+ 
+ 
+Figure 5 Confining reinforcement configurations. 
+The material properties, as determined by standard concrete cylinder tests and 
+reinforcement coupon tests, are shown in Figure 6. A summary of all test 
+specimens and their properties is provided in Table 1. 
+Table 1 Details of test specimens. 
+Test 
+specimen 
+fcÅf=32 MPa/ 
+configuration 
+Confining 
+reinforcement 
+(diam. 7.3 mm, 
+fyh=336 MPa, 
+E=172721 MPa) 
+Pen-binder   
+(diam.7.65mm)  
+ 
+Longitudinal 
+reinf. 4-D10,  
+fy=414 MPa, 
+E=207390 
+MPa, 
+Éœ=1.23%) 
+s(mm) Ash/(s.hc)% Material 
+K0-0-0 A 
+35 1.9 
+Steel 
+(fy=414 
+MPa,E=177041MP
+a) 
+K135-0-35 B 
+K90-0-35 C 
+K90-2P1-35 D  
+K90A-2P1-35 E 
+K90A-4P1-35 F  
+K90-2P2-35 D  
+35 1.9 
+ABS Plastic 
+(Tensile strength 
+=45 MPa, 
+E=2275 MPa) 
+K90A-2P2-35 E  
+K90A-4P2-35 F  
+ 
+A B C D E F Pen-binder 
+228 Anang Kristianto, et al. 
+ 
+(a) 
+ 
+(b) 
+Figure 6 Stress-strain relationships for: (a) concrete cylinder tests, (b) pen-
+binder and reinforcing bars. 
+4.2 Test Setup 
+The column specimens were tested using a Dartec compression testing machine 
+with a 1500 kN load capacity (Figure 7).  
+The specimens were externally confined in the top and bottom regions by steel 
+brackets. Linear variable differential transducers (LVDTs) were placed on each 
+column face to measure the axial deformations of the specimens. Strain in the 
+confining reinforcement was measured using electric resistance strain gauges 
+(Figure 4b). The specimens were loaded slowly. LVDTs were monitored 
+throughout loading to insure concentric loading and the resulting data were 
+recorded with a data logger. The loading was continued until a significant drop 
+in load capacity was observed.  
+0
+5
+10
+15
+20
+25
+30
+35
+0 0.001 0.002 0.003 0.004 0.005
+St
+re
+ss
+  (
+ M
+P
+a 
+)
+Strain
+0
+100
+200
+300
+400
+500
+600
+700
+0% 2% 4% 6% 8% 10%
+St
+re
+ss
+ (M
+P
+a)
+É√
+10.65 mm (long.bar)
+7.65 mm ( pen-binder)
+7.3 mm ( trans.bar)
+ Confinement of Reinforced Concrete Column 229 
+ 
+ 
+Figure 7 Specimen, test setup and compression testing machine. 
+5 Test Results and Observed Behavior 
+5.1 Test Results 
+All column specimens showed a similar response up to their peak loads. The 
+first crack appeared on the column faces at a concrete strain of approximately 
+0.2 percent. The measured peak load and the corresponding axial strain varied 
+depending on the confining reinforcement configuration and the type of pen-
+binder material used (Figure 8). It can be noted that the columns with pen-
+binders were still able to resist the peak load even after the concrete cover had 
+spalled completely. At post-peak response, the load resistance of the tested 
+column started to drop when bending and buckling of longitudinal 
+reinforcement took place. A summary of the test results is presented in Table 2, 
+which contains average values for two columns with identical test parameters. 
+The table includes computed and measured values determined as  
+ ?0 = 0.85??
+Åå ?? ? ??? + ????? 12  
+ ?0.???? = 0.85??
+Åå ??? ? ???   13  
+Ptest= measured peak axial load, Pc.max= measured peak axial load carried by 
+concrete =Ptest ? Asl fy , Asl = total area of longitudinal steel , É√1= minimum axial 
+strain corresponding to the peak load resistance, É√85= axial strain corresponding 
+to 85% of the peak load resistance on the falling branch of the load-strain 
+230 Anang Kristianto, et al. 
+relationship. Strength enhancement of the concrete core due to confinement is 
+indicated in the table by the Pcmax/P0core ratio. The ductility of the concrete is 
+indicated in the same table by the É√85/ É√1 ratio.  
+ 
+ 
+(a) 
+ 
+(b) 
+Figure 8 Axial load-strain relationship of average between two specimens with 
+various confinement configurations, (a) steel pen-binder, (b) plastic pen-binder. 
+Table 2 shows that the pen-binders made of steel in configuration D and F are 
+effective in increasing strength and ductility of reinforced concrete columns up 
+to a significant deformation level. 
+0
+200
+400
+600
+800
+1000
+1200
+0 0.01 0.02 0.03 0.04 0.05
+C
+o
+lu
+m
+n
+ L
+o
+ad
+ (
+kN
+)
+Column Axial Strain
+Code compliance
+Configuration D
+Configuration E
+Configuration F
+0
+200
+400
+600
+800
+1000
+1200
+0 0.01 0.02 0.03 0.04 0.05
+C
+o
+lu
+m
+n
+ L
+o
+ad
+ (
+kN
+)
+Column Axial Strain
+Code compliance
+Configuration D
+Configuration E
+Configuration F
+ Confinement of Reinforced Concrete Column 231 
+ 
+Table 2 Summary of test results. 
+Specimen 
+Po P0.core Ptest Pc.max Ptest/ 
+Po 
+Pc.max/ 
+P0.core 
+É√1 É√85 
+É√85/ 
+É√1 ( kN) ( kN) ( kN) ( kN) 
+K135-0-35 (B) 923.90 444.56 960.24 812.72 1.04 1.83 0.002 0.0223 11.16 
+K90-0-35 (C) 923.90 444.56 1013.07 865.55 1.10 1.95 0.0019 0.0093 4.94 
+K90-2P1-35(D) 923.90 444.56 1061.28 913.77 1.15 2.06 0.0023 0.0409 17.81 
+K90A-2P1-35(E) 923.90 444.56 1006.01 858.49 1.09 1.93 0.0029 0.0214 7.38 
+K90A-4P1-35(F) 923.90 444.56 1066.05 918.53 1.15 2.07 0.0022 0.0411 18.69 
+K90-2P2-35(D) 923.90 444.56 961.63 814.11 1.04 1.83 0.002 0.0242 12.15 
+K90A-2P2-35(E) 923.90 444.56 1019.56 872.04 1.10 1.96 0.0012 0.0088 7.36 
+K90A-4P2-35(F) 923.90 444.56 1111.18 963.66 1.20 2.17 0.002 0.0111 5.55 
+5.2 Pen-binder Configuration 
+The steel pen-binders in the specimens with non-code compliant confining 
+reinforcement were able to prevent the hook from opening. Steel pen-binders in 
+configuration D, E and F respectively were more effective in enhancing strength 
+than those in configuration B (code compliant). Although it exhibits an increase 
+in strength, the response of the column with configuration E in the high 
+deformation range was not as good as that observed in the column with a code-
+compliant confining reinforcement (Figure 8). The specimen with configuration 
+F, which is simpler to install than configuration D, showed the best inelastic 
+response, as it was able to sustain higher deformations. 
+5.3 Pen-Binder Material 
+Generally, it was observed that pen-binders made of steel were more effective 
+in improving strength and ductility of confined columns than pen-binders made 
+of plastic (Figure 9).  
+ 
+Figure 9 shows that the configurations with a steel pen-binder gave a better 
+performance than configurations with a plastic pen-binder. Only plastic pen-
+binders with configuration D were found as effective as the column specimens 
+confined with the code-compliant confining reinforcement. Figure 10 shows the 
+test specimens after testing. Plastic pen-binders with configuration E failed to 
+confine the concrete core effectively, as the confining reinforcement could not 
+hold the expansion of the concrete core in the direction perpendicular to the 
+pen-binder axis (Figure 10.c) 
+232 Anang Kristianto, et al. 
+       (a)              (b) 
+ 
+ 
+ 
+ 
+ 
+(c) 
+Figure 9 Comparison of axial load vs. axial strain for various configurations of 
+column confinement and pen-binder materials: (a) configuration D, (b) 
+configuration E, (c) configuration F. 
+ 
+Figure 10   Test specimens after testing. (a) Configuration B, (b) configuration 
+C, (c) configuration D, (d) configuration E, and (e) configuration F. 
+0
+200
+400
+600
+800
+1000
+1200
+0 0.02 0.04
+C
+o
+lu
+m
+n
+ L
+o
+ad
+ (
+kN
+)
+Column Axial Strain
+Steel pen-binder
+Plastic pen-binder
+Code compliance
+0
+200
+400
+600
+800
+1000
+1200
+0 0.01 0.02 0.03 0.04 0.05
+C
+o
+lu
+m
+n
+ L
+o
+ad
+ (
+kN
+)
+Column Axial Strain
+steel pen-binder
+plastic pen-binder
+code compliance
+0
+200
+400
+600
+800
+1000
+1200
+0 0.01 0.02 0.03 0.04 0.05
+C
+o
+lu
+m
+n
+  L
+o
+ad
+ (
+kN
+)
+Column Axial Strain
+Steel pen-binder
+Plastic pen-binder
+code compliance
+(a) (b) (c) (d) (e) 
+ Confinement of Reinforced Concrete Column 233 
+ 
+5.4 Comparison of Analytical and Experimental Results 
+Several investigators have previously presented analytical stress-strain 
+relationships for concrete confined by transverse reinforcement. Among these, 
+the relations suggested by Sheikh and Uzumeri [12], Mander [13] and 
+Saatcioglu and Razvi [6] will be studied to determine their applicability in 
+simulating the test columns with various configurations. Figure 11 shows a 
+comparison of the experimental and analytical curves for the specimen with 
+configuration B (code-compliant). 
+The model by Mander [13] and Sheikh Uzumeri [12] consistently overestimates 
+the column axial stress capacities of the specimen with configuration B (Figure 
+11). The model by Saatcioglu and Razvi [6] gave better results than the other 
+models; it can be seen that the model accurately predicts the peak stress and the 
+deterioration rate.  
+Subsequently, the model by Saatcioglu and Razvi [6] was used to evaluate the 
+confinement effectiveness of various pen-binder configurations. Confinement 
+pressure along the side of the core for the various configurations can be 
+determined by following the same procedure outlined previously. 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 11 Comparison of experimental and analytical curves for a code-
+compliantspecimen. 
+The only difference is found in the value of sl, therefore, in this analytical study 
+the pen-binder is assumed to be effective in providing lateral restraint to the 
+confining reinforcement. Because of this, each configuration will have different 
+k2 values corresponding to the position of the pen-binders in the confining 
+reinforcement. Coefficient k2 reflects the efficiency of the reinforcement 
+0
+10
+20
+30
+40
+50
+0 0.01 0.02 0.03 0.04
+C
+o
+lu
+m
+n
+ A
+xi
+al
+ S
+tr
+e
+ss
+ (M
+P
+a 
+)
+Column Axial Strain
+Sheikh and 
+Uzumeri
+234 Anang Kristianto, et al. 
+arrangement and is equal to unity when the confining pressure is uniform as in 
+the case of closely spaced circular spirals.  
+Figure 12 illustrates lateral pressure distributions along the sides of a 
+rectangular column with various pen-binder positions. Equivalent lateral 
+pressure fle acting perpendicular to the core dimensions can be computed using 
+Eq. (8) and Eq. (9). A comparison of the analytical and the experimental 
+strength values is presented in Table 3. The results indicate good agreement 
+between the analytical and the measured strength values.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 12 Distribution of lateral pressure for various configurations: (a) 
+configuration B, (b) configuration E, (c) configuration D, (d) configuration F. 
+The k2valuefor various configurations in Table 3 indicates that the steel pen-
+binders in configurations D,E and F, respectively, are more effective in 
+improving concrete strength than columns with a code-compliant confining 
+reinforcement (configuration B). 
+Pen-binders with configurations D, E and F improve efficiency 28,6%, 20.7% 
+and 41.3%, respectively, compared with a code-compliant configuration. 
+Configuration E showed the lowest improvement because the distribution of 
+s
+l 
+B 
+0.25sl 
+0.75sl 
+D 
+0.5s
+l 
+0.5s
+l 
+F 
+0.5s
+l 
+0.5s
+l 
+E 
+X 
+Y 
+(a) (b) 
+(c) (d) 
+ Confinement of Reinforced Concrete Column 235 
+ 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+C
+o
+lu
+m
+n
+ A
+xi
+al
+  S
+tr
+es
+s 
+(M
+P
+a)
+Column Axial Strain
+Saatcioglu & Razvi ( analytical )
+Code compliance/Conf.B (experiment)
+Configuration D (experiment)
+Configuration E (experiment)
+Configuration F (experiment)
+0.01
+lateral pressure in the direction perpendicular to the pen-binder axis (axis Y) has 
+the same value as configuration B. On the other hand configurations D and F 
+improve efficiency in two orthogonal directions. 
+Table 3 Strength enhancement for various configurations. 
+ 
+A stable confining reinforcement is essential to continuously provide effective 
+confinement against the lateral expansion of the concrete beyond peak stress. 
+Therefore the pen-binder plays an important role in holding the confining 
+reinforcement, which will improve ductility significantly. The experimental 
+results have been verified by comparing them with the stress-strain model of 
+Saatcioglu and Razvi [6]. Figure 13 show a comparison of experimental and 
+analytical curves for various configurations.  
+ 
+ 
+ 
+ 
+ 
+Figure 13 Comparison of experimental and analytical curves for various 
+configurations. 
+All the specimens produced a performance similar to the Saatcioglu and Razvi 
+model, except for the specimen with configuration E. The difference between 
+the experimental curve and the analytical curve of configuration Eat a large 
+axial strain was quite significant. The cause of this discrepancy may be that the 
+model of Saatcioglu and Razvi [6] is based on the assumption that a code-
+compliant confining reinforcement is used, whereas configuration E is a column 
+Column 
+Specimen 
+fl 
+(MPa) k2 k1 
+fleff. 
+(MPa) 
+fco 
+(MPa) 
+fcc exp.  
+(MPa) 
+fcc analytic. 
+(MPa) 
+fcc analytic/ 
+fcc exp 
+Configuration B 
+(code-compliant) 6.313 0.213 6.371 1.344 27.2 33.2 35.76 1.08 
+Configuration D 6.313 0.274 6.103 1.732 27.2 36.72 37.74 1.03 
+Configuration E 6.313 0.257 6.171 1.623 27.2 34.81 37.21 1.07 
+Configuration F 6.313 0.301 6.007 1.901 27.2 36.88 38.62 1.05 
+236 Anang Kristianto, et al. 
+specimen with a double C confining reinforcement (non-code compliant) plus 
+two pen-binders. 
+6 Conclusions 
+The following conclusions can be drawn from the results of the experimental 
+investigation of short columns subjected to a pure axial load reported in this 
+paper: 
+1. The use of pen-binders to hold a non-code compliant confining 
+reinforcement improves strength and ductility of a concrete column very 
+significantly. In general, the column specimens with a non-code compliant 
+confining reinforcement plus pen-binders show better strength and ductility 
+than column specimens with a code-compliant confining reinforcement. 
+2. From the various configurations studied, the configuration with an 
+additional pen-binder at a 90-degree hook zone in anon-code compliant 
+hoop reinforcement (i.e. configuration D) shows the most desirable 
+performance up to a significant deformation level. Pen-binders made of 
+steel were found to be more effective in improving strength and ductility of 
+reinforced concrete column sections than pen-binders made of plastic. 
+3. The test results for various configurations have been verified extensively 
+against analytical models and showed good correlations with the stress-
+strain model of Saatcioglu and Razvi [6]. With this finding, it can be said 
+that the use of pen-binders can effectively provide lateral restraint to the 
+confining reinforcement at the location where they are installed. 
+Acknowledgements 
+The research presented in this paper was supported by a grant from the 
+Competitive Grant Program of the National Research Priority Based Batch 2 
+(2009) and the Doctoral Dissertation Research Grant for the Fiscal Year 2010, 
+Directorate General of Higher Education, Indonesia. 
+References 
+[1] Purwono, R., Tavio, Imran, I. & Raka, I.G.P., Tata Cara Perhitungan 
+Struktur Beton Untuk Bangunan Gedung (SNI 03-2847-2002), ITS Press, 
+Surabaya, Indonesia, 2006 
+[2] Imran, I., Suarjana, M., Hoedajanto, D., Soemardi, B. & Abduh, M., 
+Beberapa Pelajaran dari Gempa Yogyakarta; Tinjauan Kinerja Struktur 
+Bangunan Gedung, Jurnal HAKI (ISSN No. 0216/5457), 7(1), pp. 1-13, 
+2006. 
+ Confinement of Reinforced Concrete Column 237 
+ 
+[3] Imran, I., The 6 March 2007 West Sumatera Earthquake-Lesson Learned 
+and Recommendations, The International Symposium on Disaster in 
+Indonesia (ISDI): Problem and Solution, Padang, 26-28 Juli, 2007. 
+[4] Imran, I., Hoedajanto, D. & Suharwanto, Beberapa Pelajaran dari 
+Gempa Aceh; Tinjauan Kinerja Dua Bangunan Perkantoran di Banda 
+Aceh, Prosiding Seminar Gempa HAKI 2005 (ISBN 979-98441-2-6), 25 
+Mei, Jakarta, 2005. 
+[5] Sheikh, S.A. & Yeh, C., Tied Concrete Columns under Axial Load and 
+Flexure, Journal of Structural Engineering, ASCE, 116(10), pp. 2780-
+2800, Oct. 1990. 
+[6] Saatcioglu, M. & Razvi, S.R., Strength and Ductility of Confined 
+Concrete, ASCE Journal of Structural Engineering, 118(6), pp. 1590-
+1607, June 1992. 
+[7] Wehbe, N.I., Saiidi, M.S. & Sanders, D.H., Seismic Performance of 
+Rectangular Bridge Columns with Moderate Confinement, ACI Structural 
+Journal, 96(2), pp. 248-258, Mar.-Apr. 1999.  
+[8] Richart, et.al., The Failure of Plain and Spirally Reinforced Concrete in 
+Compression, Bulletin No. 185, Univ. of Illinois Engrg. Experimental 
+Station, Urbana, Ill,1929 
+[9] Sheikh, S.A. & Khoury, S.S., A Performance Based Approach for The 
+Design of Confining Steel In Tied Column, ACI Structural Journal, 94(4), 
+pp. 421-431, Jul-Aug. 1997. 
+[10] Paultre, P. & Legeron F, Confinement Reinforcement Design for 
+Reinforced Concrete Columns, ASCE Journal of Structural Engineering, 
+134(5), pp. 738-749, May 2008. 
+[11] Lukkunaprasit, P.& Sittipunt, C., Ductility Enhancement of Moderately 
+Confined Concrete Tied Column with Hook Clips, ACI Structural 
+Journal, 100(4), pp. 422-429, July-August 2003. 
+[12] Sheikh, S.A.& Uzumeri, S.M., Strength and Ductility of Tied Concrete 
+Column, Proceedings, ASCE, 106(5), pp. 1079-1102, May 1980. 
+[13] Mander, J.B., Priestley, M.J.N. & Park, R., Theoritical Stress-Strain 
+Model for Confined Concrete, ASCE Journal of Structural Engineering, 
+114(8), Aug. 1988. 
+ 
+ 

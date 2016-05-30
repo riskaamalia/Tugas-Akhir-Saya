@@ -1,0 +1,492 @@
+ 238 
+ 
+ITB J. Eng. Sci., Vol. 44, No. 3, 2012, 238-251 
+ 
+ 
+Received November 10
+th
+, 2010, Revised June 14
+th
+, 2011, 2
+nd
+ Revision September 29
+th
+, 2011, 3
+rd
+ Revision 
+February 23
+rd
+, 2012, 4
+th
+ Revision April 24
+th
+, 2012, 5
+th
+ Revison August 2
+nd
+, 2012, Accepted for publication 
+September 13
+th
+, 2012. 
+Copyright ? 2012 Published by LPPM ITB & PII, ISSN: 1978-3051, DOI: 10.5614/itbj.eng.sci.2012.44.3.3 
+The Effect of Ozonation Process on Bromide-Containing 
+Groundwaters in Bandung Area and Its Surroundings  
+Mindriany Syafila, Sukandar & Eric Haryanto 
+Faculty of Civil and Environmental Engineering, Institut Teknologi Bandung 
+Jalan Ganesha 10 Bandung, Jawa Barat 40132, Indonesia 
+Email: mindri@ftsl.itb.ac.id 
+ 
+ 
+Abstract. Disinfection process was applied as the last step of the water treatment 
+to kill pathogenic bacteria in the water. However, according to several studies, 
+the ozonation disinfection process could form undesired by-products. One of the 
+by-products potentially affecting human life is bromate produced from bromide 
+ionic-containing water.  This study was carried out to examine the effect of raw 
+water characteristics and pH on bromate formation. Also, the performance of 
+bromate formation for a period of exposure time was analyzed. Raw waters taken 
+from four different areas around Bandung were exposed to ozone introduced to a 
+reactor with a flow rate of 2 L/min. The pH of the raw waters varied from 4, 7 to 
+10. The results show that there was no evidence of an initial bromide ion 
+concentration, whereas a change in pH value gives a significantly different 
+outcome. In acidic condition (pH of 4) the bromate formation tends to decrease, 
+whereas when the pH value increases to a pH of 10, the bromate formation 
+increases. Therefore, for drinking water with a neutral pH, when bromide ions 
+are detected in the raw water, the drinking water may be toxic due to the 
+presence of bromate. 
+Keywords: bromate; disinfection; groundwater; ozonation; pH. 
+1 Introduction  
+Drinking water is very important for human life. The daily need for drinking 
+water per person varies from 2.1 liter to 2.8 liter, depending on weight and 
+activity. Most of this drinking water is supplied by local authorities through 
+treated-water supply systems. However, the quantity and quality of the drinking 
+water produced cannot fulfill the demand. Therefore, some private companies 
+produce bottled water. Since some of those private companies are home 
+industries, they obtain the groundwater from locally, ranging from fresh 
+environments to densely populated areas. In the Bandung area, the 
+Tangkubanperahu area is an example of a fresh environment, while Ciumbuleuit 
+is an example of a densely populated area. The groundwater characteristics of 
+these areas could be affected by the activities that take place in those areas. For 
+Ozonation Process Effect on Bromide-Containing Groundwaters   239  
+ 
+example, a public transportation station is located at Ledeng, and a traditional 
+market can be found in Lembang. 
+Most private companies use surface water treatment to produce bottled drinking 
+water. A disinfection process is applied as the last step of the treatment to kill 
+pathogenic bacteria contained in the water. Ozonation is one of the most-used 
+disinfection techniques worldwide [1]. It is believed that the ozonation 
+technique is more efficient than other disinfection techniques [2].   
+Ozone (O3) is a strong oxidator that can rapidly react with microorganisms and 
+organic substances contained in water, so its action as a disinfectant is stronger 
+than chlorine compounds [2]. Therefore, ozone is an excellent disinfectant for 
+inactivating undesired pathogens. Furthermore, it can also be used to deactivate 
+some viral and protozoa pathogens [2,3].  
+Ozone can also remove odor and taste as well as toxic compounds and 
+micropollutants. However, according to several studies, the disinfection process 
+by ozonation can form undesired by-products because of the high ozone 
+exposure necessary for inactivating the microorganisms [2]. The disinfection 
+by-products can be classified in three categories, i.e. non-brominated organic 
+compounds, brominated organic compounds, and halogenates [4]. 
+ 
+Figure 1 Bromate formation mechanism [5]. 
+One of the undesired disinfection by-products affecting human life is bromate 
+produced in bromide ions-containing water. Bromate formation includes 
+reactions with molecular ozone and with OH radicals, which is a complicated 
+mechanism [4]. The key reactions of bromate formation are shown in Figure 1. 
+The oxidation of bromide to hypobromous acid (HOBr-) is influenced by the 
+presence of ozone, while further oxidations take place mostly through OH 
+radicals. The formation of bromate compounds raises the particular problem 
+240 Mindriany Syafila, Sukandar & Eric Haryanto 
+that they cannot be further removed biologically after the disinfection process 
+[2]. 
+Bromate is a genotoxic human carcinogen [6]. This bromate compound can 
+cause loss of hearing, and decline of kidney and intestinal functions [7]. Delker, 
+et al. [8] also mention the kidney as the major target organ for bromate as well 
+as other effects such as peritoneal and follicular thyroid cancer. Therefore, the 
+characteristics of raw water in relation to bromate formation should be 
+considered.  
+Several studies have been carried out to analyze the effects of different water 
+quality parameters on bromate formation. One of the results showed that 
+bromate formation could be caused by an increased bromide concentration [9, 
+10]. Moreover, the bromate concentration increases as the ozone dose increases. 
+Therefore, the ozone dose and also the ozone residual play an important role in 
+bromate formation [10].  
+Besides the ozone dose, bromate formation could also be affected by the 
+presence of hydroxyl radicals, as mentioned above [4,11]. In this case, the 
+higher the amount of hydroxyl radicals present, the higher the bromate 
+formation will be [12]. In the bromate formation mechanism, hydroxyl radicals 
+form hypobromite radicals in bromide ions-containing water. The hypobromite 
+radical is unstable and easily degrades to hypobromite and bromite, which will 
+then oxidize to form bromate. Figure 1 can be expressed as the following 
+equations [13]: 
+ Br
+-
+ + O3 + H2O ? HOBr + O2 + OH
+-
+ (1) 
+ HOBr + H2O ? H3O
++
+ + OBr
+-
+  (2) 
+ OBr
+-
+ + 2 O3 ? BrO3
+-
+ + 2 O2 (3) 
+ HOBr + O3 ? no reaction (4) 
+These equations show that bromide will be oxidized by ozone to form bromate 
+with the intermediate product of hypobromite. The ozone present will not 
+oxidize hypobromous acid to bromate. The hypobromous acid will be formed 
+under acid conditions and it is suggested that the formation of bromate could be 
+minimized at low pH levels. Therefore, pH is another factor affecting bromate 
+formation in bromide-containing waters [4,10,14].  
+Ozonation Process Effect on Bromide-Containing Groundwaters   241  
+ 
+2 Materials and Methods 
+The experiments for this research were carried out at the Water Treatment 
+Engineering Laboratory at the Faculty of Civil and Environmental Engineering, 
+Institut Teknologi Bandung. A reactor with a diameter of 15 cm and a volume 
+of 7 liter was used as a contactor between the ozone and the raw water. An 
+ozone generator (Sanyo ACS-PRF1) linked to an aerator was used to produce 
+the ozone introduced to the reactor. A schematic diagram of the apparatus is 
+shown in Figure 2. Raw water with a flow rate of 2 L/min was exposed to the 
+ozone. 
+Aerator Regulator Valve Ozon Generator Reactor
+Influent
+ 
+Figure 2 Schematic diagram of the ozonation process reactor. 
+The ozonation experiment was carried out under batch conditions.  The ground 
+waters were taken from four different areas, i.e. the residential area of 
+Ciumbuleuit, the public transportation station area of Ledeng, the traditional 
+market area of Lembang and the rural area of Tangkubanperahu. The maximum 
+contact time of the disinfection process was 60 minutes, and the first contact 
+was measured after 3 minutes of exposure. The ozone dose applied for the 
+groundwater ozonation processes was calculated by multiplying the flow rate 
+with the contact time applied. Three different pH values of raw water were 
+applied, 4, 7 and 10, respectively.  
+The parameters analyzed in this work include pH value, bromate concentration 
+and remaining ozone concentration. The pH was detected using a pH meter 
+(Orion SN5732). Prior to the pH measurement, Standard Method 4500-H
++
+B 
+[15] calibrations of the probe were conducted using buffered solutions at a pH 
+of 4, 7, and 10. 
+The remaining dissolved ozone was measured using an indigo colorimetric 
+method based on the Standard Method 4500-O3 Indigo Colorimetric Method 
+[15]. The samples were analyzed using a Spectronic 20 Genesys 
+spectrophotometer at a wavelength of 600 nm. Since the upper limit of this 
+242 Mindriany Syafila, Sukandar & Eric Haryanto 
+method is 2.5 mg/L, diluted samples were used to determine the higher ozone 
+concentrations. 
+Bromate concentrations were analyzed using a spectrophotometer (Spectronic 
+20 Genesys) with a wavelength of 530 nm, based on the Standard Method 4500-
+Br
+-
+ Phenol Red Colorimetric Method [15].  
+3 Results and Discussion 
+3.1 Raw Water Characteristics and Bromate Formation  
+Raw waters were taken from four different areas surrounding Bandung, i.e. 
+groundwater from Ciumbuleuit, Ledeng, Lembang and Tangkubanperahu. The 
+characteristics of the raw waters were examined, including the following 
+parameters: pH, temperature, bromide concentration, chloride concentration, 
+manganese and ferri concentration as well as turbidity and alkalinity, as shown 
+in Table 1. 
+Table 1 The characteristics of raw water samples used. 
+Parameter 
+Ciumbuleuit 
+groundwater 
+Ledeng 
+groundwater 
+Lembang 
+groundwater 
+Tangkubanperahu 
+groundwater 
+pH 7.03 6.82 6.87 7.26 
+Temperature (oC) 25.4 23.5 23.2 20.8 
+Chloride (mg/L) 22.60 4.52 26.12 21.60 
+Manganese (mg/L) 0 0 0 0 
+Fe2+  (mg/L) 0.143 0.046 0.035 0.088 
+Turbidity (NTU) 1 1 1 1 
+Ammonia (as mg/L 
+NH4
++) 
+0 0 0 0 
+Ion bromide 
+(mg/L) 
+0.33 0.2 0.6 0.4 
+Bromate (ug/L) 0 0 0 0 
+The above table shows that the pH values of all raw waters display a neutral 
+condition. However, the bromide concentrations were slightly different in each 
+case. The highest bromide concentration was found in the Lembang 
+groundwater sample. All of the groundwater samples were exposed to ozone 
+with similar initial doses.  
+3.2 Bromate Formation as a Function of Ph Value for All Raw 
+Waters 
+One of the affecting factors in bromate formation is the pH value. In this work 
+the pH of the raw waters used was altered to achieve an acidic condition (pH 4), 
+a neutral condition (pH 7) and a base condition (pH 10). Figure 3 shows the 
+Ozonation Process Effect on Bromide-Containing Groundwaters   243  
+ 
+remaining ozone concentration at certain time intervals during the 60-minute 
+ozonation process. It seems that after 15 minutes of exposure, the remaining 
+ozone concentration remained constant in all raw waters used. This means that a 
+longer time exposure would not increase the remaining ozone concentration.   
+During the ozonation process under the acidic condition there was evidence that 
+no bromate was formed. The lack of bromate formation might due to the change 
+of the initial bromide ions into hypobromous acid (HOBr). Under acidic 
+conditions the equilibrium tends to produce more hypobromous acid. Therefore, 
+it seems that the concentration of this acid would increase, which could prevent 
+the formation of bromate [5]. 
+Based on the results of the acidic-condition experiment, it seems that the initial 
+bromide ion concentration was not the determining factor. However, the pH 
+value has an important role since the pH under an acidic condition (in this case 
+pH 4) could prevent bromate formation. 
+.  
+Figure 3 The remaining ozone concentration during the ozonation process at 
+pH 4. 
+As the pH value was increased to achieve the normal condition (a pH of 7), the 
+longer the exposure time the higher the remaining ozone concentration in the 
+reactor, as shown in Figure 4. It seems that the high ozone concentration could 
+lead to bromate formation, as shown in Figure 5. 
+At the beginning of the experiment, there was still no bromate formation. 
+However, after 15 minutes of exposure the bromate formation tended to be 
+constant, which is supported by another research, that shows that the optimum 
+contact time for ozonation is in the range of 5-15 minutes [2]. This means that a 
+longer exposure time would not produce more bromate but it would increase the 
+244 Mindriany Syafila, Sukandar & Eric Haryanto 
+remaining ozone concentration. This result differs from that of Kalmaz, et al. 
+[16] where a higher ozone concentration gave a higher bromate formation. 
+Therefore, it could be concluded that at a normal pH of 7 after 15 minutes of 
+exposure there is no correlation between the remaining ozone concentration and 
+the bromate formation. 
+ 
+Figure 4 The remaining ozone concentration during ozonation at pH 7. 
+ 
+Figure 5 The bromate concentration during ozonation at pH 7. 
+According to the bromate formation mechanism shown in Figure 1, ionic 
+bromide will expose the ozone to catalytic decomposition to form hypobromite 
+as an intermediate product. The further reaction of hypobromite with the 
+remaining ozone produces bromite, which easily oxidizes to form bromate. The 
+predominant species formed at a higher pH value was hypobromite. At a lower 
+pH value it seems that the formation of hypobromous acid might be taken place. 
+Since this acid would not react with ozone, bromate formation could be 
+minimized. 
+Ozonation Process Effect on Bromide-Containing Groundwaters   245  
+ 
+The results of this experiment show that at a base pH (= 10) the remaining 
+ozone concentration seems to be smaller than at a lower pH value (Figure 6). 
+Hence, the bromate formation tends to increase, as shown in Figure 7. Due to 
+more hydroxyl radicals, it might be formed at a higher pH value [16]. 
+ 
+Figure 6 The remaining ozone concentration during ozonation at pH 10. 
+ 
+Figure 7 The bromate concentration during ozonation at pH 10. 
+From the above explanation it seems that in applying ozonation in a disinfection 
+process, the optimum ozone dose should be determined, being the dose applied 
+for removing most bacterial pathogens without any bromate formation occuring. 
+Furthermore, if the raw waters have a neutral pH and also contain bromide, a 
+preliminary process for decreasing the pH value has to be applied prior to the 
+disinfection process in order to minimize bromate formation. Some 
+technologies can be considered, such as using a magnetic ion exchange resin 
+[17], adsorption by silica zeolites [18], or using cerium dioxide during the 
+ozonation process [19]). Post treatment of the disinfection process could also be 
+246 Mindriany Syafila, Sukandar & Eric Haryanto 
+considered since there is a possibility of bromate being formed, as mentioned by 
+Marhaba and Bengraine [20]. 
+3.3 Bromate Formation Kinetics 
+The ozonation performance as a function of ozonation contact time was 
+analyzed for each raw water, which led to bromate formation kinetics. Figure 8 
+shows the relationship between the bromate concentration formed and the 
+exposure time of the ozonation process related to the characteristics of the 
+Ciumbuleuit, Ledeng, Lembang, and Tangkubanperahu groundwaters, 
+respectively. 
+ 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+Figure 8 Bromate formation kinetics during ozonation applied to groundwater 
+from: a) Ciumbuleuit, b) Ledeng, c) Lembang, and d) Tangkubanperahu. 
+Ozonation Process Effect on Bromide-Containing Groundwaters   247  
+ 
+Figure 8 shows that a determination factor of 0.80 was achieved for all 
+groundwaters at any pH level. This means that there was a strong relationship 
+between time of exposure and bromate concentration formation. At the earlier 
+exposure time of up to 20 minutes, the increase in bromate concentration was in 
+a logarithmic phase, whereas after an exposure time of 20 up to 60 minutes the 
+bromate concentration tended to be constant. The above figure shows that the 
+bromate formation rate seems to be similar. It could be concluded that there 
+would be an optimum contact time for bromate formation, where the longer the 
+contact time applied the less significant the amount of bromate produced. The 
+same phenomenon was also obtained with the raw waters with a pH of 7 and of 
+10, respectively. 
+ 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+Figure 9 The bromate formation rate as a function of contact time at pH 7. 
+248 Mindriany Syafila, Sukandar & Eric Haryanto 
+The rate of bromate produced can be determined as a function of the bromide 
+concentration, whereas the overall reaction based on Eqs. (1)?(4) [13] would be: 
+ Br
+-
+ + 3 O3 + 2 H2O ? BrO3
+-
+ + H3O
++
+ + O2 + OH
+-
+ (5) 
+ 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+(d) 
+Figure 10 The bromate formation rate as a function of contact time at pH 10. 
+Therefore, it is assumed that the reaction would be first order. However, since 
+bromate might be the end product of the ozonation process of bromide-
+contaning raw water, the bromate formation rate could be determined as being 
+zero order, where the reaction rate would be expressed as (in molar basis):  
+ d[BrO3
+-
+] / dt = k  (6) 
+with boundary conditions of at t = 0, then [BrO3
+-
+] = [BrO3
+-
+]0, and at t = t, then 
+[BrO3
+-
+] = [BrO3
+-
+], the equations can be written as: 
+Ozonation Process Effect on Bromide-Containing Groundwaters   249  
+ 
+ [BrO3
+-
+]t = kt + [BrO3
+-
+]0  (7) 
+ If at t = 0, [BrO3
+-
+]0 = 0, then the equations can be written as: 
+ [BrO3
+-
+] = kt  (8) 
+A plot of [BrO3
+-
+] versus t will yield a line with a slope equal to positive k. 
+From Eq. (8), the relationship between the bromate formation rate and the 
+contact time can be plotted as in Figure 9 for pH 7 and Figure 10 for pH 10, 
+where the slope is equal to positive k. 
+Figure 9 shows that the bromate formation rate at pH 7 seems to be not 
+significantly different for all raw waters, with a range of 0.022?0.034 
+É g/L/minute. This phenomenon also occurred at pH 10 (see Figure 10) with the 
+bromate formation rate ranging from 0.052 up to 0.067 É g/L/minute. However, 
+it seems that the bromate formation rate at pH 10 was higher than at pH 7. 
+Therefore, the ozonation process has to be carefully applied for groundwater or 
+water resources with a pH of 10 since the amount of bromate produced would 
+be higher compared to acidic and neutral water resources. Hence, since the 
+quality standard for drinking water requires a neutral pH, the bromate formation 
+rate should be considered if bromide-containing raw water is used as a water 
+supply source. 
+4 Conclusions 
+The pH value plays an important role, since the pH under an acidic condition (in 
+this case pH 4) could prevent bromate formation. It could be concluded that 
+with a normal pH of 7 after 15 minutes of exposure there was no correlation 
+between the remaining ozone concentration and bromate formation. The higher 
+the pH value, the more bromate formation in bromide-containing raw water 
+occurs if ozonation is applied as a disinfection process. Since the pH value of 
+drinking water should be neutral, it seems we ought to know the raw water 
+characteristics. If the raw water tends to contain bromide it could become 
+carcinogenic when the ozonation disinfection process is applied. Therefore, if 
+the ozonation process will be applied to bromide-containing water at a neutral 
+pH, it seems other processes should be considered as preliminary treatment, as 
+well as post-treatment of the ozonation process. 
+References 
+[1] Montgomery, J.M., Water Treatment: Principles and Design, A Wiley 
+Interscience Pub., 1985. 
+250 Mindriany Syafila, Sukandar & Eric Haryanto 
+[2] Von Gunten, U., Ozonation of Drinking Water: Part II. Disinfection and 
+By-Product Formation in Presence of Bromide, Iodide, Chlorine, Water 
+Research, 37, pp. 1469-1487, 2003. 
+[3] Von Gunten, U., Driedger, A., Gallard, H. & Salhi, E., Rapid 
+Communication By-Products Formation During Drinking Water 
+Disinfection: A Tool to Assess Disinfection Efficiency?, Water Research, 
+35(8), pp. 2095-2099, 2001. 
+[4] Von Gunten, U. & Pinkernell, U., Ozonation of Bromide-Containing 
+Drinking Waters: A Delicate Balance between Disinfection and Bromate 
+Formation, Water Science and Technology, 41, pp. 53-69, 2000. 
+[5] Von Gunten, U. & Hoigne, J., Bromate Formation During Ozonation-
+Containing Water, Proc. 11
+th
+ Ozone World Congress, Int. Ozone Assoc., 
+S942-S949, 1993. 
+[6] Aljundi, I.H., Bromate Formation during Ozonation of Drinking Water: 
+A Response Surface Methodology Study, Desalination, 277(1-3), pp. 24-
+28, 2011. 
+[7] Kruithof, J.C., Disinfection by-product Formation, NV PWN Water 
+Supply Co., 2002. 
+[8] Delker, D., Hatch, H., Allen, J., Crissman, B., George, M., Geter, D., 
+Kilburn, S., Moore, T., Nelson, G., Roop, B., Slade, R., Swank, A., 
+Ward, W. & DeAngeol, A., Molecular Biomarkers of Oxidative Stress 
+Associated with Bromate Carcinogenicity, Toxicology, 221, pp. 158-165, 
+2006. 
+[9] Song, R.P., Westerhoff, P., Minear, R. & Amy, G., Bromate 
+Minimization During Ozonation, J. American Water Works Assoc., 89, 
+pp. 69-78, 1997. 
+[10] Peldszus, S., Andrews, S.A., Souza, R., Smith, F., Douglas, I., Bolton, J. 
+& Huck, P.M., Effect of Medium-Pressure UV Irradiation on Bromated 
+Concentrations in Drinking Water, A Pilot-Scale Study, Water Research, 
+38, pp. 211-217, 2004. 
+[11] Haag, W.R. & Hoigne, J., Ozonation of Bromide-Containing Water: 
+Kinetic of Formation of Hypobromous Acid and Bromate, Environmental 
+Science and Technology, 17, pp. 261-267, 1983. 
+[12] Westerhoff , P., Amy, G., Song, R. & Minear, R., Simplifying Bromate 
+Formation Kinetics Analysis with A Linear Bromate Yield Concept, ACS 
+Books, pp. 322-349, 1996. 
+[13] Kumar, A., Rout, S. & Singhal, R.K., Health Risk Assessment for 
+Bromate (Bro3
+-
+) Traces in Ozonated Indian Bottled Water, Journal of 
+Environmental Protection, 2, pp. 571-580, 2011. 
+[14] Legube, B., Parinet, B., Gelinet, K., Berne, F. & Croue, J.-P., Modeling of 
+Bromate Formation by Ozonation of Surface Waters in Drinking Water 
+Treatment, Water Research, 38(8), pp. 2185-2195, 2004. 
+Ozonation Process Effect on Bromide-Containing Groundwaters   251  
+ 
+[15] Eaton, A.D., Clesceri, L.S. & Greenberg, A.E. (eds), Standard Methods 
+for the Examination of Water and Wastewater, American Public Health 
+Association, 21
+st
+ Edition, Washington D.C., 2005. 
+[16] Kalmaz, E.E., Eraslan, A.H. & Kim, A.H., A Preliminary Kinetics Model 
+Predicting Concentration Variations of Hypobromous Acid and 
+Bromated In Ozonated Marine Water, Ecological Modeling, 29, pp. 315-
+326, 1985. 
+[17] Johnson, C.J. & Singer, P.C., Impact of A Magnetic Ion Exchange Resin 
+on Ozone Demand and Bromate Formation During Drinking Water 
+Treatment, Water Research, 38(17), pp. 3738-3750, 2004. 
+[18] Sagehashi, M., Shiraishi, K., Fujita, H., Fujii, T. & Sakoda, A., Ozone 
+Decomposition of 2-Methylisoborneol (MIB) in Adsorption Phase on 
+High Silica Zeolites with Preventing Bromate Formation, Water 
+Research, 39(13), pp. 2926-2934, 2005. 
+[19] Zhang, T., Chen, W., Ma, J. & Qiang, Z., Minimizing Bromated 
+Formation with Cerium Dioxide During Ozonation of Bromide-
+Containing Water, Water Research, 42(14), pp. 3651-3658, 2008. 
+[20] Marhaba, T.F. & Bengraine, K., Review Strategies for Minimizing 
+Bromate Formation Resulting from Drinking Water Ozonation, 
+Engineering Clean Technologies and Environmental Policy, 5(2), pp. 
+101-112, 2003. 
+ 
+ 

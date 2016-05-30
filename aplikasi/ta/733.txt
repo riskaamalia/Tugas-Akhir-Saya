@@ -1,0 +1,281 @@
+  
+J. Math. Fund. Sci., Vol. 45, No. 1, 2013, 17-28                           17 
+ 
+Received February 29th, 2012,1stRevision August 29th, 2012,2ndRevision October15th, 2012, Accepted for 
+publication November 28th, 2012. 
+Copyright ? 2013 Published by ITB Journal Publisher, ISSN: 2337-5760, DOI: 10.5614/j.math.fund.sci.2013.45.1.2 
+Seismic Velocity Structures beneath the Guntur Volcano 
+Complex, West Java, Derived from Simultaneous 
+Tomographic Inversion and Hypocenter Relocation 
+Andri Dian Nugraha
+1
+, Sri Widiyantoro
+1
+, Awan Gunawan
+2 
+& Gede Suantika
+3
+ 
+1
+Global Geophysical Group, Faculty of Mining and Petroleum Engineering,  
+Institut Teknologi Bandung, Jalan Ganesa No. 10, Bandung 40132, Indonesia 
+2
+ Graduate Program of Earth Science, Faculty of Earth Science and Technology,  
+Institut Teknologi Bandung, Jalan Ganesa No. 10, Bandung 40132, Indonesia 
+3
+Center for Volcanology and Geological Hazard Mitigation (CVGHM),                   
+Jalan Diponegoro No. 57, Bandung 40122, Indonesia 
+Email: nugraha@gf.itb.ac.id 
+ 
+ 
+Abstract. We conducted travel time tomographic inversion to image seismic 
+velocity structures (Vp, Vs, and Vp/Vs ratio) with simultaneous hypocenter 
+adjustment beneath the Guntur volcano complex that is located in the Garut 
+district, West Java province, Indonesia. The Guntur volcano is one of the active 
+volcanoes in Indonesia, although large eruptions have not occurred for about 160 
+years. We used volcanic and tectonic earthquakes catalog data from seismic 
+stations deployed by Centre for Volcanology and Geological Hazard Mitigation 
+(CVGHM). For the tomographic inversion procedure, we set grid nodes with a 
+horizontal spacing of 2 x 2 km
+2
+ and an average vertical spacing of 2 km. Our 
+results show low Vp, low Vs, and high Vp/Vs ratio regions beneath the Guntur 
+crater and the Gandapura caldera at depths of 6-8 km and 7-9 km, respectively. 
+These features can be associated with amelt-filled pore rock structure. However, 
+a low Vp/Vs ratio and low velocities are exhibited beneath the Kamojang caldera 
+at depths of 2-6 km that may be associated with rock with H2O-filled pores with 
+a high aspect ratio. 
+Keywords: Seismic tomography; Guntur volcano; Seismic structure; Melt-filled pore; 
+West Java. 
+1 Introduction 
+Indonesia is located in a very active tectonic region that is influenced by four 
+major tectonic plates, i.e. the Eurasian, Indo-Australian, Caroline (Western 
+Pacific) and Philippine Sea plates. As a result, Indonesia has 128 active 
+volcanoes and high seismicity activity along the subduction zones within the 
+Indonesian archipelago (Figure 1). In this tomographic study, we chose the 
+Guntur volcano complex that is located in Garut, West Java, to investigate 
+physical properties beneath this active volcano. The complex of the Guntur 
+volcano includes the summit, crater, and caldera [1]. The Guntur volcano 
+18 Andri Dian Nugraha, et al. 
+complex has two calderas, i.e. (i) the older Kamojang caldera in the western 
+part, a geothermal area where a power plant is running, and (ii) the younger 
+Gandapura caldera in the eastern part (Figure 2). The last large eruption of the 
+Guntur volcano occurred in 1847, which produced a tholeiitic basaltic flow 
+reaching the Cipanas village near Tarong, about 4 km southeast of the Guntur 
+crater [2]. In order to prepare for volcano hazard mitigation, we conducted a 
+tomographic inversion to enhance our understanding of the geological features 
+and physical properties of the Guntur volcano complex. 
+ 
+ 
+Figure 1 (A) Distribution of active volcanoes in Indonesia as indicated by the 
+solid red triangles [3]. (B) The location of the Guntur volcano is in Garut, West-
+Java province. 
+Seismic Velocity Structures beneath Guntur Volcano Complex  19 
+ 
+ 
+Figure 2 Topographic contour, relocated earthquake epicenters (red circles), 
+and seismographic stations (black triangles). The red triangle depicts the location 
+of the Guntur volcano. Thick, gray lines A-AÅf, B-BÅf, C-CÅf, D-DÅf, E-EÅf, and F-FÅf 
+depict the locations of the vertical sections presented in Figures 5 and 7. 
+2 Data and Methods 
+In this study, we used P and S arrival time data of volcanic and tectonic 
+earthquakes provided by the CVGHM, inverted for three-dimensional velocity 
+structures (Vp, Vs, and Vp/Vs) beneath the Guntur volcano complex. We 
+applied the SIMUPLS12 method [4-8] to determine the 3-D Vp and Vp/Vs 
+structures and simultaneously the hypocenter relocation. Predicted arrival times 
+through the 3-D structure were calculated for ray paths using the pseudo-
+bending technique of Um and Thurber [9]. We used selected events provided by 
+the CVGHM from 1995 to 2007. We did not use all earthquake events during 
+that time period. Only those earthquake events were chosen that had a large 
+number of picked arrival times (generally over 6 stations) and covered the 
+region as well as possible. In total, 490 events with 4686 P and 2343 S arrival 
+times from 20 stations were used in this study for the tomographic inversion 
+(Figure 3). The spatial resolution and setting of grid nodes for the Vp and 
+Vp/Vs inversion depended on the earthquake distribution, station distribution, 
+20 Andri Dian Nugraha, et al. 
+and ray coverage. We used a horizontal grid spacing of 2 x 2 km
+2
+ and a vertical 
+spacing of 2 km, which provide a fairly high spatial resolution and are relatively 
+stable for the inversion. 
+ 
+Figure 3 (A) Map of station distribution (black triangles), epicenter before 
+relocation distribution (green circles), relocated epicenter distribution (red 
+circles), grid nodes (blue plus), and the location of the Guntur volcano (red 
+triangle) in the study area. (B) Associated hypocenter plot along the latitude. (C) 
+Same as (B), but along the longitude. 
+During the tomographic inversion, we applied damping in order to stabilize the 
+inversion processes. The purpose of damping is to a give a solution of the grid 
+nodes without ray paths to bias relative to the initial velocity model, and to 
+smoothen the model. The optimum damping values were selected from a trade-
+off curve comparing data variance (misfit) with model variance, which showed 
+a significant reduction in the data variance with a moderate increase in the 
+solution variance (Figure 4). The optimal damping value varies with the amount 
+and the distribution of the data, and the size and spacing of the grid model [8]. 
+ 
+Seismic Velocity Structures beneath Guntur Volcano Complex  21 
+ 
+ 
+Figure 4 Curves indicating data variance versus model variance to determine 
+the optimal damping parameter. The selected damping parameters are 20 and 10 
+for Vp and Vp/Vs, respectively, from one step inversion. 
+We started the tomographic inversion with an initial 1-D velocity from our 
+previous work about the Guntur volcano complex [10]. We used an initial 
+Vp/Vs value of 1.80 [11]. The resolution of the tomographic model was 
+evaluated using a checkerboard test, a diagonal resolution matrix, and a ray-hit 
+count (Figures 5 and 6). The checkerboard test pattern was set with alternating 
+fast and slow velocities at each grid point, with a contrast of 10% relative to the 
+reference velocity model. A synthetic set of travel times was created for the 
+checkerboard velocity pattern using the same ray paths as used in the real data 
+inversion and then the synthetic data were inverted to explore how well the 
+checkerboard pattern was recovered. The diagonal resolution element matrix 
+22 Andri Dian Nugraha, et al. 
+[12] ranges from 0.0 to 1.0, where 0.0 is unresolved and 1.0 is completely 
+resolved. 
+ 
+ 
+ 
+Figure 5 (A) Vertical sections across the initial checkerboard pattern and the 
+recovered checkerboard pattern, diagonal resolution matrix, and ray hit count for 
+P-wave data along AAÅf, BBÅf and CCÅf. (B) As in (A), but for DDÅf, EEÅf and FFÅf. 
+Seismic Velocity Structures beneath Guntur Volcano Complex  23 
+ 
+ 
+ 
+ 
+Figure 6 Horizontal sections of the initial checkerboard pattern and the 
+recovered checkerboard pattern, diagonal resolution matrix, and ray hit count for 
+Vp at depths of 4, 6, and 8 km. (B) As in (A), but for Vp/Vs. 
+24 Andri Dian Nugraha, et al. 
+3 Tomographic Inversion Results 
+Figure 5 shows vertical cross sections (AAÅf, BBÅf, CCÅf, DDÅf, EEÅf, and FFÅf) of 
+the 
+ 
+ 
+Figure 7 (A) Profiles of the P-wave velocity perturbations (dVp), S-wave 
+velocity perturbations (dVs), and Vp/Vs for AAÅf, BBÅf and CCÅf. (B) same as (A), 
+but for DDÅf, EEÅf and FFÅf. 
+Seismic Velocity Structures beneath Guntur Volcano Complex  25 
+ 
+ 
+Figure 8 Horizontal map views of the P-wave velocity perturbations (dVp), left 
+panel; S-wave velocity perturbations (dVs), middle panel; and Vp/Vs, right 
+panel, at depths of 4, 6, and 8 km, respectively, from the Guntur summit. 
+the recovered checkerboard test along with the diagonal resolution matrix, and 
+the ray hit count. Figure 6 shows horizontal map views of the recovered 
+checkerboard pattern, the diagonal resolution matrix, and the ray hit count at a 
+depth of 0 km (which is associated with the mean sea level - MSL), 2 km, 4 km, 
+6 km, and 8 km. There is a good resolution beneath the Guntur crater, the 
+Gandpura caldera, and the eastern part of Kamojang at depths of 4 to 10 km. 
+These areas are related to a high diagonal resolution matrix and high ray hit 
+count values.  
+The results of the tomographic inversion for the vertical and horizontal sections 
+through the Guntur complex are shown in Figures 7 and 8, respectively. Vp and 
+Vs tomograms are shown as percentage differences from the initial 1-D model 
+26 Andri Dian Nugraha, et al. 
+and Vp/Vs were plotted using the absolute values. The obtained relocated 
+hypocenters became more focused beneath the Guntur crater and the Gandapura 
+caldera as shown in Figure 3.  
+For profiles beneath the Guntur crater (AAÅf and EEÅf) in Figure 7, low velocity 
+and high Vp/Vs ratio anomalies were detected at depths of 6 to 8 km. Profiles 
+beneath the Gandapura caldera (BBÅf and EEÅf) in Figure 7 show similar features 
+of the low velocity and high Vp/Vs ratio values at depths of 7 to 9 km. Opposite 
+features of anomalies of the low Vp/Vs values and low P- and S-velocities were 
+observed beneath the Kamojang caldera at depths of 2 to 6 km (CCÅf in Figure 
+7).  
+For the horizontal map views shown in Figure 8, small areas of low velocity 
+anomalies and high Vp/Vs ratio values were observed (107.86?and -7.14? 
+coordinate) in the eastern part of the Guntur crater at a depth of 6 km, and these 
+anomalies also appear at a depth of 8 km beneath the southern part of the 
+Guntur volcano. In the northern part of the Kamojang caldera, low velocity 
+anomalies and high Vp/Vs ratio values were observed at a depth of 8 km.  
+4 Discussion 
+The tomographic inversion results show low velocity anomalies and high Vp/Vs 
+values beneath the Guntur summit and the Gandapura caldera at a depth of 6 to 
+8 km, and 7 to 9 km, respectively. These features are very interesting for active 
+volcanic areas. Previous studies concluded that the existence of melt-filled 
+pores and/or H2O-filled pores apparently lowers seismic velocity and increases 
+the PoissonÅfs ratio [13,14]. Hence, according to our interpretation of the low 
+velocity and high Vp/Vs ratio anomalies beneath the Guntur summit and the 
+Gandapura caldera, they may be associated with the melt-filled pores of the 
+rock. The interpreted melt-filled pores of the rock beneath the Guntur summit 
+may be related to a weak zone or a heat source and may trigger seismic activity 
+beneath the active volcano. In the Kamojang region, a geothermal power plant 
+has been operated for years. The anomaly beneath the Kamojang caldera 
+exhibits low velocity and Vp/Vs values. In previous studies, these phenomena 
+were related to the existence of H2O-filled pores with a large aspect ratio [e.g. 
+11]. 
+5 Concluding Remarks 
+We have conducted simultaneous inversion for velocity structures and 
+hypocenter adjustment. Our results show anomalies of low P-and S-velocity and 
+a high Vp/Vs ratio beneath the Guntur summit and the Gandapura caldera that 
+are interpreted to be related to melt-filled pores in the rock [cf. 13,14]. This 
+Seismic Velocity Structures beneath Guntur Volcano Complex  27 
+ 
+interpretation is in good agreement with a recent study on the seismic 
+attenuation tomography of Mt. Guntur by Priyono, et al. [15]. They concluded 
+that the high seismic attenuation beneath the Guntur volcano system may be 
+interpreted as a hot volcanic material zone or rock with melt-filled pores. These 
+geological features are of importance to have a detailed understanding of the 
+physical characteristics for volcano hazard mitigation.  
+Acknowledgments 
+We gratefully acknowledge the CVGHM for providing the earthquake data 
+catalog used in this study. Thanks also go to the reviewers for their constructive 
+comments. This work was supported by a research grant (Riset Peningkatan 
+Kapasitas) from ITB, 2010 and a research grant from the Graduate Research on 
+Earthquake and Active Tectonics (GREAT), ITB, 2011. 
+References 
+[1] Matahelemual, J., Gunung Guntur, Berita Berkala Vulkanologi Edisi 
+Khusus, Direktorat Vulkanologi Bandung (in Indonesian), 1989. 
+[2] Kusumadinata, K., Data Dasar Gunungapi Indonesia, Direktorat 
+Vulkanologi Bandung (in Indonesian), 1979. 
+[3] Kusumadinata, K., Hadian, R., Hamidi, S. & Reksowirogo, L.G., 
+Catalogue of References on Indonesian Volcanoes with Eruptions in 
+Historical Time, Direktorat Vulkanologi, Direktorat Jenderal 
+Pertambangan Umum, Departemen Pertambangan dan Energi, Republik 
+Indonesia (in Indonesian), 1979. 
+[4] Eberhart-Phillips, D., Local Earthquake Tomography Velocities and 
+Vp/Vs Theory, in Seismic Tomography: Theory and Practice, pp. 563-
+583, H.M. Iyer & K. Hirahara (Eds), CRC Press, Boca Raton, Fla, 1993. 
+[5] Evan, J.R., Eberhart-Phillips, D. & Thurber, C.H., UserÅfs Manual for 
+SIMULPS12 for Imaging Vp and Vp/Vs: Derivative of The ÅgThurberÅh 
+Tomographic Inversion  SIMUL3 for Local Earthquakes and Explosions, 
+U.S. Geol. Surv. Open File Rep., pp. 94-431, 1994. 
+[6] Thurber, C.H., Earthquake Locations and Three-Dimensional Crustal 
+Structure in The Coyota Lake Area, Central California, J. Geophys. Res., 
+88, pp. 8226-8236, 1983. 
+[7] Thurber, C.H., Local Earthquake Tomography Velocities and Vp/Vs 
+Theory, in Seismic Tomography: Theory and Practice, pp. 563-583, H.M. 
+Iyer & K. Hirahara (Eds), CRC Press, Boca Raton, Fla, 1993. 
+[8] Nugraha, A.D. & Mori, J., Three-Dimensional Velocity Structure in The 
+Bungo Channel and Shikoku Area, Japan, and Its Relationship to Low-
+Frequency Earthquakes, Geophys. Res. Lett., 33, L24307. doi: 
+10.1029/2006GL028479, 2006. 
+28 Andri Dian Nugraha, et al. 
+[9] Um, J. & Thurber, C.H., A Fast Algorithm for Two-Point Seismic Ray 
+Tracing, Bull. Seismol. Soc. Am., 77, pp. 972-986, 1987. 
+[10] Nugraha, A.D., Suantika, G. & Widiyantoro, S., Relocation of 
+Earthquake Hypocenter at Mt. Guntur Area Using Three Dimensional 
+Velocity Model, Jurnal Geofisika Indonesia, I, pp.1-6. (in Indonesian with 
+abstract in English), 2006. 
+[11] Priyono, A., Suantika, G., Widiyantoro, S., Priadi, B.& Surono, Three 
+dimensional P-and S-wave Velocity Structures of Mt. Guntur, West-Java, 
+Indonesia, from Seismic Tomography, International Journal of 
+Tomography & Statistic, 16(W11), pp. 1-11, 2011. 
+[12] Menke, W., Geophysical Data Analysis: Discrete Inverse Theory, Univ. 
+Calif. San Diego, 1989. 
+[13] Nakajima, J., Hasegawa, A., Horiuchi, S., Yoshimoto, K., Yoshida, T. & 
+Umino, N., Crustal Heterogeneity Around The Nagamachi-Rifu Fault, 
+Northeastern Japan, as Inferred from Travel-Time Tomography, Earth 
+Planets Space, 58, pp. 843-853, 2006. 
+[14] Takei, Y., Effect of Pore Geometry on Vp/Vs: from Equilibrium Geometry 
+to Crack, J. Geophys. Res., 107(B2), 2043. doi:10.1029/2001JB000522, 
+2002. 
+[15] Priyono, A., Suantika, G., Widiyantoro, S. & Nugraha, A.D., Three-
+Dimensional Seismic Attenuation Structure of Mt. Guntur, West Java, 
+Indonesia, International Journal of Tomography and Statistics, 17(S11), 
+pp. 17-28, 2011. 
+ 
+ 
+ 
+ 

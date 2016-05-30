@@ -1,0 +1,632 @@
+  
+ITB J. Sci., Vol. 44 A, No. 3, 2012, 239-249                                  239 
+ 
+Received May 14
+th
+, 2012, Revised July 31
+st
+, 2012, Accepted for publication October 8
+th
+, 2012. 
+Copyright ? 2012 Published by LPPM ITB, ISSN: 1978-3043, DOI: 10.5614/itbj.sci.2012.44.3.4 
+Instability of Non-Linear Functional Differential 
+Equations of Fifth Order  
+Cemil Tun?
+ 
+Department of Mathematics, Faculty of Sciences,  
+Y?z?nc? Y?l University, 65080, Van-Turkey 
+E-mail:cemtunc@yahoo.com 
+ 
+ 
+Abstract. In this paper, we study the instability properties of solutions of a kind 
+of functional differential equations of the fifth order with constant delay. Using 
+the Lyapunov-Krasovskii functional approach, we obtain certain sufficient 
+conditions to guarantee that the zero solution of the equation is unstable. 
+Keywords: fifth order; functional differential equation; instability; Lyapunov-
+Krasovskii functional. 
+1 Introduction 
+It is well known that the instability of the solutions is a very important problem 
+in the theory and applications of differential equations. For example, if the 
+solutions of a differential equation describing a dynamical system or of any 
+differential equation under consideration are known in closed form, then one 
+can determine the instability properties of the system or the solutions of the 
+differential equation taken under consideration, appealing directly the definition 
+of the instability, which will be introduced hereinafter. In addition, ideally, one 
+would like to compute clearly all solutions of every differential equation or 
+system of differential equations. However, as we know, there are actually very 
+few equations (beyond linear equations with constant coefficients ? and even 
+there are difficulties if the order of the equation or system is high) for which we 
+can do this. That is, in general, it is not possible to find the solution of all linear 
+and nonlinear differential equations, except numerically. Moreover, finding 
+solutions becomes more difficult for delay differential equations rather than 
+differential equations without delay. Therefore, it is very important to get 
+information about the qualitative behavior of solutions of delay differential 
+equations when there is no analytical expression for the solutions. In the 
+literature, specific methods have been developed to obtain information on the 
+qualitative behavior of solutions of differential equations when there is no 
+analytical expression for the solutions. One of them is known as LyapunovÅfs 
+second (or direct) method. More than 100 years ago, the world-famous 
+mathematician Lyapunov established this method to study stability problems. 
+Today, this method is widely recognized as an excellent tool not only in the 
+240 Cemil Tun?  
+study of differential equations but also in the theory of control systems, 
+dynamical systems, system with time lag, power system analysis, and so on. It 
+is worth mentioning that the expressions of Lyapunov functionals are very 
+complicated and hard to construct. The method is an interesting and fruitful 
+technique to determine the instability and the stability behaviors of solutions of 
+linear and non-linear differential equations. This technique has gained 
+increasing significance and has given impetus for modern development of 
+instability and stability theory of differential equations. An apparent advantage 
+of this method is that the instability and the stability in the large can be obtained 
+without any prior knowledge of solutions. That is, the method yields instability 
+and stability information directly, without solving the differential equation. The 
+chief characteristic of the method requires the construction of the scalar 
+function or functional for the equation under study. Unfortunately, it is 
+sometimes very difficult to find a proper Lyapunov function or functional for a 
+given differential equation. 
+However, from then on, the LyapunovÅfs direct method was also widely used 
+and is still being employed to study the instability of solutions of ordinary 
+differential equations and functional differential equations of fifth order, see e.g. 
+Tun? [1-10], Li and Duan [11], Ezeilo [12-14], Li and Yu [15], Sadek [16], Sun 
+and Hou [17], Tiryaki [18], Tun? and Erdogan [19], Tun? and Karta [20], and 
+Tun? and ?evli [21]  and the references therein. Besides, it is worth mentioning 
+that to the best of our knowledge, the instability of the solutions of certain 
+functional differential equations of the fifth order has been discussed in the 
+literature, recently (see  [1-7]).  
+In this case, it is worthwhile to continue the investigation of the instability of 
+the solutions of functional differential equations of fifth order.  
+It should be noted that the author in ([1,2,5,6]) considered the functional 
+differential equations of the fifth order 
+ 
+)())(),(),...,(),(()())(()( )4()4(1
+)5( txrtxtxrtxtxtxtxtx ??????????? ??
+ 
+ ,0))(())(( 11 ????? rtxftx?  
+ 
+)())(()())(),(),(),(),(()()( )4()4(1
+)5( txtxgtxtxtxtxtxtxktxatx ???????????????
+ 
+ ,0))(())(),(),(),(),((
+)4( ????????? rtxftxtxtxtxtxh  
+ 
+0))(()()()()()( 432
+)4(
+1
+)5( ????????????? rtxftxatxatxatxatx
+ 
+ 
+ Instability of Non-Linear Functional Diff. Eqs. of 5th Order  241 
+ 
+and 
+ )())(()()()( 2
+)4(
+1
+)5( txtxgtxatxatx ?????????  
+ ,0)))((()))(()),...,(()),(((
+)4( ???????? ttxfttxttxttxh ????  
+respectively. Then, the author obtained some sufficient conditions ensuring that 
+the zero solution of these equations is unstable by defining some appropriate 
+Lyapunov-Krasovskii functionals. 
+Besides, Li and Duan [11] considered the equation 
+ 
+)())(),(),(),(),(()()()( )4(34
+)4(
+5
+)5( txtxtxtxtxtxftxatxatx ??????????????
+ 
+            .0))(()())(),(),(),(),(( 1
+)4(
+2 ?????????? txftxtxtxtxtxtxf            (1) 
+By using the ?etaevÅfs instability theorem, they obtained sufficient conditions 
+for the zero solution of Eq. (1) to be unstable, see LaSalle and Lefschetz [22]. 
+In this paper, instead of Eq. (1), we consider fifth order nonlinear delay 
+differential equation 
+ 
+)()()( 4
+)4(
+5
+)5( txatxatx ?????
+ 
+ 
+)())(),(),(),(),(( )4(3 txrtxrtxrtxrtxrtxf ??????????????  
+ )())(),(),(),(),((
+)4(
+2 txrtxrtxrtxrtxrtxf ?????????????  
+ 
+.0))((1 ??? rtxf                                           (2) 
+  
+We write Eq. (2) as the system 
+ ),()( 21 txtx ??
+),()( 32 txtx ?? ),()( 43 txtx ?? ),()( 54 txtx ??
+ 
+ 
+)(5 tx?  = 
+)())(),...,(()()( 35134455 txrtxrtxftxatxa ?????
+ 
+ 
+)())(),...,(( 2512 txrtxrtxf ???
+ 
+ 
+?
+?
+???
+t
+rt
+dssxsxftxf ,)())(())(( 21111                                      (3) 
+242 Cemil Tun?  
+where ,5a  4a  and )0( ?r   are  constants, r  is fixed delay, the primes in Eq. 
+(2) denote differentiation with respect to  ,t );,0[ ???? ?t   ,1f 2f  
+and 3f   
+are continuous functions on ,? 5?  and ,
+5?  respectively, and with .0)0(1 ?f  
+The continuity of the functions ,1f 2f  
+and 3f   is a sufficient condition for the 
+existence of the solution of Eq. (2) (see [23, pp.14]). It is also assumed as basic 
+that the functions ,1f 2f  
+and 3f  satisfy a Lipschitz condition in their respective 
+arguments. Hence, the uniqueness of the solutions of Eq. (2) is guaranteed (see 
+[23, pp.15]). We also assume throughout what follows that 1f  is differentiable, 
+and )(),...,( 51 txtx   
+are abbreviated as ,,..., 51 xx   respectively.  
+It should also be noted that, in reality, many systems have the property of 
+aftereffect, i.e. the future states depend not only on the present, but also on the 
+past. Therefore, the investigation of the instability of the solutions of delay 
+differential equations of higher order is very considerable in the literature. The 
+purpose of this paper is to present a new result on the instability of the zero 
+solution of Eq. (2). Our method relies on the Lyapunov-Krasovskii functional 
+approach (see [24]). This method permits us to obtain a new result on Eq. (2) 
+under quite general assumptions on the nonlinearities. The obtained result 
+improves and enhances the result in Li and Duan [11, Theorem 5] for the case 
+without delay to the case with delay. Here, by defining an appropriate 
+Lyapunov-Krasovskii functional, we carry out our purpose. It should be noted 
+that the result to be established here is different from that in Tun? ([1], [2], [5], 
+[6]) and the literature. 
+It is worth mentioning that for some recent works on the qualitative behaviors 
+of solutions, we can also refer to Zhu and Shong [25] and Zhu, et al. [26]. 
+In the following theorems, we give a basic idea of the method about the 
+instability of solutions of ordinary and delay differential equations. The 
+following theorem is due to the Russian mathematician N.G. ?etaev (see 
+LaSalle and Lefschetz [22]). 
+Theorem A (Instability Theorem of ?etaev).  
+Let  ?  be a neighborhood of the origin. Let there be given a function )(xV  
+and region 1?  
+in  ?   
+with the following properties: 
+1. ( )V x  has continuous first partial derivatives in 1.?  
+2. ( )V x  and ( )V x?   are  positive in 
+1.?  
+ Instability of Non-Linear Functional Diff. Eqs. of 5th Order  243 
+ 
+3. At the boundary points of 
+1?  inside ,? ( ) 0.V x ?  
+4. The origin is a boundary point of 
+1.?  
+Under these conditions the origin is unstable. 
+Let 0?r  be given, and let )  ],0,([ nrCC ???  with  
+ 
+0
+max ( ) ,  .
+r s
+s C? ? ?
+? ? ?
+? ?  
+For  0?H  define CCH ?  by  
+ { : }.HC C H? ?? ? ?  
+If 
+nArx ??? ) ,[:  is continuous, ,0 ??? A  then, for each t  in ),,0[ A  tx  
+in C  is defined by  
+ ( ) ( ),tx s x t s? ? ,0??? sr  .0?t   
+Let G
+ 
+be an open subset of C  and consider the general autonomous delay 
+differential system with finite delay  
+ ( ),tx F x??  ( ),tx x t ?? ?  0,r ?? ? ?  ,0?t     
+where 
+nGF ??:  is  continuous and maps closed and bounded sets into 
+bounded sets and .0)0( ?F  It follows from the conditions on F  that each 
+initial value problem  
+ 
+),( txFx ??  Gx ???0   
+has a unique solution defined on some interval ),,0[ A .0 ??? A  This solution 
+will be denoted by )(.)(?x  so that  .)(0 ?? ?x    
+Definition.  The zero solution of )( txFx ??  is stable if for each 0??  there 
+exists 0)( ?? ???  such that ?? ?  implies that ?? ?))(( tx  for all    
+.0?t  The zero solution is said to be unstable if it is not stable. 
+2 Statement of Main Result 
+In this section, we will state our main result. The main result is the following 
+theorem. 
+244 Cemil Tun?  
+Theorem. Assume that there exist constants ),0( 1 ?a 4a  
+and ?  such that the 
+following conditions hold: 
+ 
+1(0) 0,f ?  1 1( ) 0,f x ?  1 ( 0),x ?  4 1,a ?? 111 )( axf ??  for all 1x  
+and
+ 
+2
+2 1 5 3 1 5( ( ),..., ( )) ( ( ),..., ( )) 0f x t r x t r f x t r x t r ?? ? ? ? ? ? ?  
+for all 
+1 5( ),..., ( ).x t r x t r? ?  
+If  
+ 1
+,r
+a
+?
+?
+ 
+then the zero solution of Eq. (2) is unstable. 
+Remark.  It is clear that Eq. (2) has the zero solution since .0)0(1 ?f  
+It should be noted that the proof of the main result is based on the instability 
+criteria of Krasovski? [24]. Because of these criteria, it is necessary to show here 
+that there exists a Lyapunov-Krasovskii functional ),...,( 51 tt xxVV ?  that has 
+Krasovskii properties, say ),( 1P )( 2P  and :)( 3P   
+)( 1P  In every neighborhood of ),0,0,0,0,0(  there exists a point ),...,( 51 ??  
+such that ,0),...,( 51 ???V  
+)( 2P  the time derivative ),...,( 51 tt xxV
+dt
+d
+ along solution paths of (3) is 
+positive semi-definite,  
+)( 3P  the only solution ))(),...,((),...,( 5151 txtxxx ?  of  (3) which satisfies 
+),0( ,0),...,( 51 ?? txxV
+dt
+d
+tt
+ is the trivial solution ).0,0,0,0,0(
+ 
+Proof. We define a Lyapunov-Krasovskii functional :),...,( 51 tt xxVV ?  
+ 
+ V = dssfxxaxaxxaxxxx
+x
+)(
+2
+1 1
+0
+1324
+2
+354254352 ???????
+  
+ Instability of Non-Linear Functional Diff. Eqs. of 5th Order  245 
+ 
+0
+2
+2 ( ) ,
+t
+r t s
+x d ds? ? ?
+? ?
+? ? ?
+                                                            
+(4) 
+where 
+45  ),0( aa ?  are constants,  s  is a real variable such that the integral  
+ 
+? ?
+? ?
+0
+2
+2 )( 
+r
+t
+st
+dsdx ??  is non-negative, and ?   is positive constant, which will be 
+determined later in the proof. 
+Hence, it is clear from the definition of V
+ 
+that  
+ 0)0,0,0,0,0( ?V  
+and  
+ 2 2
+5
+1
+(0,0, , ,0) 0
+2
+V a? ? ? ?? ? ?  
+for each arbitrary sufficiently small ?   so that every  neighborhood of the origin 
+in the 
+1 5( ,..., )x x ?  space contains the points ),...,( 51 ??  such that 
+1 5( ,..., ) 0.V ? ? ?   
+Let 
+ 
+))(),...,((),...,( 5151 txtxxx ?  
+be an arbitrary solution of (3). By elementary differentiation, the time derivative 
+of the Lyapunov functional  V  in (4) along the solutions of (3) yields  
+ 
+1 5( ,..., )t t
+d
+V x x
+dt
+2 2
+4 4 3 3 1 5 2 3( ( ),..., ( ))x a x f x t r x t r x x? ? ? ? ?  
+  
+2
+2512 ))(),...,(( xrtxrtxf ???  
+ 
+?
+?
+??
+t
+rt
+dssxsxfx )())(( 2112 .)(
+2
+2
+2
+2 ?
+?
+??
+t
+rt
+dssxrx ??
+ 
+Using the assumption 111 )( axf ??  of the theorem and the estimate 
+2 2,mn m n? ?  we get  
+246 Cemil Tun?  
+ 
+??? ?
+?
+t
+rt
+dssxsxftx )())(()( 2112 ?
+?
+??
+t
+rt
+dssxsxftx )( ))(()( 2112
+ 
+  
+?
+?
+????
+t
+rt
+dssxtxsxf ))( )(())((
+2
+1 2
+2
+2
+211
+  
+  
+?
+?
+???
+t
+rt
+dssxtx
+a
+))( )((
+2
+2
+2
+2
+2
+1
+  
+  
+?
+?
+???
+t
+rt
+dssxartxa .))( 
+2
+1
+)(
+2
+1 2
+21
+2
+21
+ 
+Hence, it follows that  
+),...,( 51 tt xxV
+dt
+d
+2
+2513
+32
+3
+2
+4 ))(),...,((
+24
+3
+?
+?
+?
+?
+?
+?
+?????? xrtxrtxf
+x
+xx
+ 
+  
+2
+21512 })
+2
+1
+()(),...,(({ xrartxrtxf ????? ?
+ 
+  2
+251
+2
+3 ))}(),...,(({ xrtxrtxf ???   
+  
+.)(
+2
+1 2
+21 ?
+?
+?
+?
+?
+?
+?
+?
+??
+t
+rt
+dssxa?  
+Let 1
+1
+.
+2
+a? ?  Using the assumptions of the theorem, we get  
+ 
+1 5( ,..., )t t
+d
+V x x
+dt
+? 2 2
+4 3
+3
+4
+x x?
+                          
+  
+2
+2512 ))(),...,(( xrtxrtxf ???   
+  2
+2151
+2
+3 }))(),...,(({ xrartxrtxf ????   
+  
+? 23
+2
+4
+4
+3
+xx ? .)( 221 xra?? ?  
+If   ,
+1a
+r
+?
+?   then we have for a positive constant k  that 
+ Instability of Non-Linear Functional Diff. Eqs. of 5th Order  247 
+ 
+ 
+1 5( ,..., )t t
+d
+V x x
+dt
+? 2 2 2
+4 3 2
+3
+0.
+4
+x x kx? ? ?  
+Then, the Lyapunov-Krasovskii functional V  satisfies the property ).( 2P  
+ 
+Besides, 0),...,( 51 ?tt xxV
+dt
+d
+ 
+if and only if   
+ 
+.05432 ???? xxxx  
+The substitution of the above estimate in (3) gives .0)( 11 ??f  This result 
+implies that 01 ??  by the assumption ,0)( 11 ?xf  ).0( 1 ?x  Hence, 0?V
+?  
+)0( ?t  so that  
+ 1 2 3 4 5 0,x x x x x? ? ? ? ? ).0( ?t  
+Thus, the functional 
+ V  has all the requisite Krasovskii [24] properties subject 
+to the conditions of the theorem, which now follows. By the above discussion, 
+we can conclude that the zero solution of Eq. (2) is unstable. The proof for the 
+theorem is complete. 
+3 Conclusion 
+A non-linear functional differential equation of fifth order with constant delay is 
+considered. Based on the Krasovskii properties, the instability of the zero 
+solution of this equation is discussed. In proving our result, we employ the 
+Lyapunov-Krasovskii functional approach by defining a new Lyapunov-
+Krasovskii functional. Our result improves some known results from the scalar 
+case to the vectorial case. 
+Acknowledgements 
+The author of this paper would like to expresses his sincere thanks to the 
+anonymous referees for their many helpful comments, corrections and 
+suggestions on the paper. 
+References 
+[1] Tun?, C., On The Instability of Solutions of Some Fifth Order Nonlinear 
+Delay Differential Equations, Appl. Math. Inf. Sci. (AMIS), 5(1), pp. 
+112-121, 2011. 
+[2] Tun?, C., An Instability Theorem for A Certain Fifth-Order Delay 
+Differential Equation, Filomat, 25(3), pp.145-151, 2011. 
+248 Cemil Tun?  
+[3] Tun?, C., Recent Advances on Instability of Solutions of Fourth and Fifth 
+Order Delay Differential Equations with Some Open Problems, World 
+Scientific Review, 9, World Scientific Series on Nonlinear Science Series 
+B (Book Series), pp.105-116, 2011. 
+[4] Tun?, C., On The Instability of Solutions of Nonlinear Delay Differential 
+Equations of Fourth and Fifth Order, Sains Malaysiana, 40(12), pp. 
+1455-1459, 2011.  
+[5] Tun?, C., Instability for Nonlinear Differential Equations of Fifth Order 
+Subject to Delay, Nonlinear Dyn. Syst. Theory, 12(2), pp. 207-214, 2012. 
+[6] Tun?, C., Instability of A Nonlinear Differential Equation of Fifth Order 
+With Variable Delay, Int. J. Comput. Math. Sci., 6, pp.73-75, 2012. 
+[7] Tun?, C., Instability of Solutions for Nonlinear Functional Differential 
+Equations of Fifth Order With N-Deviating Arguments, Buletinul 
+Academiei de Stiinte a Republicii Moldova, Matematica, 68(1), pp. 3-14, 
+2012. 
+[8] Tun?, C., On the Instability of Solutions of Certain Nonlinear Vector 
+Differential Equations of Fifth Order, Panamer. Math. J., 14(4), pp. 25-
+30, 2004. 
+[9] Tun?, C., An Instability Result for A Certain Non-Autonomous Vector 
+Differential Equation of Fifth Order, Panamer. Math. J., 15(3), pp. 51-58, 
+2005. 
+[10] Tun?, C., Further Results on The Instability of Solutions of Certain 
+Nonlinear Vector Differential Equations of Fifth Order, Appl. Math. Inf. 
+Sci., 2(1), pp. 51-60, 2008. 
+[11] Li, W.J., Duan, K.C., Instability Theorems for Some Nonlinear 
+Differential Systems of Fifth Order, J. Xinjiang Univ. Natur. Sci., 17(3), 
+pp. 1-5, 2000. 
+[12] Ezeilo, J.O.C., Instability Theorems for Certain Fifth-Order Differential 
+Equations, Math. Proc. Cambridge Philos. Soc., 84(2), pp. 343-350, 
+1978. 
+[13] Ezeilo, J.O.C., A Further Instability Theorem for A Certain Fifth-Order 
+Differential Equation, Math. Proc. Cambridge Philos. Soc., 86(3), pp. 
+491-493, 1979.  
+[14] Ezeilo, J.O.C., Extension of certain instability theorems for some fourth 
+and fifth order differential equations, Atti Accad. Naz. Lincei Rend. Cl. 
+Sci. Fis. Mat. Natur. (8), 66(4), pp. 239-242, 1979. 
+[15] Li, W.J., Yu, Y.H., Instability Theorems for Some Fourth-Order and 
+Fifth-Order Differential Equations, (Chinese) J. Xinjiang Univ. Natur. 
+Sci., 7(2), pp. 7-10, 1990.  
+[16] Sadek, A.I., Instability Results For Certain Systems Of Fourth And Fifth 
+Order Differential Equations, Appl. Math. Comput., 145, no. 2-3, pp. 
+541-549, 2003. 
+ Instability of Non-Linear Functional Diff. Eqs. of 5th Order  249 
+ 
+[17] Sun, W.J. & Hou, X., New Results About Instability of Some Fourth and 
+Fifth Order Nonlinear Systems, (Chinese) J. Xinjiang Univ. Natur. Sci., 
+16(4), pp. 14-17, 1999. 
+[18] Tiryaki, A., Extension of An Instability Theorem for A Certain Fifth 
+Order Differential Equation, National Mathematics Symposium  
+(Trabzon, 1987), J. Karadeniz Tech. Univ. Fac. Arts Sci. Ser. Math.-
+Phys., 11(1988), pp. 225-227, 1989. 
+[19] Tun?, C. & Erdogan, F., On The Instability of Solutions of Certain Non-
+Autonomous Vector Differential Equations of Fifth Order, SUT J. Math. 
+43(1), pp. 35-48, 2007. 
+[20] Tun?, C. & Karta, M., A New Instability Result to Nonlinear Vector 
+Differential Equations of Fifth Order, Discrete Dyn. Nat. Soc., 2008, Art. 
+ID 971534, 6 pp., 2008. 
+[21] Tun?, C. & ?evli, H., On The Instability of Solutions of Certain Fifth 
+Order Nonlinear Differential Equations, Mem. Differential Equations 
+Math. Phys., 35, pp. 147-156, 2005. 
+[22] LaSalle, J. & Lefschetz, S., Stability by Liapunov's direct method with 
+applications, Mathematics in Science and Engineering, 4, Academic 
+Press, New York-London, 1961. 
+[23] ?lÅfsgolÅfts, L.?., Introduction to The Theory of Differential Equations 
+with Deviating Arguments, Translated from the Russian by Robert J. 
+McLaughlin Holden-Day, Inc., San Francisco, Calif.-London-
+Amsterdam, 1966. 
+[24] Krasovskii, N.N., Stability of Motion. Applications of Lyapunov's Second 
+Method to Differential Systems and Equations with Delay, Translated by 
+J.L. Brenner Stanford University Press, Stanford, Calif. 1963.   
+[25] Zhu, Q. & Song, B., Exponential Stability of Impulsive Nonlinear 
+Stochastic Differential Equations with Mixed Delays, Nonlinear Anal. 
+Real World Appl., 12(5), pp. 2851-2860, 2011. 
+[26] Zhu, Q., Xi, F. & Li, X., Robust Exponential Stability of Stochastically 
+Nonlinear Jump Systems with Mixed Time Delays, J. Optim. Theory 
+Appl., 154(1), pp. 154-174, 2012. 
+ 
+ 

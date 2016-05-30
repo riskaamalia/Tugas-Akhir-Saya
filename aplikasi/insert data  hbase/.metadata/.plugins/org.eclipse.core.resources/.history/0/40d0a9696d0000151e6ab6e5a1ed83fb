@@ -1,0 +1,18 @@
+package restAPI;
+
+import java.io.IOException;
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.hbase.HBaseConfiguration;
+import org.apache.hadoop.hbase.client.HTable;
+import org.apache.hadoop.hbase.client.Put;
+import org.apache.hadoop.hbase.util.Bytes;
+
+//insert tabel pembobotan web di tabel URL yang di noSQL
+
+public class insertPembobotanWebdiTabelURL {
+
+}

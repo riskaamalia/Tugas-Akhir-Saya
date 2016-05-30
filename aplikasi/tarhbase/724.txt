@@ -1,0 +1,438 @@
+  
+ITB J. Sci., Vol. 44 A, No. 3, 2012, 285-295                                  285 
+ 
+Received October 20th, 2010, 1st Revision February 20th, 2012, 2nd Revision May 26th, 2012, 3rd Revision July 
+11th, 2012, Accepted for publication October 11th, 2012. 
+Copyright ? 2012 Published by LPPM ITB, ISSN: 1978-3043, DOI: 10.5614/itbj.sci.2012.44.3.8 
+Properties of Polymer Electrolyte Membranes Prepared by 
+Blending Sulfonated Polystyrene with Lignosulfonate 
+Siang Tandi Gonggo
+1*
+, Cynthia L. Radiman
+2
+, Bunbun Bundjali
+2 
+&                             
+I Made Arcana
+2*
+ 
+1
+Physical Chemistry Research Groups, Faculty of Teacher Training and Educational 
+Sciences, Tadulako University, Kampus Bumi Tadulako, Tondo, Jl. Sukarno Hatta Km 
+9 Tondo, Palu 94117, Indonesia,  
+E-mail: standigonggo@yahoo.com 
+2
+Inorganic and Physical Chemistry Research Groups, Faculty of Mathematics and 
+Natural Sciences, Institut Teknologi Bandung (ITB), Jalan Ganesha No. 10, Bandung 
+40132, Indonesia
+ 
+E-mail: arcana@chem.itb.ac.id 
+ 
+ 
+Abstract. A polymer electrolyte membrane widely used in PEMFCs and 
+DMFCs is a perfluorosulfonated membrane (the Nafion membrane). This 
+perfluorosulfonated membrane material exhibits good chemical stability and 
+proton conductivity, but it is very expensive and difficult to recycle. There is a 
+high methanol crossover in DMFCs that causes a decrease in efficiency and 
+performance of the fuel cell, so that a polymer electrolyte membrane with a low 
+methanol crossover is needed as a substitute for the Nafion membrane. One of 
+the materials that can be used as a polymer electrolyte membrane is the 
+polyblends from sulfonated polystyrene-lignosulfonate (SPS-LS). Such 
+polyblends were prepared by casting a polymer solution and characterized as 
+polyelectrolyte membrane for DMFCs. The SPS was prepared by sulfonation of 
+polystyrene with acetyl sulfate as the sulfonating agent. The membranes of the 
+SPS-LS were characterized by analysis of functional groups, mechanical 
+properties and methanol permeability. The maximum mechanical properties of 
+the SPS-LS membrane were observed at an LS ratio of 7.5%. However, the 
+methanol permeability of the membrane increased with the increase of the LS 
+ratio in the SPS-LS membranes. The properties of the membranes, especially 
+their mechanical properties and methanol permeability, were close to that of 
+Nafion? 117 membrane, so SPS-LS membranes have high potential for use as 
+polymer electrolyte membrane for direct methanol fuel cells. 
+Keywords: DMFC; lignosulfonate; polymer electrolyte membrane; polystyrene; 
+sulfonated. 
+1 Introduction 
+The need for energy increases with the growing population and improving 
+living conditions of mankind, especially in transport, industry and households. 
+The main source of energy is fossil fuels, which are non-renewable. Exploration 
+286 Siang Tandi Gonggo, et al. 
+of fossil fuels continuously causes the fossil-fuel reserves to diminish. The 
+fossil fuel crisis has begun to be felt in society. According to S.M. Javaid Zaidi 
+and Takeshi Matsuura [1], fossil-fuel production will peak in 2020 and 
+thereafter decrease. In addition, continuous use of fossil fuels can cause serious 
+environmental problems, such as global warming, climate change, melting of 
+ice caps, acid rain, pollution, ozone layer depletion, forest and agricultural land 
+damage, etc. [2]. Therefore, we need alternative energy sources that are 
+environmentally friendly and renewable. One such environmentally and 
+renewable energy source is the fuel cell.  
+One type of fuel cell with potential as an energy source is the direct methanol 
+fuel cell (DMFC), which uses methanol directly as a fuel. The DMFC, like any 
+other fuel cell, consists of an anode, a cathode and an electrolyte. The 
+electrolyte of the DMFC is a solid polymer membrane. The DMFC is very 
+interesting because it operates at low temperatures and because of its potential 
+use in automotive, stationary, portable power applications, etc [3].The most 
+important part of a DMFC is the polymer membrane as the electrolyte, which is 
+sandwiched between the electrodes (anode and cathode) to form the membrane 
+electrode assembly (MEA), because the performance of the fuel cell is largely 
+determined by the ability of the membrane to transfer protons. The ideal 
+electrolyte membrane for a DMFC has high proton conductivity, no conducting 
+electrons, good mechanical strength, thermal stability and chemical stability, no 
+methanol permeability, highwater uptake above 100?C, and low production 
+costs [1,4-6]. 
+An electrolyte membrane commonly used for DMFCs is Nafion, due to its high 
+proton conductivity, good thermal stability, chemical stability and mechanical 
+strength [7-13]. However, this membrane is still quite expensive [7,13], and its 
+conductivity decreases at higher temperatures and it shows high methanol 
+permeability, which limits its application in DMFCs due to the consequent 
+lowering of its efficiency. Therefore, polymer electrolyte membranes are 
+needed that have properties as mentioned above. To get the ideal membrane is 
+very difficult; if one of the criteria is met, a problem appears with another. This 
+has caused the development of electrolyte membrane materials for DMFCÅfs to 
+become the center of attention of researchers. In this paper, one of the new 
+materials for DMFC membranes is presented, which is synthesized by blending 
+sulfonated polystyrene (SPS) with lignosulfonate (LS) at various ratios. LS 
+consists of sulfonate groups and also contains carboxylic groups (?COOH) [14], 
+which may facilitate proton conductivity in the membrane. Polymer electrolyte 
+membranes were prepared by blending sulfonated polystyrene (SPS) with 
+lignosulfonate (LS) in various ratios by casting a polymer solution. Properties 
+of the membranes, such as the mechanical properties and methanol 
+permeability, were measured. 
+  
+ Polymer Electrolyte Membranes of SPS-LS 287 
+ 
+2 Materials and Methods 
+2.1 Materials 
+The materials used in this research,i.e. polystyrene (PS) (??     = 140.000 g/mol) 
+and lignosulfonate acid (??    = 7.000 g/mol), were obtained commercially from 
+Aldrich.  Sulfuric acid (95-97%), acetic anhydride (Synth, p.a.), 
+dichloromethane (DCM), 2-propanol, NaOH (Vetec), methanol, N,N-dimethyl 
+formamide (DMF), toluene, and n-butanol were commercially obtained from 
+Merck. 
+2.2 Methods 
+The sulfonation of the polystyrene (PS) was prepared by the following 
+procedure [15,16]. First, acetyl sulfate was freshly prepared for use as the 
+sulfonating reagent: 12 ml acetic anhydride was added to 24 ml 
+dichloromethane (DCM) in a three-neck tube under a nitrogen atmosphere. The 
+volume of the DCM was twice that of the acetic anhydride. The solution was 
+cooled at about 0?C, then 6 ml sulfuric acid (95-97%) in stoichiometric amount 
+to the desired degree of sulfonation in the polymer was added into solution 
+under a nitrogen atmosphere. The molar amount of acetic anhydride was added 
+in slight excess to the sulfuric acid, so that the latter was completely converted 
+to acetyl sulfate. Finally, the three-neck tube was capped, and the acetyl sulfate 
+resulted in DCM solution was ready to be used. The equipment that was used in 
+this synthesis is illustrated in Figure1. 
+21 g of atactic polystyrene (PS) was dissolved in 210 mL of DCM, which had 
+previously been purged with nitrogen in a flask. The solution was maintained 
+under nitrogen and then heated to 40?C. The total amount of the prepared acetyl 
+sulfate solution was added into the flask, and sulfonation was carried out for 80 
+minutes understirring. The reaction was stopped by adding 10 mL of 2-propanol 
+and the resulting solution was cooled at room temperature.  The sulfonated 
+polymer was then precipitated in 1 L of distilled water at a temperature of about 
+80?C. The polymer was filtered, washed for 2 h with distilled water at room 
+temperature, and then filtered again. Finally, the sulfonated polymer was dried 
+under vacuum at 60?C for two days. 
+2.3 Preparation of Membranes 
+A solution (1.5 g/20 mL) of the sulfonated polystyrene (SPS) in a toluene/n-
+butanol mixture (7/3 v/v) [15, 16] was poured into a petri dish and placed in a 
+vacuum oven at room temperature until the solvent had completely evaporated. 
+Then, the temperature was risen to 50?C and the membrane was vacuum-dried 
+further for one hour. Finally, the membrane was recovered as a sheet membrane 
+288 Siang Tandi Gonggo, et al. 
+from the petri dish and soaked in distilled water for 3 h, before being tested. The 
+membrane thickness was measured in the hydrated state by micrometer. For 
+preparing the sulfonated polystyrene-lignosulfonate, the SPS was dissolved into 
+a mixture of toluene/n-butanol (7/3 v/v), and the LS was dissolved in N,N-
+dimethyl formamide (DMF) with various concentrations. Both solutions were a 
+mixture of toluene/n-butanol to DMF of 4/1 (v/v), and the solutions were stirred 
+until homogeneous. The solutions were then cast onto a petri dish like the SPS 
+membranes mentioned above, and finally the membranes were kept in distilled 
+water. 
+ 
+Gas N2
+40 200
+0
+C RPM
+Water in
+Water out
+Magnetic Stirrer
+Hot plate
+Oil bath
+ 
+Figure 1 Equipment used for the synthesis of SPS. 
+2.4 Analysis of Functional Groups 
+The FTIR spectra of the SPS-LS membranes were characterized using a FTIR 
+spectrometer (Shimadzu IR PRESTIGE-21). The samples were prepared using 
+KBr pellets. The FTIR spectra of the SPS-LS powders were taken at wave 
+numbers in the range of 400 to 4500 cm
+-1
+. 
+  
+ Polymer Electrolyte Membranes of SPS-LS 289 
+ 
+2.5 Analysis of Mechanical Properties 
+The mechanical strength of the membranes was measured by an Instron testing 
+machine (Japan) with an operating head load of 50 N. The cross-sectional area 
+of the samples was calculated. The membranes were then placed between the 
+grips of the testing machine. The grip length was 4 cm, and the speed of testing 
+was set at a rate of 50 mm/min [17]. The Young modulus was calculated 
+according to Eq. (1) [16]. 
+ Young Modulus =
+Tensile  Strenght
+Strain
+                                         (1) 
+2.6 Analysis of Methanol Permeability 
+Methanol permeability measurement was carried out using a diffusion cell. 
+Initially, one compartment of the cell, B (VB = 100 mL), was filled with only 
+deionized water. The other compartment, A (VA = 100 mL), was filled with 5 M 
+methanol solution in deionized water. The membrane with a diffusion area of 
+1.77 cm
+2
+ was sandwiched by O-ring shaped Teflon and was clamped tightly 
+between the two compartments, as illustrated in Figure 2. 
+StirrerMethanol
+water
+Membrane
+ 
+Figure 2 Illustration of the diffusion cell. 
+This diffusion cell was kept stirring slowly during the experiment. The 
+concentration of methanol diffusing from compartment A to compartment B 
+290 Siang Tandi Gonggo, et al. 
+across the membrane was detected every time using Gas Chromatography (GC). 
+The methanol concentration in compartment B was calculated according to Eq. 
+(2): 
+ CB t =
+A
+VB
+ x 
+DK
+L
+ x CA t ? t0  (2) 
+Where CB and CA are the methanol concentrations in the permeated 
+compartment and the feed compartment, respectively. A, L and VB are the 
+effective area of the membrane, the thickness, and the volume of the permeated 
+compartment, respectively. D, K, and (t-t0) are the methanol diffusion, the 
+partition coefficient between the membrane and the adjacent solution, and the 
+time interval, respectively. The methanol permeability is defined as the product 
+of diffusion and solubility (DK), and the concentration change of CB with time 
+is obtained from a linear slope, using Eq. (3). 
+ Linear slope =  
+dCB  t 
+dt
+ =
+A
+VB
+ x 
+DK
+L
+ x CA  (3) 
+ Methanol permeability = DK =  
+dCB  t 
+dt
+  x 
+VB .L
+A.CA
+=
+CB  t .VB .L
+A.CA  t?t0 
+ 
+3 Results and Discussion 
+The preparation of the SPS-LS membranes with various concentrations of LS 
+(2.5, 5, 7.5, 10, and 12.5 % (w/w)) having been performed successfully, they 
+were called SPS-LS2.5, SPS-LS5, SPS-LS7.5, SPS-LS10, and SPS-LS12.5, 
+respectively. The polymer membranes were characterized extensively by 
+analysis of functional groups (FTIR), mechanical properties (Tensile tester), and 
+methanol permeability. 
+The FTIR spectra of the sulfonated polystyrene (SPS), the lignosulfonate (LS), 
+and the SPS-LS are presented in Figure 3. The spectra of the SPS show 
+absorption peaks at 1165-1180 and 1032 cm
+-1
+, indicating symmetric stretching 
+vibrations of the aromatic ?SO3H.The increased sharpness of the absorption 
+peak at 831 cm
+-1
+ shows the attachment of sulfonic acid groups at para position 
+[18,19]. The peak identified at 1363 cm
+-1
+ is due to the asymmetric stretching of 
+the S=O bond. The symmetric vibration of this bond produces the characteristic 
+peak split of absorbance at 1150-1185 cm
+-1
+ [16, 18]. Additionally, the 
+absorption peak at 3450 cm
+-1
+ is attributed to vibration of ?OH from the 
+?SO3H group. 
+The FTIR spectra of the SPS-LS membranes are shown in Figure 3. Compared 
+to the spectra of the SPS and the lignosulfonate (LS), the absorption peaks of 
+the SPS-LS membrane are a combination of the absorption peaks of the SPS 
+and the LS. The presence of absorption peaks at 3500 cm
+-1
+, 3100-2840 cm
+-1
+, 
+  
+ Polymer Electrolyte Membranes of SPS-LS 291 
+ 
+and 1700-1600 cm
+-1
+ indicates O-H stretching vibration, C=C group of a non-
+symmetric alkene in SPS and LS, and C=O stretching in LS molecular, 
+respectively. They refer to the phenolic hydroxyl groups and carbonyl groups of 
+the LS [20]. These FTIR absorption peaks reveal that the LS was incorporated 
+into the SPS.  
+ 
+Figure 3 FTIR spectra of (a) SPS, (b) LS and (c) SPS-LS7.5. 
+One of the most important evaluations for a proton exchange membrane (PEM) 
+is the analysis of its mechanical properties. In this work, the Young modulus of 
+the SPS and the SPS-LS membranes were performed on an Instron tensile tester 
+with a strain speed of 50 mm/min. Tensile strength and elongation at an elastic 
+state of all membranes were evaluated at room temperature in fully hydrated 
+states, of which the results are shown in Table 1. It can be seen that all 
+membranes exhibited high Young modulus ranging from 414.41 to 610.25 MPa. 
+Table 1 Mechanical properties of the SPS-LS membranes. 
+Membrane Stress (MPa) Strain (%) Young Modulus (MPa) 
+SPS 11.84 2.31 512.09 
+SPS-LS2.5 14.43 2.54 567.87 
+SPS-LS5 14.62 2.42 604.80 
+SPS-LS7.5 15.84 2.61 610.25 
+SPS-LS10 11.41 2.63 434.75 
+SPS-LS12.5 11.74 2.83 414.41 
+Addition of LS into the SPS membrane can increase the mechanical strength. 
+This is caused by the presence of high cross-linking of LS [20], which can 
+292 Siang Tandi Gonggo, et al. 
+improve the membraneÅfs mechanical strength. However, at a high weight ratio 
+of LS, the Young modulus for the membranes decreases. The excessive LS can 
+form a layer on the surface and disturb the membrane surface, especially 
+through the formation of larger pores. This result was reported in a previous 
+paper [21]. On the other hand, the elongation of the membrane increases with 
+increasing LS content in the membranes. 
+Besides proton conductivity, the methanol permeability is one of the most 
+important parameters for electrolyte membranes, particularly for the 
+development of DMFC technology. The methanol permeability or methanol 
+cross-over is a phenomenon of absorption of methanol as a fuel from the anode 
+chamber through the membrane into the cathode chamber. Methanol cross-over 
+in a DMFC can occur through diffusion and electro osmotic drag (EOD). 
+According to David P. Wilkinson, et al., 2010 [22], methanol cross-over is 
+strongly influenced by the structure, morphology, thickness, acid group 
+contents, temperature and concentration of the methanol used. Methanol 
+permeability is reduced by using a thicker membrane material or using an 
+equivalent weight of polymer membranes with a high. The ideal electrolyte 
+membrane for a DMFC has no methanol cross-over, but it can transport water to 
+the cathode to prevent drying of the cathode catalyst layer. Because of the 
+similar properties of water and methanol it is difficult to separate methanol 
+transport from water transport in the DMFC, which could be done to minimize 
+methanol permeability. Analysis of methanol cross-over of the SPS-LS has been 
+performed by a diffusion cell. Methanol cross-over analysis has been done on 
+the SPS-LS-LS2.5, SPS-LS7.5, and SPS-LS12.5. The results of the calculation 
+ranged from 2.06 x 10
+-6
+ to 2.15 x 10
+-6
+ cm/s. The methanol permeability profile 
+is shown in Figure 4. The methanol cross-over of Nafion? 117 with the same 
+treatment and measurement conditions is 2.08 x 10
+-6
+ cm/s. 
+Figure 4 shows that the methanol permeability increased as the LS ratio in the 
+membranes increased. An increase of LS content in the SPS-LS membrane can 
+increase the sulfonate (?SO3H) and carboxylic (?COOH) groups in the 
+membranes, so the hydrophilic property of the membranes also increases, as 
+shown in the FTIR spectra, and this property can increase the proton 
+conductivity and water uptake of the membranes [21], which supports methanol 
+to pass through the membrane. However, the methanol cross-over value of SPS-
+LS7.5 is similar to that of a Nafion? 117 membrane under the same 
+measurement conditions. Based on the physicochemical properties of the 
+membranes, especially the mechanical properties, methanol permeability and 
+also proton conductivity [21], being close to that of a Nafion? 117 membrane, 
+this membrane is potentially useful for DMFC application. 
+  
+ Polymer Electrolyte Membranes of SPS-LS 293 
+ 
+ 
+Figure 4 Methanol permeability of SPS-LS membranes. 
+4 Conclusion 
+A new type of electrolyte membrane material for DMFCs has been prepared by 
+blending SPS with LS through casting a polymer solution. The SPS-LS 
+membranes show maximum tensile strength and Young modulus at an LS ratio 
+of 7.5%. However, the presence of LS in the membranes can increase the 
+methanol cross-over of the membranes. The properties of the membrane, 
+especially the mechanical properties and methanol permeability, are close to 
+those of the Nafion
+?
+ 117 membrane, so this membrane is potentially useful for 
+DMFC application. 
+Acknowledgements 
+The financial support for this research was provided by the General Directorate 
+of Higher Education, Department of National Education, and the Ministry of 
+Research and Technology, Republic Indonesia through competitive research 
+grants. The authors gratefully acknowledge the support of the Institute for 
+Research, LPPM, Institut Teknologi Bandung and Tadulako University. 
+References 
+[1] Zaidi, S.M.J. & Matsuura, T., Polymer Membranes for Fuel Cells, New 
+York, Springer, 2009. 
+294 Siang Tandi Gonggo, et al. 
+[2] Vasquez, L.O., Fuel Cell Research Trends, New York, Nova Science 
+Publishers, Inc., 2007. 
+[3] Zhao, T.S., Kreuer, K.D.& Nguyen, T.V., New York, Advances in Fuel 
+Cell, Elsevier,2007. 
+[4] Sammes, N., Fuel Cell Technology, London, Springer Verlag, 2006. 
+[5] Larminie, J. & Dioks, A., Fuel Cell Systems Explained, New York, John 
+Wiley & Sons. Ltd, 2003. 
+[6] Zhao, T.S., Micro Fuel Cells Principles and Applications, London, 
+Academic Press, 2009. 
+[7] Chen, S.L., Bocarsly, A.B.& Benziger, J, 2005, Nafion-Layered 
+Sulfonated Polysulfone Fuel Cell Membranes, J. Power Sources, 152, 27-
+33.  
+[8] Dai, C.A., Liu, C.P., Lee, Y.H., Chang,C.J., Chao, C.Y.&Cheng, Y.Y., 
+Fabrication of Novel Proton Exchange Membranes for DMFC via UV 
+Curing, J. Power Sources,177, pp. 262-272, 2008.  
+[9] Lee, C.H., Park, C.H.& Lee, Y.M., Sulfonated Polyimide Membranes 
+Grafted with Sulfoalkylated Side Chains for Proton Exchange Membrane 
+Fuel Cell (PEMFC) Applications, J. Memb. Sci., 313, pp. 199-206, 2008. 
+[10] Chen, X., Yin, Y., Chen, P., Kita, H.& Okamoto, K.I., Synthesis and 
+Properties of Novel Sulfonated Polyimides Derived from Naphthalenic 
+Dianhydridefor Fuel Cell Application, J. Memb. Sci., 313, pp. 106-119, 
+2008.  
+[11] Heo, K.B., Lee, H.J., Kim, H.J., Kim, B.S., Lee, S.Y., Cho, E., Oh, I.H.,   
+Hong, S.A.& Lim, T.H., Synthesis and Characterization of Cross-Linked 
+Poly(Ether Sulfone) for A Fuel Cell Membrane, J. Power Sources, 
+172,pp. 215-219, 2007. 
+[12] Tiitu, M., Torkkeli, M., Serimaa, R., Makela, T. & I kkala, O.T., Self-
+Assembly and Flow Alignment of Protonically Conducting Complexes of 
+Polystyrene-Block-Poly(4-Vinylpyridine) Diblock Copolymer with 
+Phosphoric Acid, Solid State Ionic, 176, pp. 1291-1299, 2005. 
+[13] Shin, J.P., Chang, B.J., Kim, J.H., Lee, S.B.&Suh, D.H, Sulfonated 
+Polystyrene/PTFE Composite Membranes, J. Memb. Sci., 251, pp. 247-
+254, 2005. 
+[14] Zhang, X., Benavente, J. & Valls, R.G., Porous Lignosulfonate 
+Membranes for Direct Methanol Fuel Cells, J. Memb.  Sci., 276, pp. 301-
+307, 2006. 
+[15] Carretta, N., Tricoli, V. & Picchioni, F., Ionomeric Membranes Based on 
+Partially Sulfonated Poly(Styrene): Synthesis, Proton Conduction and 
+Methanol Permeation, J. Memb. Sci., 166,pp. 189-197, 2000. 
+[16] Smitha, B., Sridhar, S. & Khan, A.A., Synthesis and Characterization of 
+Proton Conduction Polymer Membranes for Fuel Cell, J. Memb. Sci., 
+225, pp. 63-76, 2003. 
+  
+ Polymer Electrolyte Membranes of SPS-LS 295 
+ 
+[17] Zhu, X., Liang,Y., Pan, H., Jian, X. &Zhang, Y.,Synthesis and Properties 
+of Novel H-Bonded Composite Membranes from Sulfonated 
+Poly(Phthalazinone Ether)S for PEMFC, J. Memb. Sci., 312, pp. 59-65, 
+2008. 
+[18] Guan, R., Zou, H., Lu, D., Gong, C. &Liu, Y., Polyethersulfone 
+Sulfonated by Chlorosulfonic Acid Andits Membrane Characteristics, 
+European Polymer Journal, 41, pp. 1554-1560, 2005. 
+[19] Martins, C.R., Ruggeri,G. &Paoli, M.A.D, Synthesis in Pilot Plant Scale 
+and Physical Properties of Sulfonated Polystyrene,J. Braz. Chem. Soc., 
+14, pp. 797-802, 2003. 
+[20] Zhang, X., Benavente, J. & Valls, R.G., Lignin-Based Membranes for 
+Electrolyte Transference, J. Powes Sources, 145, pp. 292-297, 2005. 
+[21] Gonggo, S.T., Arcana, I.M., Radiman, C.L. & Bundjali, B, Synthesis and 
+Characterization of Polyblends from Sulfonated Polystyrene-
+Lignosulfonate as Ionomer Membranes, International Journal of 
+Materials Science (IJoMS), 6, pp. 1-14, 2011. 
+[22] Wilkinson, Zhang, D.P.J., Hui, R., Fergus, J. & Li, X., Proton Exchange 
+Membrane Fuel Cell Material Properties and Performance, New York, 
+CRC Press, 2010. 
+ 

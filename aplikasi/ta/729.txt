@@ -1,0 +1,456 @@
+ 230 
+ 
+ITB J. Sci., Vol. 44 A, No. 3, 2012, 230-238 
+ 
+ 
+Received November 28
+th
+, 2011, Revised May 8
+th
+, 2012, Accepted for publication August 3
+rd
+, 2012. 
+Copyright ? 2012 Published by LPPM ITB, ISSN: 1978-3043, DOI: 10.5614/itbj.sci.2012.44.3.3 
+Magnetic States of the Co-ions in Ca and Y Doped 
+(Bi,Pb)2Sr2Co2O8 Thermoelectric Materials   
+Inge M. Sutjahja & A. Agung Nugroho
+ 
+ 
+Physics of Magnetism and Photonic Research Division  
+Faculty of Mathematics and Natural Sciences, Institut Teknologi Bandung 
+Jl. Ganesha No. 10, Bandung, Indonesia 40132 
+Email: inge@fi.itb.ac.id 
+ 
+ 
+Abstract. The magnetic states of Cobalt ions in magnetic thermoelectric 
+materials of Bi1.5Pb0.5Ca2-zYzCo2O8 (z = 0, 0.1, 0.2, and 0.3) have been studied 
+from the structural (X-ray diffraction) and magnetic susceptibility data. The 
+misfit structure was revealed from refinement of the XRD data, with reduction of 
+the lattice parameters while increasing the Y doping content. Compared with the 
+(Bi,Pb)2Sr2Co2O8 parent compound system, the lattice parameter c was reduced 
+significantly, while the misfit degree remained almost the same. The analysis of 
+the magnetic data shows that the Cobalt ions are coupled antiferromagnetically 
+within the CoO2 layers, with the existence of mixed valence states between Co
+3+ 
+and Co4+ ions. Besides that, the effective magnetic moments of Cobalt ions are 
+almost constant along the Y doping content. Assuming the orbital quenching as 
+commonly found in most transition metal ions, the data are best fitted by taking 
+the low-spin state of Co3+ ions and intermediate spin state of Co4+ ions. We argue 
+qualitatively, that the spin-state transition across the gap are induced by the 
+shrinkage of the charge transfer energy gaps between O 2p and Co ge  levels due 
+to reduction of the ionic spaces between Co and O ions. 
+Keywords: antiferromagnetic; mixed valence states; spin state; thermoelectric 
+materials.  
+1 Introduction 
+A large number of the transition metal oxides have been found to exhibit unique 
+behaviors such as the high temperature superconductivity discovered in Cu-
+based oxides, the colossal magnetoresistance observed in Mn-based oxides, and 
+the giant thermoelectric effect found in Co-based oxide compounds. These 
+unusual and highly promising functional properties have been widely 
+understood to have their origins in the intricate interplays among the spin, 
+orbital and charge degrees of freedom in the strongly correlated d-electron 
+system of the associated transition metal ions [1,2]. A rich variety of layered 
+structures is known in these compounds. The compounds generally show, upon 
+appropriate doping, the occurrence of multivalence of oxidation states 
+ Magnetic States of the Co-ions in Ca and Y Doped 231 
+ 
+associated with different electron configuration of the d-orbitals, which are 
+supposed to be largely responsible for the observed properties [3].  
+Following the discovery of a large thermoelectric power (100 ?V/K) at 300 K in 
+NaCo2O4 [4], the Bi2Sr2Co2Ox compound [5] as well as its Pb doped species 
+[6,7] have become the object of considerable research interest. These 
+compounds have been shown to offer potentially even larger thermoelectric 
+power ? ???2S  at about the same elevated temperature, due to the increased 
+Seebeck coefficient (S) and the decrease of electric resistivity (?) with 
+increasing temperatures [5-7]. The hole doping induced by the partial 
+substitution of the trivalent Bi
+3+
+ by the divalent Pb
+2+
+ is supposed to be related to 
+the further enhancement of the thermoelectric performance of the doped 
+compound. These compounds have also been found to feature a misfit-layer 
+structure and the Co
+3+?Co4+ mixed-valence states [8]. Subsequently, the thermal 
+conductivity (?) measurement of the Pb-doped compounds was performed, both 
+for the in-plane [9] and out-of-plane [10] directions, showing significantly 
+lower ? for the latter due to the strong phonon scattering by the lattice misfit. In 
+the mean time an X-ray absorption study of the (Bi,Pb)-Sr-Co-O compounds 
+further indicated the presence of Co
+3+?Co4+ mixed-valence states with 62gt  and 
+5
+2gt  low-spin configurations, respectively [11], in agreement with the very small 
+magnetic moment of about B?1.0  [12]. 
+In subsequent efforts to further explore new thermoelectric materials, both 
+(Bi,Pb)-Sr-Co-O and (Bi,Pb)-Ca-Co-O compounds with additional doping of 
+trivalent Y, and other trivalent elements (Sc,La), were reported to exhibit 
+favorable temperature dependent electric transport behaviors [13,14]. However, 
+no explicit information was offered on the spin state of Co
+3+
+ and Co
+4+
+. In this 
+experiment we focused on the Y-doped (Bi,Pb)-Ca-Co-O compound and the 
+analysis of the Co ions spin states on the basis of the magnetization data.  
+2 Experiment 
+The magnetic thermoelectric materials of Bi1.5Pb0.5Ca2-zYzCo2O8 (z = 0, 0.1, 0.2, 
+and 0.3) have been prepared from precursors of Bi2O3, PbO, SrCO3, CaCO3, 
+Y2O3 and Co3O4 by a conventional solid-state reaction method. The precursors 
+were pulverized by ball milling for several hours, followed by calcination in air 
+at a temperature of about 800 ÅãC for 10 hours. After being ground carefully and 
+mixed well, the powders were pressed into pellets and finally sintered in air at a 
+temperature of about 840 ÅãC for 12 hours. The XRD measurements were done 
+using standard CuK? radiation from a Philips machine. The magnetic 
+232 Inge M. Sutjahja & A. Agung Nugroho 
+susceptibility measurements were performed using PPMS in the ZFC mode 
+with an applied field of 1000 Oe in a temperature range between 5 and 300 K.   
+3 Results and Analysis 
+The results of the XRD measurement of the Bi1.5Pb0.5Ca2-zYzCo2O8 
+polycrystalline samples with z = 0, 0.1, 0.2 and 0.3 are shown in Figure 1. 
+Structural analysis or refinement of the XRD data was performed using the 
+Rietica 2007 program. Assuming the misfit structure like in the case of the 
+undoped Bi2Sr2Co2O8 parent compound [15], the data were fitted using a 
+monoclinic structure with space group C2/C and two-phase parameters for the 
+rocksalt and CoO2 sublattices. The results show that the misfit character of the 
+structure was revealed by the difference between the lattice parameters b1 and b2 
+that belong to the two sublattices. We found that with an increasing z value 
+some additional peaks occur that cannot be refined, which might be due to some 
+impurity phases.   
+10 20 30 40 50 60 70 80
+z = 0
+In
+te
+n
+s
+it
+y
+ (
+a
+.u
+)
+2 theta
+z = 0.1
+z = 0.2
+z = 0.3
+0
+0
+0
+0
+ 
+ 
+ 
+Figure 1 XRD patterns for Bi1.5Pb0.5Ca2-zYzCo2O8 (z = 0, 0.1, 0.2 and 0.3) 
+samples. The arrows indicate the additional peaks which might be due to some 
+impurities. 
+ Magnetic States of the Co-ions in Ca and Y Doped 233 
+ 
+Table 1 shows the evolution of lattice parameters a, b1, b2, c, and the ? angle 
+with respect to z. We note that except for the z = 0.3 samples, which contain 
+some impurity phases, the lattice parameters a, b1, b2, and c tend to decrease 
+with an increasing z value, in agreement with the smaller ionic radii of the Y
+3+
+ 
+ion compared to the Ca
+2+
+ ion. One can remark that the ? angle has increased 
+with increasing Y content, while the value of b2/b1 that measures the degree of 
+the misfit structure is approximately equal to 0.537.  
+Table 1 The variations of lattice constants with Y concentration (z). 
+z a (?) b1 (?) c (?) b2 (?) ? (deg) b2/b1 
+0 5.1267 5.217 29.498 2.8006 92.8186 0.537 
+0.1 5.1217 5.2161 29.4522 2.7975 92.8246 0.537 
+0.2 5.1202 5.2062 29.4310 2.7971 92.8703 0.537 
+0.3 5.1398 5.2436 29.5260 2.8024 92.829 0.534 
+The magnetic susceptibility versus temperature curves of the Bi1.5Pb0.5Ca2-
+zYzCo2O8 (z = 0, 0.1, 0.2, and 0.3) samples are presented in Figure 2(a). 
+Apparently no sign of magnetic transition is observed in the temperature range 
+down to about 5 K. We note that the nonmonotonous value of ? with Y doping 
+is clearly visible in this figure. The associated T??1?  curves are presented in 
+Figure 1(b). It is seen that the high temperature part (T > 200 K) of the data that 
+show straight lines, obeys the Curie-Weiss law   
+ 
+C
+T ?
+?
+?
+??1  (1)  
+where ? is the molar magnetic susceptibility, C the Curie constant, and ? the 
+Weiss temperature. Finally, the effective magnetic moment per Co ion, eff? , 
+can be obtained from the Curie constant, extracted from the T??1?  curve as 
+given by 
+ ? ? ? ? Beff CNkC ??
+2121
+83 ??  (2) 
+ 
+where k is BoltzmannÅfs constant (1.38 ? 10?16 erg/K), N is AvogadroÅfs number, 
+and B?  is Bohr magneton. 
+234 Inge M. Sutjahja & A. Agung Nugroho 
+0 50 100 150 200 250 300 350
+0
+100
+200
+300
+400
+500
+600
+700
+800
+ 
+ 
+ z = 0
+ z = 0.1
+ z = 0.2
+ z = 0.3?
+-1
+ (
+e
+m
+u
+/m
+o
+le
+)
+T(K)
+0 50 100 150 200 250 300
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+0.12
+0.14
+ 
+ 
+ z = 0
+ z = 0.1
+ z = 0.2
+ z = 0.3
+?
+ (
+e
+m
+u
+/m
+o
+le
+)
+T (K)
+ 
+Figure 2 (a) The molar susceptibility (?) versus temperature of Bi1.5Pb0.5Ca2-
+zYzCo2O8 (z = 0, 0.1, 0.2, and 0.3) samples. (b) The associated inverse molar 
+susceptibility (? ?1) versus temperature. The lines are the linear fit of the high-
+temperature part of the data.  
+From analysis of the data using Eqs.(1) and (2) we found that both the values of 
+C and eff?  vary nonmonoutonously with z. Indeed, the negative values of the 
+Weiss constant ? give the sign for the antiferromagnetic interaction of the Co 
+ions in the CoO2 plane. The plot of eff?  versus z, as depicted in Figure 3, shows 
+an almost constant value along the doping content. We note that this behavior is 
+somewhat different from that reported by Iguchi, et al. [13], performed on 
+ Magnetic States of the Co-ions in Ca and Y Doped 235 
+ 
+similar samples, although they didnÅft reported the exact value. Despite of this 
+fact, we note also that in general the resulted effective magnetic moment values 
+are smaller than the effective moment of the free ions, namely B?70,6  for Co
+3+
+ 
+ions and B?92,5  for Co
+4+
+ ions [16]. Based on this finding we argue the 
+importance of the crystal field effect in this system, as commonly found in 
+transition metal oxide compounds. Due to this effect, the 5-fold degenerate 3d 
+orbitals of the Co ions will split into gt2  and ge  orbitals with orbital energy 
+levels of gt2  lower than the ge  orbital, due to the fact that the Co ions are in the 
+octahedral electrostatic field of oxygen ions with symmetry hO . In addition, the 
+competition between the repulsive interaction energy of electrons U (HundÅfs 
+rule coupling) and the crystal field splitting ? ?qD10?? will determine the 
+population distribution of the 3d electrons in the gt2  and ge  orbitals. Hence, 
+three different spin-states are denoted, low-spin (LS), intermediate-spin (IS), 
+and high-spin (HS), according to the resulted total spin value (S). For instance, 
+Co
+3+
+ ions with a 
+63d  configuration can in principle exist in low-spin state (LS: 
+6
+2gt , S = 0), intermediate-spin state (IS: 
+15
+2 gget , S = 1), and high-spin state (HS: 
+24
+2 gget , S = 2). On the other hand, Co
+4+
+ ions in a 
+53d  configuration can also exist 
+in LS state ( 52gt , S = 1/2), IS state (
+14
+2 gget , S = 3/2), or HS state (
+23
+2 gget , S = 5/2). 
+0.0 0.1 0.2 0.3
+0
+1
+2
+3
+4
+5
+ 
+ 
+ experiment
+ fitting curve: 
+          Co
+3+
+(LS), Co
+4+
+(IS)
+?
+e
+ff
+ (
+?
+B
+)
+z
+ 
+Figure 3 The experimentally obtained effective magnetic moment eff?  that 
+shows an almost constant value along the Y doping content. 
+236 Inge M. Sutjahja & A. Agung Nugroho 
+ 
+Subsequently, we fitted the experimental data of the effective magnetic moment 
+with the theoretical values, assuming the different spin-state configurations of 
+the Co
+3+
+ and Co
+4+
+ ions. Hence the theoretical eff?  can be calculated according 
+to the formula [16] 
+ ? ?? ? Beff JJg ??
+21
+1??  (3) 
+where J is the total spin quantum number and g = 2 is the LandeÅfs g factor. 
+Assuming the orbital quenching as commonly found for most transition metal 
+ions, the total spin quantum number J is equal to the total spin S, according to 
+the formula [8,17] 
+ ? ? 43pins 2 zSSzSJ ????  (4) 
+where 3S  and 4S  represent the spin of the Co
+3+
+ and Co
+4+
+ ions, respectively. As 
+shown as a solid line in Figure 3, we found that the experimental result is best 
+fitted by assuming the LS spin state of the Co
+3+
+ ions and the IS spin state of the 
+Co
+4+
+ ions. 
+At this point, it is important to compare our results with those of the 
+(Bi,Pb)2Sr2Co2Oy parent compound system in order to investigate the doping 
+effect [18]. From a structural point of view, the effect of Ca and Y doping leads 
+to a significant reduction of lattice parameter c in the present system, due to the 
+smaller ionic radii of the Ca
+2+
+ ions compared to the Sr
+2+
+ ions, although the 
+misfit degree almost keeps the same value. The magnetic spin states of the Co
+3+
+ 
+and Co
+4+
+ ions in the parent compound system are both low-spin, as deduced 
+from the magnetic data [18] and X-ray absorption spectroscopy (XAS) 
+measurement results [11]. Based on the correlation study, we argue qualitatively 
+that in the Ca and Y doped (Bi,Pb)2Sr2Co2Oy thermoelectric materials the 
+decrease in lattice parameter c leads to a reduction of the ionic spaces between 
+the Co and O ions, and leads to a shrinkage of the charge transfer energy gaps 
+between the O 2p and Co ge  levels. This phenomenon can induce the spin-state 
+transition across the gap. We further note that additional measurements of XAS 
+and X-ray magnetic circular dichroism (XMCD) are important to clarify the 
+abovementioned analysis.  
+4 Conclusion 
+In this paper, the effects of Ca and Y doping on the (Bi,Pb)2Sr2Co2O8 parent 
+compound have been investigated from the analysis of the structural and 
+magnetization data. Besides the misfit structure, the shrinkage of the lattice is 
+ Magnetic States of the Co-ions in Ca and Y Doped 237 
+ 
+shown by the reduction of the lattice parameters along the doping. The effective 
+magnetic moment value of the Co-ions is almost constant toward the doping 
+content and they are much smaller than the free ion values. Further analysis on 
+the basis of the crystal field and the effect of quenching the orbital moment 
+shows that the Co-ions persist in mixed valence states and different spin states, 
+namely Co
+3+
+ in the low-spin state and Co
+4+
+ in the intermediate-spin state.  
+Acknowledgements 
+This work is supported by the Indonesia Toray Science Foundation (ITSF) 
+Research Grant 2008 and Riset and Inovasi ITB 2011 under contract No. 
+223/I.1.C01/PL/2011. The XRD data were taken in Japan. The magnetic 
+susceptibility measurements were performed in Cologne, Germany.  
+References 
+[1] Tokura, Y. & Nagaosa, N., Orbital Physics in Transition-Metal Oxides, 
+Science, 288, p. 462, 2000. 
+[2] Orenstein, J. & Millis, A.J., Advances in the Physics of High Temperature 
+Superconductivity, Science, 288, p. 468, 2000.  
+[3] Gerloch, M. & Constable, E.C., Transition Metal Chemistry, published 
+by VCH Verlagsgesellschaft, Weinheim (Germany) & VCH Publishers, 
+New York (USA), 1994. 
+[4] Terasaki, I., Sasago, Y. & Uchinokura, K., Large Thermoelectric Power 
+in NaCo2O4 Single Crystals, Phys. Rev. B, 56, pp. R12685-R12687, 
+1997.  
+[5] Funahashi, R. & Shikano, M., Bi2Sr2Co2Oy Whiskers with High 
+Thermoelectric Figure of Merit, Appl. Phys. Lett., 81, pp. 1459-1461, 
+2002. 
+[6] Itoh, T. & Terasaki, I., Thermoelectric Properties of Bi2.3-xPbxSr2.6Co2Oy 
+Single Crystals, Jpn. J. Appl. Phys., 39, pp. 6658-6660, 2000. 
+[7] Xu, G., Funahashi, R., Shikano, M., Matsubara, I. & Zhou, Y., 
+Thermoelectric Properties of Bi2.2?xPbxSr2Co2Oy System, J. Appl. Phys., 
+91, p. 4344, 2002. 
+[8] Yamamoto, T., Tsukada, I., Uchinokura, K., Takagi, M., Tsubone, T., 
+Ichihara, M. & Kobayashi, K., Structural Phase Transition and Metallic 
+Behavior in Misfit Layered (Bi,Pb)-Sr-Co-O System, Jpn. J. Appl. Phys., 
+39, pp. L747-750, 2000. 
+[9] Satake, A., Tanaka, H., Ohkawa, T., Fujii, T. & Terasaki, I., Thermal 
+Conductivity of the Thermoelectric Layered Cobalt Oxides Measured by 
+the Harman Method, J. Appl. Phys., 96, p. 931, 2004. 
+[10] Terasaki, I.,  Tanaka, H.,  Satake, A.,  Okada, S. &  Fujii, T., Out-Of-
+Plane Thermal Conductivity of the Layered Thermoelectric Oxide 
+Bi2?xPbxSr2Co2Oy, Phys. Rev. B, 70, p. 214106, 2004. 
+238 Inge M. Sutjahja & A. Agung Nugroho 
+[11] Mizokawa, T., Tjeng, L.H., Steeneken, P.G., Brookes, N.B., Tsukada, I., 
+Yamamoto, T. & Uchinokura, K., Photoemission And X-Ray-Absorption 
+Study of Misfit-Layered (Bi,Pb)-Sr-Co-O Compounds: Electronic 
+Structure of A Hole-Doped Co-O Triangular Lattice, Phys. Rev. B, 64, 
+pp. 115104-1 ? 115104-7, 2001. 
+[12] Tsukada, I.,  Yamamoto, T.,  Takagi, M.,  Tsubone, T.,  Konno, S. &  
+Uchinokura, K., Ferromagnetism and Large Negative Magnetoresistance 
+in Pb Doped Bi?Sr?Co?O Misfit-Layer Compound, J. Phys. Soc. Japan, 
+70, p. 834, 2001. 
+[13] Iguchi, E., Katoh, S., Nakatsugawa, H. & Munakata, F., Thermoelectric 
+Properties (Resistivity and Thermopower) in (Bi1.5Pb0.5Ca2-xMxCo2O8-? (M 
+= Sc
+3+
+, Y
+3+
+, or La
+3+
+), J. of Solid State Chemistry, 167, pp. 472-479, 2002. 
+[14] Iguchi, E., Itoga, T., Nakatsugawa, H., Munakata, F. & Furuya, K., 
+Thermoelectric Properties in Bi2-xPbxSr3-yYyCo2O9-?, J. Phys. D: Appl. 
+Phys., 34, pp. 1017-1024, 2001.  
+[15] Leligny, H., Grebille, D., Perez, O., Masset, A.C., Hervieu, M. & Raveau, 
+B., A Five-Dimensional Structural Investigation of The Misfit Layer 
+Compound [Bi0.87SrO2]2[CoO2]1.82, Acta Crystallographica Section B, 
+B56, pp. 173-182, 1999. 
+[16] Craik, Derek, Magnetism (Principles and Applications), John Wiley & 
+Sons, 1995. 
+[17] Xu, X., Jiang, L., Shen, J., Chen, Z., Xu, Z., Relationship between spin 
+state of Co ions and thermopower in La1-xSrxCoO3(0?x?0.5), Phys. Lett. 
+A, 351, pp. 431-434, 2006. 
+[18] Sutjahja, I.M., The Change in Physical Properties of Bi2Sr2Co2O8 
+Thermoelectric Materials Induced by Pb and Rare-Earth Dopings, 
+Indonesian Journal of Physics, 22(3), p. 97-102, 2011. 
+ 
+ 
+ 
+ 

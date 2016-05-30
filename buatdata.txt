@@ -1,0 +1,51 @@
+alter 't1', {NAME => 'f1', METHOD => 'delete'}
+1.) Buat tabel url dan column family nya
+
+create 'url','url_info','pdf','halaman_web','url_pembobotan_web','url_pembobotan_pdf'
+
+put ‘url’,’1’,'url_info:url',’www.wikipedia.com/algorithm’
+put ‘url’,’1’,'url_info:domain',’www.wikipedia.com’
+put ‘url’,’1’,'url_info:status_kunjungan',’0’
+put ‘url’,’1’,'url_info:last_maintenance',’05-05-2015’
+put ‘url’,’1’,'url_info:status_ekstraksi',’0’
+
+put ‘url’,’1’,'pdf:abstraksi',’ini isi abstrak’
+
+=============================================================
+put ‘url’,’0’,'url_pembobotan_web:id_term => frekuensi',’1’
+put ‘url’,’0’,'url_pembobotan_web:id_term => bobot',’1.82009’
+
+put ‘url’,’1’,'url_pembobotan_pdf:id_term => frekuensi',’0’
+put ‘url’,’1’,'url_pembobotan_pdf:id_term => bobot',’0’
+=============================================================
+
+2.) Buat Tabel term
+
+create 'term','term_info','term_pembobotan_web','term_pembobotan_pdf'
+
+put ‘term’,’1’,'term_info:term',’wiki’
+put ‘term’,’1’,'term_info:previx_term',’pedia’
+
+===================================================================
+put ‘term’,’1’,'term_pembobotan_web:id_term => frekuensi',’0’
+put ‘term’,’1’,'term_pembobotan_web:id_term => bobot',’0’
+
+put ‘term’,’1’,'term_pembobotan_pdf:id_term => frekuensi',’0’
+put ‘term’,’1’,'term_pembobotan_pdf:id_term => bobot',’0’
+===================================================================
+
+3.) Buat tabel lsa_halaman_web
+
+create 'lsa_halaman_web','lsa_halaman_web_info'
+
+put ‘lsa_halaman_web’,’1’,'lsa_halaman_web_info:url2',’www.wikipedia.com/algo’
+put ‘lsa_halaman_web’,’1’,'lsa_halaman_web_info:value',’value’
+
+
+4.) Buat tabel lsa_halaman_pdf
+
+create 'lsa_halaman_pdf','lsa_halaman_pdf_info'
+
+
+put ‘lsa_halaman_pdf’,’1’,'lsa_halaman_pdf_info:url2',’www.wikipedia.com/algo’
+put ‘lsa_halaman_pdf’,’1’,'lsa_halaman_pdf_info:value',’value’
